@@ -1,0 +1,196 @@
+{
+  "tenantId": "kl",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 6,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.cochin",
+          "name": "Cochin Corporation"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.cochin",
+          "name": "Cochin Corporation"
+        }
+      ]
+    },
+    {
+      "module": "CASE_MANAGEMENT",
+      "code": "CASE_MANAGEMENT",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.cochin",
+          "name": "Cochin Corporation"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    },
+    {
+      "module": "Reports",
+      "code": "Reports",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        }
+      ]
+    }
+  ]
+}

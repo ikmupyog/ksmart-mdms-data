@@ -1,0 +1,10 @@
+{
+    "tenantId": "kl.cochin",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "kl.cochin",
+        "reminderInterval": 12345
+      }
+    ]
+  }
