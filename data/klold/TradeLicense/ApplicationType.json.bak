@@ -1,8 +1,7 @@
 {
     "tenantId": "kl",
     "moduleName": "TradeLicense",
-    "ApplicationType": [
-        {
+    "ApplicationType": [{
             "code": "APPLICATIONTYPE.NEW",
             "active": true
         },
