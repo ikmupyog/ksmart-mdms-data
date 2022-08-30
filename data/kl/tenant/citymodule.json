@@ -28,30 +28,6 @@
       ]
     },
     {
-      "module": "PT",
-      "code": "PT",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": false,
-      "order":1,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
@@ -116,79 +92,8 @@
       ]
     },
     {
-      "module": "FIRENOC",
-      "code": "FIRENOC",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
       "module": "UC",
       "code": "UC",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
-      "module": "BPAREG",
-      "code": "BPAREG",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
-      "module": "BPAAPPLY",
-      "code": "BPAAPPLY",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": false,
       "order":2,
       "tenants": [
@@ -221,53 +126,6 @@
       ]
     },
     {
-      "module": "OBPS",
-      "code": "OBPS",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
-      "module": "FSM",
-      "code": "FSM",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
       "module": "Payment",
       "code": "Payment",
       "active": true,
@@ -295,29 +153,6 @@
       "code": "Receipts",
       "active": true,
       "order":3,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
-      "module": "NOC",
-      "code": "NOC",
-      "active": false,
-      "order":2,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -410,29 +245,6 @@
       "code": "HRMS",
       "active": true,
       "order":2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
-      "module": "CommonPT",
-      "code": "CommonPT",
-      "active": false,
-      "order":3,
       "tenants": [
         {
           "code": "kl.cochin"
