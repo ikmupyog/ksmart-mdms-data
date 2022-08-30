@@ -1,7 +1,35 @@
-{"tenantId": "kl.cochin","moduleName": "egov-location","TenantBoundary": [{"hierarchyType":{
+{
+ "tenantId": "kl.cochin",
+ "moduleName": "egov-location",
+ "TenantBoundary":
+ [
+     {
+     "hierarchyType":
+     {
     "code": "REVENUE",
     "name": "REVENUE"
-},"boundary":{"id":"04446020-7340-4586-a1b7-16f9e54a72e2","boundaryNum":1,"name":"Cochin","localname":"കൊച്ചി കോര്‍പ്പറേഷന്‍","longitude":null,"latitude": null,"label":"Corporation","code":"kl.cochin","children": [{"id":"05961b21-075c-42ab-8c69-10d859d119b8","boundaryNum":1,"name":"Main Office","localname": "മുഖ്യ ഓഫീസ് ","longitude":null,"latitude": null,"label":"Zone","code": "MAIN_OFFICE","children": [{
+},
+     "boundary":
+   {
+    "id":"04446020-7340-4586-a1b7-16f9e54a72e2",
+    "boundaryNum":1,
+    "name":"Cochin",
+    "localname":"കൊച്ചി കോര്‍പ്പറേഷന്‍",
+    "longitude":null,
+    "latitude": null,
+    "label":"Corporation",
+    "code":"kl.cochin",
+ "children": [{
+    "id":"05961b21-075c-42ab-8c69-10d859d119b8",
+     "boundaryNum":1,
+     "name":"Main Office",
+     "localname": "മുഖ്യ ഓഫീസ് ",
+     "longitude":null,
+     "latitude": null,
+     "label":"Zone",
+     "code": "MAIN_OFFICE",
+  "children": [
+      {
     "id": "6ed7ab7a-5db8-49c1-84ec-97aad6244a90",
     "boundaryNum": 1,
     "name": "PANAMPILLI NAGAR",
