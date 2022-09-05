@@ -1,4 +1,9 @@
-{"tenantId": "kl","moduleName": "TradeLicense","EnterpriseType": [{
+{
+    "tenantId": "kl",
+    "moduleName": "TradeLicense",
+    "EnterpriseType": 
+    [
+     {
     "sectorName": "Manufacturing sector",
     "code": "MANUFACTORING.MICRO",
     "typeName": "Micro enterprise",
