@@ -721,6 +721,14 @@
       "masterName": "TradeRenewal",
       "isStateLevel": true
     },
+    "TradeLicense": {
+    "enterpriseType": {
+      "masterName": "enterpriseType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "documentObj": {
       "masterName": "documentObj",
       "isStateLevel": true,
