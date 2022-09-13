@@ -728,6 +728,13 @@
         "$.code"
       ]
     },
+    "TradeReg": {
+      "masterName": "TradeReg",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "documentObj": {
       "masterName": "documentObj",
       "isStateLevel": true,
