@@ -1,7 +1,37 @@
-{"tenantId": "kl.kollam corporation","moduleName": "egov-location","TenantBoundary": [{"hierarchyType":{
+{
+    "tenantId": "kl.kollam",
+    "moduleName": "egov-location",
+    "TenantBoundary": 
+    [
+    {
+    "hierarchyType":
+       {
     "code": "REVENUE",
     "name": "REVENUE"
-},"boundary":{"id":"5ff06220-46c8-4787-aea0-3cf2c7713d0c","boundaryNum":1,"name":"Kollam Corporation","localname":"കൊല്ലം കോര്‍പ്പറേഷന്‍","longitude":null,"latitude": null,"label":"Corporation","code":"kl.kollam corporation","children": [{"id":"4e1b0e36-e533-41f9-ad2e-4dd48f831b63","boundaryNum":1,"name":"Main Office","localname": "മുഖ്യ ഓഫീസ് ","longitude":null,"latitude": null,"label":"Zone","code": "MAIN_OFFICE","children": [{
+},
+     "boundary":{
+     "id":"5ff06220-46c8-4787-aea0-3cf2c7713d0c",
+     "boundaryNum":1,
+     "name":"Kollam Corporation",
+     "localname":"കൊല്ലം കോര്‍പ്പറേഷന്‍",
+     "longitude":null,
+     "latitude": null,
+     "label":"Corporation",
+     "code":"kl.kollam corporation",
+     "children": 
+      [
+      {
+     "id":"4e1b0e36-e533-41f9-ad2e-4dd48f831b63",
+     "boundaryNum":1,
+     "name":"Main Office",
+     "localname": "മുഖ്യ ഓഫീസ് ",
+     "longitude":null,
+     "latitude": null,
+     "label":"Zone",
+     "code": "MAIN_OFFICE",
+     "children":
+          [
+          {
     "id": "8ec58bac-726a-4df1-b17a-8e98b2dd3bcb",
     "boundaryNum": 1,
     "name": "Kureepuzha West",
