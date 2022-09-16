@@ -1,7 +1,34 @@
-{"tenantId": "kl.kannur corporation","moduleName": "egov-location","TenantBoundary": [{"hierarchyType":{
+{
+    "tenantId": "kl.kannur corporation",
+    "moduleName": "egov-location",
+    "TenantBoundary": 
+    [{
+     "hierarchyType":
+     {
     "code": "REVENUE",
     "name": "REVENUE"
-},"boundary":{"id":"884b5939-42c1-4573-94a3-2929cc9066c7","boundaryNum":1,"name":"Kannur Corporation","localname":"കണ്ണൂര്‍ കോര്‍പ്പറേഷന്‍","longitude":null,"latitude": null,"label":"Corporation","code":"kl.kannur corporation","children": [{"id":"e6f4bba4-ccfd-444b-bb5b-a2ed5724e77f","boundaryNum":1,"name":"Main Office","localname": "മുഖ്യ ഓഫീസ് ","longitude":null,"latitude": null,"label":"Zone","code": "MAIN_OFFICE","children": [{
+},
+    "boundary":
+     {
+    "id":"884b5939-42c1-4573-94a3-2929cc9066c7",
+    "boundaryNum":1,
+    "name":"Kannur Corporation",
+    "localname":"കണ്ണൂര്‍ കോര്‍പ്പറേഷന്‍",
+    "longitude":null,
+    "latitude": null,
+    "label":"Corporation",
+    "code":"kl.kannur corporation",
+    "children": 
+     [{
+    "id":"e6f4bba4-ccfd-444b-bb5b-a2ed5724e77f",
+     "boundaryNum":1,
+     "name":"Main Office",
+     "localname": "മുഖ്യ ഓഫീസ് ",
+     "longitude":null,
+     "latitude": null,
+     "label":"Zone",
+     "code": "MAIN_OFFICE",
+         "children": [{
     "id": "9098931b-61e6-4cf2-bd78-9170d0370aa9",
     "boundaryNum": 1,
     "name": "PADANNA",
