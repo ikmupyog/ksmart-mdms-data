@@ -735,6 +735,13 @@
         "$.code"
       ]
     },
+     "TradeStructureSubtype": {
+      "masterName": "TradeStructureSubtype",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+     },
     "documentObj": {
       "masterName": "documentObj",
       "isStateLevel": true,
