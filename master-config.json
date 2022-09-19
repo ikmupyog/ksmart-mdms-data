@@ -734,6 +734,7 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
       "TradeStructureSubtype": {
       "masterName": "TradeStructureSubtype",
       "isStateLevel": true,
