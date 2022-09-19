@@ -1,0 +1,84 @@
+{"tenantId": "kl",
+"moduleName": "TradeLicense",
+"TradeReg": [{
+    "name": "Vacant Private Land",
+    "code": "LAND.PRIVATE_LAND",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "BlockNo": "Active",
+    "SurveyNo": "Active",
+    "SubDivisionNo": "Active"
+},{
+    "name": "Designated Public Places",
+    "code": "LAND.PUBLIC_PLACE",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "BlockNo": "Active",
+    "SurveyNo": "Active",
+    "SubDivisionNo": "Active"
+},{
+    "name": "Permanent Building/Construction in Private Land",
+    "code": "BUILDING.PERM_PVT_BUILD",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "BuildingNo": "Active"
+},{
+    "name": "Temporary Building/Construction in Private Land",
+    "code": "BUILDING.TEMP_PVT_BUILD",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "BuildingNo": "Active"
+},{
+    "name": "Approved Temporary Construction in Public Land/Places",
+    "code": "BUILDING.TEMP_PUB_BUILD",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "BuildingNo": "Active"
+},{
+    "name": "Approved Permanent Construction in Public Land/Places",
+    "code": "BUILDING.PER_PUB_BUILD",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "BuildingNo": "Active"
+},{
+    "name": "Hand Driven Vehicle",
+    "code": "VEHICLE.HAND_VEHICLE",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "VehicleNo": "Active"
+},{
+    "name": "Motor Driven Vehcile",
+    "code": "VEHICLE.MOTOR_VEHICLE",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "VehicleNo": "Active"
+},{
+    "name": "Water Vessel",
+    "code": "WATER.WATER_VESSEL",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "Other": "Active"
+},{
+    "name": "Designated Platform in Water body",
+    "code": "WATER.WATER_PLATFORM",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "Other": "Active"
+},{
+    "name": "Designated Platform in Water body",
+    "code": "WATER.WATER_PLATFORM",
+    "active": "true",
+    "type": "TL",
+    "validityPeriod": null,
+    "Other": "Active"
+}]}
