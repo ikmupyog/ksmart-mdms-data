@@ -1,0 +1,67 @@
+{"tenantId": "kl","moduleName": "TradeLicense","EnterpriseType": [{
+    "sectorName": "Manufacturing sector",
+    "code": "MANUFACTORING.MICRO",
+    "typeName": "Micro enterprise",
+    "investmentFrom": 0,
+    "investmentTo": 2500000
+},{
+    "sectorName": "Manufacturing sector",
+    "code": "MANUFACTORING.MINI",
+    "typeName": "Mini enterprise",
+    "investmentFrom": 2500001,
+    "investmentTo": 10000000
+},{
+    "sectorName": "Manufacturing sector",
+    "code": "MANUFACTORING.SMALL",
+    "typeName": "Small enterprise",
+    "investmentFrom": 10000001,
+    "investmentTo": 50000000
+},{
+    "sectorName": "Manufacturing sector",
+    "code": "MANUFACTORING.MEDIUM",
+    "typeName": "Medium enterprise",
+    "investmentFrom": 50000001,
+    "investmentTo": 100000000
+},{
+    "sectorName": "Manufacturing sector",
+    "code": "MANUFACTORING.LARGE",
+    "typeName": "Large enterprise",
+    "investmentFrom": 100000001,
+    "investmentTo": 100000000
+},{
+    "sectorName": "Service sector",
+    "code": "SERVICE.MICRO",
+    "typeName": "Micro enterprise",
+    "investmentFrom": 0,
+    "investmentTo": 1000000
+},{
+    "sectorName": "Service sector",
+    "code": "SERVICE.MINI",
+    "typeName": "Mini enterprise",
+    "investmentFrom": 1000001,
+    "investmentTo": 2500000
+},{
+    "sectorName": "Service sector",
+    "code": "SERVICE.SMALL",
+    "typeName": "Small enterprise",
+    "investmentFrom": 2500001,
+    "investmentTo": 20000000
+},{
+    "sectorName": "Service sector",
+    "code": "SERVICE.MEDIUM",
+    "typeName": "Medium enterprise",
+    "investmentFrom": 20000001,
+    "investmentTo": 50000000
+},{
+    "sectorName": "Service sector",
+    "code": "SERVICE.LARGE",
+    "typeName": "Large enterprise",
+    "investmentFrom": 50000001,
+    "investmentTo": 100000000
+},{
+    "sectorName": "Service sector",
+    "code": "SERVICE.LARGE",
+    "typeName": "Large enterprise",
+    "investmentFrom": 50000001,
+    "investmentTo": 100000000
+}]}
