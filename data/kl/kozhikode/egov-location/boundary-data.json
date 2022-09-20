@@ -1,0 +1,3935 @@
+{
+  "tenantId": "kl.kozhikode",
+  "moduleName":"egov-location",
+  "TenantBoundary":
+  [{
+    "hierarchyType":
+    {
+    "code": "REVENUE",
+    "name": "REVENUE"
+},
+    "boundary":{
+    "id":"3759bea8-c70a-4802-8ee7-b1fd2222fc1e",
+    "boundaryNum":1,
+    "name":"Kozhikode Corporation",
+    "localname":"കോഴിക്കോട് കോര്‍പ്പറേഷന്‍",
+     "longitude":null,
+     "latitude": null,
+     "label":"Corporation",
+     "code":"kl.kozhikode corporation",
+     "children":
+      [{
+    "id":"5d6da3d0-ea4e-421d-ba8a-9d1c20b0caba",
+     "boundaryNum":1,
+     "name":"Main Office",
+      "localname": "മുഖ്യ ഓഫീസ് ",
+      "longitude":null,
+      "latitude": null,
+      "label":"Zone",
+      "code": "MAIN_OFFICE",
+      "children":
+        [
+         {
+    "id": "47d3542d-e7d4-4e38-9f78-0d28e3beeeec",
+    "boundaryNum": 1,
+    "name": "KUNDUPARAMB",
+    "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d42\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "6",
+    "children": [
+        {
+            "id": "7919d565-545b-4d85-a644-603783753ee8",
+            "boundaryNum": 1,
+            "name": "KUNDUPARAMB",
+            "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d42\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "6",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "8670ba55-ba8b-48a5-94ed-31bdcede9e64",
+    "boundaryNum": 2,
+    "name": "KARUVISSERI",
+    "localname": "\u0d15\u0d30\u0d41\u0d35\u0d3f\u0d36\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "7",
+    "children": [
+        {
+            "id": "05adea46-3aef-4287-90d2-e7ac2f392087",
+            "boundaryNum": 2,
+            "name": "KARUVISSERI",
+            "localname": "\u0d15\u0d30\u0d41\u0d35\u0d3f\u0d36\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "7",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "43a6cf05-c4ca-49b7-9b35-e326fa6e9f05",
+    "boundaryNum": 3,
+    "name": "MALAPPARAMB",
+    "localname": "\u0d2e\u0d32\u0d3e\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "8",
+    "children": [
+        {
+            "id": "223f54f5-d693-45d6-b6e3-2f46d6a99f8d",
+            "boundaryNum": 3,
+            "name": "MALAPPARAMB",
+            "localname": "\u0d2e\u0d32\u0d3e\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "8",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "dd42af28-a6e0-4ad4-949d-7555e231ba7a",
+    "boundaryNum": 4,
+    "name": "THADAMBATTUTHAZHAM",
+    "localname": "\u0d24\u0d1f\u0d2e\u0d4d\u0d2a\u0d3e\u0d1f\u0d4d\u0d1f\u0d41\u0d24\u0d3e\u0d34\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "9",
+    "children": [
+        {
+            "id": "dfc911ed-decc-49df-8bb8-35be60b172c0",
+            "boundaryNum": 4,
+            "name": "THADAMBATTUTHAZHAM",
+            "localname": "\u0d24\u0d1f\u0d2e\u0d4d\u0d2a\u0d3e\u0d1f\u0d4d\u0d1f\u0d41\u0d24\u0d3e\u0d34\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "9",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "756bc030-e3ec-431a-87a5-0b107b3f5a51",
+    "boundaryNum": 5,
+    "name": "VENGERI",
+    "localname": "\u0d35\u0d47\u0d19\u0d4d\u0d19\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "10",
+    "children": [
+        {
+            "id": "c88922fc-f909-48d2-980d-9e734f4d5a70",
+            "boundaryNum": 5,
+            "name": "VENGERI",
+            "localname": "\u0d35\u0d47\u0d19\u0d4d\u0d19\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "10",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "0a5e3062-f1ec-45f5-99c5-d5ec935ffbd1",
+    "boundaryNum": 6,
+    "name": "POOLAKKADAVE",
+    "localname": "\u0d2a\u0d42\u0d33\u0d15\u0d4d\u0d15\u0d1f\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "11",
+    "children": [
+        {
+            "id": "f65b4234-b15f-4c1c-984c-2a92bc205a2e",
+            "boundaryNum": 6,
+            "name": "POOLAKKADAVE",
+            "localname": "\u0d2a\u0d42\u0d33\u0d15\u0d4d\u0d15\u0d1f\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "11",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "1acd7ade-1d65-4932-8e27-1daac5ad34d7",
+    "boundaryNum": 7,
+    "name": "PAROPPADI",
+    "localname": "\u0d2a\u0d3e\u0d31\u0d4b\u0d2a\u0d4d\u0d2a\u0d1f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "12",
+    "children": [
+        {
+            "id": "27316f82-e7d6-4688-803a-d0cf878ec2b1",
+            "boundaryNum": 7,
+            "name": "PAROPPADI",
+            "localname": "\u0d2a\u0d3e\u0d31\u0d4b\u0d2a\u0d4d\u0d2a\u0d1f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "12",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "64eb6e7a-e946-44f0-945c-e683c4a3415d",
+    "boundaryNum": 8,
+    "name": "CIVILSTATION",
+    "localname": "\u0d38\u0d3f\u0d35\u0d3f\u0d32\u0d4d\u200d\u0d38\u0d47\u0d31\u0d4d\u0d31\u0d37\u0d28\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "13",
+    "children": [
+        {
+            "id": "0b8a9ab4-d00f-41b3-aaa6-dec9704a1250",
+            "boundaryNum": 8,
+            "name": "CIVILSTATION",
+            "localname": "\u0d38\u0d3f\u0d35\u0d3f\u0d32\u0d4d\u200d\u0d38\u0d47\u0d31\u0d4d\u0d31\u0d37\u0d28\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "13",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "8d4a572b-8854-470f-85b5-9722feeb7f1f",
+    "boundaryNum": 9,
+    "name": "CHEVARAMBALAM",
+    "localname": "\u0d1a\u0d47\u0d35\u0d30\u0d2e\u0d4d\u0d2a\u0d32\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "14",
+    "children": [
+        {
+            "id": "6491466b-3217-4660-8d69-80bcc2460868",
+            "boundaryNum": 9,
+            "name": "CHEVARAMBALAM",
+            "localname": "\u0d1a\u0d47\u0d35\u0d30\u0d2e\u0d4d\u0d2a\u0d32\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "14",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "869e7dd3-55fb-489b-bdbb-2395df7d0601",
+    "boundaryNum": 10,
+    "name": "VELLIMADKUNNU",
+    "localname": "\u0d35\u0d46\u0d33\u0d33\u0d3f\u0d2e\u0d3e\u0d1f\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "15",
+    "children": [
+        {
+            "id": "d0a9a776-297c-41fc-97d1-a10472b56715",
+            "boundaryNum": 10,
+            "name": "VELLIMADKUNNU",
+            "localname": "\u0d35\u0d46\u0d33\u0d33\u0d3f\u0d2e\u0d3e\u0d1f\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "15",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "7c011386-f583-462a-8881-7e4d78b4eb35",
+    "boundaryNum": 11,
+    "name": "MOOZHIKKAL",
+    "localname": "\u0d2e\u0d42\u0d34\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "16",
+    "children": [
+        {
+            "id": "9309f170-16c2-48d9-8f25-9872af44a52b",
+            "boundaryNum": 11,
+            "name": "MOOZHIKKAL",
+            "localname": "\u0d2e\u0d42\u0d34\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "16",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "43574d09-6988-42ca-8526-4f29debb0abe",
+    "boundaryNum": 12,
+    "name": "CHELAVOOR",
+    "localname": "\u0d1a\u0d46\u0d32\u0d35\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "17",
+    "children": [
+        {
+            "id": "73b59608-744e-4d71-a453-b87d97e9a090",
+            "boundaryNum": 12,
+            "name": "CHELAVOOR",
+            "localname": "\u0d1a\u0d46\u0d32\u0d35\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "17",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "a4090df8-83b7-4107-b881-8fd100909acc",
+    "boundaryNum": 13,
+    "name": "MAYANAD",
+    "localname": "\u0d2e\u0d3e\u0d2f\u0d28\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "18",
+    "children": [
+        {
+            "id": "ab85ad76-f9c9-43e6-9559-51855c05d925",
+            "boundaryNum": 13,
+            "name": "MAYANAD",
+            "localname": "\u0d2e\u0d3e\u0d2f\u0d28\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "18",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "250be392-71b2-4b4b-9d4f-d055c8a880e1",
+    "boundaryNum": 14,
+    "name": "MEDICALCOLLEGE SOUTH",
+    "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d \u0d38\u0d4c\u0d24\u0d4d\u0d24\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "19",
+    "children": [
+        {
+            "id": "fc715a51-5e4d-40e0-8846-11c6ad80db4f",
+            "boundaryNum": 14,
+            "name": "MEDICALCOLLEGE SOUTH",
+            "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d \u0d38\u0d4c\u0d24\u0d4d\u0d24\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "19",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "747f4e3b-6deb-429a-a47d-45ec26faf4b4",
+    "boundaryNum": 15,
+    "name": "MEDICALCOLLEGE",
+    "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d\u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "20",
+    "children": [
+        {
+            "id": "c9f86759-ef5e-404d-b2e6-a5f1f6299448",
+            "boundaryNum": 15,
+            "name": "MEDICALCOLLEGE",
+            "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d\u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "20",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "a85ed530-d455-4724-990d-f393dd6c464f",
+    "boundaryNum": 16,
+    "name": "CHEVAYUR",
+    "localname": "\u0d1a\u0d47\u0d35\u0d3e\u0d2f\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "21",
+    "children": [
+        {
+            "id": "f6def8c9-beed-4a2b-b77e-109ca4d182d5",
+            "boundaryNum": 16,
+            "name": "CHEVAYUR",
+            "localname": "\u0d1a\u0d47\u0d35\u0d3e\u0d2f\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "21",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "db5302d8-7641-48f2-b512-fb12edb96c8b",
+    "boundaryNum": 17,
+    "name": "KOVOOR",
+    "localname": "\u0d15\u0d4b\u0d35\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "22",
+    "children": [
+        {
+            "id": "58b888ce-c1c3-4fbd-bc73-c960657faa3b",
+            "boundaryNum": 17,
+            "name": "KOVOOR",
+            "localname": "\u0d15\u0d4b\u0d35\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "22",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "32cf4bb8-79ae-4432-9ba4-cf57efa0f20f",
+    "boundaryNum": 18,
+    "name": "NELLIKODE",
+    "localname": "\u0d28\u0d46\u0d32\u0d4d\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "23",
+    "children": [
+        {
+            "id": "9a45475f-f07c-4739-8409-071497608491",
+            "boundaryNum": 18,
+            "name": "NELLIKODE",
+            "localname": "\u0d28\u0d46\u0d32\u0d4d\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "23",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "d44dfee3-2aa7-4ca6-8314-de933ffb6c0b",
+    "boundaryNum": 19,
+    "name": "KUDILTHODE",
+    "localname": "\u0d15\u0d41\u0d41\u0d1f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d4b\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "24",
+    "children": [
+        {
+            "id": "785b7382-6f74-4544-99fe-901bed5b7f83",
+            "boundaryNum": 19,
+            "name": "KUDILTHODE",
+            "localname": "\u0d15\u0d41\u0d41\u0d1f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d4b\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "24",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "7d8ce282-fa52-4c2a-a5c2-66c8ac503bc3",
+    "boundaryNum": 20,
+    "name": "KOTTOOLI",
+    "localname": "\u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d42\u0d33\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "25",
+    "children": [
+        {
+            "id": "97fb3d32-6360-4e7e-a1e2-04749b1e6974",
+            "boundaryNum": 20,
+            "name": "KOTTOOLI",
+            "localname": "\u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d42\u0d33\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "25",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "b7b9e51d-b132-4d18-93e0-b29e16ecafea",
+    "boundaryNum": 21,
+    "name": "PARAYANCHERI",
+    "localname": "\u0d2a\u0d31\u0d2f\u0d1e\u0d4d\u0d1a\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "26",
+    "children": [
+        {
+            "id": "4872b2f1-04ff-4c7c-8495-4bd24c2b3b32",
+            "boundaryNum": 21,
+            "name": "PARAYANCHERI",
+            "localname": "\u0d2a\u0d31\u0d2f\u0d1e\u0d4d\u0d1a\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "26",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "face4bd8-ae31-443b-bd25-5357c337089b",
+    "boundaryNum": 22,
+    "name": "PUTHIYARA",
+    "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d31",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "27",
+    "children": [
+        {
+            "id": "ce7cd009-01e5-45f0-9e62-2b3444d2e6d0",
+            "boundaryNum": 22,
+            "name": "PUTHIYARA",
+            "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "27",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "b8a6cd35-2594-4bec-bc70-7fb9f01c69a1",
+    "boundaryNum": 23,
+    "name": "KUTHIRAVATTAM",
+    "localname": "\u0d15\u0d41\u0d24\u0d3f\u0d30\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "28",
+    "children": [
+        {
+            "id": "ae90f6b6-a98b-4d12-957a-a816bf5badc0",
+            "boundaryNum": 23,
+            "name": "KUTHIRAVATTAM",
+            "localname": "\u0d15\u0d41\u0d24\u0d3f\u0d30\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "28",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "8c08178f-ef50-4e15-9b62-589a6edf0e72",
+    "boundaryNum": 24,
+    "name": "POTTAMMAL",
+    "localname": "\u0d2a\u0d4a\u0d31\u0d4d\u0d31\u0d2e\u0d4d\u0d2e\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "29",
+    "children": [
+        {
+            "id": "7e427064-bc2f-4b01-8fb9-a859f98779ae",
+            "boundaryNum": 24,
+            "name": "POTTAMMAL",
+            "localname": "\u0d2a\u0d4a\u0d31\u0d4d\u0d31\u0d2e\u0d4d\u0d2e\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "29",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "fc0246bb-c213-4358-8fa3-fa04d2528678",
+    "boundaryNum": 25,
+    "name": "KOMMERI",
+    "localname": "\u0d15\u0d4a\u0d2e\u0d4d\u0d2e\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "30",
+    "children": [
+        {
+            "id": "a1d73a9d-f719-468c-a424-784ea7a89286",
+            "boundaryNum": 25,
+            "name": "KOMMERI",
+            "localname": "\u0d15\u0d4a\u0d2e\u0d4d\u0d2e\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "30",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "299ac2e2-a7a0-4463-8e2e-edeeaae35f1f",
+    "boundaryNum": 26,
+    "name": "KUTTIYILTHAZHAM",
+    "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d3e\u0d34\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "31",
+    "children": [
+        {
+            "id": "4765d603-26ec-4862-a784-a68a5aac227d",
+            "boundaryNum": 26,
+            "name": "KUTTIYILTHAZHAM",
+            "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d3e\u0d34\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "31",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "cc269dca-6cb8-4ccd-b159-975079fc47c9",
+    "boundaryNum": 27,
+    "name": "POKKUNNU",
+    "localname": "\u0d2a\u0d4a\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "32",
+    "children": [
+        {
+            "id": "50f5bce5-05b6-4116-867f-b78456e41b25",
+            "boundaryNum": 27,
+            "name": "POKKUNNU",
+            "localname": "\u0d2a\u0d4a\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "32",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "3632513c-727e-42cf-8e0f-7bfa0bd183db",
+    "boundaryNum": 28,
+    "name": "KINASSERY",
+    "localname": "\u0d15\u0d3f\u0d23\u0d3e\u0d36\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "33",
+    "children": [
+        {
+            "id": "d31403ee-603b-44d4-9780-e646a79351e7",
+            "boundaryNum": 28,
+            "name": "KINASSERY",
+            "localname": "\u0d15\u0d3f\u0d23\u0d3e\u0d36\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "33",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "14b67572-dc10-4c81-8dfa-1eff0ca67bd7",
+    "boundaryNum": 29,
+    "name": "MANKAVE",
+    "localname": "\u0d2e\u0d3e\u0d19\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "34",
+    "children": [
+        {
+            "id": "e858c5c8-3320-4a01-9070-a46366626f3f",
+            "boundaryNum": 29,
+            "name": "MANKAVE",
+            "localname": "\u0d2e\u0d3e\u0d19\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "34",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "a0f11421-5324-4f8f-82cc-866f1e8945c2",
+    "boundaryNum": 30,
+    "name": "AZCHAVATTAM",
+    "localname": "\u0d06\u0d34\u0d4d\u0d1a\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "35",
+    "children": [
+        {
+            "id": "21ecf306-d86d-4d67-acf7-80851041344b",
+            "boundaryNum": 30,
+            "name": "AZCHAVATTAM",
+            "localname": "\u0d06\u0d34\u0d4d\u0d1a\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "35",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "52c5e4a7-bfa7-4a64-8ebe-d127a4b75fc9",
+    "boundaryNum": 31,
+    "name": "Kallai",
+    "localname": "\u0d15\u0d32\u0d4d\u0d32\u0d3e\u0d2f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "36",
+    "children": [
+        {
+            "id": "92de4286-3f0a-4094-9c99-f4cc15bf5f05",
+            "boundaryNum": 31,
+            "name": "Kallai",
+            "localname": "\u0d15\u0d32\u0d4d\u0d32\u0d3e\u0d2f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "36",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "8d0f9fc5-ece3-4cdc-928a-18d1713912df",
+    "boundaryNum": 32,
+    "name": "PANNIYANKARA",
+    "localname": "\u0d2a\u0d28\u0d4d\u0d28\u0d3f\u0d2f\u0d19\u0d4d\u0d15\u0d30",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "37",
+    "children": [
+        {
+            "id": "d22c2532-0947-4003-be38-8c263ba94542",
+            "boundaryNum": 32,
+            "name": "PANNIYANKARA",
+            "localname": "\u0d2a\u0d28\u0d4d\u0d28\u0d3f\u0d2f\u0d19\u0d4d\u0d15\u0d30",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "37",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "42309fb2-6ccb-44be-b8d6-6c3c06ea1853",
+    "boundaryNum": 33,
+    "name": "MEENCHANDHA",
+    "localname": "\u0d2e\u0d40\u0d1e\u0d4d\u0d1a\u0d28\u0d4d\u0d24",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "38",
+    "children": [
+        {
+            "id": "6f0db067-9f66-424b-bfb7-462ac615ca0a",
+            "boundaryNum": 33,
+            "name": "MEENCHANDHA",
+            "localname": "\u0d2e\u0d40\u0d1e\u0d4d\u0d1a\u0d28\u0d4d\u0d24",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "38",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "34edb8eb-ceca-41bb-af19-a8e2a2935724",
+    "boundaryNum": 34,
+    "name": "THIRUVANNUR",
+    "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "39",
+    "children": [
+        {
+            "id": "2c6aa3f4-c846-4495-b986-6ee5fc1142da",
+            "boundaryNum": 34,
+            "name": "THIRUVANNUR",
+            "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "39",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "d508f5fe-bc99-4799-8699-9376b9f60ac9",
+    "boundaryNum": 35,
+    "name": "KAPPAKKAL",
+    "localname": "\u0d15\u0d2a\u0d4d\u0d2a\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "54",
+    "children": [
+        {
+            "id": "3f981ea6-2958-412f-b04c-a566ba991d79",
+            "boundaryNum": 35,
+            "name": "KAPPAKKAL",
+            "localname": "\u0d15\u0d2a\u0d4d\u0d2a\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "54",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "184ee6d8-26cc-4990-8e12-0d222fcdd74d",
+    "boundaryNum": 36,
+    "name": "PAYYANAKKAL",
+    "localname": "\u0d2a\u0d2f\u0d4d\u0d2f\u0d3e\u0d28\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "55",
+    "children": [
+        {
+            "id": "15506c3d-417b-4c1d-b827-45e7e5b39918",
+            "boundaryNum": 36,
+            "name": "PAYYANAKKAL",
+            "localname": "\u0d2a\u0d2f\u0d4d\u0d2f\u0d3e\u0d28\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "55",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "dbfd9866-434c-463c-bf5d-4515b96fa4f3",
+    "boundaryNum": 37,
+    "name": "CHAKKUMKADAVE",
+    "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d41\u0d02\u0d15\u0d1f\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "56",
+    "children": [
+        {
+            "id": "1113264c-fb69-413a-897c-ca5688047d75",
+            "boundaryNum": 37,
+            "name": "CHAKKUMKADAVE",
+            "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d41\u0d02\u0d15\u0d1f\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "56",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f1cf9026-b80c-4603-a186-f02f86b09596",
+    "boundaryNum": 38,
+    "name": "MUKHADAR",
+    "localname": "\u0d2e\u0d41\u0d16\u0d26\u0d3e\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "57",
+    "children": [
+        {
+            "id": "8524b3dd-c2aa-46e1-857a-8153a11a0851",
+            "boundaryNum": 38,
+            "name": "MUKHADAR",
+            "localname": "\u0d2e\u0d41\u0d16\u0d26\u0d3e\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "57",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "be86af9f-26c8-4044-a00e-809215179fe5",
+    "boundaryNum": 39,
+    "name": "KUTTICHIRA",
+    "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d31",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "58",
+    "children": [
+        {
+            "id": "3e7c5ca1-d0eb-416d-9b86-9e9fa466d2cd",
+            "boundaryNum": 39,
+            "name": "KUTTICHIRA",
+            "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "58",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "12ebcab5-d8d3-4dce-ae12-79e61271a98d",
+    "boundaryNum": 40,
+    "name": "CHALAPPURAM",
+    "localname": "\u0d1a\u0d3e\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d31\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "59",
+    "children": [
+        {
+            "id": "3b3132d5-f36c-4083-b518-d362e9bf70b2",
+            "boundaryNum": 40,
+            "name": "CHALAPPURAM",
+            "localname": "\u0d1a\u0d3e\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d31\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "59",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "50c33aaa-0f0a-42c0-af7f-5fa1baa7e347",
+    "boundaryNum": 41,
+    "name": "PALAYAM",
+    "localname": "\u0d2a\u0d3e\u0d33\u0d2f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "60",
+    "children": [
+        {
+            "id": "a9e9d64b-b450-4f15-b1f0-3043b5cad7e1",
+            "boundaryNum": 41,
+            "name": "PALAYAM",
+            "localname": "\u0d2a\u0d3e\u0d33\u0d2f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "60",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "0f080864-a8f5-459a-8c6f-838cd14ed4e7",
+    "boundaryNum": 42,
+    "name": "VALIYANGADI",
+    "localname": "\u0d35\u0d32\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "61",
+    "children": [
+        {
+            "id": "f40c4299-6c4c-4607-93ab-448ef5778475",
+            "boundaryNum": 42,
+            "name": "VALIYANGADI",
+            "localname": "\u0d35\u0d32\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "61",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "2dc08ba8-206a-42cc-8f98-e8516afedbdd",
+    "boundaryNum": 43,
+    "name": "MOONALINGAL",
+    "localname": "\u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d3f\u0d19\u0d4d\u0d19\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "62",
+    "children": [
+        {
+            "id": "213c934b-3843-4939-9a6a-e40f1f07fcd2",
+            "boundaryNum": 43,
+            "name": "MOONALINGAL",
+            "localname": "\u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d3f\u0d19\u0d4d\u0d19\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "62",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "98563d18-4b9a-47af-bf14-db981785b322",
+    "boundaryNum": 44,
+    "name": "THIRUTHIYAD",
+    "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "63",
+    "children": [
+        {
+            "id": "34061125-91d0-421b-9237-2fabe0b7bd13",
+            "boundaryNum": 44,
+            "name": "THIRUTHIYAD",
+            "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "63",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "65131564-aee8-406b-bb92-3028c04f7a69",
+    "boundaryNum": 45,
+    "name": "ERANHIPPALAM",
+    "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d2a\u0d4d\u0d2a\u0d3e\u0d32\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "64",
+    "children": [
+        {
+            "id": "a39e2a6e-c3a6-4ea6-8fc6-6f1602bf05fe",
+            "boundaryNum": 45,
+            "name": "ERANHIPPALAM",
+            "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d2a\u0d4d\u0d2a\u0d3e\u0d32\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "64",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "461a90f6-287d-4a9b-b23f-567223d7d9c7",
+    "boundaryNum": 46,
+    "name": "NADAKKAVE",
+    "localname": "\u0d28\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "65",
+    "children": [
+        {
+            "id": "317c7e64-94eb-4386-a43e-76a37a130b71",
+            "boundaryNum": 46,
+            "name": "NADAKKAVE",
+            "localname": "\u0d28\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "65",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "91180910-2e21-4bd1-a25b-c725b3297ed3",
+    "boundaryNum": 47,
+    "name": "VELLAYIL",
+    "localname": "\u0d35\u0d46\u0d33\u0d33\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "66",
+    "children": [
+        {
+            "id": "23eb026f-01c3-4f1b-82f9-63a5418f0668",
+            "boundaryNum": 47,
+            "name": "VELLAYIL",
+            "localname": "\u0d35\u0d46\u0d33\u0d33\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "66",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "16714392-a32d-404f-aaac-c02bb9820c67",
+    "boundaryNum": 48,
+    "name": "THOPPAYIL",
+    "localname": "\u0d24\u0d4b\u0d2a\u0d4d\u0d2a\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "67",
+    "children": [
+        {
+            "id": "d598540b-0c25-4c88-a3cc-c6870d7d3aad",
+            "boundaryNum": 48,
+            "name": "THOPPAYIL",
+            "localname": "\u0d24\u0d4b\u0d2a\u0d4d\u0d2a\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "67",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "81bf7f26-a091-4a3e-a28b-001d05ddee5b",
+    "boundaryNum": 49,
+    "name": "CHAKKORATHUKULAM",
+    "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d4b\u0d30\u0d24\u0d4d\u0d24\u0d41\u0d15\u0d41\u0d33\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "68",
+    "children": [
+        {
+            "id": "4629d3a3-e577-4c18-8a68-98b9d04c5867",
+            "boundaryNum": 49,
+            "name": "CHAKKORATHUKULAM",
+            "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d4b\u0d30\u0d24\u0d4d\u0d24\u0d41\u0d15\u0d41\u0d33\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "68",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f3bb8890-50a5-402f-8c14-903c45ba2157",
+    "boundaryNum": 50,
+    "name": "KARAPPARAMB",
+    "localname": "\u0d15\u0d3e\u0d30\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "69",
+    "children": [
+        {
+            "id": "3c230ae1-4e4d-4ad7-ad45-ad112d86d82c",
+            "boundaryNum": 50,
+            "name": "KARAPPARAMB",
+            "localname": "\u0d15\u0d3e\u0d30\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "69",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "9423ff73-f46a-41bd-8093-46404495a118",
+    "boundaryNum": 51,
+    "name": "EASTHILL",
+    "localname": "\u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "70",
+    "children": [
+        {
+            "id": "c9a8d697-b9e3-4457-a3e8-934d6538a95a",
+            "boundaryNum": 51,
+            "name": "EASTHILL",
+            "localname": "\u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "70",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "6577efad-ebda-4be7-89a3-57a1f6228080",
+    "boundaryNum": 52,
+    "name": "ATHANIKKAL",
+    "localname": "\u0d05\u0d24\u0d4d\u0d24\u0d3e\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "71",
+    "children": [
+        {
+            "id": "93de7e72-8a2b-486e-af71-d49cdc45f0e2",
+            "boundaryNum": 52,
+            "name": "ATHANIKKAL",
+            "localname": "\u0d05\u0d24\u0d4d\u0d24\u0d3e\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "71",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "d86e0e99-0d1a-4d82-8c4b-33a86e4a85a4",
+    "boundaryNum": 53,
+    "name": "WESTHILL",
+    "localname": "\u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "72",
+    "children": [
+        {
+            "id": "e7408462-6445-4f80-a2ca-821961ea8b7a",
+            "boundaryNum": 53,
+            "name": "WESTHILL",
+            "localname": "\u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "72",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "228c9dc1-78dd-40d6-b1c6-4eeb3b740735",
+    "boundaryNum": 54,
+    "name": "EDAKKAD",
+    "localname": "\u0d0e\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "73",
+    "children": [
+        {
+            "id": "71adc1f8-4297-4f6a-acd3-f7006d0cd721",
+            "boundaryNum": 54,
+            "name": "EDAKKAD",
+            "localname": "\u0d0e\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "73",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "59d7d6a5-a790-43d1-bf42-b9fb40755b85",
+    "boundaryNum": 55,
+    "name": "PUTHIYANGADI",
+    "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "74",
+    "children": [
+        {
+            "id": "559f939e-9fa5-4a7b-8530-81c4a060a5cb",
+            "boundaryNum": 55,
+            "name": "PUTHIYANGADI",
+            "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "74",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]},{"id":"45b8f649-28a0-4a7b-8e0c-c54fbc83f7f4","boundaryNum":2,"name":"Elathur","localname": "എലത്തൂർ","longitude":null,"latitude": null,"label":"Zone","code": "ELATHUR","children": [{
+    "id": "44e122a8-fe8f-4820-80c8-90cee707747d",
+    "boundaryNum": 56,
+    "name": "Elathur",
+    "localname": "\u0d0e\u0d32\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "1",
+    "children": [
+        {
+            "id": "ce7e64dd-8712-46f7-9414-3adc9bc834a9",
+            "boundaryNum": 56,
+            "name": "Elathur",
+            "localname": "\u0d0e\u0d32\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "1",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "d4ef8368-bc03-4361-9e6a-eee96458e7f2",
+    "boundaryNum": 57,
+    "name": "Chettikulam",
+    "localname": "\u0d1a\u0d46\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d41\u0d33\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "2",
+    "children": [
+        {
+            "id": "f24662a4-b870-4904-ab16-983ba0bb0056",
+            "boundaryNum": 57,
+            "name": "Chettikulam",
+            "localname": "\u0d1a\u0d46\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d41\u0d33\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "2",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "1c0e1371-92fc-436f-8066-4812239c5b1a",
+    "boundaryNum": 58,
+    "name": "Eranhikkal",
+    "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d15\u0d4d\u0d15\u0d7d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "3",
+    "children": [
+        {
+            "id": "9626057d-36d1-4452-af9c-73a6e487c484",
+            "boundaryNum": 58,
+            "name": "Eranhikkal",
+            "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d15\u0d4d\u0d15\u0d7d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "3",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "8ad5bd65-927b-4cc4-bdce-57d6b2b92766",
+    "boundaryNum": 59,
+    "name": "Puthur",
+    "localname": "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "4",
+    "children": [
+        {
+            "id": "e1a2b09e-d5f1-465c-9320-81b855da6ddf",
+            "boundaryNum": 59,
+            "name": "Puthur",
+            "localname": "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "4",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f654659e-d645-434b-a8dc-c8292f9b2911",
+    "boundaryNum": 60,
+    "name": "Mokavoor",
+    "localname": "\u0d2e\u0d46\u0d3e\u0d15\u0d35\u0d42\u0d7c",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "5",
+    "children": [
+        {
+            "id": "e9199631-9d92-4690-914e-9781fe896a00",
+            "boundaryNum": 60,
+            "name": "Mokavoor",
+            "localname": "\u0d2e\u0d46\u0d3e\u0d15\u0d35\u0d42\u0d7c",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "5",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "1bac31d9-cc74-47eb-803d-b92e31c16d60",
+    "boundaryNum": 61,
+    "name": "Puthiyappa",
+    "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d3e\u0d2a\u0d4d\u0d2a",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "75",
+    "children": [
+        {
+            "id": "180004dd-84ce-48bc-bbe1-68e1a37e2681",
+            "boundaryNum": 61,
+            "name": "Puthiyappa",
+            "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d3e\u0d2a\u0d4d\u0d2a",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "75",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]},{"id":"95737e65-5f7d-4a68-8f96-48ddbd35f943","boundaryNum":3,"name":"Cheruvannur Nallalom","localname": "ചെറുവണ്ണൂര്‍ നല്ലളം","longitude":null,"latitude": null,"label":"Zone","code": "CHERUVANNUR _NALLALAM","children": [{
+    "id": "dbf54143-b2c6-4e52-bf23-35d4468928d2",
+    "boundaryNum": 62,
+    "name": "AREEKKAD NORTH",
+    "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d \u0d28\u0d4b\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "40",
+    "children": [
+        {
+            "id": "5cf6c8de-e03d-4b61-a15d-9ebdb68b7e77",
+            "boundaryNum": 62,
+            "name": "AREEKKAD NORTH",
+            "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d \u0d28\u0d4b\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "40",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f6ae6bcf-3fdc-4102-a208-edb159081ead",
+    "boundaryNum": 63,
+    "name": "AREEKKAD",
+    "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "41",
+    "children": [
+        {
+            "id": "b0f32b69-db11-45c9-b094-b8490fec243c",
+            "boundaryNum": 63,
+            "name": "AREEKKAD",
+            "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "41",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "10f22ed0-1e0f-405a-947a-5ad2d3cae3dd",
+    "boundaryNum": 64,
+    "name": "NALLALAM",
+    "localname": "\u0d28\u0d32\u0d4d\u0d32\u0d33\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "42",
+    "children": [
+        {
+            "id": "725aeb41-8925-4c27-bd6c-c1a1b6ec2857",
+            "boundaryNum": 64,
+            "name": "NALLALAM",
+            "localname": "\u0d28\u0d32\u0d4d\u0d32\u0d33\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "42",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "45782d26-302c-4af6-a4c4-8c408c824072",
+    "boundaryNum": 65,
+    "name": "KOLATHARA",
+    "localname": "\u0d15\u0d4a\u0d33\u0d24\u0d4d\u0d24\u0d31",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "43",
+    "children": [
+        {
+            "id": "e236d357-7f14-4a72-901b-f62e764d7902",
+            "boundaryNum": 65,
+            "name": "KOLATHARA",
+            "localname": "\u0d15\u0d4a\u0d33\u0d24\u0d4d\u0d24\u0d31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "43",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "7248241a-1e16-4864-8eb5-229491a171dd",
+    "boundaryNum": 66,
+    "name": "KUNDAYITHODE",
+    "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d2f\u0d3f\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "44",
+    "children": [
+        {
+            "id": "1bbe4ae0-c013-4a05-a15e-f3193888c6d0",
+            "boundaryNum": 66,
+            "name": "KUNDAYITHODE",
+            "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d2f\u0d3f\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "44",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "3f30798e-ed1f-4847-9a98-12815f057e29",
+    "boundaryNum": 67,
+    "name": "CHERUVANNOOR EAST",
+    "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "45",
+    "children": [
+        {
+            "id": "f1c8aca3-02ba-4423-bbab-9de5dfd07f28",
+            "boundaryNum": 67,
+            "name": "CHERUVANNOOR EAST",
+            "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "45",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "cbacd1d2-4827-4c02-b15a-7e5c760216ab",
+    "boundaryNum": 68,
+    "name": "CHERUVANNOOR WEST",
+    "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "46",
+    "children": [
+        {
+            "id": "4a58649d-002a-46f0-9236-22f16b9355f4",
+            "boundaryNum": 68,
+            "name": "CHERUVANNOOR WEST",
+            "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "46",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]},{"id":"1ce0bdf0-19be-425f-8d45-898b2faac9e9","boundaryNum":4,"name":"Beypore","localname": "ബേപ്പൂര്‍","longitude":null,"latitude": null,"label":"Zone","code": "BEYPORE","children": [{
+    "id": "7fbdb8ee-b2dc-4a57-8a83-a0c4c8d17e19",
+    "boundaryNum": 69,
+    "name": "BEYPORE PORT",
+    "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d \u0d2a\u0d4b\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "47",
+    "children": [
+        {
+            "id": "bae187a8-0344-4f7e-ab9d-7a1e3dfeb87f",
+            "boundaryNum": 69,
+            "name": "BEYPORE PORT",
+            "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d \u0d2a\u0d4b\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "47",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f979a080-3ad4-49f8-b2c0-d51567fcc5a5",
+    "boundaryNum": 70,
+    "name": "BEYPORE",
+    "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "48",
+    "children": [
+        {
+            "id": "74dc9e53-2bee-404e-998c-430fc94974a3",
+            "boundaryNum": 70,
+            "name": "BEYPORE",
+            "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "48",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "1d42b085-a34b-4d65-94d4-48c1e1a62fe4",
+    "boundaryNum": 71,
+    "name": "MARAD",
+    "localname": "\u0d2e\u0d3e\u0d31\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "49",
+    "children": [
+        {
+            "id": "d9106d97-a5ac-4cb6-a64d-b5baf931a456",
+            "boundaryNum": 71,
+            "name": "MARAD",
+            "localname": "\u0d2e\u0d3e\u0d31\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "49",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "cc6b67b1-2ecc-4b65-b2ce-eb67dbb6e194",
+    "boundaryNum": 72,
+    "name": "NADUVATTAM",
+    "localname": "\u0d28\u0d1f\u0d41\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "50",
+    "children": [
+        {
+            "id": "fd31008a-dd76-469f-8528-1cac776b5d75",
+            "boundaryNum": 72,
+            "name": "NADUVATTAM",
+            "localname": "\u0d28\u0d1f\u0d41\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "50",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "e9241e7b-bdcc-44e1-a121-ecc66de57873",
+    "boundaryNum": 73,
+    "name": "PUNCHAPADAM",
+    "localname": "\u0d2a\u0d41\u0d1e\u0d4d\u0d1a\u0d2a\u0d4d\u0d2a\u0d3e\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "51",
+    "children": [
+        {
+            "id": "86daa3ed-2bdb-4e84-982a-008e38969ee3",
+            "boundaryNum": 73,
+            "name": "PUNCHAPADAM",
+            "localname": "\u0d2a\u0d41\u0d1e\u0d4d\u0d1a\u0d2a\u0d4d\u0d2a\u0d3e\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "51",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "929be45b-efdc-420d-9036-6c8102e64537",
+    "boundaryNum": 74,
+    "name": "ARAKKINAR",
+    "localname": "\u0d05\u0d30\u0d15\u0d4d\u0d15\u0d3f\u0d23\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "52",
+    "children": [
+        {
+            "id": "c3db852b-cbba-45ca-a325-94f4479a3751",
+            "boundaryNum": 74,
+            "name": "ARAKKINAR",
+            "localname": "\u0d05\u0d30\u0d15\u0d4d\u0d15\u0d3f\u0d23\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "52",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "5324720f-21f8-4164-a794-237c6322aeb6",
+    "boundaryNum": 75,
+    "name": "MATHOTTAM",
+    "localname": "\u0d2e\u0d3e\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "53",
+    "children": [
+        {
+            "id": "dc9b41f3-a3d5-411d-b295-3ee2c12ac6ae",
+            "boundaryNum": 75,
+            "name": "MATHOTTAM",
+            "localname": "\u0d2e\u0d3e\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "53",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]}]}},{"hierarchyType":{
+    "code": "ADMIN",
+    "name": "admin"
+},"boundary":{"id":"e0b77bab-19ea-4efb-aca3-ce6728cbdd65","boundaryNum":1,"name":"Kozhikode Corporation","localname":"കോഴിക്കോട് കോര്‍പ്പറേഷന്‍","longitude":null,"latitude": null,"label":"Corporation","code":"kl.kozhikode corporation","children": [{"id":"532cdb53-f55f-450e-a4b4-6a8b80c298b6","boundaryNum":1,"name":"Main Office","localname": "മുഖ്യ ഓഫീസ് ","longitude":null,"latitude": null,"label":"Zone","code": "MAIN_OFFICE","children": [{
+    "id": "4b05c46f-152d-4136-aada-268eecf3eb41",
+    "boundaryNum": 1,
+    "name": "KUNDUPARAMB",
+    "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d42\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "6",
+    "children": [
+        {
+            "id": "ca7207b9-2c98-43e6-bb94-4d687c72abd2",
+            "boundaryNum": 1,
+            "name": "KUNDUPARAMB",
+            "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d42\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "6",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "55aa7392-9037-4c2f-aa24-57507ec48b1f",
+    "boundaryNum": 2,
+    "name": "KARUVISSERI",
+    "localname": "\u0d15\u0d30\u0d41\u0d35\u0d3f\u0d36\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "7",
+    "children": [
+        {
+            "id": "17995e46-c1bb-461c-9c25-6a5482383f42",
+            "boundaryNum": 2,
+            "name": "KARUVISSERI",
+            "localname": "\u0d15\u0d30\u0d41\u0d35\u0d3f\u0d36\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "7",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "025a9100-2215-4aed-a16b-24fe0d047ed4",
+    "boundaryNum": 3,
+    "name": "MALAPPARAMB",
+    "localname": "\u0d2e\u0d32\u0d3e\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "8",
+    "children": [
+        {
+            "id": "10510383-41ce-4290-b309-8c975864020e",
+            "boundaryNum": 3,
+            "name": "MALAPPARAMB",
+            "localname": "\u0d2e\u0d32\u0d3e\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "8",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "db906489-ed76-4faa-9004-d4e4edf59d09",
+    "boundaryNum": 4,
+    "name": "THADAMBATTUTHAZHAM",
+    "localname": "\u0d24\u0d1f\u0d2e\u0d4d\u0d2a\u0d3e\u0d1f\u0d4d\u0d1f\u0d41\u0d24\u0d3e\u0d34\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "9",
+    "children": [
+        {
+            "id": "4d235999-cad8-40a0-adeb-7a3537cef741",
+            "boundaryNum": 4,
+            "name": "THADAMBATTUTHAZHAM",
+            "localname": "\u0d24\u0d1f\u0d2e\u0d4d\u0d2a\u0d3e\u0d1f\u0d4d\u0d1f\u0d41\u0d24\u0d3e\u0d34\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "9",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "e5e4ae02-8246-4044-8efd-43d7df4808c2",
+    "boundaryNum": 5,
+    "name": "VENGERI",
+    "localname": "\u0d35\u0d47\u0d19\u0d4d\u0d19\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "10",
+    "children": [
+        {
+            "id": "04589c8e-6459-4102-a131-a172eda8c800",
+            "boundaryNum": 5,
+            "name": "VENGERI",
+            "localname": "\u0d35\u0d47\u0d19\u0d4d\u0d19\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "10",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "9fe83bb6-78ed-4eff-a0f4-15f6fd325c94",
+    "boundaryNum": 6,
+    "name": "POOLAKKADAVE",
+    "localname": "\u0d2a\u0d42\u0d33\u0d15\u0d4d\u0d15\u0d1f\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "11",
+    "children": [
+        {
+            "id": "0933427b-fc61-4c89-b74e-2d650254b23f",
+            "boundaryNum": 6,
+            "name": "POOLAKKADAVE",
+            "localname": "\u0d2a\u0d42\u0d33\u0d15\u0d4d\u0d15\u0d1f\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "11",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "14e79a88-bb13-4a4b-b101-80efcf685150",
+    "boundaryNum": 7,
+    "name": "PAROPPADI",
+    "localname": "\u0d2a\u0d3e\u0d31\u0d4b\u0d2a\u0d4d\u0d2a\u0d1f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "12",
+    "children": [
+        {
+            "id": "4e89f197-59b1-4a8f-beb3-78a0130a5f98",
+            "boundaryNum": 7,
+            "name": "PAROPPADI",
+            "localname": "\u0d2a\u0d3e\u0d31\u0d4b\u0d2a\u0d4d\u0d2a\u0d1f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "12",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "db22e57c-7e88-4cce-b412-a2a801bae64c",
+    "boundaryNum": 8,
+    "name": "CIVILSTATION",
+    "localname": "\u0d38\u0d3f\u0d35\u0d3f\u0d32\u0d4d\u200d\u0d38\u0d47\u0d31\u0d4d\u0d31\u0d37\u0d28\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "13",
+    "children": [
+        {
+            "id": "a707f7d7-ac07-428f-9391-2836a03ef926",
+            "boundaryNum": 8,
+            "name": "CIVILSTATION",
+            "localname": "\u0d38\u0d3f\u0d35\u0d3f\u0d32\u0d4d\u200d\u0d38\u0d47\u0d31\u0d4d\u0d31\u0d37\u0d28\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "13",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "7ed6e25d-31b8-4cd0-b14e-ffc92aa0ab68",
+    "boundaryNum": 9,
+    "name": "CHEVARAMBALAM",
+    "localname": "\u0d1a\u0d47\u0d35\u0d30\u0d2e\u0d4d\u0d2a\u0d32\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "14",
+    "children": [
+        {
+            "id": "9710eb83-a7b5-4d3b-b55d-e8e163d07731",
+            "boundaryNum": 9,
+            "name": "CHEVARAMBALAM",
+            "localname": "\u0d1a\u0d47\u0d35\u0d30\u0d2e\u0d4d\u0d2a\u0d32\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "14",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "1488f843-7077-4c0f-84c3-620a8fe98518",
+    "boundaryNum": 10,
+    "name": "VELLIMADKUNNU",
+    "localname": "\u0d35\u0d46\u0d33\u0d33\u0d3f\u0d2e\u0d3e\u0d1f\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "15",
+    "children": [
+        {
+            "id": "0b2be8e8-57e8-4c6a-bcef-479684c6f444",
+            "boundaryNum": 10,
+            "name": "VELLIMADKUNNU",
+            "localname": "\u0d35\u0d46\u0d33\u0d33\u0d3f\u0d2e\u0d3e\u0d1f\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "15",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "742f83e5-0f7d-44c5-9b74-5912a971d0d8",
+    "boundaryNum": 11,
+    "name": "MOOZHIKKAL",
+    "localname": "\u0d2e\u0d42\u0d34\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "16",
+    "children": [
+        {
+            "id": "3a6cf25a-2cff-44ce-a38c-900a5cfff205",
+            "boundaryNum": 11,
+            "name": "MOOZHIKKAL",
+            "localname": "\u0d2e\u0d42\u0d34\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "16",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "32961527-6f69-450a-bba5-f9ddaed867cf",
+    "boundaryNum": 12,
+    "name": "CHELAVOOR",
+    "localname": "\u0d1a\u0d46\u0d32\u0d35\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "17",
+    "children": [
+        {
+            "id": "d8eb6693-63f7-4e0c-8285-8a1451c073c3",
+            "boundaryNum": 12,
+            "name": "CHELAVOOR",
+            "localname": "\u0d1a\u0d46\u0d32\u0d35\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "17",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "24c2ee92-bfa4-4f67-b73f-b139470eb4ed",
+    "boundaryNum": 13,
+    "name": "MAYANAD",
+    "localname": "\u0d2e\u0d3e\u0d2f\u0d28\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "18",
+    "children": [
+        {
+            "id": "593adf10-b01b-4ec0-b31e-fd1e8bddb861",
+            "boundaryNum": 13,
+            "name": "MAYANAD",
+            "localname": "\u0d2e\u0d3e\u0d2f\u0d28\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "18",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "c0efd577-f3db-44fb-a6f7-bce92aa7c29e",
+    "boundaryNum": 14,
+    "name": "MEDICALCOLLEGE SOUTH",
+    "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d \u0d38\u0d4c\u0d24\u0d4d\u0d24\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "19",
+    "children": [
+        {
+            "id": "27c0a1a0-4dfc-43fd-8294-0462a63fdcba",
+            "boundaryNum": 14,
+            "name": "MEDICALCOLLEGE SOUTH",
+            "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d \u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d \u0d38\u0d4c\u0d24\u0d4d\u0d24\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "19",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "a73e01b8-3097-4072-906c-fb508699a5e9",
+    "boundaryNum": 15,
+    "name": "MEDICALCOLLEGE",
+    "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d\u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "20",
+    "children": [
+        {
+            "id": "9a7fc7e7-2dde-4e3d-a5a7-fcd6b6b00047",
+            "boundaryNum": 15,
+            "name": "MEDICALCOLLEGE",
+            "localname": "\u0d2e\u0d46\u0d21\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d\u0d15\u0d4b\u0d33\u0d47\u0d1c\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "20",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "7c415df9-2343-4c3e-83a7-70187c97c1fc",
+    "boundaryNum": 16,
+    "name": "CHEVAYUR",
+    "localname": "\u0d1a\u0d47\u0d35\u0d3e\u0d2f\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "21",
+    "children": [
+        {
+            "id": "15ed8586-53b7-46f5-ae74-c475d07a99c4",
+            "boundaryNum": 16,
+            "name": "CHEVAYUR",
+            "localname": "\u0d1a\u0d47\u0d35\u0d3e\u0d2f\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "21",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "bd3ed976-5f2c-4e26-a517-08128ec6abc6",
+    "boundaryNum": 17,
+    "name": "KOVOOR",
+    "localname": "\u0d15\u0d4b\u0d35\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "22",
+    "children": [
+        {
+            "id": "8104ca8b-8daa-4e34-9a5a-9bb003160d3f",
+            "boundaryNum": 17,
+            "name": "KOVOOR",
+            "localname": "\u0d15\u0d4b\u0d35\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "22",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "1f411450-006e-44e7-9d64-b1093279c301",
+    "boundaryNum": 18,
+    "name": "NELLIKODE",
+    "localname": "\u0d28\u0d46\u0d32\u0d4d\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "23",
+    "children": [
+        {
+            "id": "cf66d89e-44fa-453f-853d-69a6e58eb917",
+            "boundaryNum": 18,
+            "name": "NELLIKODE",
+            "localname": "\u0d28\u0d46\u0d32\u0d4d\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "23",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "4cd27b5b-b296-486e-b3e8-69a59ddbadf1",
+    "boundaryNum": 19,
+    "name": "KUDILTHODE",
+    "localname": "\u0d15\u0d41\u0d41\u0d1f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d4b\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "24",
+    "children": [
+        {
+            "id": "830f2d9e-e261-4b48-961b-758a58f9526e",
+            "boundaryNum": 19,
+            "name": "KUDILTHODE",
+            "localname": "\u0d15\u0d41\u0d41\u0d1f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d4b\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "24",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "80b36bfa-b28a-41c9-ad86-29e09cf16df7",
+    "boundaryNum": 20,
+    "name": "KOTTOOLI",
+    "localname": "\u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d42\u0d33\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "25",
+    "children": [
+        {
+            "id": "71941001-e111-4dff-bf50-d0816a7f2ddc",
+            "boundaryNum": 20,
+            "name": "KOTTOOLI",
+            "localname": "\u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d42\u0d33\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "25",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "7abe7f51-82ab-4520-87f6-6e443a788e4e",
+    "boundaryNum": 21,
+    "name": "PARAYANCHERI",
+    "localname": "\u0d2a\u0d31\u0d2f\u0d1e\u0d4d\u0d1a\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "26",
+    "children": [
+        {
+            "id": "61803d6f-ec69-4099-ae67-2c06317d2c82",
+            "boundaryNum": 21,
+            "name": "PARAYANCHERI",
+            "localname": "\u0d2a\u0d31\u0d2f\u0d1e\u0d4d\u0d1a\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "26",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f2a106bc-dc4d-441f-bd0e-5067b1596631",
+    "boundaryNum": 22,
+    "name": "PUTHIYARA",
+    "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d31",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "27",
+    "children": [
+        {
+            "id": "6159f71c-5d77-4a0b-a262-75cd42d73862",
+            "boundaryNum": 22,
+            "name": "PUTHIYARA",
+            "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "27",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "430d6685-aa95-4516-8efa-fa56406bc0dc",
+    "boundaryNum": 23,
+    "name": "KUTHIRAVATTAM",
+    "localname": "\u0d15\u0d41\u0d24\u0d3f\u0d30\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "28",
+    "children": [
+        {
+            "id": "e882052f-8a7a-40bd-aed9-8645cd73fd17",
+            "boundaryNum": 23,
+            "name": "KUTHIRAVATTAM",
+            "localname": "\u0d15\u0d41\u0d24\u0d3f\u0d30\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "28",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "cc72609a-b71e-4b85-91f9-ad39ec509669",
+    "boundaryNum": 24,
+    "name": "POTTAMMAL",
+    "localname": "\u0d2a\u0d4a\u0d31\u0d4d\u0d31\u0d2e\u0d4d\u0d2e\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "29",
+    "children": [
+        {
+            "id": "1e01402c-5b0e-458a-9b8d-ba5bebbf8bb3",
+            "boundaryNum": 24,
+            "name": "POTTAMMAL",
+            "localname": "\u0d2a\u0d4a\u0d31\u0d4d\u0d31\u0d2e\u0d4d\u0d2e\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "29",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "609ce15d-12e1-4301-bda6-874bbebb1ea0",
+    "boundaryNum": 25,
+    "name": "KOMMERI",
+    "localname": "\u0d15\u0d4a\u0d2e\u0d4d\u0d2e\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "30",
+    "children": [
+        {
+            "id": "9d8afa2e-255b-4fb2-9fbf-d74b0dd57775",
+            "boundaryNum": 25,
+            "name": "KOMMERI",
+            "localname": "\u0d15\u0d4a\u0d2e\u0d4d\u0d2e\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "30",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f17ab28b-1783-4751-9ceb-73b0a5f65646",
+    "boundaryNum": 26,
+    "name": "KUTTIYILTHAZHAM",
+    "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d3e\u0d34\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "31",
+    "children": [
+        {
+            "id": "2837da80-8e6d-4c55-86ca-1fbb2dfece53",
+            "boundaryNum": 26,
+            "name": "KUTTIYILTHAZHAM",
+            "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d2f\u0d3f\u0d32\u0d4d\u200d\u0d24\u0d3e\u0d34\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "31",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "2590e5c6-d0ed-4691-81a3-43ce5d315759",
+    "boundaryNum": 27,
+    "name": "POKKUNNU",
+    "localname": "\u0d2a\u0d4a\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "32",
+    "children": [
+        {
+            "id": "05f369b4-9996-415e-97eb-176a5f4c6d3b",
+            "boundaryNum": 27,
+            "name": "POKKUNNU",
+            "localname": "\u0d2a\u0d4a\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "32",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "293389f3-cce5-44a5-93e2-b59f1b3dcadc",
+    "boundaryNum": 28,
+    "name": "KINASSERY",
+    "localname": "\u0d15\u0d3f\u0d23\u0d3e\u0d36\u0d47\u0d30\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "33",
+    "children": [
+        {
+            "id": "eeb4e22d-bc5e-4175-aff0-3e7ddbebd7fd",
+            "boundaryNum": 28,
+            "name": "KINASSERY",
+            "localname": "\u0d15\u0d3f\u0d23\u0d3e\u0d36\u0d47\u0d30\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "33",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "ca1944a5-52bc-4c32-90fb-443f82c40cda",
+    "boundaryNum": 29,
+    "name": "MANKAVE",
+    "localname": "\u0d2e\u0d3e\u0d19\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "34",
+    "children": [
+        {
+            "id": "c7e82d5c-790b-4860-89c0-c51017da5400",
+            "boundaryNum": 29,
+            "name": "MANKAVE",
+            "localname": "\u0d2e\u0d3e\u0d19\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "34",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "c04f63cf-0067-4f84-854f-ac75bbf0d28e",
+    "boundaryNum": 30,
+    "name": "AZCHAVATTAM",
+    "localname": "\u0d06\u0d34\u0d4d\u0d1a\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "35",
+    "children": [
+        {
+            "id": "f5e9dec4-1278-49da-bd3a-a1c46bd32d24",
+            "boundaryNum": 30,
+            "name": "AZCHAVATTAM",
+            "localname": "\u0d06\u0d34\u0d4d\u0d1a\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "35",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "058bceef-d562-4fe5-b1d8-c72ba4e1c17b",
+    "boundaryNum": 31,
+    "name": "Kallai",
+    "localname": "\u0d15\u0d32\u0d4d\u0d32\u0d3e\u0d2f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "36",
+    "children": [
+        {
+            "id": "ad3d1cc8-a78b-4837-a7ef-32873ce6370d",
+            "boundaryNum": 31,
+            "name": "Kallai",
+            "localname": "\u0d15\u0d32\u0d4d\u0d32\u0d3e\u0d2f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "36",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "d8604f05-ae1c-4bda-b6fc-8804b3ed1cf2",
+    "boundaryNum": 32,
+    "name": "PANNIYANKARA",
+    "localname": "\u0d2a\u0d28\u0d4d\u0d28\u0d3f\u0d2f\u0d19\u0d4d\u0d15\u0d30",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "37",
+    "children": [
+        {
+            "id": "a2808783-a322-4de7-8cf7-c6bc3221d5e0",
+            "boundaryNum": 32,
+            "name": "PANNIYANKARA",
+            "localname": "\u0d2a\u0d28\u0d4d\u0d28\u0d3f\u0d2f\u0d19\u0d4d\u0d15\u0d30",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "37",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "5a4240fe-5906-49ec-81bb-1df34a72df8e",
+    "boundaryNum": 33,
+    "name": "MEENCHANDHA",
+    "localname": "\u0d2e\u0d40\u0d1e\u0d4d\u0d1a\u0d28\u0d4d\u0d24",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "38",
+    "children": [
+        {
+            "id": "514a9bef-6315-4487-a7d5-a29ed9794951",
+            "boundaryNum": 33,
+            "name": "MEENCHANDHA",
+            "localname": "\u0d2e\u0d40\u0d1e\u0d4d\u0d1a\u0d28\u0d4d\u0d24",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "38",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "40cb4b7c-3e65-4b0c-bd8f-4f6ce488d07f",
+    "boundaryNum": 34,
+    "name": "THIRUVANNUR",
+    "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "39",
+    "children": [
+        {
+            "id": "890be0c3-051b-4535-b8a1-c6dd36d33375",
+            "boundaryNum": 34,
+            "name": "THIRUVANNUR",
+            "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "39",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "02d50d49-c764-4b73-90d6-f59a244ea5ee",
+    "boundaryNum": 35,
+    "name": "KAPPAKKAL",
+    "localname": "\u0d15\u0d2a\u0d4d\u0d2a\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "54",
+    "children": [
+        {
+            "id": "ece6d28a-a245-47f6-bc47-6e09e89d7414",
+            "boundaryNum": 35,
+            "name": "KAPPAKKAL",
+            "localname": "\u0d15\u0d2a\u0d4d\u0d2a\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "54",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "6f5c4489-50d5-496d-82c6-d532195bb9ef",
+    "boundaryNum": 36,
+    "name": "PAYYANAKKAL",
+    "localname": "\u0d2a\u0d2f\u0d4d\u0d2f\u0d3e\u0d28\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "55",
+    "children": [
+        {
+            "id": "8c949f75-047e-4a73-8533-4c9a86728943",
+            "boundaryNum": 36,
+            "name": "PAYYANAKKAL",
+            "localname": "\u0d2a\u0d2f\u0d4d\u0d2f\u0d3e\u0d28\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "55",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "736df522-0bce-453c-9147-5a9835e638cf",
+    "boundaryNum": 37,
+    "name": "CHAKKUMKADAVE",
+    "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d41\u0d02\u0d15\u0d1f\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "56",
+    "children": [
+        {
+            "id": "3e09043d-2672-42ef-89a1-729374c45702",
+            "boundaryNum": 37,
+            "name": "CHAKKUMKADAVE",
+            "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d41\u0d02\u0d15\u0d1f\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "56",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "0cb0ce21-252a-4a24-bb5f-7ebcc0982aac",
+    "boundaryNum": 38,
+    "name": "MUKHADAR",
+    "localname": "\u0d2e\u0d41\u0d16\u0d26\u0d3e\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "57",
+    "children": [
+        {
+            "id": "0760c058-78b1-4cea-bc6f-a793ce212112",
+            "boundaryNum": 38,
+            "name": "MUKHADAR",
+            "localname": "\u0d2e\u0d41\u0d16\u0d26\u0d3e\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "57",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "5e57fb4d-a3ce-46ff-9f26-ae98411cbe9d",
+    "boundaryNum": 39,
+    "name": "KUTTICHIRA",
+    "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d31",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "58",
+    "children": [
+        {
+            "id": "3d10f98a-3c30-49de-80d9-e7023c23d03c",
+            "boundaryNum": 39,
+            "name": "KUTTICHIRA",
+            "localname": "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "58",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "b564b991-228b-4aee-9bda-400f73903003",
+    "boundaryNum": 40,
+    "name": "CHALAPPURAM",
+    "localname": "\u0d1a\u0d3e\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d31\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "59",
+    "children": [
+        {
+            "id": "b87ea7c6-b36d-47be-a828-d989ae858d7e",
+            "boundaryNum": 40,
+            "name": "CHALAPPURAM",
+            "localname": "\u0d1a\u0d3e\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d31\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "59",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "eff6bc0f-922b-4e1e-a938-e0de0bb21540",
+    "boundaryNum": 41,
+    "name": "PALAYAM",
+    "localname": "\u0d2a\u0d3e\u0d33\u0d2f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "60",
+    "children": [
+        {
+            "id": "a0d922dc-5622-48e6-8b75-32ad5a2eb4d6",
+            "boundaryNum": 41,
+            "name": "PALAYAM",
+            "localname": "\u0d2a\u0d3e\u0d33\u0d2f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "60",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "30bfac36-8c15-4da5-b1f8-4e263f04e2e3",
+    "boundaryNum": 42,
+    "name": "VALIYANGADI",
+    "localname": "\u0d35\u0d32\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "61",
+    "children": [
+        {
+            "id": "9f68bfa5-8fe0-4783-85d7-a2ba541c4ef4",
+            "boundaryNum": 42,
+            "name": "VALIYANGADI",
+            "localname": "\u0d35\u0d32\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "61",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "11fbda9a-d976-4945-aff1-519f79ba40b8",
+    "boundaryNum": 43,
+    "name": "MOONALINGAL",
+    "localname": "\u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d3f\u0d19\u0d4d\u0d19\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "62",
+    "children": [
+        {
+            "id": "73513711-87e6-42bc-bfe6-393492603fe4",
+            "boundaryNum": 43,
+            "name": "MOONALINGAL",
+            "localname": "\u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d3f\u0d19\u0d4d\u0d19\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "62",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "90b79e9c-3744-45b4-b5cc-a6e0df7709d6",
+    "boundaryNum": 44,
+    "name": "THIRUTHIYAD",
+    "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "63",
+    "children": [
+        {
+            "id": "5c7ecb24-8a27-4707-820d-ad8973a60381",
+            "boundaryNum": 44,
+            "name": "THIRUTHIYAD",
+            "localname": "\u0d24\u0d3f\u0d30\u0d41\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "63",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "0f0f211f-3632-4ca9-9968-c80fbdc15e33",
+    "boundaryNum": 45,
+    "name": "ERANHIPPALAM",
+    "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d2a\u0d4d\u0d2a\u0d3e\u0d32\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "64",
+    "children": [
+        {
+            "id": "02f4a296-ad2f-4313-8ec0-167af9bd44b6",
+            "boundaryNum": 45,
+            "name": "ERANHIPPALAM",
+            "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d2a\u0d4d\u0d2a\u0d3e\u0d32\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "64",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "198aba2b-511b-4fd9-aa26-6371d9b2037f",
+    "boundaryNum": 46,
+    "name": "NADAKKAVE",
+    "localname": "\u0d28\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "65",
+    "children": [
+        {
+            "id": "4cd78f0f-aece-4b79-b388-0e3b1fe3fe72",
+            "boundaryNum": 46,
+            "name": "NADAKKAVE",
+            "localname": "\u0d28\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d35\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "65",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "8fe1fc4b-9f88-40b6-b5e8-ac82800f93d6",
+    "boundaryNum": 47,
+    "name": "VELLAYIL",
+    "localname": "\u0d35\u0d46\u0d33\u0d33\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "66",
+    "children": [
+        {
+            "id": "71d4d047-145a-4898-ae09-7be6188c0933",
+            "boundaryNum": 47,
+            "name": "VELLAYIL",
+            "localname": "\u0d35\u0d46\u0d33\u0d33\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "66",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "66b22ed7-de5d-4669-91d7-620bb1426bd3",
+    "boundaryNum": 48,
+    "name": "THOPPAYIL",
+    "localname": "\u0d24\u0d4b\u0d2a\u0d4d\u0d2a\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "67",
+    "children": [
+        {
+            "id": "78009e32-249d-4132-8889-1cbe010a37e6",
+            "boundaryNum": 48,
+            "name": "THOPPAYIL",
+            "localname": "\u0d24\u0d4b\u0d2a\u0d4d\u0d2a\u0d2f\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "67",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "64fe29c9-c69f-47a0-a41d-a3d24c989e09",
+    "boundaryNum": 49,
+    "name": "CHAKKORATHUKULAM",
+    "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d4b\u0d30\u0d24\u0d4d\u0d24\u0d41\u0d15\u0d41\u0d33\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "68",
+    "children": [
+        {
+            "id": "b554d93b-3faf-436a-9841-412a061c4cfb",
+            "boundaryNum": 49,
+            "name": "CHAKKORATHUKULAM",
+            "localname": "\u0d1a\u0d15\u0d4d\u0d15\u0d4b\u0d30\u0d24\u0d4d\u0d24\u0d41\u0d15\u0d41\u0d33\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "68",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "76ef9e8c-9bf3-4123-8fe7-4b2d78c8c837",
+    "boundaryNum": 50,
+    "name": "KARAPPARAMB",
+    "localname": "\u0d15\u0d3e\u0d30\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "69",
+    "children": [
+        {
+            "id": "f178ec86-1f03-4489-929c-31898b5e0b77",
+            "boundaryNum": 50,
+            "name": "KARAPPARAMB",
+            "localname": "\u0d15\u0d3e\u0d30\u0d2a\u0d4d\u0d2a\u0d31\u0d2e\u0d4d\u0d2a\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "69",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "9a3d683d-a565-4bba-ab1f-456fcb304f5c",
+    "boundaryNum": 51,
+    "name": "EASTHILL",
+    "localname": "\u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "70",
+    "children": [
+        {
+            "id": "b9bc7572-f7f2-4991-9358-688d2aff0766",
+            "boundaryNum": 51,
+            "name": "EASTHILL",
+            "localname": "\u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "70",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "00dddcd5-84f8-4ab2-93c7-856dd0532729",
+    "boundaryNum": 52,
+    "name": "ATHANIKKAL",
+    "localname": "\u0d05\u0d24\u0d4d\u0d24\u0d3e\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "71",
+    "children": [
+        {
+            "id": "e2af5ee3-9fe2-44d6-8028-5d792db713d1",
+            "boundaryNum": 52,
+            "name": "ATHANIKKAL",
+            "localname": "\u0d05\u0d24\u0d4d\u0d24\u0d3e\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "71",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "ebb9d917-4dc2-4cc3-82b6-422ed72e4ab2",
+    "boundaryNum": 53,
+    "name": "WESTHILL",
+    "localname": "\u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "72",
+    "children": [
+        {
+            "id": "eaa6aadb-050c-4aef-b5e3-d418f03ce183",
+            "boundaryNum": 53,
+            "name": "WESTHILL",
+            "localname": "\u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d39\u0d3f\u0d32\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "72",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "a3c9ed11-0898-41a5-8eff-e68b01f5c753",
+    "boundaryNum": 54,
+    "name": "EDAKKAD",
+    "localname": "\u0d0e\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "73",
+    "children": [
+        {
+            "id": "b16e785d-b027-4b0d-8bf9-4e49e6ae2fb5",
+            "boundaryNum": 54,
+            "name": "EDAKKAD",
+            "localname": "\u0d0e\u0d1f\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "73",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "2fee851f-8863-4cd1-9ee2-3313db152110",
+    "boundaryNum": 55,
+    "name": "PUTHIYANGADI",
+    "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "74",
+    "children": [
+        {
+            "id": "494aeecd-392f-4a34-a127-1c1cddbd65f6",
+            "boundaryNum": 55,
+            "name": "PUTHIYANGADI",
+            "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d3f",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "74",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]},{"id":"1d47b1f2-051a-4ad7-a0e9-535d6e7f4b29","boundaryNum":2,"name":"Elathur","localname": "എലത്തൂർ","longitude":null,"latitude": null,"label":"Zone","code": "ELATHUR","children": [{
+    "id": "90227bdc-bc3a-4243-9868-1872d4c60cdd",
+    "boundaryNum": 56,
+    "name": "Elathur",
+    "localname": "\u0d0e\u0d32\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "1",
+    "children": [
+        {
+            "id": "b8c17212-c936-4852-b8a3-c33d70e462ed",
+            "boundaryNum": 56,
+            "name": "Elathur",
+            "localname": "\u0d0e\u0d32\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "1",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "9531e01b-bca3-4ca6-9a4c-e3f9b386eb5c",
+    "boundaryNum": 57,
+    "name": "Chettikulam",
+    "localname": "\u0d1a\u0d46\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d41\u0d33\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "2",
+    "children": [
+        {
+            "id": "b60b2bc2-ce53-41ad-a757-7f4b8058e4b4",
+            "boundaryNum": 57,
+            "name": "Chettikulam",
+            "localname": "\u0d1a\u0d46\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d41\u0d33\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "2",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "c2ef572a-66fb-4edf-9c23-e3e56cf05286",
+    "boundaryNum": 58,
+    "name": "Eranhikkal",
+    "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d15\u0d4d\u0d15\u0d7d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "3",
+    "children": [
+        {
+            "id": "39570033-a918-4b5e-8383-d86c72ee5fe5",
+            "boundaryNum": 58,
+            "name": "Eranhikkal",
+            "localname": "\u0d0e\u0d30\u0d1e\u0d4d\u0d1e\u0d3f\u0d15\u0d4d\u0d15\u0d7d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "3",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "6b62eb4f-1d02-4347-9577-663182736d08",
+    "boundaryNum": 59,
+    "name": "Puthur",
+    "localname": "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "4",
+    "children": [
+        {
+            "id": "c0a4634e-4516-44db-a4fe-007da257bbed",
+            "boundaryNum": 59,
+            "name": "Puthur",
+            "localname": "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "4",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "16a886c3-8696-40b4-a1f4-afb855fa9d76",
+    "boundaryNum": 60,
+    "name": "Mokavoor",
+    "localname": "\u0d2e\u0d46\u0d3e\u0d15\u0d35\u0d42\u0d7c",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "5",
+    "children": [
+        {
+            "id": "b2c09113-981e-4cc3-9c96-4baf8ab9166a",
+            "boundaryNum": 60,
+            "name": "Mokavoor",
+            "localname": "\u0d2e\u0d46\u0d3e\u0d15\u0d35\u0d42\u0d7c",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "5",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "1502c1c8-1fde-407a-a0fc-eb36f45a9bb3",
+    "boundaryNum": 61,
+    "name": "Puthiyappa",
+    "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d3e\u0d2a\u0d4d\u0d2a",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "75",
+    "children": [
+        {
+            "id": "2b067995-d07c-4424-8365-504df5e96b59",
+            "boundaryNum": 61,
+            "name": "Puthiyappa",
+            "localname": "\u0d2a\u0d41\u0d24\u0d3f\u0d2f\u0d3e\u0d2a\u0d4d\u0d2a",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "75",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]},{"id":"cf2a2904-093a-40b1-8286-050487ef152d","boundaryNum":3,"name":"Cheruvannur Nallalom","localname": "ചെറുവണ്ണൂര്‍ നല്ലളം","longitude":null,"latitude": null,"label":"Zone","code": "CHERUVANNUR _NALLALAM","children": [{
+    "id": "5f5bb1c3-8079-43f1-b7e5-4c167495067b",
+    "boundaryNum": 62,
+    "name": "AREEKKAD NORTH",
+    "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d \u0d28\u0d4b\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "40",
+    "children": [
+        {
+            "id": "607317c3-8d6d-41d6-a0b2-b8561ed18e0a",
+            "boundaryNum": 62,
+            "name": "AREEKKAD NORTH",
+            "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d \u0d28\u0d4b\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "40",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "f2a772c0-fa50-4911-a972-79c3361fd17b",
+    "boundaryNum": 63,
+    "name": "AREEKKAD",
+    "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "41",
+    "children": [
+        {
+            "id": "10e02c47-1ed3-42c8-bccd-a52b12d56ca8",
+            "boundaryNum": 63,
+            "name": "AREEKKAD",
+            "localname": "\u0d05\u0d30\u0d40\u0d15\u0d4d\u0d15\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "41",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "acd06d1a-3256-4e4b-b9f9-1e37a0b3731f",
+    "boundaryNum": 64,
+    "name": "NALLALAM",
+    "localname": "\u0d28\u0d32\u0d4d\u0d32\u0d33\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "42",
+    "children": [
+        {
+            "id": "437bc70e-fd72-46dd-aad3-017f9f9c0dd6",
+            "boundaryNum": 64,
+            "name": "NALLALAM",
+            "localname": "\u0d28\u0d32\u0d4d\u0d32\u0d33\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "42",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "adec7b7f-7d2c-43bf-9f30-721bcc350cd8",
+    "boundaryNum": 65,
+    "name": "KOLATHARA",
+    "localname": "\u0d15\u0d4a\u0d33\u0d24\u0d4d\u0d24\u0d31",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "43",
+    "children": [
+        {
+            "id": "8cb0f1ba-4f67-45ab-b44a-3689ec7d006d",
+            "boundaryNum": 65,
+            "name": "KOLATHARA",
+            "localname": "\u0d15\u0d4a\u0d33\u0d24\u0d4d\u0d24\u0d31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "43",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "13d9ca2c-b7ea-4fcf-ac4d-25836ad50325",
+    "boundaryNum": 66,
+    "name": "KUNDAYITHODE",
+    "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d2f\u0d3f\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "44",
+    "children": [
+        {
+            "id": "1a14bfed-2f8f-41e6-b5a8-4c01742c48c4",
+            "boundaryNum": 66,
+            "name": "KUNDAYITHODE",
+            "localname": "\u0d15\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d2f\u0d3f\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "44",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "0612de98-032d-4cd1-a503-4599fef69391",
+    "boundaryNum": 67,
+    "name": "CHERUVANNOOR EAST",
+    "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "45",
+    "children": [
+        {
+            "id": "9b99c6ad-f17c-4b72-80bf-bed6345363ce",
+            "boundaryNum": 67,
+            "name": "CHERUVANNOOR EAST",
+            "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d08\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "45",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "85876813-d1e1-4606-bd16-14295f258500",
+    "boundaryNum": 68,
+    "name": "CHERUVANNOOR WEST",
+    "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "46",
+    "children": [
+        {
+            "id": "7dd8e857-bf9d-4225-95a9-36f0e3760eaa",
+            "boundaryNum": 68,
+            "name": "CHERUVANNOOR WEST",
+            "localname": "\u0d1a\u0d46\u0d31\u0d41\u0d35\u0d23\u0d4d\u0d23\u0d42\u0d30\u0d4d\u200d \u0d35\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "46",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]},{"id":"24bfa2c7-fc17-44fb-9c99-d4c4091cb347","boundaryNum":4,"name":"Beypore","localname": "ബേപ്പൂര്‍","longitude":null,"latitude": null,"label":"Zone","code": "BEYPORE","children": [{
+    "id": "26a8b930-d318-45f7-856a-33b7ec0bc622",
+    "boundaryNum": 69,
+    "name": "BEYPORE PORT",
+    "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d \u0d2a\u0d4b\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "47",
+    "children": [
+        {
+            "id": "ca197e97-7cf0-4aaa-8fa3-f134065732e3",
+            "boundaryNum": 69,
+            "name": "BEYPORE PORT",
+            "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d \u0d2a\u0d4b\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "47",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "82bb000d-7239-4582-998e-91e743a5279d",
+    "boundaryNum": 70,
+    "name": "BEYPORE",
+    "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "48",
+    "children": [
+        {
+            "id": "30d4b194-f2c2-43f5-ab24-53772cfb3747",
+            "boundaryNum": 70,
+            "name": "BEYPORE",
+            "localname": "\u0d2c\u0d47\u0d2a\u0d4d\u0d2a\u0d42\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "48",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "b0604c39-aafa-4e6e-9be3-cedc18f00366",
+    "boundaryNum": 71,
+    "name": "MARAD",
+    "localname": "\u0d2e\u0d3e\u0d31\u0d3e\u0d1f\u0d4d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "49",
+    "children": [
+        {
+            "id": "52d13f14-4899-4f4f-b6a1-6423b7b0f052",
+            "boundaryNum": 71,
+            "name": "MARAD",
+            "localname": "\u0d2e\u0d3e\u0d31\u0d3e\u0d1f\u0d4d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "49",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "ca1e5107-df5e-4363-a33c-8e05fe23f1b6",
+    "boundaryNum": 72,
+    "name": "NADUVATTAM",
+    "localname": "\u0d28\u0d1f\u0d41\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "50",
+    "children": [
+        {
+            "id": "25ad5902-0995-4b91-92ac-449320f87b06",
+            "boundaryNum": 72,
+            "name": "NADUVATTAM",
+            "localname": "\u0d28\u0d1f\u0d41\u0d35\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "50",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "c0631824-facd-47f2-aaaa-7ff3fd37291a",
+    "boundaryNum": 73,
+    "name": "PUNCHAPADAM",
+    "localname": "\u0d2a\u0d41\u0d1e\u0d4d\u0d1a\u0d2a\u0d4d\u0d2a\u0d3e\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "51",
+    "children": [
+        {
+            "id": "2339dee2-f1ea-443a-b1d9-aeabbc4f07f4",
+            "boundaryNum": 73,
+            "name": "PUNCHAPADAM",
+            "localname": "\u0d2a\u0d41\u0d1e\u0d4d\u0d1a\u0d2a\u0d4d\u0d2a\u0d3e\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "51",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "2f90e939-46e7-44ef-a5a8-d0e121ed780b",
+    "boundaryNum": 74,
+    "name": "ARAKKINAR",
+    "localname": "\u0d05\u0d30\u0d15\u0d4d\u0d15\u0d3f\u0d23\u0d30\u0d4d\u200d",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "52",
+    "children": [
+        {
+            "id": "0c9efda0-cf2a-44ab-8643-7696ecbab22f",
+            "boundaryNum": 74,
+            "name": "ARAKKINAR",
+            "localname": "\u0d05\u0d30\u0d15\u0d4d\u0d15\u0d3f\u0d23\u0d30\u0d4d\u200d",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "52",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+},{
+    "id": "67ef87ff-d9b5-4514-9950-1aadfc38f7ca",
+    "boundaryNum": 75,
+    "name": "MATHOTTAM",
+    "localname": "\u0d2e\u0d3e\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d\u0d1f\u0d02",
+    "longitude": null,
+    "latitude": null,
+    "label": "Ward ",
+    "code": "53",
+    "children": [
+        {
+            "id": "77ba4769-af84-4bfb-9ae7-f3bf22e6d76d",
+            "boundaryNum": 75,
+            "name": "MATHOTTAM",
+            "localname": "\u0d2e\u0d3e\u0d24\u0d4d\u0d24\u0d4b\u0d1f\u0d4d\u0d1f\u0d02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "53",
+            "pincode": [
+                123456
+            ],
+            "area": "A1",
+            "children": []
+        }
+    ]
+}]}]}}]}
