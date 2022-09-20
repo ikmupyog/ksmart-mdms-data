@@ -703,7 +703,7 @@
             "idname": "death_cert.receipt.id"
         },
         {
-            "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+            "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]-[TENANT_ID]",
             "idname": "tl.aplnumber"
         }
     ]
