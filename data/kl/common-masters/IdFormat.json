@@ -701,6 +701,10 @@
         {
             "format": "DT/CB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
             "idname": "death_cert.receipt.id"
+        },
+        {
+            "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+            "idname": "tl.aplnumber"
         }
     ]
 }
