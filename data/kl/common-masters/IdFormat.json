@@ -706,6 +706,7 @@
             "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
             "idname": "tl.licensenumber"
         },
+        {
             "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]-[TENANT_ID]",
             "idname": "tl.aplnumber"
         }
