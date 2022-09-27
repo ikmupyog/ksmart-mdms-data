@@ -27,7 +27,7 @@
     "code": "MANUFACTORING.LARGE",
     "typeName": "Large enterprise",
     "investmentFrom": 100000001,
-    "investmentTo": 100000000
+    "investmentTo": 100000000000
 },{
     "sectorName": "Service sector",
     "code": "SERVICE.MICRO",
@@ -57,11 +57,5 @@
     "code": "SERVICE.LARGE",
     "typeName": "Large enterprise",
     "investmentFrom": 50000001,
-    "investmentTo": 100000000
-},{
-    "sectorName": "Service sector",
-    "code": "SERVICE.LARGE",
-    "typeName": "Large enterprise",
-    "investmentFrom": 50000001,
-    "investmentTo": 100000000
+    "investmentTo": 100000000000
 }]}
