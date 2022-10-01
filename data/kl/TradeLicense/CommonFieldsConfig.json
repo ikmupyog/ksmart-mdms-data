@@ -262,6 +262,23 @@
                     "hideInEmployee": true,
                     "nextStep": "commencement-date"
                 },
+                {
+                    "type": "component",
+                    "route": "Building-type",
+                    "isMandatory": true,
+                    "component": "SelectBuildingType",
+                    "texts": {
+                        "headerCaption": "TL_STRUCTURE_SUBTYPE_CAPTION",
+                        "header": "TL_BUILDING_TYPE_HEADER",
+                        "cardText": "TL_BUILDING_TYPE_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT"
+                    },
+                    "key": "TradeDetails",
+                    "withoutLabel": true,
+                    "hideInEmployee": true,
+                    "nextStep": "commencement-date"
+                },
+                
                 
                 {
                     "type": "component",
