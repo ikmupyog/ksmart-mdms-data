@@ -262,7 +262,7 @@
                     "hideInEmployee": true,
                     "nextStep": "commencement-date"
                 },
-                {
+                /*{
                     "type": "component",
                     "route": "Building-type",
                     "isMandatory": true,
@@ -272,7 +272,7 @@
                         "header": "TL_BUILDING_TYPE_HEADER",
                         "cardText": "TL_BUILDING_TYPE_TEXT",
                         "submitBarLabel": "CS_COMMON_NEXT"
-                    },
+                    },*/
                     "key": "TradeDetails",
                     "withoutLabel": true,
                     "hideInEmployee": true,
