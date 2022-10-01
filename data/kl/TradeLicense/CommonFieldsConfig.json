@@ -262,23 +262,22 @@
                     "hideInEmployee": true,
                     "nextStep": "commencement-date"
                 },
-                {
+                 {
                     "type": "component",
-                    "route": "Building-type",
+                    "route": "commencement-date",
                     "isMandatory": true,
-                    "component": "SelectBuildingType",
+                    "component": "SelectCommencementDate",
                     "texts": {
-                        "headerCaption": "TL_STRUCTURE_SUBTYPE_CAPTION",
-                        "header": "TL_BUILDING_TYPE_HEADER",
-                        "cardText": "TL_BUILDING_TYPE_TEXT",
+                        "headerCaption": "",
+                        "header": "TL_NEW_TRADE_DETAILS_TRADE_COMM_DATE_LABEL",
+                        "cardText": "TL_TRADE_COMM_DATE_TEXT",
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "key": "TradeDetails",
                     "withoutLabel": true,
                     "hideInEmployee": true,
-                    "nextStep": "commencement-date"
+                    "nextStep": "units-details"
                 },
-                
                 
                 {
                     "type": "component",
