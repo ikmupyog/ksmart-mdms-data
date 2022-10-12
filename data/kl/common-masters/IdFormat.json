@@ -711,6 +711,10 @@
             "idname": "tl.licensenumber"
         },
         {
+            "format": "KL-FM-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+            "idname": "fm.filecode"
+        },
+        {
             "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]-[TENANT_ID]",
             "idname": "tl.aplnumber"
         }
