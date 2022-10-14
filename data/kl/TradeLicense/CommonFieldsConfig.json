@@ -206,8 +206,8 @@
             "body": [
                 {
                     "route": "info",
-                    "component": "TradeLicense",
-                    "nextStep": "TradeName",
+                    "component": "SelectTradeName",
+                    "nextStep": "structure-type",
                     "hideInEmployee": true,
                     "key": "tl"
                 },
