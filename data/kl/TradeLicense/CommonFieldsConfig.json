@@ -235,11 +235,7 @@
                     "withoutLabel": true,
                     "hideInEmployee": true,
 		    "nextStep": "commencement-date"
-                    /*"nextStep": {
-                        "TL_COMMON_YES": "Building-type",
-                        "TL_COMMON_NO": "vehicle-type"
-                    }*/
-                },
+                     },
                 {
                     "type": "component",
                     "route": "vehicle-type",
