@@ -235,7 +235,7 @@
                     "withoutLabel": true,
                     "hideInEmployee": true,
 		    "nextStep": "commencement-date"
-                     },
+                },
                 {
                     "type": "component",
                     "route": "vehicle-type",
