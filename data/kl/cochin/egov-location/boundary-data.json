@@ -1,7 +1,7 @@
 {
   "tenantId": "kl.cochin",
   "moduleName": "egov-location",
-  "boundary-data": [
+  "TenantBoundary": [
     {
       "hierarchyType": {
         "code": "REVENUE",
