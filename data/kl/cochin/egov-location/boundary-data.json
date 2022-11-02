@@ -18,9 +18,9 @@
         "code": "kl.cochin",
         "children": [
           {
+             "name": "Main Office",
             "id": "c6b0038f-04ff-4e66-9546-aa527bb19ad6",
-            "boundaryNum": 1,
-            "name": "Main Office",
+            "boundaryNum": 1,           
             "localname": "മുഖ്യ ഓഫീസ് ",
             "longitude": null,
             "latitude": null,
@@ -29,9 +29,9 @@
             "assesmentyear": "2013",
             "children": [
               {
-                "id": "71570a1d-667a-4ec4-bc50-a89fe092f981",
-                "boundaryNum": 1,
                 "name": "Panampilli Nagar",
+                "id": "71570a1d-667a-4ec4-bc50-a89fe092f981",
+                "boundaryNum": 1,                
                 "localname": "പനമ്പിള്ളി നഗര്‍",
                 "longitude": null,
                 "latitude": null,
