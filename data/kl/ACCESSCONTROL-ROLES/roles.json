@@ -613,6 +613,11 @@
       "description": "Birth and Death Approver"
     },
     {
+      "code": "BND_DISTRICT_REGISTRAR",
+      "name": "Birth and Death Enquiry officer",
+      "description": "Birth and Death Enquiry officer after one year"
+    },
+    {
       "code": "DASHBOARD_REPORT_VIEWER",
       "name": "Birth and Death Dashboard User",
       "description": "Birth and Death Dashboard User"
