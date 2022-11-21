@@ -3,14 +3,14 @@
     "moduleName": "Chatbot",
     "CityLocaleMasterData": [
         {
-            "cityName": "City A",
+            "cityName": "Cohin",
             "locale": "in_en",
-            "tenantId": "pg.citya"
+            "tenantId": "kl.cochin"
         },
         {
-            "cityName": "शहर अ",
-            "locale": "in_hi",
-            "tenantId": "pg.citya"
+            "cityName": "കൊച്ചി",
+            "locale": "in_ml",
+            "tenantId": "kl.cochin"
         },
         {
             "cityName": "City B",
