@@ -8,6 +8,26 @@
       "description": "Citizen who can raise complaint"
     },
     {
+      "code": "FM_CEMP",
+      "name": "FM Counter Employee",
+      "description": "Counter Employee in File Management who files file on behalf of the citizen"
+    },
+    {
+      "code": "FM_OPERATOR",
+      "name": "TL Operator",
+      "description": "Who has a access to File management Workflow"
+    },
+    {
+      "code": "FM_VERIFIER",
+      "name": "FM Verifier",
+      "description": "Filemanagement Verifier"
+    },
+    {
+      "code": "FM_APPROVER",
+      "name": "FM Approver",
+      "description": "Who has a access to File management Workflow"
+    },
+    {
       "code": "EMPLOYEE",
       "name": "Employee",
       "description": "Default role for all employees"
