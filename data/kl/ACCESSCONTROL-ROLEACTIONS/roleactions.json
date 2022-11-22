@@ -8,6 +8,74 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+ 
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },   
+    {
+      "rolecode": "FM_CEMP",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_CEMP",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_CEMP",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_OPERATOR",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_APPROVER",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },    
+    {
+      "rolecode": "FM_VERIFIER",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   
     {
       "rolecode": "RO",
       "actionid": 596,
