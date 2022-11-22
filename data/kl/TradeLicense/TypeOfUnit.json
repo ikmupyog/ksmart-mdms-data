@@ -1,0 +1,76 @@
+{
+  "tenantId": "kl",
+  "moduleName": "TradeLicense",
+  "TypeOfUnit": [
+    {
+      "name": "Site",
+      "namelocal": "സൈറ്റ്",
+      "code": "TYPE_UNIT_SITE",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Manufacturing Unit/Assembly Unit/Plant/Factory",
+      "namelocal": "നിർമ്മാണ യൂണിറ്റ്/ അസ്സംബ്ലി യൂണിറ്റ്/ പ്ലാന്റ്/ഫാക്ടറി",
+      "code": "TYPE_UNIT_MANUFACTURING_OTHERS",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Workplace/Workshop",
+      "namelocal": "പണിസ്ഥലം/പണിശാല",
+      "code": "TYPE_UNIT_WORKPLACE_SHOP",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Shop/Selling Place",
+      "namelocal": "കട/വ്യാപാര സ്ഥലം",
+      "code": "TYPE_UNIT_SHOP_SELLING_PLACE",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Food Establishment",
+      "namelocal": "ഭക്ഷണ വിഭവ ശാലകൾ",
+      "code": "TYPE_UNIT_FOOD_EST",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Storage/Warehouse",
+      "namelocal": "സംഭരണശാലകൾ",
+      "code": "TYPE_UNIT__STORAGE_WAREHOUSE",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Office",
+      "namelocal": "ഒഫ്ഫീസ്",
+      "code": "TYPE_UNIT_OFFICE",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Educational Institution",
+      "namelocal": "വിദ്യാഭ്യാസ സ്ഥാപനം",
+      "code": "TYPE_UNIT_EDUCATION_INS",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Hospital/Clinic",
+      "namelocal": "ആശുപതികൾ/ക്ലിനിക്കുകൾ",
+      "code": "TYPE_UNIT_HSPTL_CLINIC",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Assembly/Lodging/Accommodation/Recreational Facility",
+      "namelocal": "സമ്മേളനസ്ഥലങ്ങൾ/താമസ്സ സ്ഥലങ്ങൾ/വിനോദ സ്ഥലങ്ങൾ",
+      "code": "TYPE_UNIT_ASSEMBLY_OTHER_FACILITIES",
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}
