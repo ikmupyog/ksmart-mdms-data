@@ -23,7 +23,7 @@
          "displayName": "Create File",
          "orderNumber": 0,
          "enabled": false,
-         "serviceCode": "filemgmnt",
+         "serviceCode": "egov-filemgmnt",
          "code": "null",
          "path": ""
       },
@@ -35,7 +35,7 @@
          "displayName": "Update File",
          "orderNumber": 0,
          "enabled": false,
-         "serviceCode": "filemgmnt",
+         "serviceCode": "egov-filemgmnt",
          "code": "null",
          "path": ""
       },
@@ -47,7 +47,7 @@
          "displayName": "Search File",
          "orderNumber": 0,
          "enabled": false,
-         "serviceCode": "filemgmnt",
+         "serviceCode": "egov-filemgmnt",
          "code": "null",
          "path": ""
       },
