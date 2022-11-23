@@ -1,0 +1,48 @@
+{
+  "tenantId": "kl",
+  "moduleName": "TradeLicense",
+  "NatureOfInstitution": [
+    {
+      "name": "Partnership",
+      "namelocal": "പങ്കാളിത്ത സംരംഭം",
+      "code": "NATURE_INSTITUTION_PARTNERSHIP",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Company",
+      "namelocal": "കമ്പനി",
+      "code": "NATURE_INSTITUTION_COMPANY",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Statutory Corporation",
+      "namelocal": "സ്റ്റാട്യൂട്ടറി കോർപ്പറേഷൻ",
+      "code": "NATURE_INSTITUTION_STATUTORY_CORPORATION",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Cooperative",
+      "namelocal": "സഹകരണ സ്ഥാപനം",
+      "code": "NATURE_INSTITUTION_COOPERATIVE",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Society",
+      "namelocal": "സംഘം",
+      "code": "NATURE_INSTITUTION_SOCIETY",
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "name": "Trust",
+      "namelocal": "ട്രസ്റ്റുകൾ",
+      "code": "NATURE_INSTITUTION_TRUST",
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}
