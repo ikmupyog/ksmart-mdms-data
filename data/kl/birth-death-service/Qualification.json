@@ -1,0 +1,48 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "Qualification": [
+    {
+      "name": "Illiterate",
+      "namelocal": "",
+      "code": "QUALIFICATION_ILLITERATE",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Non Formally Educated",
+      "namelocal": "",
+      "code": "QUALIFICATION_NON_FORMALLY",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Qualification below Matriculation",
+      "namelocal": "",
+      "code": "QUALIFICATION_BELOW_MATRICULATION",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Matriculation 10th Std",
+      "namelocal": "",
+      "code": "QUALIFICATION_10STD",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Pre-Degree/12th Std",
+      "namelocal": "",
+      "code": "QUALIFICATION_12STD",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Graduation and Above",
+      "namelocal": "",
+      "code": "QUALIFICATION_GRADUATION_AND_ABOVE",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
