@@ -1,0 +1,17 @@
+{
+
+   "tenantId": "kssm",
+   "moduleName": "KSSM-DATA",
+  "gm_schooltype":[
+    {
+        "school_typeid": 1,
+        "schooltype_mal": "ഗവര്‍ണ്‌മെന്‍റ്",
+        "school_type_eng": "Government"
+    },
+    {
+        "school_typeid": 2,
+        "schooltype_mal": "എയ്ഡഡ്",
+        "school_type_eng": "Aided"
+    }
+]
+}
