@@ -1,6 +1,6 @@
 {
   "tenantId": "kl",
-  "moduleName": "birth-death-service",
+  "moduleName": "common-masters",
   "Religion": [
     {
       "name": "Hindu",
