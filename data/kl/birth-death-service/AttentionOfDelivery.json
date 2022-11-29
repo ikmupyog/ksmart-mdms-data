@@ -1,0 +1,41 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "AttentionOfDelivery": [
+    {
+      "name": "Institutional - Government",
+      "namelocal": "",
+      "code": "DELIVERY_ATTENTION_GOVERNMENT",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Institutional - Private or Non -Government",
+      "namelocal": "",
+      "code": "DELIVERY_ATTENTION_PRIVATE",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Doctors, Nurse or Trained midwife",
+      "namelocal": "",
+      "code": "DELIVERY_ATTENTION_DOCTOR",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Traditional birth attendant",
+      "namelocal": "",
+      "code": "DELIVERY_ATTENTION_TRADITIONAL_ATTENDANT",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Relatives or others",
+      "namelocal": "",
+      "code": "DELIVERY_ATTENTION_RELATIVES",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
