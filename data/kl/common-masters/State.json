@@ -1,11 +1,11 @@
 {
   "tenantId": "kl",
   "moduleName": "common-masters",
-  "State": [
+  "mstate": [
     {
       "name": "Himachal Pradesh",
       "namelocal": "ഹിമാചല്‍ പ്രദേശ്",
-      "statecode": "NULL",
+      "statecode": "HP",
       "id": 2,
       "stateid": 77,
       "code": "STATE_HIMACHAL_PRADESH",
@@ -16,7 +16,7 @@
     {
       "name": "Punjab",
       "namelocal": "പഞ്ചാബ്",
-      "statecode": "NULL",
+      "statecode": "PB",
       "id": 3,
       "stateid": 77,
       "code": "STATE_PUNJAB",
@@ -27,7 +27,7 @@
     {
       "name": "Chandigarh",
       "namelocal": "ചണ്ഡിഗര്‍",
-      "statecode": "NULL",
+      "statecode": "CH",
       "id": 4,
       "stateid": 77,
       "code": "STATE_CHANDIGARH",
@@ -38,7 +38,7 @@
     {
       "name": "Uttarakhand",
       "namelocal": "ഉത്തരാഖണ്ഡ്",
-      "statecode": "NULL",
+      "statecode": "UT",
       "id": 5,
       "stateid": 77,
       "code": "STATE_UTTARAKHAND",
@@ -49,7 +49,7 @@
     {
       "name": "Haryana",
       "namelocal": "ഹരിയാന",
-      "statecode": "NULL",
+      "statecode": "HR",
       "id": 6,
       "stateid": 77,
       "code": "STATE_HARYANA",
@@ -60,7 +60,7 @@
     {
       "name": "Delhi",
       "namelocal": "‍ഡെല്‍ഹി",
-      "statecode": "NULL",
+      "statecode": "DL",
       "id": 7,
       "stateid": 77,
       "code": "STATE_DELHI",
@@ -71,7 +71,7 @@
     {
       "name": "Rajasthan",
       "namelocal": "രാജസ്താന്‍",
-      "statecode": "NULL",
+      "statecode": "RJ",
       "id": 8,
       "stateid": 77,
       "code": "STATE_RAJASTHAN",
@@ -82,7 +82,7 @@
     {
       "name": "Uttar Pradesh",
       "namelocal": "ഉത്തര്‍ പ്രദേശ്",
-      "statecode": "NULL",
+      "statecode": "UP",
       "id": 9,
       "stateid": 77,
       "code": "STATE_UTTARPRADESH",
@@ -93,7 +93,7 @@
     {
       "name": "Bihar",
       "namelocal": "ബീഹാര്‍",
-      "statecode": "NULL",
+      "statecode": "BR",
       "id": 10,
       "stateid": 77,
       "code": "STATE_BIHAR",
@@ -104,7 +104,7 @@
     {
       "name": "Sikkim",
       "namelocal": "സിക്കിം",
-      "statecode": "NULL",
+      "statecode": "SK",
       "id": 11,
       "stateid": 77,
       "code": "STATE_SIKKIM",
@@ -115,7 +115,7 @@
     {
       "name": "Arunachal Pradesh",
       "namelocal": "അരുണാചല്‍ പ്രദേശ്",
-      "statecode": "NULL",
+      "statecode": "AR",
       "id": 12,
       "stateid": 77,
       "code": "STATE_ARUNACHAL_PRADESH",
@@ -126,7 +126,7 @@
     {
       "name": "Nagaland",
       "namelocal": "നാഗാലാന്റ്",
-      "statecode": "NULL",
+      "statecode": "NL",
       "id": 13,
       "stateid": 77,
       "code": "STATE_NAGALAND",
@@ -137,7 +137,7 @@
     {
       "name": "Manipur",
       "namelocal": "മണിപ്പുര്‍",
-      "statecode": "NULL",
+      "statecode": "MN",
       "id": 14,
       "stateid": 77,
       "code": "STATE_MANIPUR",
@@ -148,7 +148,7 @@
     {
       "name": "Mizoram",
       "namelocal": "മിസോറാം",
-      "statecode": "NULL",
+      "statecode": "MZ",
       "id": 15,
       "stateid": 77,
       "code": "STATE_MIZORAM",
@@ -159,7 +159,7 @@
     {
       "name": "Tripura",
       "namelocal": "തൃപുര",
-      "statecode": "NULL",
+      "statecode": "TR",
       "id": 16,
       "stateid": 77,
       "code": "STATE_TRIPURA",
@@ -170,7 +170,7 @@
     {
       "name": "Meghalaya",
       "namelocal": "മേഘാലയ",
-      "statecode": "NULL",
+      "statecode": "ML",
       "id": 17,
       "stateid": 77,
       "code": "STATE_MEGHALAYA",
@@ -181,7 +181,7 @@
     {
       "name": "Assam",
       "namelocal": "ആസം",
-      "statecode": "NULL",
+      "statecode": "AS",
       "id": 18,
       "stateid": 77,
       "code": "STATE_ASSAM",
@@ -192,7 +192,7 @@
     {
       "name": "West Bengal",
       "namelocal": "പശ്ചിമ ബംഗാള്‍",
-      "statecode": "NULL",
+      "statecode": "WB",
       "id": 19,
       "stateid": 77,
       "code": "STATE_WESTBENGAL",
@@ -203,7 +203,7 @@
     {
       "name": "Jharkhand",
       "namelocal": "ഝാര്‍ഖണ്ഡ്",
-      "statecode": "NULL",
+      "statecode": "JH",
       "id": 20,
       "stateid": 77,
       "code": "STATE_JHARKHAND",
@@ -214,7 +214,7 @@
     {
       "name": "Odisha",
       "namelocal": "ഒഡിഷ്യ",
-      "statecode": "NULL",
+      "statecode": "OR",
       "id": 21,
       "stateid": 77,
       "code": "STATE_ODISHA",
@@ -225,7 +225,7 @@
     {
       "name": "Chhattisgarh",
       "namelocal": "ഝത്തീസ്ഗര്‍",
-      "statecode": "NULL",
+      "statecode": "CT",
       "id": 22,
       "stateid": 77,
       "code": "STATE_CHHATTISGARH",
@@ -236,7 +236,7 @@
     {
       "name": "Madhya Pradesh",
       "namelocal": "മദ്ധ്യപ്രദേശ്",
-      "statecode": "NULL",
+      "statecode": "MP",
       "id": 23,
       "stateid": 77,
       "code": "STATE_MADHYA_PRADESH",
@@ -247,7 +247,7 @@
     {
       "name": "Gujarat",
       "namelocal": "ഗുജറാത്ത്",
-      "statecode": "NULL",
+      "statecode": "GJ",
       "id": 24,
       "stateid": 77,
       "code": "STATE_GUJARAT",
@@ -258,7 +258,7 @@
     {
       "name": "Daman And Diu",
       "namelocal": "ഡാമന്‍ ആന്റ് ഡ്യൂ",
-      "statecode": "NULL",
+      "statecode": "DD",
       "id": 25,
       "stateid": 77,
       "code": "STATE_DAMAN_AND_DIU",
@@ -269,7 +269,7 @@
     {
       "name": "Dadra And Nagar Haveli",
       "namelocal": "ദാദ്രാ ആന്റ് നാഗര്‍ ഹവേലി",
-      "statecode": "NULL",
+      "statecode": "DN",
       "id": 26,
       "stateid": 77,
       "code": "STATE_DADRA_AND_NAGAR_HAVELI",
@@ -280,7 +280,7 @@
     {
       "name": "Maharashtra",
       "namelocal": "മഹാരാഷ്ട്ര",
-      "statecode": "NULL",
+      "statecode": "MH",
       "id": 27,
       "stateid": 77,
       "code": "STATE_MAHARASHTRA",
@@ -291,7 +291,7 @@
     {
       "name": "Andhra Pradesh",
       "namelocal": "ആന്ധ്രാപ്രദേശ്",
-      "statecode": "NULL",
+      "statecode": "AP",
       "id": 28,
       "stateid": 77,
       "code": "STATE_ANDHRA_PRADESH",
@@ -302,7 +302,7 @@
     {
       "name": "Karnataka",
       "namelocal": "കര്‍ണാടക",
-      "statecode": "NULL",
+      "statecode": "KA",
       "id": 29,
       "stateid": 77,
       "code": "STATE_KARNATAKA",
@@ -313,7 +313,7 @@
     {
       "name": "Goa",
       "namelocal": "ഗോവ",
-      "statecode": "NULL",
+      "statecode": "GA",
       "id": 30,
       "stateid": 77,
       "code": "STATE_GOA",
@@ -324,7 +324,7 @@
     {
       "name": "Lakshadweep",
       "namelocal": "ലക്ഷദിപ്",
-      "statecode": "NULL",
+      "statecode": "LD",
       "id": 31,
       "stateid": 77,
       "code": "STATE_LAKSHADWEEP",
@@ -335,7 +335,7 @@
     {
       "name": "Kerala",
       "namelocal": "കേരളം",
-      "statecode": "NULL",
+      "statecode": "KL",
       "id": 32,
       "stateid": 77,
       "code": "STATE_KERALA",
@@ -346,7 +346,7 @@
     {
       "name": "Tamil Nadu",
       "namelocal": "തമിഴ് നാട്",
-      "statecode": "NULL",
+      "statecode": "TN",
       "id": 33,
       "stateid": 77,
       "code": "STATE_TAMIL_NADU",
@@ -357,7 +357,7 @@
     {
       "name": "Puducherry",
       "namelocal": "പുതുച്ചേരി",
-      "statecode": "NULL",
+      "statecode": "PY",
       "id": 34,
       "stateid": 77,
       "code": "STATE_PUDUCHERRY",
@@ -368,7 +368,7 @@
     {
       "name": "Andaman And Nicobar Islands",
       "namelocal": "ആന്റമാന്‍ ആന്റ് നിക്കോബാര്‍  ഐലന്റസ്",
-      "statecode": "NULL",
+      "statecode": "AN",
       "id": 35,
       "stateid": 77,
       "code": "STATE_ANDAMAN_AND_NICOBARISLANDS",
@@ -379,7 +379,7 @@
     {
       "name": "Telangana",
       "namelocal": "തെലുങ്കാന",
-      "statecode": "NULL",
+      "statecode": "TL",
       "id": 36,
       "stateid": 77,
       "code": "STATE_TELANGANA",
@@ -390,7 +390,7 @@
     {
       "name": "Jammu And Kashmir",
       "namelocal": "ജമ്മു ആന്റ് കാഷ്മീര്‍",
-      "statecode": "NULL",
+      "statecode": "JK",
       "id": 1,
       "stateid": 77,
       "code": "STATE_JAMMU_AND_KASHMIR",
@@ -401,7 +401,7 @@
     {
       "name": "Ladakh",
       "namelocal": "ലഡാക്ക്",
-      "statecode": "NULL",
+      "statecode": "LK",
       "id": 37,
       "stateid": 77,
       "code": "STATE_LADAKH",
