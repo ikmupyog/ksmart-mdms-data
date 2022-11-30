@@ -1,11 +1,11 @@
 {
   "tenantId": "kl",
   "moduleName": "common-masters",
-  "Taluk": [
+  "mtaluk": [
     {
       "name": "Cherthala",
       "namelocal": "ചേര്‍ത്തല",
-      "mgrntalukid": 15,
+      "migrationtalukid": 15,
       "officecode": 100001,
       "id": 1,
       "code": "TALUK_CHERTHALA",
@@ -16,7 +16,7 @@
     {
       "name": "Ambalappuzha",
       "namelocal": "അമ്പലപ്പുഴ",
-      "mgrntalukid": 16,
+      "migrationtalukid": 16,
       "officecode": 100002,
       "id": 2,
       "code": "TALUK_AMBALAPPUZHA",
@@ -27,7 +27,7 @@
     {
       "name": "Kuttanad",
       "namelocal": "കുട്ടനാട്",
-      "mgrntalukid": 17,
+      "migrationtalukid": 17,
       "officecode": 100003,
       "id": 3,
       "code": "TALUK_KUTTANAD",
@@ -38,7 +38,7 @@
     {
       "name": "Karthikappally",
       "namelocal": "കാര്‍ത്തികപ്പള്ളി",
-      "mgrntalukid": 18,
+      "migrationtalukid": 18,
       "officecode": 100004,
       "id": 4,
       "code": "TALUK_KARTHIKAPPALLY",
@@ -49,7 +49,7 @@
     {
       "name": "Chengannur",
       "namelocal": "ചെങ്ങന്നൂര്‍",
-      "mgrntalukid": 19,
+      "migrationtalukid": 19,
       "officecode": 100005,
       "id": 5,
       "code": "TALUK_CHENGANNUR",
@@ -60,7 +60,7 @@
     {
       "name": "Mavelikkara",
       "namelocal": "മാവേലിക്കര",
-      "mgrntalukid": 20,
+      "migrationtalukid": 20,
       "officecode": 100006,
       "id": 6,
       "code": "TALUK_MAVELIKKARA",
@@ -71,7 +71,7 @@
     {
       "name": "Kunnathunad",
       "namelocal": "കുന്നത്തുനാട്",
-      "mgrntalukid": 30,
+      "migrationtalukid": 30,
       "officecode": 100007,
       "id": 7,
       "code": "TALUK_KUNNATHUNAD",
@@ -82,7 +82,7 @@
     {
       "name": "Aluva",
       "namelocal": "ആലുവ",
-      "mgrntalukid": 31,
+      "migrationtalukid": 31,
       "officecode": 100008,
       "id": 8,
       "code": "TALUK_ALUVA",
@@ -93,7 +93,7 @@
     {
       "name": "Paravur",
       "namelocal": "നോര്‍ത്ത് പറവൂര്‍",
-      "mgrntalukid": 32,
+      "migrationtalukid": 32,
       "officecode": 100009,
       "id": 9,
       "code": "TALUK_PARAVUR",
@@ -104,7 +104,7 @@
     {
       "name": "Kochi",
       "namelocal": "കൊച്ചി",
-      "mgrntalukid": 33,
+      "migrationtalukid": 33,
       "officecode": 100010,
       "id": 10,
       "code": "TALUK_KOCHI",
@@ -115,7 +115,7 @@
     {
       "name": "Kanayannur",
       "namelocal": "കണയന്നൂര്‍",
-      "mgrntalukid": 34,
+      "migrationtalukid": 34,
       "officecode": 100011,
       "id": 11,
       "code": "TALUK_KANAYANNUR",
@@ -126,7 +126,7 @@
     {
       "name": "Muvattupuzha",
       "namelocal": "മുവ്വാറ്റുപുഴ",
-      "mgrntalukid": 35,
+      "migrationtalukid": 35,
       "officecode": 100012,
       "id": 12,
       "code": "TALUK_MUVATTUPUZHA",
@@ -137,7 +137,7 @@
     {
       "name": "Kothamangalam",
       "namelocal": "കോതമംഗലം",
-      "mgrntalukid": 36,
+      "migrationtalukid": 36,
       "officecode": 100013,
       "id": 13,
       "code": "TALUK_KOTHAMANGALAM",
@@ -148,7 +148,7 @@
     {
       "name": "Devikulam",
       "namelocal": "ദേവികുളം",
-      "mgrntalukid": 26,
+      "migrationtalukid": 26,
       "officecode": 100014,
       "id": 14,
       "code": "TALUK_DEVIKULAM",
@@ -159,7 +159,7 @@
     {
       "name": "Udumbanchola",
       "namelocal": "ഉടുമ്പന്‍ ചോല",
-      "mgrntalukid": 27,
+      "migrationtalukid": 27,
       "officecode": 100015,
       "id": 15,
       "code": "TALUK_UDUMBANCHOLA",
@@ -170,7 +170,7 @@
     {
       "name": "Thodupuzha",
       "namelocal": "തൊടുപുഴ",
-      "mgrntalukid": 28,
+      "migrationtalukid": 28,
       "officecode": 100016,
       "id": 16,
       "code": "TALUK_THODUPUZHA",
@@ -181,7 +181,7 @@
     {
       "name": "Peerumade",
       "namelocal": "പീരുമേട്",
-      "mgrntalukid": 29,
+      "migrationtalukid": 29,
       "officecode": 100017,
       "id": 17,
       "code": "TALUK_PEERUMADE",
@@ -192,7 +192,7 @@
     {
       "name": "Idukki",
       "namelocal": "ഇടുക്കി",
-      "mgrntalukid": 71,
+      "migrationtalukid": 71,
       "officecode": 100018,
       "id": 18,
       "code": "TALUK_IDUKKI",
@@ -203,7 +203,7 @@
     {
       "name": "Taliparamba",
       "namelocal": "തളിപ്പറമ്പ",
-      "mgrntalukid": 59,
+      "migrationtalukid": 59,
       "officecode": 100019,
       "id": 19,
       "code": "TALUK_TALIPARAMBA",
@@ -214,7 +214,7 @@
     {
       "name": "Kannur",
       "namelocal": "കണ്ണൂര്‍",
-      "mgrntalukid": 60,
+      "migrationtalukid": 60,
       "officecode": 100020,
       "id": 20,
       "code": "TALUK_KANNUR",
@@ -225,7 +225,7 @@
     {
       "name": "Thalassery",
       "namelocal": "തലശ്ശേരി",
-      "mgrntalukid": 61,
+      "migrationtalukid": 61,
       "officecode": 100021,
       "id": 21,
       "code": "TALUK_THALASSERY",
@@ -236,7 +236,7 @@
     {
       "name": "Iritty",
       "namelocal": "ഇരിട്ടി",
-      "mgrntalukid": 66,
+      "migrationtalukid": 66,
       "officecode": 100022,
       "id": 22,
       "code": "TALUK_IRITTY",
@@ -247,7 +247,7 @@
     {
       "name": "Kasaragod",
       "namelocal": "കാസര്‍കോഡ്",
-      "mgrntalukid": 62,
+      "migrationtalukid": 62,
       "officecode": 100023,
       "id": 23,
       "code": "TALUK_KASARAGOD",
@@ -258,7 +258,7 @@
     {
       "name": "Hosdurg",
       "namelocal": "ഹോസ്ദുര്‍ഗ്",
-      "mgrntalukid": 63,
+      "migrationtalukid": 63,
       "officecode": 100024,
       "id": 24,
       "code": "TALUK_HOSDURG",
@@ -269,7 +269,7 @@
     {
       "name": "Manjeswaram",
       "namelocal": "മഞ്ചേശ്വരം",
-      "mgrntalukid": 64,
+      "migrationtalukid": 64,
       "officecode": 100025,
       "id": 25,
       "code": "TALUK_MANJESWARAM",
@@ -280,7 +280,7 @@
     {
       "name": "Vellarikkundu",
       "namelocal": "വെള്ളാരിക്കുണ്ട്",
-      "mgrntalukid": 65,
+      "migrationtalukid": 65,
       "officecode": 100026,
       "id": 26,
       "code": "TALUK_VELLARIKKUNDU",
@@ -291,7 +291,7 @@
     {
       "name": "Karunagappally",
       "namelocal": "കരുനാഗപ്പള്ളി",
-      "mgrntalukid": 5,
+      "migrationtalukid": 5,
       "officecode": 100027,
       "id": 27,
       "code": "TALUK_KARUNAGAPPALLY",
@@ -302,7 +302,7 @@
     {
       "name": "Kunnathur",
       "namelocal": "കുന്നത്തൂര്‍",
-      "mgrntalukid": 6,
+      "migrationtalukid": 6,
       "officecode": 100028,
       "id": 28,
       "code": "TALUK_KUNNATHUR",
@@ -313,7 +313,7 @@
     {
       "name": "Pathanapuram",
       "namelocal": "പത്തനാപുരം",
-      "mgrntalukid": 7,
+      "migrationtalukid": 7,
       "officecode": 100029,
       "id": 29,
       "code": "TALUK_PATHANAPURAM",
@@ -324,7 +324,7 @@
     {
       "name": "Kottarakkara",
       "namelocal": "കൊട്ടാരക്കര",
-      "mgrntalukid": 8,
+      "migrationtalukid": 8,
       "officecode": 100030,
       "id": 30,
       "code": "TALUK_KOTTARAKKARA",
@@ -335,7 +335,7 @@
     {
       "name": "Kollam",
       "namelocal": "കൊല്ലം",
-      "mgrntalukid": 9,
+      "migrationtalukid": 9,
       "officecode": 100031,
       "id": 31,
       "code": "TALUK_KOLLAM",
@@ -346,7 +346,7 @@
     {
       "name": "Punalur",
       "namelocal": "പുനലൂര്‍",
-      "mgrntalukid": 73,
+      "migrationtalukid": 73,
       "officecode": 100032,
       "id": 32,
       "code": "TALUK_PUNALUR",
@@ -357,7 +357,7 @@
     {
       "name": "Meenachil",
       "namelocal": "മീനച്ചില്‍",
-      "mgrntalukid": 21,
+      "migrationtalukid": 21,
       "officecode": 100033,
       "id": 33,
       "code": "TALUK_MEENACHIL",
@@ -368,7 +368,7 @@
     {
       "name": "Vaikom",
       "namelocal": "വൈക്കം",
-      "mgrntalukid": 22,
+      "migrationtalukid": 22,
       "officecode": 100034,
       "id": 34,
       "code": "TALUK_VAIKOM",
@@ -379,7 +379,7 @@
     {
       "name": "Kottayam",
       "namelocal": "കോട്ടയം",
-      "mgrntalukid": 23,
+      "migrationtalukid": 23,
       "officecode": 100035,
       "id": 35,
       "code": "TALUK_KOTTAYAM",
@@ -390,7 +390,7 @@
     {
       "name": "Changanassery",
       "namelocal": "ചങ്ങനാശ്ശേരി",
-      "mgrntalukid": 24,
+      "migrationtalukid": 24,
       "officecode": 100036,
       "id": 36,
       "code": "TALUK_CHANGANASSERY",
@@ -401,7 +401,7 @@
     {
       "name": "Kanjirappally",
       "namelocal": "കാഞ്ഞിരപ്പള്ളി",
-      "mgrntalukid": 25,
+      "migrationtalukid": 25,
       "officecode": 100037,
       "id": 37,
       "code": "TALUK_KANJIRAPPALLY",
@@ -412,7 +412,7 @@
     {
       "name": "Vatakara",
       "namelocal": "വടകര",
-      "mgrntalukid": 53,
+      "migrationtalukid": 53,
       "officecode": 100038,
       "id": 38,
       "code": "TALUK_VATAKARA",
@@ -423,7 +423,7 @@
     {
       "name": "Koyilandi",
       "namelocal": "കൊയിലാണ്ടി",
-      "mgrntalukid": 54,
+      "migrationtalukid": 54,
       "officecode": 100039,
       "id": 39,
       "code": "TALUK_KOYILANDI",
@@ -434,7 +434,7 @@
     {
       "name": "Kozhikode",
       "namelocal": "കോഴിക്കോട്",
-      "mgrntalukid": 55,
+      "migrationtalukid": 55,
       "officecode": 100040,
       "id": 40,
       "code": "TALUK_KOZHIKODE",
@@ -445,7 +445,7 @@
     {
       "name": "Thamarassery",
       "namelocal": "താമരശ്ശേരി",
-      "mgrntalukid": 67,
+      "migrationtalukid": 67,
       "officecode": 100041,
       "id": 41,
       "code": "TALUK_THAMARASSERY",
@@ -456,7 +456,7 @@
     {
       "name": "Ernad",
       "namelocal": "ഏറനാട്",
-      "mgrntalukid": 47,
+      "migrationtalukid": 47,
       "officecode": 100042,
       "id": 42,
       "code": "TALUK_ERNAD",
@@ -467,7 +467,7 @@
     {
       "name": "Nilambur",
       "namelocal": "നിലമ്പൂര്‍",
-      "mgrntalukid": 48,
+      "migrationtalukid": 48,
       "officecode": 100043,
       "id": 43,
       "code": "TALUK_NILAMBUR",
@@ -478,7 +478,7 @@
     {
       "name": "Perinthalmanna",
       "namelocal": "പെരിന്തല്‍മണ്ണ",
-      "mgrntalukid": 49,
+      "migrationtalukid": 49,
       "officecode": 100044,
       "id": 44,
       "code": "TALUK_PERINTHALMANNA",
@@ -489,7 +489,7 @@
     {
       "name": "Tirur",
       "namelocal": "തിരൂര്‍",
-      "mgrntalukid": 50,
+      "migrationtalukid": 50,
       "officecode": 100045,
       "id": 45,
       "code": "TALUK_TIRUR",
@@ -500,7 +500,7 @@
     {
       "name": "Tirurangadi",
       "namelocal": "തിരൂരങ്ങാടി",
-      "mgrntalukid": 51,
+      "migrationtalukid": 51,
       "officecode": 100046,
       "id": 46,
       "code": "TALUK_TIRURANGADI",
@@ -511,7 +511,7 @@
     {
       "name": "Ponnani",
       "namelocal": "പൊന്നാനി",
-      "mgrntalukid": 52,
+      "migrationtalukid": 52,
       "officecode": 100047,
       "id": 47,
       "code": "TALUK_PONNANI",
@@ -522,7 +522,7 @@
     {
       "name": "Kondotty",
       "namelocal": "കൊണ്ടോട്ടി",
-      "mgrntalukid": 68,
+      "migrationtalukid": 68,
       "officecode": 100048,
       "id": 48,
       "code": "TALUK_KONDOTTY",
@@ -533,7 +533,7 @@
     {
       "name": "Ottappalam",
       "namelocal": "ഒറ്റപ്പാലം",
-      "mgrntalukid": 42,
+      "migrationtalukid": 42,
       "officecode": 100049,
       "id": 49,
       "code": "TALUK_OTTAPPALAM",
@@ -544,7 +544,7 @@
     {
       "name": "Mannarkad",
       "namelocal": "മണ്ണാര്‍ക്കാട്",
-      "mgrntalukid": 43,
+      "migrationtalukid": 43,
       "officecode": 100050,
       "id": 50,
       "code": "TALUK_MANNARKAD",
@@ -555,7 +555,7 @@
     {
       "name": "Palakkad",
       "namelocal": "പാലക്കാട്",
-      "mgrntalukid": 44,
+      "migrationtalukid": 44,
       "officecode": 100051,
       "id": 51,
       "code": "TALUK_PALAKKAD",
@@ -566,7 +566,7 @@
     {
       "name": "Chittur",
       "namelocal": "ചിറ്റൂര്‍",
-      "mgrntalukid": 45,
+      "migrationtalukid": 45,
       "officecode": 100052,
       "id": 52,
       "code": "TALUK_CHITTUR",
@@ -577,7 +577,7 @@
     {
       "name": "Alathur",
       "namelocal": "ആലത്തൂര്‍",
-      "mgrntalukid": 46,
+      "migrationtalukid": 46,
       "officecode": 100053,
       "id": 53,
       "code": "TALUK_ALATHUR",
@@ -588,7 +588,7 @@
     {
       "name": "Pattambi",
       "namelocal": "പട്ടാമ്പി",
-      "mgrntalukid": 69,
+      "migrationtalukid": 69,
       "officecode": 100054,
       "id": 54,
       "code": "TALUK_PATTAMBI",
@@ -599,7 +599,7 @@
     {
       "name": "Thiruvalla",
       "namelocal": "തിരുവല്ല",
-      "mgrntalukid": 10,
+      "migrationtalukid": 10,
       "officecode": 100055,
       "id": 55,
       "code": "TALUK_THIRUVALLA",
@@ -610,7 +610,7 @@
     {
       "name": "Mallappally",
       "namelocal": "മല്ലപ്പള്ളി",
-      "mgrntalukid": 11,
+      "migrationtalukid": 11,
       "officecode": 100056,
       "id": 56,
       "code": "TALUK_MALLAPPALLY",
@@ -621,7 +621,7 @@
     {
       "name": "Ranni",
       "namelocal": "റാന്നി",
-      "mgrntalukid": 12,
+      "migrationtalukid": 12,
       "officecode": 100057,
       "id": 57,
       "code": "TALUK_RANNI",
@@ -632,7 +632,7 @@
     {
       "name": "Kozhenchery",
       "namelocal": "കോഴഞ്ചേരി",
-      "mgrntalukid": 13,
+      "migrationtalukid": 13,
       "officecode": 100058,
       "id": 58,
       "code": "TALUK_KOZHENCHERY",
@@ -643,7 +643,7 @@
     {
       "name": "Adoor",
       "namelocal": "അടൂര്‍",
-      "mgrntalukid": 14,
+      "migrationtalukid": 14,
       "officecode": 100059,
       "id": 59,
       "code": "TALUK_ADOOR",
@@ -654,7 +654,7 @@
     {
       "name": "Konni",
       "namelocal": "കോന്നി",
-      "mgrntalukid": 72,
+      "migrationtalukid": 72,
       "officecode": 100060,
       "id": 60,
       "code": "TALUK_KONNI",
@@ -665,7 +665,7 @@
     {
       "name": "Chirayinkeezhu",
       "namelocal": "ചിറയിന്‍കീഴ്",
-      "mgrntalukid": 1,
+      "migrationtalukid": 1,
       "officecode": 100061,
       "id": 61,
       "code": "TALUK_CHIRAYINKEEZHU",
@@ -676,7 +676,7 @@
     {
       "name": "Nedumangad",
       "namelocal": "നെടുമങ്ങാട്",
-      "mgrntalukid": 2,
+      "migrationtalukid": 2,
       "officecode": 100062,
       "id": 62,
       "code": "TALUK_NEDUMANGAD",
@@ -687,7 +687,7 @@
     {
       "name": "Thiruvananthapuram",
       "namelocal": "തിരുവനന്തപുരം",
-      "mgrntalukid": 3,
+      "migrationtalukid": 3,
       "officecode": 100063,
       "id": 63,
       "code": "TALUK_THIRUVANANTHAPURAM",
@@ -698,7 +698,7 @@
     {
       "name": "Neyyattinkara",
       "namelocal": "നെയ്യാറ്റിന്‍കര",
-      "mgrntalukid": 4,
+      "migrationtalukid": 4,
       "officecode": 100064,
       "id": 64,
       "code": "TALUK_NEYYATTINKARA",
@@ -709,7 +709,7 @@
     {
       "name": "Kattakkada",
       "namelocal": "കാട്ടാക്കട",
-      "mgrntalukid": 75,
+      "migrationtalukid": 75,
       "officecode": 100065,
       "id": 65,
       "code": "TALUK_KATTAKKADA",
@@ -720,7 +720,7 @@
     {
       "name": "Varkala",
       "namelocal": "വര്‍ക്കല",
-      "mgrntalukid": 74,
+      "migrationtalukid": 74,
       "officecode": 100066,
       "id": 66,
       "code": "TALUK_VARKALA",
@@ -731,7 +731,7 @@
     {
       "name": "Talappilly",
       "namelocal": "തലപ്പിള്ളി",
-      "mgrntalukid": 37,
+      "migrationtalukid": 37,
       "officecode": 100067,
       "id": 67,
       "code": "TALUK_TALAPPILLY",
@@ -742,7 +742,7 @@
     {
       "name": "Chavakkad",
       "namelocal": "ചാവക്കാട്",
-      "mgrntalukid": 38,
+      "migrationtalukid": 38,
       "officecode": 100068,
       "id": 68,
       "code": "TALUK_CHAVAKKAD",
@@ -753,7 +753,7 @@
     {
       "name": "Thrissur",
       "namelocal": "തൃശ്ശൂര്‍",
-      "mgrntalukid": 39,
+      "migrationtalukid": 39,
       "officecode": 100069,
       "id": 69,
       "code": "TALUK_THRISSUR",
@@ -764,7 +764,7 @@
     {
       "name": "Kodungallur",
       "namelocal": "കൊടുങ്ങല്ലൂര്‍",
-      "mgrntalukid": 40,
+      "migrationtalukid": 40,
       "officecode": 100070,
       "id": 70,
       "code": "TALUK_KODUNGALLUR",
@@ -775,7 +775,7 @@
     {
       "name": "Mukundapuram",
       "namelocal": "മുകുന്ദപുരം",
-      "mgrntalukid": 41,
+      "migrationtalukid": 41,
       "officecode": 100071,
       "id": 71,
       "code": "TALUK_MUKUNDAPURAM",
@@ -786,7 +786,7 @@
     {
       "name": "Chalakkudy",
       "namelocal": "ചാലക്കുടി",
-      "mgrntalukid": 70,
+      "migrationtalukid": 70,
       "officecode": 100072,
       "id": 72,
       "code": "TALUK_CHALAKKUDY",
@@ -797,7 +797,7 @@
     {
       "name": "Mananthavady",
       "namelocal": "മാനന്തവാടി",
-      "mgrntalukid": 56,
+      "migrationtalukid": 56,
       "officecode": 100073,
       "id": 73,
       "code": "TALUK_MANANTHAVADY",
@@ -808,7 +808,7 @@
     {
       "name": "Sulthanbathery",
       "namelocal": "സുല്‍ത്താന്‍ ബത്തേരി",
-      "mgrntalukid": 57,
+      "migrationtalukid": 57,
       "officecode": 100074,
       "id": 74,
       "code": "TALUK_SULTHANBATHERY",
@@ -819,7 +819,7 @@
     {
       "name": "Vythiri",
       "namelocal": "വൈത്തിരി",
-      "mgrntalukid": 58,
+      "migrationtalukid": 58,
       "officecode": 100075,
       "id": 75,
       "code": "TALUK_VYTHIRI",
@@ -830,7 +830,7 @@
     {
       "name": "Kunnamkulam",
       "namelocal": "കുന്നംകുളം",
-      "mgrntalukid": 76,
+      "migrationtalukid": 76,
       "officecode": 100076,
       "id": 76,
       "code": "TALUK_KUNNAMKULAM",
@@ -841,7 +841,7 @@
     {
       "name": "Payyannur",
       "namelocal": "പയ്യന്നൂര്‍",
-      "mgrntalukid": 77,
+      "migrationtalukid": 77,
       "officecode": 100077,
       "id": 77,
       "code": "TALUK_PAYYANNUR",
