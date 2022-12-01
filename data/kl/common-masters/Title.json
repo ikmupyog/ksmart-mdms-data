@@ -1,0 +1,348 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "Title": [
+    {
+      "name": "Adv.",
+      "namelocal": "അഡ്വ.",
+      "code": "TITLE_ADV.",
+      "id": 1,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dr.",
+      "namelocal": "ഡോ.",
+      "code": "TITLE_DR.",
+      "id": 2,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shri.",
+      "namelocal": "ശ്രീ",
+      "code": "TITLE_SHRI.",
+      "id": 3,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Smt.",
+      "namelocal": "ശ്രീമതി",
+      "code": "TITLE_SMT.",
+      "id": 4,
+      "titlecode": "F",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Acharya",
+      "namelocal": "ആചാര്യ",
+      "code": "TITLE_ACHARYA",
+      "id": 5,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Admiral",
+      "namelocal": "അഡ്മിറല്‍",
+      "code": "TITLE_ADMIRAL",
+      "id": 6,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Air Marshal",
+      "namelocal": "എയര്‍ മാര്‍ഷ്യല്‍",
+      "code": "TITLE_AIR MARSHAL",
+      "id": 7,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bharath",
+      "namelocal": "ഭരത്",
+      "code": "TITLE_BHARATH",
+      "id": 8,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Br.",
+      "namelocal": "ബ്രതര്‍",
+      "code": "TITLE_BR.",
+      "id": 9,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Brigadier",
+      "namelocal": "ബ്രിഗേഡിയര്‍",
+      "code": "TITLE_BRIGADIER",
+      "id": 10,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fr.",
+      "namelocal": "ഫാ.",
+      "code": "TITLE_FR.",
+      "id": 11,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "General",
+      "namelocal": "ജനറല്‍",
+      "code": "TITLE_GENERAL",
+      "id": 12,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Haji",
+      "namelocal": "ഹാ‍ജി",
+      "code": "TITLE_HAJI",
+      "id": 13,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Janab",
+      "namelocal": "ജനാബ്",
+      "code": "TITLE_JANAB",
+      "id": 14,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Justice",
+      "namelocal": "ജസ്റ്റിസ്",
+      "code": "TITLE_JUSTICE",
+      "id": 15,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lieutanant Colonel",
+      "namelocal": "ലഫ്റ്റ് . കേണല്‍",
+      "code": "TITLE_LIEUTANANT_COLONEL",
+      "id": 16,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Major",
+      "namelocal": "മേജര്‍",
+      "code": "TITLE_MAJOR",
+      "id": 17,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Monsieur",
+      "namelocal": "മോന്‍സിയര്‍",
+      "code": "TITLE_MONSIEUR",
+      "id": 18,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Moulana",
+      "namelocal": "മൌലാന",
+      "code": "TITLE_MOULANA",
+      "id": 19,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Padmasree",
+      "namelocal": "പത്മശ്രീ",
+      "code": "TITLE_PADMASREE",
+      "id": 20,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pandit",
+      "namelocal": "പണ്ടിറ്റ്",
+      "code": "TITLE_PANDIT",
+      "id": 21,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pastor",
+      "namelocal": "പാസ്റ്റര്‍",
+      "code": "TITLE_PASTOR",
+      "id": 22,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Prof.",
+      "namelocal": "പ്രഫ.",
+      "code": "TITLE_PROF.",
+      "id": 23,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rev.",
+      "namelocal": "റവ.",
+      "code": "TITLE_REV.",
+      "id": 24,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rt.Rev.",
+      "namelocal": "റിട്ട്.റവ.",
+      "code": "TITLE_RT.REV.",
+      "id": 25,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sir",
+      "namelocal": "സര്‍",
+      "code": "TITLE_SIR",
+      "id": 26,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Swami",
+      "namelocal": "സ്വാമി",
+      "code": "TITLE_SWAMI",
+      "id": 27,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vice Admiral",
+      "namelocal": "വൈസ് അഡ്മിറല്‍",
+      "code": "None",
+      "id": 28,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Captain",
+      "namelocal": "ക്യാപ്റ്റന്‍",
+      "code": "TITLE_CAPTAIN",
+      "id": 29,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Colonel",
+      "namelocal": "കേണല്‍",
+      "code": "TITLE_COLONEL",
+      "id": 30,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Er.",
+      "namelocal": "എഞ്ചിനീയര്‍",
+      "code": "TITLE_ER.",
+      "id": 31,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kum.",
+      "namelocal": "കുമാരി",
+      "code": "TITLE_KUM.",
+      "id": 32,
+      "titlecode": "F",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lieutenant",
+      "namelocal": "ലെഫ്റ്റനന്റ്",
+      "code": "TITLE_LIEUTENANT",
+      "id": 33,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Padmavibhooshan",
+      "namelocal": "പത്മഭൂഷന്‍",
+      "code": "TITLE_PADMAVIBHOOSHAN",
+      "id": 34,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Urvasi",
+      "namelocal": "ഉര്‍വ്വശ്ശി",
+      "code": "TITLE_URVASI",
+      "id": 35,
+      "titlecode": "F",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pathma Vibhooshan",
+      "namelocal": "പത്മവിഭൂഷന്",
+      "code": "TITLE_PATHMA_VIBHOOSHAN",
+      "id": 36,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Swamini",
+      "namelocal": "സ്വാമിനി",
+      "code": "TITLE_SWAMINI",
+      "id": 37,
+      "titlecode": "F",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Honarable",
+      "namelocal": "ബഹുമാനപ്പെട്ട",
+      "code": "TITLE_HONARABLE",
+      "id": 38,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}
