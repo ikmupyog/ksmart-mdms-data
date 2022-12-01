@@ -1,0 +1,4956 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "SubOccupation": [
+    {
+      "name": "Physicist",
+      "namelocal": "ഫിസിസിസ്റ്റ്",
+      "code": "SUBOCCUPATION_PHYSICIST",
+      "id": 1,
+      "minoroccupationid": 1,
+      "migrationeducationid": 1,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chemists (Excluding Pharmaceutical Chemists)",
+      "namelocal": "കെമിസ്റ്റ് (ഫാര്‍മസ്യുട്ടിക്കല്‍ കെമിസ്റ്റ് ഒഴികെ)",
+      "code": "SUBOCCUPATION_CHEMISTS_EXCLUDING_PHARMACEUTICAL",
+      "id": 2,
+      "minoroccupationid": 1,
+      "migrationeducationid": 2,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Geologists and Geophysicists",
+      "namelocal": "ജിയോളജിസ്റ്റ് & ജിയോഫിസിസ്റ്റ്",
+      "code": "SUBOCCUPATION_GEOLOGISTS_GEOPHYSICISTS",
+      "id": 3,
+      "minoroccupationid": 1,
+      "migrationeducationid": 3,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metereologists",
+      "namelocal": "മെറ്റീരിയോളജിസ്റ്റ്",
+      "code": "SUBOCCUPATION_METEREOLOGISTS",
+      "id": 4,
+      "minoroccupationid": 1,
+      "migrationeducationid": 4,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physical Scientists",
+      "namelocal": "ഫിസിക്കല്‍ സയന്‍റിസ്റ്റ്",
+      "code": "SUBOCCUPATION_PHYSICAL_SCIENTISTS",
+      "id": 5,
+      "minoroccupationid": 1,
+      "migrationeducationid": 5,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physical Science Technicians",
+      "namelocal": "ഫിസിക്കല്‍ സയന്‍സ് ടെക്നീഷ്യന്‍സ്",
+      "code": "SUBOCCUPATION_PHYSICAL_SCIENCE_TECHNICIANS",
+      "id": 6,
+      "minoroccupationid": 1,
+      "migrationeducationid": 6,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Architects and Town Planners",
+      "namelocal": "ആര്‍ക്കിടെക്റ്റ് & ടൗണ്‍പ്ലാനര്‍",
+      "code": "SUBOCCUPATION_ARCHITECTS_TOWN_PLANNERS",
+      "id": 7,
+      "minoroccupationid": 2,
+      "migrationeducationid": 20,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Civil Engineers",
+      "namelocal": "സിവില്‍ എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_CIVIL_ENGINEERS",
+      "id": 8,
+      "minoroccupationid": 2,
+      "migrationeducationid": 21,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electrical & Electronic Engineers",
+      "namelocal": "ഇലക്ട്രിക്കല്‍ & ഇലക്ട്രോണിക് എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_ELECTRICAL_ELECTRONIC_ENGINEERS",
+      "id": 9,
+      "minoroccupationid": 2,
+      "migrationeducationid": 22,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mechanical Engineers",
+      "namelocal": "മെക്കാനിക്കല്‍ എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_MECHANICAL_ENGINEERS",
+      "id": 10,
+      "minoroccupationid": 2,
+      "migrationeducationid": 23,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chemical Engineers",
+      "namelocal": "കെമിക്കല്‍ എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_CHEMICAL_ENGINEERS",
+      "id": 11,
+      "minoroccupationid": 2,
+      "migrationeducationid": 24,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metallurgists",
+      "namelocal": "മെറ്റലര്‍ജിസ്റ്റ്",
+      "code": "SUBOCCUPATION_METALLURGISTS",
+      "id": 12,
+      "minoroccupationid": 2,
+      "migrationeducationid": 25,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mining Engineers",
+      "namelocal": "മൈനിങ്ങ് എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_MINING_ENGINEERS",
+      "id": 13,
+      "minoroccupationid": 2,
+      "migrationeducationid": 26,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Industrial Engineers",
+      "namelocal": "ഇന്‍ഡസ്ട്രിയല്‍ എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_INDUSTRIAL_ENGINEERS",
+      "id": 14,
+      "minoroccupationid": 2,
+      "migrationeducationid": 27,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Surveyors",
+      "namelocal": "സര്‍വ്വേയര്‍",
+      "code": "SUBOCCUPATION_SURVEYORS",
+      "id": 15,
+      "minoroccupationid": 2,
+      "migrationeducationid": 28,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Architects, Engineers, Technologists & Surveyors, n.e.c.",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ആര്‍ക്കിടെക്റ്റുകള്‍, ഇഞ്ചിനിയര്‍മാര്‍, സാങ്കേതിക വിദഗ്ദ്ധരും സര്‍വ്വേയര്‍മാരും",
+      "code": "SUBOCCUPATION_ARCHITECTS_ENGINEERS_TECHNOLOGISTS_SURVEYORS_NEC",
+      "id": 16,
+      "minoroccupationid": 2,
+      "migrationeducationid": 29,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Draughtsman",
+      "namelocal": "ഡ്രാഫ്റ്റ്സ്മാന്‍",
+      "code": "SUBOCCUPATION_DRAUGHTSMAN",
+      "id": 17,
+      "minoroccupationid": 3,
+      "migrationeducationid": 30,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Civil Engineering Overseers and Technicians",
+      "namelocal": "സിവില്‍ എഞ്ചിനീയറിംഗ് ഓവര്‍സിയര്‍മാര്‍ & ടെക്നീഷ്യന്‍",
+      "code": "SUBOCCUPATION_CIVIL_ENGINEERING_OVERSEERS_TECHNICIANS",
+      "id": 18,
+      "minoroccupationid": 3,
+      "migrationeducationid": 31,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electrical & Electronic Engineering Overseers and Technicians",
+      "namelocal": "ഇലക്ട്രിക്കല്‍ & ഇലക്ട്രോണിക് എഞ്ചിനീയറിംഗ് ഓവര്‍സിയര്‍ & ടെക്നീഷ്യന്‍സ്",
+      "code": "SUBOCCUPATION_ELECTRICAL_ELECTRONIC_ENGINEERING_OVERSEERS_TECHNICIANS",
+      "id": 19,
+      "minoroccupationid": 3,
+      "migrationeducationid": 32,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mechanical Engineering Overseers & Technicians",
+      "namelocal": "മെക്കാനിക്കല്‍ എഞ്ചിനീയറിംഗ് ഓവര്‍സിയര്‍ & ടെക്നീഷ്യന്‍",
+      "code": "SUBOCCUPATION_MECHANICAL_ENGINEERING_OVERSEERS_TECHNICIANS",
+      "id": 20,
+      "minoroccupationid": 3,
+      "migrationeducationid": 33,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chemical Engineering Technicians",
+      "namelocal": "കെമിക്കല്‍ എഞ്ചിനീയറിംഗ് ടെക്നിഷ്യന്‍",
+      "code": "SUBOCCUPATION_CHEMICAL_ENGINEERING_TECHNICIANS",
+      "id": 21,
+      "minoroccupationid": 3,
+      "migrationeducationid": 34,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metallurgical Technicians",
+      "namelocal": "മെറ്റലര്‍ജിക്കല്‍ ടെക്നീഷ്യന്‍",
+      "code": "SUBOCCUPATION_METALLURGICAL_TECHNICIANS",
+      "id": 22,
+      "minoroccupationid": 3,
+      "migrationeducationid": 35,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mining Technicians",
+      "namelocal": "മൈനിംഗ് ടെക്നീഷ്യന്‍",
+      "code": "SUBOCCUPATION_MINING_TECHNICIANS",
+      "id": 23,
+      "minoroccupationid": 3,
+      "migrationeducationid": 36,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Survey Technicians",
+      "namelocal": "സര്‍വ്വേ ടെക്നീഷ്യന്‍",
+      "code": "SUBOCCUPATION_SURVEY_TECHNICIANS",
+      "id": 24,
+      "minoroccupationid": 3,
+      "migrationeducationid": 37,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Engineering Technicians, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഇഞ്ചിനിയറിംഗ് ടെക്നീഷ്യന്‍മാര്‍",
+      "code": "SUBOCCUPATION_ENGINEERING_TECHNICIANS_NEC",
+      "id": 25,
+      "minoroccupationid": 3,
+      "migrationeducationid": 38,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aircraft Pilots",
+      "namelocal": "എയര്‍ക്രാഫ്റ്റ് പൈലറ്റ്",
+      "code": "SUBOCCUPATION_AIRCRAFT_PILOTS",
+      "id": 26,
+      "minoroccupationid": 4,
+      "migrationeducationid": 40,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Flight Engineers",
+      "namelocal": "ഫ്ളൈറ്റ് എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_FLIGHT_ENGINEERS",
+      "id": 27,
+      "minoroccupationid": 4,
+      "migrationeducationid": 41,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Flight Navigators",
+      "namelocal": "ഫ്ളൈറ്റ് നാവിഗേറ്റര്‍",
+      "code": "SUBOCCUPATION_FLIGHT_NAVIGATORS",
+      "id": 28,
+      "minoroccupationid": 4,
+      "migrationeducationid": 42,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ships, Deck Officers & Pilots",
+      "namelocal": "കപ്പലിലെ ഡെക്ക് ഓഫീസര്‍, പൈലറ്റ്",
+      "code": "SUBOCCUPATION_SHIPS_DECK_OFFICERS_PILOTS",
+      "id": 29,
+      "minoroccupationid": 4,
+      "migrationeducationid": 43,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ships, Engineers",
+      "namelocal": "കപ്പലിലെ എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_SHIPS_ENGINEERS",
+      "id": 30,
+      "minoroccupationid": 4,
+      "migrationeducationid": 44,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aircraft Engineers",
+      "namelocal": "എയര്‍ക്രാഫ്റ്റ് എഞ്ചിനീയര്‍",
+      "code": "SUBOCCUPATION_AIRCRAFT_ENGINEERS",
+      "id": 31,
+      "minoroccupationid": 4,
+      "migrationeducationid": 45,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Biologists, Zoologists & Related Scientists",
+      "namelocal": "ബയോളജിസ്റ്റ്, സുവോളജിസ്റ്റ് അനുബന്ധമേഖലയിലെ ശാസ്ത്രജ്ഞര്‍",
+      "code": "SUBOCCUPATION_BIOLOGISTS_ZOOLOGISTS_RELATED_SCIENTISTS",
+      "id": 32,
+      "minoroccupationid": 5,
+      "migrationeducationid": 50,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bacteriologists, Pharmacologists & Related Scientists",
+      "namelocal": "ബാക്ടീരിയോളജിസ്റ്റ്, ഫാര്‍മക്കോളജിസ്റ്റ്, അനുബന്ധമോഖലയിലെ ശാസ്ത്രജ്ഞര്‍",
+      "code": "SUBOCCUPATION_BACTERIOLOGISTS_PHARMACOLOGISTS_RELATED_SCIENTISTS",
+      "id": 33,
+      "minoroccupationid": 5,
+      "migrationeducationid": 51,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Silviculturists",
+      "namelocal": "സില്‍വികള്‍ച്ചറിസ്റ്റ്",
+      "code": "SUBOCCUPATION_SILVICULTURISTS",
+      "id": 34,
+      "minoroccupationid": 5,
+      "migrationeducationid": 52,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agronomists & Agricultural Scientists",
+      "namelocal": "അഗ്രോണമിസ്റ്റ് & കൃഷി ശാസ്ത്രജ്ഞന്‍",
+      "code": "SUBOCCUPATION_AGRONOMISTS_AGRICULTURAL_SCIENTISTS",
+      "id": 35,
+      "minoroccupationid": 5,
+      "migrationeducationid": 53,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Life Scientists, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ജീവശാസ്ത്രകാരന്‍മാര്‍",
+      "code": "SUBOCCUPATION_LIFE_SCIENTISTS_NEC",
+      "id": 36,
+      "minoroccupationid": 5,
+      "migrationeducationid": 54,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Life Science Technicians",
+      "namelocal": "ലൈഫ് സയന്‍സ് ടെക്നീഷ്യന്‍",
+      "code": "SUBOCCUPATION_LIFE_SCIENCE_TECHNICIANS",
+      "id": 37,
+      "minoroccupationid": 6,
+      "migrationeducationid": 60,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physicians & Surgeons, Allopathic",
+      "namelocal": "ഫിസിഷ്യന്‍ & സര്‍ജന്‍ (അലോപ്പതി)",
+      "code": "SUBOCCUPATION_PHYSICIANS_SURGEONS_ALLOPATHIC",
+      "id": 38,
+      "minoroccupationid": 7,
+      "migrationeducationid": 70,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physicians & Surgeons, Ayurvedic",
+      "namelocal": "ഫിസിഷ്യന്‍ & സര്‍ജന്‍ (ആയുര്‍വേദം)",
+      "code": "SUBOCCUPATION_PHYSICIANS_SURGEONS_AYURVEDIC",
+      "id": 39,
+      "minoroccupationid": 7,
+      "migrationeducationid": 71,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physicians & Surgeons, Homeopathic",
+      "namelocal": "ഫിസിഷ്യന്‍ & സര്‍ജന്‍ (ഹോമിയോപ്പതി)",
+      "code": "SUBOCCUPATION_PHYSICIANS_SURGEONS_HOMEOPATHIC",
+      "id": 40,
+      "minoroccupationid": 7,
+      "migrationeducationid": 72,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physicians & Surgeons, Unani",
+      "namelocal": "ഫിസിഷ്യന്‍ & സര്‍ജന്‍ (യുനാനി)",
+      "code": "SUBOCCUPATION_PHYSICIANS_SURGEONS_UNANI",
+      "id": 41,
+      "minoroccupationid": 7,
+      "migrationeducationid": 73,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dental Surgeons",
+      "namelocal": "ഡെന്‍റല്‍ സര്‍ജന്‍",
+      "code": "SUBOCCUPATION_DENTAL_SURGEONS",
+      "id": 42,
+      "minoroccupationid": 7,
+      "migrationeducationid": 74,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Veterinarians",
+      "namelocal": "വെറ്ററിനേറിയന്‍",
+      "code": "SUBOCCUPATION_VETERINARIANS",
+      "id": 43,
+      "minoroccupationid": 7,
+      "migrationeducationid": 75,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pharmacists",
+      "namelocal": "ഫാര്‍മസിസ്റ്റ്",
+      "code": "SUBOCCUPATION_PHARMACISTS",
+      "id": 44,
+      "minoroccupationid": 7,
+      "migrationeducationid": 76,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dieticians & Nutritionists",
+      "namelocal": "ഡയറ്റീഷ്യന്‍ & ന്യൂട്രിഷ്യന്‍",
+      "code": "SUBOCCUPATION_DIETICIANS_NUTRITIONISTS",
+      "id": 45,
+      "minoroccupationid": 7,
+      "migrationeducationid": 77,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Public Health Physicians",
+      "namelocal": "പബ്ലിക് ഹെല്‍ത്ത് ഫിസിഷ്യന്‍",
+      "code": "SUBOCCUPATION_PUBLIC_HEALTH_PHYSICIANS",
+      "id": 46,
+      "minoroccupationid": 7,
+      "migrationeducationid": 78,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physicians & Surgeons, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഫിസിഷ്യന്‍മാര്‍ & സര്‍ജന്‍മാര്‍",
+      "code": "SUBOCCUPATION_PHYSICIANS_SURGEONS_NEC",
+      "id": 47,
+      "minoroccupationid": 7,
+      "migrationeducationid": 79,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, Pre-primary",
+      "namelocal": "പ്രീ പ്രൈമറി സ്ക്കൂള്‍ അദ്ധ്യാപകര്‍",
+      "code": "SUBOCCUPATION_TEACHERS_PREPRIMARY",
+      "id": 48,
+      "minoroccupationid": 15,
+      "migrationeducationid": 254,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vaccinators, inoculators, Medical Assistants",
+      "namelocal": "വാക്സിനേറ്റര്‍, ഇനോകുലേറ്റര്‍, മെഡിക്കല്‍ അസിസ്റ്റന്‍റ്",
+      "code": "SUBOCCUPATION_VACCINATORS_INOCULATORS_MEDICAL_ASSISTANTS",
+      "id": 49,
+      "minoroccupationid": 8,
+      "migrationeducationid": 80,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dental Assistants",
+      "namelocal": "ഡെന്‍റല്‍ അസിസ്റ്റന്‍റ്",
+      "code": "SUBOCCUPATION_DENTAL_ASSISTANTS",
+      "id": 50,
+      "minoroccupationid": 8,
+      "migrationeducationid": 81,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Veterinary Assistants",
+      "namelocal": "വെറ്ററിനറി അസിസ്റ്റന്‍റ്",
+      "code": "SUBOCCUPATION_VETERINARY_ASSISTANTS",
+      "id": 51,
+      "minoroccupationid": 8,
+      "migrationeducationid": 82,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pharmaceutical Assistants",
+      "namelocal": "ഫാര്‍മസ്യൂട്ടിക്കല്‍ അസിസ്റ്റന്‍റ്",
+      "code": "SUBOCCUPATION_PHARMACEUTICAL_ASSISTANTS",
+      "id": 52,
+      "minoroccupationid": 8,
+      "migrationeducationid": 83,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nurses",
+      "namelocal": "നേഴ്സ്",
+      "code": "SUBOCCUPATION_NURSES",
+      "id": 53,
+      "minoroccupationid": 8,
+      "migrationeducationid": 84,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Midwives & Health Visitors",
+      "namelocal": "മിഡ്വൈഫ് & ഹെല്‍ത്ത് വിസിറ്റര്‍",
+      "code": "SUBOCCUPATION_MIDWIVES_HEALTH_VISITORS",
+      "id": 54,
+      "minoroccupationid": 8,
+      "migrationeducationid": 85,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "X-Ray Technicians",
+      "namelocal": "എക്സ്റേ ടെക്നീഷ്യന്‍",
+      "code": "SUBOCCUPATION_XRAY_TECHNICIANS",
+      "id": 55,
+      "minoroccupationid": 8,
+      "migrationeducationid": 86,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Opthemetrists & Occupational Therapists",
+      "namelocal": "ഒപ്റ്റോമെട്രിസ്റ്റ്, ഓക്കുപ്പേഷനല്‍ തെറാപ്പിസ്റ്റ്",
+      "code": "SUBOCCUPATION_OPTHEMETRISTS_OCCUPATIONAL_THERAPISTS",
+      "id": 56,
+      "minoroccupationid": 8,
+      "migrationeducationid": 87,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nursing, Sanitary and other Medical & Health Technicians, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത നേഴ്സിംഗ് ശുചീകരണം മറ്റു മെഡിക്കല്‍ ഹെല്‍ത്ത ടെക്നീഷ്യന്‍മാര്‍",
+      "code": "SUBOCCUPATION_NURSING_SANITARY_MEDICAL_HEALTH_TECHNICIANS_NEC",
+      "id": 57,
+      "minoroccupationid": 8,
+      "migrationeducationid": 88,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Scientific, Medical and Technical Persons, other",
+      "namelocal": "സയന്‍റിഫിക്, മെഡിക്കല്‍ & ടെക്നിക്കല്‍ പേഴ്സണ്‍ മറ്റുള്ളവ",
+      "code": "SUBOCCUPATION_SCIENTIFIC_MEDICAL_TECHNICAL_PERSONS_OTHER",
+      "id": 58,
+      "minoroccupationid": 9,
+      "migrationeducationid": 90,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mathematicians",
+      "namelocal": "മാത്തമാറ്റീഷ്യന്‍",
+      "code": "SUBOCCUPATION_MATHEMATICIANS",
+      "id": 59,
+      "minoroccupationid": 10,
+      "migrationeducationid": 200,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Statisticians",
+      "namelocal": "സ്റ്റാറ്റിസ്റ്റിഷ്യന്‍",
+      "code": "SUBOCCUPATION_STATISTICIANS",
+      "id": 60,
+      "minoroccupationid": 10,
+      "migrationeducationid": 201,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Actuaries",
+      "namelocal": "കണക്കെഴുത്തുകാരന്‍",
+      "code": "SUBOCCUPATION_ACTUARIES",
+      "id": 61,
+      "minoroccupationid": 10,
+      "migrationeducationid": 202,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "System Analysts",
+      "namelocal": "സിസ്റ്റം അനലിസ്റ്റ്",
+      "code": "SUBOCCUPATION_SYSTEM_ANALYSTS",
+      "id": 62,
+      "minoroccupationid": 10,
+      "migrationeducationid": 203,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Programmers",
+      "namelocal": "പ്രോഗാമര്‍",
+      "code": "SUBOCCUPATION_PROGRAMMERS",
+      "id": 63,
+      "minoroccupationid": 10,
+      "migrationeducationid": 204,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Statistical Investigators and Related Workers",
+      "namelocal": "സ്റ്റാറ്റിസ്റ്റിക്കല്‍ ഇന്‍വെസ്റ്റിഗേറ്റര്‍, അനുബന്ധമേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_STATISTICAL_INVESTIGATORS_RELATED_WORKERS",
+      "id": 64,
+      "minoroccupationid": 10,
+      "migrationeducationid": 205,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mathematicians",
+      "namelocal": "മാത്തമറ്റീഷ്യന്‍",
+      "code": "SUBOCCUPATION_MATHEMATICIANS",
+      "id": 65,
+      "minoroccupationid": 10,
+      "migrationeducationid": 206,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Statisticians & Related Workers, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സ്റ്റാറ്റിസ്റ്റ്യഷ്യന്‍മാര്‍ & ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_STATISTICIANS_RELATED_WORKERS_NEC",
+      "id": 66,
+      "minoroccupationid": 10,
+      "migrationeducationid": 207,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Economists",
+      "namelocal": "ഇക്കണോമിസ്റ്റ്",
+      "code": "SUBOCCUPATION_ECONOMISTS",
+      "id": 67,
+      "minoroccupationid": 11,
+      "migrationeducationid": 210,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Economic Investigators & Related Workers",
+      "namelocal": "എക്കോണോമിക് ഇന്‍വസ്റ്റിഗേറ്റര്‍ ബന്ധപ്പെട്ട ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_ECONOMIC_INVESTIGATORS_RELATED_WORKERS",
+      "id": 68,
+      "minoroccupationid": 11,
+      "migrationeducationid": 211,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Economists & Related Workers, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സാമ്പത്തിക ശാസ്ത്രജ്ഞന്‍മാര്‍ & ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_ECONOMISTS_RELATED_WORKERS_NEC",
+      "id": 69,
+      "minoroccupationid": 11,
+      "migrationeducationid": 212,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Accountants ",
+      "namelocal": "അക്കൗണ്ടന്‍റ്",
+      "code": "SUBOCCUPATION_ACCOUNTANTS",
+      "id": 70,
+      "minoroccupationid": 12,
+      "migrationeducationid": 220,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Auditors",
+      "namelocal": "ആഡിറ്റര്‍",
+      "code": "SUBOCCUPATION_AUDITORS",
+      "id": 71,
+      "minoroccupationid": 12,
+      "migrationeducationid": 221,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cost & Works Accountants",
+      "namelocal": "കോസ്റ്റ് & വര്‍ക്ക് അക്കൗണ്ടന്‍റ്",
+      "code": "SUBOCCUPATION_COST_WORKS_ACCOUNTANTS",
+      "id": 72,
+      "minoroccupationid": 12,
+      "migrationeducationid": 222,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Accountants, Auditors & Related Workers, n.e.c",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ പെടാത്ത അക്കൗണ്ടന്‍റ്, ആഡിറ്റര്‍ & ബന്ധപ്പെട്ട് ജോലികള്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_ACCOUNTANTS_AUDITORS_RELATED_WORKERS_NEC",
+      "id": 73,
+      "minoroccupationid": 12,
+      "migrationeducationid": 223,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sociologists",
+      "namelocal": "സോഷ്യോളജിസ്റ്റ്",
+      "code": "SUBOCCUPATION_SOCIOLOGISTS",
+      "id": 74,
+      "minoroccupationid": 13,
+      "migrationeducationid": 230,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Anthropologists",
+      "namelocal": "ആന്ത്രോപോളജിസ്റ്റ്",
+      "code": "SUBOCCUPATION_ANTHROPOLOGISTS",
+      "id": 75,
+      "minoroccupationid": 13,
+      "migrationeducationid": 231,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Historians, Archaeologists & Political Scientists & Related Workers",
+      "namelocal": "ചരിത്രകാരന്‍, പുരാവസ്തു ഗവേഷകന്‍ & പൊളിറ്റിക്കല്‍ സയന്‍റിസ്റ്റ് & അനുബന്ധമേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_HISTORIANS_ARCHAEOLOGISTS_POLITICAL_SCIENTISTS_RELATED_WORKERS",
+      "id": 76,
+      "minoroccupationid": 13,
+      "migrationeducationid": 232,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Geographers",
+      "namelocal": "ജിയോഗ്രാഫര്‍",
+      "code": "SUBOCCUPATION_GEOGRAPHERS",
+      "id": 77,
+      "minoroccupationid": 13,
+      "migrationeducationid": 233,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Psychologists",
+      "namelocal": "സൈക്കോളജിസ്റ്റ്",
+      "code": "SUBOCCUPATION_PSYCHOLOGISTS",
+      "id": 78,
+      "minoroccupationid": 13,
+      "migrationeducationid": 234,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Librarians, Archivists & Curators",
+      "namelocal": "ലൈബ്രേറിയന്‍, ആര്‍ക്കിവിസ്റ്റ്, ക്യുറേറ്റര്‍",
+      "code": "SUBOCCUPATION_LIBRARIANS_ARCHIVISTS_CURATORS",
+      "id": 79,
+      "minoroccupationid": 13,
+      "migrationeducationid": 235,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Philologists, Translators & Interpreters",
+      "namelocal": "ഫിലോളജിസ്റ്റ്, പരിഭാഷകന്‍, വ്യാഖ്യാതാവ്",
+      "code": "SUBOCCUPATION_PHILOLOGISTS_TRANSLATORS_INTERPRETERS",
+      "id": 80,
+      "minoroccupationid": 13,
+      "migrationeducationid": 236,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Personnel and Occupational Specialists",
+      "namelocal": "പേഴ്സണല്‍, ഒക്കുപ്പേഷനല്‍ സ്പെഷ്യലിസ്റ്റ്",
+      "code": "SUBOCCUPATION_PERSONNEL_OCCUPATIONAL_SPECIALISTS",
+      "id": 81,
+      "minoroccupationid": 13,
+      "migrationeducationid": 237,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Labour, Social Welfare & Political Workers",
+      "namelocal": "തൊഴിലാളി, സാമൂഹ്യക്ഷേമ &  രാഷ്ട്രീയ പ്രവര്‍ത്തകര്‍",
+      "code": "SUBOCCUPATION_LABOUR_SOCIAL_WELFARE_POLITICAL_WORKERS",
+      "id": 82,
+      "minoroccupationid": 13,
+      "migrationeducationid": 238,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Social Scientists and Related Workers, n.e.c",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സാമൂഹ്യ ശാസ്ത്രജ്ഞര്‍ ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_SOCIAL_SCIENTISTS_WORKERS_NEC",
+      "id": 83,
+      "minoroccupationid": 13,
+      "migrationeducationid": 239,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lawyers",
+      "namelocal": "വക്കീല്‍",
+      "code": "SUBOCCUPATION_LAWYERS",
+      "id": 84,
+      "minoroccupationid": 14,
+      "migrationeducationid": 240,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Judges ",
+      "namelocal": "ജഡ്ജ്",
+      "code": "SUBOCCUPATION_JUDGES",
+      "id": 85,
+      "minoroccupationid": 14,
+      "migrationeducationid": 241,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Magistrates",
+      "namelocal": "മജിസ്ട്രേറ്റ്",
+      "code": "SUBOCCUPATION_MAGISTRATES",
+      "id": 86,
+      "minoroccupationid": 14,
+      "migrationeducationid": 242,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Law Assistant",
+      "namelocal": "ലോ അസിസ്റ്റന്‍റ്",
+      "code": "SUBOCCUPATION_LAW_ASSISTANT",
+      "id": 87,
+      "minoroccupationid": 14,
+      "migrationeducationid": 243,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jurists, (Including petition writers), n.e.c.",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ജൂറിസ്റ്റുകള്‍, (പരാതി തയ്യാറാക്കി നല്‍കുന്നവര്‍ ഉള്‍പ്പെടെ)",
+      "code": "SUBOCCUPATION_JURISTS_INCLUDING_PETITION_WRITERS_NEC",
+      "id": 88,
+      "minoroccupationid": 14,
+      "migrationeducationid": 244,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, University and Colleges",
+      "namelocal": "യുണിവേഴ്സിറ്റി, കോളേജ്  അദ്ധ്യാപകര്‍",
+      "code": "SUBOCCUPATION_TEACHERS_UNIVERSITY_COLLEGES",
+      "id": 89,
+      "minoroccupationid": 15,
+      "migrationeducationid": 250,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, Higher Secondary & High School",
+      "namelocal": "അദ്ധ്യാപകന്‍  ഹൈസ്ക്കൂള്‍, ഹയര്‍സെക്കണ്ടറി സ്ക്കൂളുകള്‍",
+      "code": "SUBOCCUPATION_TEACHERS_HIGHER_SECONDARY_HIGH_SCHOOL",
+      "id": 90,
+      "minoroccupationid": 15,
+      "migrationeducationid": 251,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, Middle School",
+      "namelocal": "യു.പി. സ്ക്കൂള്‍ അദ്ധ്യാപകര്‍",
+      "code": "SUBOCCUPATION_TEACHERS_MIDDLE_SCHOOL",
+      "id": 91,
+      "minoroccupationid": 15,
+      "migrationeducationid": 252,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, Primary",
+      "namelocal": "പ്രൈമറി സ്ക്കൂള്‍ അദ്ധ്യാപകര്‍",
+      "code": "SUBOCCUPATION_TEACHERS_PRIMARY",
+      "id": 92,
+      "minoroccupationid": 15,
+      "migrationeducationid": 253,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, Special Education",
+      "namelocal": "സ്പെഷ്യല്‍ വിദ്യാഭ്യാസ അദ്ധ്യാപകര്‍",
+      "code": "SUBOCCUPATION_TEACHERS_SPECIAL_EDUCATION",
+      "id": 93,
+      "minoroccupationid": 15,
+      "migrationeducationid": 255,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, Craft",
+      "namelocal": "ക്രാഫ്റ്റ് അദ്ധ്യാപകര്‍",
+      "code": "SUBOCCUPATION_TEACHERS_CRAFT",
+      "id": 94,
+      "minoroccupationid": 15,
+      "migrationeducationid": 256,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത അദ്ധ്യാപകര്‍",
+      "code": "SUBOCCUPATION_TEACHERS_NEC",
+      "id": 95,
+      "minoroccupationid": 15,
+      "migrationeducationid": 257,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Poets & Authors",
+      "namelocal": "കവി & എഴുത്തുകാര്‍",
+      "code": "SUBOCCUPATION_POETS_AUTHORS",
+      "id": 96,
+      "minoroccupationid": 16,
+      "migrationeducationid": 260,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Journalists and Realted Workers",
+      "namelocal": "പത്രപ്രവര്‍ത്തകരും ബന്ധപ്പെട്ട ജോലികള്‍ ചെയ്യുന്നവരും",
+      "code": "SUBOCCUPATION_JOURNALISTS_REALTED_WORKERS",
+      "id": 97,
+      "minoroccupationid": 16,
+      "migrationeducationid": 261,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Editors and Journalists",
+      "namelocal": "എഡിറ്റര്‍, പത്രപ്രവര്‍ത്തകര്‍",
+      "code": "SUBOCCUPATION_EDITORS_JOURNALISTS",
+      "id": 98,
+      "minoroccupationid": 16,
+      "migrationeducationid": 262,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Poets, Authors, Journalists and Related Workers, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കവികള്‍, ഗ്രന്ഥകാരന്‍മാര്‍, പത്രപ്രവര്‍ത്തകരും ബന്ധപ്പെട്ട പണികളും ചെയ്യുന്ന ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_POETS_AUTHORS_JOURNALISTS_WORKERS_NEC",
+      "id": 99,
+      "minoroccupationid": 16,
+      "migrationeducationid": 263,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sculptors, Painters & Related Artists",
+      "namelocal": "ശില്‍പി, ചിത്രകാരന്‍, ബന്ധപ്പെട്ട കലാകാരന്‍മാര്‍",
+      "code": "SUBOCCUPATION_SCULPTORS_PAINTERS_ARTISTS",
+      "id": 100,
+      "minoroccupationid": 17,
+      "migrationeducationid": 270,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Commercial Artists",
+      "namelocal": "കോമേഴ്സ്യല്‍ ആര്‍ട്ടിസ്റ്റ്",
+      "code": "SUBOCCUPATION_COMMERCIAL_ARTISTS",
+      "id": 101,
+      "minoroccupationid": 17,
+      "migrationeducationid": 271,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Interior Decorators",
+      "namelocal": "ഇന്‍റീരിയര്‍ ഡെക്കറേറ്റര്‍",
+      "code": "SUBOCCUPATION_INTERIOR_DECORATORS",
+      "id": 102,
+      "minoroccupationid": 17,
+      "migrationeducationid": 272,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Designers",
+      "namelocal": "ഡിസൈനര്‍",
+      "code": "SUBOCCUPATION_DESIGNERS",
+      "id": 103,
+      "minoroccupationid": 17,
+      "migrationeducationid": 273,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Movie Camera Operators",
+      "namelocal": "മൂവി ക്യാമറാ ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_MOVIE_CAMERA_OPERATORS",
+      "id": 104,
+      "minoroccupationid": 17,
+      "migrationeducationid": 274,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Photographers, other",
+      "namelocal": "ഫോട്ടോഗ്രാഫര്‍, മറ്റുള്ളവര്‍",
+      "code": "SUBOCCUPATION_PHOTOGRAPHERS_OTHER",
+      "id": 105,
+      "minoroccupationid": 17,
+      "migrationeducationid": 275,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sculptors, Painters, Photographers & Related Creative Artists, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ശില്പി, ചിത്രശാരന്‍, ഫോട്ടോഗ്രാഫര്‍ & ബന്ധപ്പെട്ട സര്‍ഗാത്മക കലാകാരന്‍",
+      "code": "SUBOCCUPATION_SCULPTORS_PAINTERS_PHOTOGRAPHERS_CREATIVE_ARTISTS_NEC",
+      "id": 106,
+      "minoroccupationid": 17,
+      "migrationeducationid": 276,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Composers, Musicians and Singers",
+      "namelocal": "സംഗീത സംവിധായകര്‍, സംഗീതജ്ഞര്‍, ഗായകര്‍",
+      "code": "SUBOCCUPATION_COMPOSERS_MUSICIANS_SINGERS",
+      "id": 107,
+      "minoroccupationid": 18,
+      "migrationeducationid": 280,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Choreographers & Dancers and Singers",
+      "namelocal": "നൃത്തസംവിധായകര്‍, നര്‍ത്തകര്‍, പാട്ടുകാര്‍",
+      "code": "SUBOCCUPATION_CHOREOGRAPHERS_DANCERS_SINGERS",
+      "id": 108,
+      "minoroccupationid": 18,
+      "migrationeducationid": 281,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Actors",
+      "namelocal": "അഭിനേതാവ്",
+      "code": "SUBOCCUPATION_ACTORS",
+      "id": 109,
+      "minoroccupationid": 18,
+      "migrationeducationid": 282,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stage & Film Directors ",
+      "namelocal": "സ്റ്റേജ് & സിനിമാ സംവിധായകന്‍",
+      "code": "SUBOCCUPATION_STAGE_FILM_DIRECTORS",
+      "id": 110,
+      "minoroccupationid": 18,
+      "migrationeducationid": 283,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Producers (Performing Arts)",
+      "namelocal": "പ്രൊഡ്യൂസര്‍ (സംഗീതം നൃത്തം, നടനകല)",
+      "code": "SUBOCCUPATION_PRODUCERS_PERFORMING_ARTS",
+      "id": 111,
+      "minoroccupationid": 18,
+      "migrationeducationid": 284,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Circus Performers",
+      "namelocal": "സര്‍ക്കസ് പ്രകടനം നടത്തുന്നയാള്‍",
+      "code": "SUBOCCUPATION_CIRCUS_PERFORMERS",
+      "id": 112,
+      "minoroccupationid": 18,
+      "migrationeducationid": 285,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Composers & Performing Artists, n.e.c.",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കംപോസര്‍മാര്‍ & പെര്‍ഫോമിംഗ് ആര്‍ട്ടിസ്റ്റ്",
+      "code": "SUBOCCUPATION_COMPOSERS_PERFORMING_ARTISTS_NEC",
+      "id": 113,
+      "minoroccupationid": 18,
+      "migrationeducationid": 286,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ordained Religious Workers",
+      "namelocal": "മതസംബന്ധമായ ഔദ്യോഗികമായി ജോലിയില്‍ ഏര്‍പ്പെടുന്നവര്‍",
+      "code": "SUBOCCUPATION_ORDAINED_RELIGIOUS_WORKERS",
+      "id": 114,
+      "minoroccupationid": 19,
+      "migrationeducationid": 290,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Non-Ordained Religious Workers",
+      "namelocal": "അനൗദ്യോഗികമായി മതസംബന്ധമായ ജോലിചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_NONORDAINED_RELIGIOUS_WORKERS",
+      "id": 115,
+      "minoroccupationid": 19,
+      "migrationeducationid": 291,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Astrologers, Palmists & Related Workers",
+      "namelocal": "ജ്യോത്സ്യന്‍, കൈനോട്ടക്കാര്‍ & അനുബന്ധ മേഖലയില്‍  ജോലിചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_ASTROLOGERS_PALMISTS_RELATED_WORKERS",
+      "id": 116,
+      "minoroccupationid": 19,
+      "migrationeducationid": 292,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Athletes, Sportsmen and Related Workers",
+      "namelocal": "അത്ലറ്റ്, കായിക താരങ്ങള്‍ അനുബന്ധ മേഖലയില്‍ ജോലിചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_ATHLETES_SPORTSMEN_AND_WORKERS",
+      "id": 117,
+      "minoroccupationid": 19,
+      "migrationeducationid": 293,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Professional Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗത്തില്‍ ഉള്‍പ്പെടാത്ത പ്രൊഫഷണല്‍ ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_PROFESSIONAL_WORKERS_NEC",
+      "id": 118,
+      "minoroccupationid": 19,
+      "migrationeducationid": 294,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Elected Officials, Union Govt.",
+      "namelocal": "ജനപ്രതിനിധി  കേന്ദ്ര ഗവണ്‍മെന്‍റ്",
+      "code": "SUBOCCUPATION_ELECTED_OFFICIALS_UNION_GOVT",
+      "id": 119,
+      "minoroccupationid": 20,
+      "migrationeducationid": 300,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Elected Officials, State Govt.",
+      "namelocal": "ജനപ്രതിനിധി  സംസ്ഥാന ഗവണ്‍മെന്‍റ്",
+      "code": "SUBOCCUPATION_ELECTED_OFFICIALS_STATE_GOVT",
+      "id": 120,
+      "minoroccupationid": 20,
+      "migrationeducationid": 301,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Elected Officials, Local Bodies",
+      "namelocal": "ജനപ്രതിനിധി  തദ്ദേശസ്വയംഭരണ സ്ഥാപനം",
+      "code": "SUBOCCUPATION_ELECTED_OFFICIALS_LOCAL_BODIES",
+      "id": 121,
+      "minoroccupationid": 20,
+      "migrationeducationid": 302,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Elected Officials, n.e.c",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത തെരഞ്ഞെടുക്കപ്പെട്ട ഭാരവാഹികള്‍",
+      "code": "SUBOCCUPATION_ELECTED_OFFICIALS_NEC",
+      "id": 122,
+      "minoroccupationid": 20,
+      "migrationeducationid": 303,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative & Executive Officials, Union Govt.",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ്, എക്സിക്യൂട്ടീവ് ഉദ്യോഗസ്ഥന്‍  കേന്ദ്ര ഗവണ്‍മെന്‍റ്",
+      "code": "SUBOCCUPATION_ADMINISTRATIVE_EXECUTIVE_OFFICIALS_UNION_GOVT",
+      "id": 123,
+      "minoroccupationid": 21,
+      "migrationeducationid": 310,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative & Executive Officials, State Govt.",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ് & എക്സിക്യൂട്ടീവ്  ഉദ്യോഗസ്ഥര്‍  സംസ്ഥാന ഗവണ്‍മെന്‍റ്",
+      "code": "SUBOCCUPATION_ADMINISTRATIVE_EXECUTIVE_OFFICIALS_STATE_GOVT",
+      "id": 124,
+      "minoroccupationid": 21,
+      "migrationeducationid": 311,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative & Executive Officals, Quasi - Govt.",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ്, എക്സിക്യൂട്ടീവ് ഉദ്യോഗസ്ഥന്‍  അര്‍ദ്ധസര്‍ക്കാര്‍ സ്ഥാപനം",
+      "code": "SUBOCCUPATION_ADMINISTRATIVE_EXECUTIVE_OFFICALS_QUASI_GOVT",
+      "id": 125,
+      "minoroccupationid": 21,
+      "migrationeducationid": 312,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative & Executive Officials, Local Bodies",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ്, എക്സിക്യൂട്ടീവ് ഉദ്യോഗസ്ഥര്‍  തദ്ദേശസ്വയംഭരണ സ്ഥാപനങ്ങള്‍",
+      "code": "SUBOCCUPATION_ADMINISTRATIVE_EXECUTIVE_OFFICIALS_LOCAL_BODIES",
+      "id": 126,
+      "minoroccupationid": 21,
+      "migrationeducationid": 313,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative & Executive Officials, Govt. and Local Bodies, n.e.c.",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സര്‍ക്കാരിലേയും തദ്ദേഷസ്വയംഭരണ സ്ഥാപനങ്ങളിലേയും അഡ്മിനിസ്ട്രേറ്റീവ് & എക്സിക്യുട്ടീവ് ഉദ്യോഗസ്ഥന്‍മാര്‍",
+      "code": "SUBOCCUPATION_ADMINISTRATIVE_EXECUTIVE_OFFICIALS_GOVT_AND_LOCAL_BODIES_NEC",
+      "id": 127,
+      "minoroccupationid": 21,
+      "migrationeducationid": 314,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, wholesale trade",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍ മൊത്ത വ്യാപാരം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_WHOLESALE_TRADE",
+      "id": 128,
+      "minoroccupationid": 22,
+      "migrationeducationid": 320,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Wholesale Trade",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍  മൊത്ത വ്യാപാരം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_WHOLESALE_TRADE",
+      "id": 129,
+      "minoroccupationid": 22,
+      "migrationeducationid": 321,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Retail Trade",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍ ചില്ലറ വ്യാപാരം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_RETAIL_TRADE",
+      "id": 130,
+      "minoroccupationid": 22,
+      "migrationeducationid": 322,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Retail Trade",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍  ചില്ലറ വ്യാപാരം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_RETAIL_TRADE",
+      "id": 131,
+      "minoroccupationid": 22,
+      "migrationeducationid": 323,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Wholesale & Retail Trade, n.e.c.",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍മാര്‍, മൊത്ത വ്യാപാരം. ചില്ലറ വ്യാപാരം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_WHOLESALE_RETAIL_TRADE_NEC",
+      "id": 132,
+      "minoroccupationid": 22,
+      "migrationeducationid": 324,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Wholesale & Retail Trade, n.e.c.",
+      "namelocal": " മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഡയറക്ടര്‍മാരും മാനേജര്‍മാരും മൊത്തവ്യാപാരവും, ചില്ലറ വ്യാപാരവും",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_WHOLESALE_RETAIL_TRADE_NEC",
+      "id": 133,
+      "minoroccupationid": 22,
+      "migrationeducationid": 325,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors, Bank",
+      "namelocal": "ഡയറക്ടര്‍  ബാങ്ക്",
+      "code": "SUBOCCUPATION_DIRECTORS_BANK",
+      "id": 134,
+      "minoroccupationid": 23,
+      "migrationeducationid": 330,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Managers, Bank",
+      "namelocal": "മാനേജര്‍  ബാങ്ക്",
+      "code": "SUBOCCUPATION_MANAGERS_BANK",
+      "id": 135,
+      "minoroccupationid": 23,
+      "migrationeducationid": 331,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors, Insurance",
+      "namelocal": "ഡയറക്ടര്‍  ഇന്‍ഷുറന്‍സ്",
+      "code": "SUBOCCUPATION_DIRECTORS_INSURANCE",
+      "id": 136,
+      "minoroccupationid": 23,
+      "migrationeducationid": 332,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Managers, Insurance",
+      "namelocal": "മാനേജര്‍  ഇന്‍ഷുറന്‍സ്",
+      "code": "SUBOCCUPATION_MANAGERS_INSURANCE",
+      "id": 137,
+      "minoroccupationid": 23,
+      "migrationeducationid": 333,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors, Financial Institutions, n.e.c",
+      "namelocal": "ഡയറക്ടര്‍  ധനകാര്യസ്ഥാപനം, മറ്റു വിഭാഗത്തില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_DIRECTORS_FINANCIAL_INSTITUTIONS_NEC",
+      "id": 138,
+      "minoroccupationid": 23,
+      "migrationeducationid": 334,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Managers, Financial Institutions, n.e.c",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ധനകാര്യ സ്ഥാപനങ്ങളിലെ മനേജര്‍മാര്‍",
+      "code": "SUBOCCUPATION_MANAGERS_FINANCIAL_INSTITUTIONS_NEC",
+      "id": 139,
+      "minoroccupationid": 23,
+      "migrationeducationid": 335,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Mining, Quarrying and Well Drilling ",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  പാറപൊട്ടിക്കല്‍, ഖനനം, കിണര്‍ ഡ്രില്ലിംഗ്",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_MINING_QUARRYING_WELL_DRILLING",
+      "id": 140,
+      "minoroccupationid": 24,
+      "migrationeducationid": 340,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Mining, Quarrying and Well Drilling",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍  പാറപൊട്ടിക്കല്‍, ഖനനം, കിണര്‍ ഡ്രില്ലിംഗ്",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_MINING_QUARRYING_WELL_DRILLING",
+      "id": 141,
+      "minoroccupationid": 24,
+      "migrationeducationid": 341,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Construction",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_CONSTRUCTION",
+      "id": 142,
+      "minoroccupationid": 24,
+      "migrationeducationid": 342,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Construction",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍  നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_CONSTRUCTION",
+      "id": 143,
+      "minoroccupationid": 24,
+      "migrationeducationid": 343,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Electricity, Gas and Water",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  വൈദ്യുതി, ഗ്യാസ്, ജലം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_ELECTRICITY_GAS_WATER",
+      "id": 144,
+      "minoroccupationid": 24,
+      "migrationeducationid": 344,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Electricity, Gas and Water",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍  വൈദ്യുതി, ഗ്യാസ്, ജലം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_ELECTRICITY_GAS_WATER",
+      "id": 145,
+      "minoroccupationid": 24,
+      "migrationeducationid": 345,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Manufacturing",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  വ്യാവസായികോല്‍പാദനം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_MANUFACTURING",
+      "id": 146,
+      "minoroccupationid": 24,
+      "migrationeducationid": 346,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Manufacturing",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍  വ്യാവസായികോല്‍പാദനം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_MANUFACTURING",
+      "id": 147,
+      "minoroccupationid": 24,
+      "migrationeducationid": 347,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Mining, Construction, Manufacturing & Related Concerns, n.e.c.",
+      "namelocal": " വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഖനനം, നിര്‍മ്മാണം, വ്യവസായികോല്പാദനം & അനുബന്ധ സംരംഭങ്ങള്‍",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_MINING_CONSTRUCTION_MANUFACTURING_CONCERNS_NEC",
+      "id": 148,
+      "minoroccupationid": 24,
+      "migrationeducationid": 348,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Mining, Construction, Manufacturing & Related Concerns, n.e.c.",
+      "namelocal": "ഡയറക്ടര്‍, മാനേജര്‍  ഖനനം, നിര്‍മ്മാണം, വ്യവാസയികോല്‍പ്പാദനം & ബന്ധപ്പെട്ട സംരംഭങ്ങള്‍ മറ്റുവിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_MINING_CONSTRUCTION_MANUFACTURING_CONCERNS_NEC",
+      "id": 149,
+      "minoroccupationid": 24,
+      "migrationeducationid": 349,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Transport",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  ഗതാഗതം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_TRANSPORT",
+      "id": 150,
+      "minoroccupationid": 25,
+      "migrationeducationid": 350,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers & Related Executives, Transport",
+      "namelocal": "ഡയറക്ടര്‍, മാനേജര്‍, അനുബന്ധ എക്സിക്യൂട്ടീവുകള്‍  ഗതാഗതം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_RELATED_EXECUTIVES_TRANSPORT",
+      "id": 151,
+      "minoroccupationid": 25,
+      "migrationeducationid": 351,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors,  Managers & Related Executives, Communication",
+      "namelocal": "ഡയറക്ടര്‍, മാനേജര്‍ & അനുബന്ധ എക്സിക്യൂട്ടീവുകള്‍  വാര്‍ത്താവിനിമയം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_RELATED_EXECUTIVES_COMMUNICATION",
+      "id": 152,
+      "minoroccupationid": 25,
+      "migrationeducationid": 352,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Storage and Warehouses",
+      "namelocal": "സംഭരണം & വെയര്‍ഹൗസ്  വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_STORAGE_AND_WAREHOUSES",
+      "id": 153,
+      "minoroccupationid": 25,
+      "migrationeducationid": 353,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers & Related Executives Storage and Warehouses",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍ & ബന്ധപ്പെട്ട എക്സിക്യൂട്ടീവ് സംഭരണവും     വെയര്‍ഹൗസുകളും",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_RELATED_EXECUTIVES_STORAGE_AND_WAREHOUSES",
+      "id": 154,
+      "minoroccupationid": 25,
+      "migrationeducationid": 354,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Transport, Storage & Communication, n.e.c.",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  ട്രാന്‍സ്പോര്‍ട്ട്, സ്റ്റോറേജ്, കമ്മ്യൂണിക്കേഷന്‍, മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_TRANSPORT_STORAGE_COMMUNICATION_NEC",
+      "id": 155,
+      "minoroccupationid": 25,
+      "migrationeducationid": 355,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors, Managers & Related Executives, Transport, Storage & Communication, n.e.c.",
+      "namelocal": "ഡയറക്ടര്‍, മാനേജര്‍ ബന്ധപ്പെട്ട എക്സിക്യൂട്ടീവ്   മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_RELATED_EXECUTIVES_TRANSPORT_STORAGE_COMMUNICATION_NEC",
+      "id": 156,
+      "minoroccupationid": 25,
+      "migrationeducationid": 356,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Lodging & Catering Services",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  ലോഡ്ജിംഗ് & കേറ്ററിംഗ് സേവനങ്ങള്‍",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_LODGING_CATERING_SERVICES",
+      "id": 157,
+      "minoroccupationid": 26,
+      "migrationeducationid": 360,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Lodging & Catering Services",
+      "namelocal": "ഡയറക്ടര്‍, മാനേജര്‍  ലോഡ്ജിംഗ്, കേറ്ററിംഗ് സേവനം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_LODGING_CATERING_SERVICES",
+      "id": 158,
+      "minoroccupationid": 26,
+      "migrationeducationid": 361,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Recreation and Entertainment",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍  റിക്രിയേഷന്‍ & വിനോദം",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_RECREATION_AND_ENTERTAINMENT",
+      "id": 159,
+      "minoroccupationid": 26,
+      "migrationeducationid": 362,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors & Managers, Recreation and Entertainment",
+      "namelocal": "ഡയറക്ടര്‍ & മാനേജര്‍  റിക്രിയേഷന്‍, വിനോദം",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_RECREATION_AND_ENTERTAINMENT",
+      "id": 160,
+      "minoroccupationid": 26,
+      "migrationeducationid": 363,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "House Keepers, Matrons and Stewards",
+      "namelocal": "ഹൗസ്കീപ്പര്‍, മേട്രന്‍ & സ്റ്റുവാര്‍ഡ്",
+      "code": "SUBOCCUPATION_HOUSE_KEEPERS_MATRONS_AND_STEWARDS",
+      "id": 161,
+      "minoroccupationid": 46,
+      "migrationeducationid": 610,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Related Executives, Other Services",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍, അനുബന്ധ എക്സിക്യൂട്ടീവുകള്‍  മറ്റ് സേവനങ്ങള്‍",
+      "code": "SUBOCCUPATION_WORKING_PROPRIETORS_RELATED_EXECUTIVES_OTHER_SERVICES",
+      "id": 162,
+      "minoroccupationid": 26,
+      "migrationeducationid": 364,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors, Managers & Related Executives, Other Services",
+      "namelocal": "ഡയറക്ടര്‍, മാനേജര്‍, അനുബന്ധ എക്സിക്യൂട്ടീവുകള്‍,  മറ്റ് അനുബന്ധ സേവനമേഖലകള്‍",
+      "code": "SUBOCCUPATION_DIRECTORS_MANAGERS_RELATED_EXECUTIVES_OTHER_SERVICES",
+      "id": 163,
+      "minoroccupationid": 26,
+      "migrationeducationid": 365,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative, Executive & Managerial Workers, n.e.c.",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ്, എക്സിക്യൂട്ടീവ് & മാനേജീരിയല്‍ ജോലിക്കാര്‍  മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_ADMINISTRATIVE_EXECUTIVE_MANAGERIAL_WORKERS_NEC",
+      "id": 164,
+      "minoroccupationid": 27,
+      "migrationeducationid": 370,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Clerical Supervisors (Office), Superintendents ",
+      "namelocal": "ക്ലറിക്കല്‍ സൂപ്പര്‍വൈസര്‍ (ഓഫീസ്), സൂപ്രണ്ടുമാര്‍",
+      "code": "SUBOCCUPATION_CLERICAL_SUPERVISORS_OFFICE_SUPERINTENDENTS",
+      "id": 165,
+      "minoroccupationid": 28,
+      "migrationeducationid": 400,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Head Clerks & Section Heads",
+      "namelocal": "ഹെഡ് ക്ലാര്‍ക്ക് & സെക്ഷന്‍ തലവന്‍",
+      "code": "SUBOCCUPATION_HEAD_CLERKS_SECTION_HEADS",
+      "id": 166,
+      "minoroccupationid": 28,
+      "migrationeducationid": 401,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Other Supervisors (Inspectors, etc)",
+      "namelocal": "മറ്റ് സൂപ്പര്‍വൈസര്‍ (ഇന്‍സ്പെക്ടര്‍ മുതലായവര്‍)",
+      "code": "SUBOCCUPATION_OTHER_SUPERVISORS_INSPECTORS_ETC",
+      "id": 167,
+      "minoroccupationid": 28,
+      "migrationeducationid": 402,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ministerial and Office Assistants",
+      "namelocal": "മിനിസ്റ്റീരിയല്‍ & ഓഫീസ് അസിസ്റ്റന്‍റ്",
+      "code": "SUBOCCUPATION_MINISTERIAL_AND_OFFICE_ASSISTANTS",
+      "id": 168,
+      "minoroccupationid": 28,
+      "migrationeducationid": 403,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Clerical and Other Supervision, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ക്ലറിക്കലും മറ്റു വിഭാഗത്തില്‍പ്പെടുന്ന സൂപ്പര്‍ വിഷന്‍",
+      "code": "SUBOCCUPATION_CLERICAL_AND_OTHER_SUPERVISION_NEC",
+      "id": 169,
+      "minoroccupationid": 28,
+      "migrationeducationid": 404,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Village Officials",
+      "namelocal": "വില്ലേജ് ഉദ്യോഗസ്ഥന്‍",
+      "code": "SUBOCCUPATION_VILLAGE_OFFICIALS",
+      "id": 170,
+      "minoroccupationid": 29,
+      "migrationeducationid": 410,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stenographers & Steno Typists",
+      "namelocal": "സ്റ്റെനോഗ്രാഫേഴ്സ് & സ്റ്റെനോ ടൈപ്പിസ്റ്റ്",
+      "code": "SUBOCCUPATION_STENOGRAPHERS_STENO_TYPISTS",
+      "id": 171,
+      "minoroccupationid": 30,
+      "migrationeducationid": 420,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Typists",
+      "namelocal": "ടൈപ്പിസ്റ്റ്",
+      "code": "SUBOCCUPATION_TYPISTS",
+      "id": 172,
+      "minoroccupationid": 30,
+      "migrationeducationid": 421,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teletypists (Teleprinter Operators)",
+      "namelocal": "ടെലി ടൈപ്പിസ്റ്റ് (ടെലിപ്രിന്‍റര്‍ ഓപ്പറേറ്റേഴ്സ്)",
+      "code": "SUBOCCUPATION_TELETYPISTS_TELEPRINTER_OPERATORS",
+      "id": 173,
+      "minoroccupationid": 30,
+      "migrationeducationid": 422,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Card and Tape Punching Machine Operators",
+      "namelocal": "കാര്‍ഡ് & ടേപ്പ് പഞ്ചിംഗ് മെഷീന്‍ ഓപ്പറേറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_CARD_AND_TAPE_PUNCHING_MACHINE_OPERATORS",
+      "id": 174,
+      "minoroccupationid": 30,
+      "migrationeducationid": 423,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stenographers, Typists and Card and Tape Punching Operators n.e.c",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സ്റ്റെനോഗ്രാഫര്‍മാര്‍, ടൈപ്പിസ്റ്റുകള്‍, കാര്‍ഡ്ടേപ്പ് പഞ്ചിംഗ് ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_STENOGRAPHERS_TYPISTS_CARD_TAPE_PUNCHING_OPERATORS_NEC",
+      "id": 175,
+      "minoroccupationid": 30,
+      "migrationeducationid": 424,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Book-Keepers",
+      "namelocal": "ബുക്ക് കീപ്പര്‍",
+      "code": "SUBOCCUPATION_BOOKKEEPERS",
+      "id": 176,
+      "minoroccupationid": 31,
+      "migrationeducationid": 430,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Accounts Clerks",
+      "namelocal": "അക്കൗണ്ട്സ് ക്ലാര്‍ക്ക്",
+      "code": "SUBOCCUPATION_ACCOUNTS_CLERKS",
+      "id": 177,
+      "minoroccupationid": 31,
+      "migrationeducationid": 431,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cashiers",
+      "namelocal": "കാഷ്യര്‍",
+      "code": "SUBOCCUPATION_CASHIERS",
+      "id": 178,
+      "minoroccupationid": 31,
+      "migrationeducationid": 432,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Book-Keepers, Cashiers & Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ബുക്ക് കീപ്പര്‍, ക്യാഷ്യര്‍ & ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_BOOKKEEPERS_CASHIERS_RELATED_WORKERS_NEC",
+      "id": 179,
+      "minoroccupationid": 31,
+      "migrationeducationid": 433,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Book-keeping & Calculating Machine Operators",
+      "namelocal": "ബുക്ക് കീപ്പിംഗ് & കാല്‍ക്കുലേറ്റിംഗ് മെഷീന്‍ ഓപ്പറേറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_BOOKKEEPING_CALCULATING_MACHINE_OPERATORS",
+      "id": 180,
+      "minoroccupationid": 32,
+      "migrationeducationid": 440,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Automatic Data Processing Machine Operators",
+      "namelocal": "ഓട്ടോമാറ്റിക് ഡേറ്റാ പ്രോസസ്സിംഗ് മെഷീന്‍ ഓപ്പറേറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_AUTOMATIC_DATA_PROCESSING_MACHINE_OPERATORS",
+      "id": 181,
+      "minoroccupationid": 32,
+      "migrationeducationid": 441,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Computer Data entry Operator",
+      "namelocal": "കമ്പ്യൂട്ടര്‍ ഡേറ്റാ എന്‍ട്രി ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_COMPUTER_DATA_ENTRY_OPERATOR",
+      "id": 182,
+      "minoroccupationid": 32,
+      "migrationeducationid": 442,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Computing Machine Operators, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കമ്പ്യൂട്ടിംഗ് മെഷിന്‍ ഓപ്പറേറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_COMPUTING_MACHINE_OPERATORS_NEC",
+      "id": 183,
+      "minoroccupationid": 32,
+      "migrationeducationid": 443,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Clerks, General",
+      "namelocal": "ക്ലാര്‍ക്ക്  പൊതുവിഭാഗം",
+      "code": "SUBOCCUPATION_CLERKS_GENERAL",
+      "id": 184,
+      "minoroccupationid": 33,
+      "migrationeducationid": 450,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Store-Keepers & Related Workers",
+      "namelocal": "സ്റ്റോര്‍ കീപ്പര്‍മാര്‍ & അനുബന്ധമേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_STOREKEEPERS_RELATED_WORKERS",
+      "id": 185,
+      "minoroccupationid": 33,
+      "migrationeducationid": 451,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Receptionists",
+      "namelocal": "റിസപ്ഷനിസ്റ്റ്",
+      "code": "SUBOCCUPATION_RECEPTIONISTS",
+      "id": 186,
+      "minoroccupationid": 33,
+      "migrationeducationid": 452,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Library Clerks",
+      "namelocal": "ലൈബ്രറി ക്ലാര്‍ക്ക്",
+      "code": "SUBOCCUPATION_LIBRARY_CLERKS",
+      "id": 187,
+      "minoroccupationid": 33,
+      "migrationeducationid": 453,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Time Keepers",
+      "namelocal": "ടൈം കീപ്പേഴ്സ്",
+      "code": "SUBOCCUPATION_TIME_KEEPERS",
+      "id": 188,
+      "minoroccupationid": 33,
+      "migrationeducationid": 454,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Coders",
+      "namelocal": "കോഡേഴ്സ്",
+      "code": "SUBOCCUPATION_CODERS",
+      "id": 189,
+      "minoroccupationid": 33,
+      "migrationeducationid": 455,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ticket Sellers",
+      "namelocal": "ടിക്കറ്റ് വില്‍പ്പനക്കാര്‍",
+      "code": "SUBOCCUPATION_TICKET_SELLERS",
+      "id": 190,
+      "minoroccupationid": 33,
+      "migrationeducationid": 456,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ticket Collectors, Checkers & Examiners",
+      "namelocal": "ടിക്കറ്റ് കളക്ടര്‍മാര്‍, ചെക്കര്‍മാര്‍ & പരിശോധകര്‍",
+      "code": "SUBOCCUPATION_TICKET_COLLECTORS_CHECKERS_EXAMINERS",
+      "id": 191,
+      "minoroccupationid": 33,
+      "migrationeducationid": 457,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Office Attendants, (Peon Daftries etc)",
+      "namelocal": "ഓഫീസ് അറ്റഡര്‍മാര്‍ (പ്യൂണ്‍, ശിപായി മുതലായവര്‍)",
+      "code": "SUBOCCUPATION_OFFICE_ATTENDANTS_PEON_DAFTRIES_ETC",
+      "id": 192,
+      "minoroccupationid": 33,
+      "migrationeducationid": 458,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Clerical and Related Workers (including Proof Readers & Copy Holders), n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍പ്പെടാത്ത ക്ലറിക്കല്‍, ബന്ധപ്പെട്ട ജോലിക്കാര്‍ (പ്രൂഫ് റീഡര്‍ & കോപ്പി ഹോള്‍ഡേഴ്സ് ഉള്‍പ്പെടെ)",
+      "code": "SUBOCCUPATION_CLERICAL_WORKERS_INCLUDING_PROOF_READERS_COPY_HOLDERS_NEC",
+      "id": 193,
+      "minoroccupationid": 33,
+      "migrationeducationid": 459,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Station Masters & Station Superintendent, Transport",
+      "namelocal": "സ്റ്റേഷന്‍ മാസ്റ്റര്‍ & സ്റ്റേഷന്‍ സൂപ്രണ്ട്  ഗതാഗതം",
+      "code": "SUBOCCUPATION_STATION_MASTERS_STATION_SUPERINTENDENT_TRANSPORT",
+      "id": 194,
+      "minoroccupationid": 34,
+      "migrationeducationid": 460,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Post Masters, Telegraph Masters & Other Supervisors",
+      "namelocal": "പോസ്റ്റ് മാസ്റ്റേഴ്സ്, ടെലിഗ്രാഫ് മാസ്റ്റേഴ്സ് & മറ്റ് സൂപ്പര്‍വൈസര്‍മാര്‍",
+      "code": "SUBOCCUPATION_POSTMASTERS_TELEGRAPH_MASTERS_OTHER_SUPERVISORS",
+      "id": 195,
+      "minoroccupationid": 34,
+      "migrationeducationid": 461,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Transport & Communication Supervisors, n.e.c",
+      "namelocal": "ഗതാഗത വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഗതാഗതം & വാര്‍ത്താവിനിമയ സൂപ്പര്‍വൈസര്‍മാര്‍",
+      "code": "SUBOCCUPATION_TRANSPORT_COMMUNICATION_SUPERVISORS_NEC",
+      "id": 196,
+      "minoroccupationid": 34,
+      "migrationeducationid": 462,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Guards and Brakesmen, Railway",
+      "namelocal": "ഗാര്‍ഡുമാര്‍, ബ്രേക്ക്സ്മെന്‍  റെയില്‍വെ",
+      "code": "SUBOCCUPATION_GUARDS_BRAKESMEN_RAILWAY",
+      "id": 197,
+      "minoroccupationid": 35,
+      "migrationeducationid": 470,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Conductors, Transport",
+      "namelocal": "കണ്ടക്ടര്‍  ട്രാന്‍സ്പോര്‍ട്ട്",
+      "code": "SUBOCCUPATION_CONDUCTORS_TRANSPORT",
+      "id": 198,
+      "minoroccupationid": 35,
+      "migrationeducationid": 471,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Transport Conductors & Guards, n.e.c.",
+      "namelocal": "ട്രാന്‍സ്പോര്‍ട്ട് കണ്ടക്ടര്‍ & ഗാര്‍ഡ്  മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_TRANSPORT_CONDUCTORS_GUARDS_NEC",
+      "id": 199,
+      "minoroccupationid": 35,
+      "migrationeducationid": 472,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Postmen",
+      "namelocal": "പോസ്റ്റ്മാന്‍",
+      "code": "SUBOCCUPATION_POSTMEN",
+      "id": 200,
+      "minoroccupationid": 36,
+      "migrationeducationid": 480,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Messengers & Dispatch Riders",
+      "namelocal": "മെസ്സഞ്ചര്‍, ഡെസ്പാച്ച് റൈഡര്‍",
+      "code": "SUBOCCUPATION_MESSENGERS_DISPATCH_RIDERS",
+      "id": 201,
+      "minoroccupationid": 36,
+      "migrationeducationid": 481,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mail Distributors & Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗത്തില്‍ ഉള്‍പ്പെടാത്ത തപാല്‍ വിതരണക്കാരന്‍, ബന്ധപ്പെട്ട ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_MAIL_DISTRIBUTORS_RELATED_WORKERS_NEC",
+      "id": 202,
+      "minoroccupationid": 36,
+      "migrationeducationid": 482,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Telephone Operators",
+      "namelocal": "ടെലിഫോണ്‍ ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_TELEPHONE_OPERATORS",
+      "id": 203,
+      "minoroccupationid": 37,
+      "migrationeducationid": 490,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Telegraphists & Signallers",
+      "namelocal": "ടെലിഗ്രാഫിസ്റ്റുകള്‍, സിഗ്നലേഴ്സ്",
+      "code": "SUBOCCUPATION_TELEGRAPHISTS_SIGNALLERS",
+      "id": 204,
+      "minoroccupationid": 37,
+      "migrationeducationid": 491,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Radio Communication & Wireless Operators",
+      "namelocal": "റേഡിയോ കമ്മ്യൂണിക്കേഷന്‍ & വയര്‍ലസ് ഓപ്പറേറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_RADIO_COMMUNICATION_WIRELESS_OPERATORS",
+      "id": 205,
+      "minoroccupationid": 37,
+      "migrationeducationid": 492,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Telephone & Telegraph Operators, n.e.c.",
+      "namelocal": "ടെലിഫോണ്‍ & ടെലിഗ്രാഫ്  ഓപ്പറേറ്റര്‍, മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_TELEPHONE_TELEGRAPH_OPERATORS_NEC",
+      "id": 206,
+      "minoroccupationid": 37,
+      "migrationeducationid": 493,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Merchants and Shop Keepers, Wholesale Trade",
+      "namelocal": "കച്ചവടക്കാര്‍, കട നടത്തിപ്പുകാര്‍  മൊത്ത വ്യാപാരം",
+      "code": "SUBOCCUPATION_MERCHANTS_SHOP_KEEPERS_WHOLESALE_TRADE",
+      "id": 207,
+      "minoroccupationid": 38,
+      "migrationeducationid": 500,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Merchants and Shop Keepers, Retail Trade",
+      "namelocal": "കച്ചവടക്കാര്‍, കച്ചവട സ്ഥാപനം നടത്തുന്നവര്‍ ചില്ലറ വ്യാപാരം",
+      "code": "SUBOCCUPATION_MERCHANTS_SHOP_KEEPERS_RETAIL_TRADE",
+      "id": 208,
+      "minoroccupationid": 38,
+      "migrationeducationid": 501,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Merchants and Shop Keepers, Wholesale and Retail Trade, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കച്ചവടക്കാരും കസെൂക്ഷിപ്പുകാരും  മൊത്തവ്യാപരവും ചില്ലറ വ്യാപാരവും",
+      "code": "SUBOCCUPATION_MERCHANTS_SHOP_KEEPERS_WHOLESALE_RETAIL_TRADE_NEC",
+      "id": 209,
+      "minoroccupationid": 38,
+      "migrationeducationid": 502,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sales Supervisors",
+      "namelocal": "സെയില്‍സ് സൂപ്പര്‍വൈസര്‍",
+      "code": "SUBOCCUPATION_SALES_SUPERVISORS",
+      "id": 210,
+      "minoroccupationid": 39,
+      "migrationeducationid": 510,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Purchasing Agents",
+      "namelocal": "പര്‍ച്ചേസിംഗ് ഏജന്‍റ്",
+      "code": "SUBOCCUPATION_PURCHASING_AGENTS",
+      "id": 211,
+      "minoroccupationid": 39,
+      "migrationeducationid": 511,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Selling Agents",
+      "namelocal": "സെല്ലിംഗ് ഏജന്‍റ്",
+      "code": "SUBOCCUPATION_SELLING_AGENTS",
+      "id": 212,
+      "minoroccupationid": 39,
+      "migrationeducationid": 512,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Manufacturers Agents, n.e.c",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത വ്യവസായികോല്പാദാകരുടെ ഏജന്‍റ്",
+      "code": "SUBOCCUPATION_MANUFACTURERS_AGENTS_NEC",
+      "id": 213,
+      "minoroccupationid": 39,
+      "migrationeducationid": 513,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Technical Salesman and Service Advisors",
+      "namelocal": "ടെക്നിക്കല്‍ സെയില്‍സ്മാന്‍ & സര്‍വ്വീസ് അഡ്വൈസര്‍",
+      "code": "SUBOCCUPATION_TECHNICAL_SALESMAN_SERVICE_ADVISORS",
+      "id": 214,
+      "minoroccupationid": 40,
+      "migrationeducationid": 520,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Commercial Travelers",
+      "namelocal": "കൊമേഴ്സ്യല്‍ ട്രാവലര്‍മാര്‍",
+      "code": "SUBOCCUPATION_COMMERCIAL_TRAVELERS",
+      "id": 215,
+      "minoroccupationid": 40,
+      "migrationeducationid": 521,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Technical  Salesman and Commercial Travelers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ടെക്നിക്കര്‍ സെയില്‍സ്മാന്‍, കൊമേഴ്സ്യല്‍ ട്രാവല്‍മാര്‍",
+      "code": "SUBOCCUPATION_TECHNICAL_SALESMAN_COMMERCIAL_TRAVELERS_NEC",
+      "id": 216,
+      "minoroccupationid": 40,
+      "migrationeducationid": 522,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Salesmen, Shop Assistants and Demonstrators",
+      "namelocal": "സെയില്‍സ്മാന്‍, ഷോപ്പ് അസിസ്റ്റന്‍റ്, ഡെമോണ്‍സ്ട്രേറ്റര്‍",
+      "code": "SUBOCCUPATION_SALESMEN_SHOP_ASSISTANTS_DEMONSTRATORS",
+      "id": 217,
+      "minoroccupationid": 41,
+      "migrationeducationid": 530,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Street Vendors, Canvassers and News Vendors",
+      "namelocal": "വഴിവാണിഭക്കാര്‍, കാന്‍വാസ് ചെയ്യുന്നവര്‍, പത്രവില്‍പ്പനക്കാര്‍",
+      "code": "SUBOCCUPATION_STREET_VENDORS_CANVASSERS_NEWS_VENDORS",
+      "id": 218,
+      "minoroccupationid": 41,
+      "migrationeducationid": 531,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Salesmen, Shop Assistants & Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സെയ്ല്‍സ്മാന്‍, ഷോപ്പ് അസിസ്റ്റന്‍റ്, ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_SALESMEN_SHOP_ASSISTANTS_RELATED_WORKERS_NEC",
+      "id": 219,
+      "minoroccupationid": 41,
+      "migrationeducationid": 532,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agents & Salesmen, Insurance",
+      "namelocal": "ഏജന്‍റ് & സെയില്‍സ്മാന്‍ ഇന്‍ഷുറന്‍സ്",
+      "code": "SUBOCCUPATION_AGENTS_SALESMEN_INSURANCE",
+      "id": 220,
+      "minoroccupationid": 42,
+      "migrationeducationid": 540,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agents, Brokers, Securities and Shares",
+      "namelocal": "ഏജന്‍റ്, ബ്രോക്കര്‍  സെക്യൂരിറ്റികള്‍ & ഷെയറുകള്‍",
+      "code": "SUBOCCUPATION_AGENTS_BROKERS_SECURITIES_SHARES",
+      "id": 221,
+      "minoroccupationid": 42,
+      "migrationeducationid": 541,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agents, Brokers & Salesmen, Real Estate",
+      "namelocal": "റിയല്‍ എസ്റ്റേറ്റ് ഏജന്‍റ്, ബ്രോക്കര്‍ & സെയില്‍സ്മാന്‍",
+      "code": "SUBOCCUPATION_AGENTS_BROKERS_SALESMEN_REAL_ESTATE",
+      "id": 222,
+      "minoroccupationid": 42,
+      "migrationeducationid": 542,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agents, Brokers and Salesmen, Advertising & Other Business Services",
+      "namelocal": "ഏജന്‍റുമാര്‍, ബ്രോക്കര്‍മാര്‍, സെയല്‍സ്മാന്‍മാര്‍  പരസ്യവും മറ്റ് ബിസിനസ്സ് സേവനങ്ങളും",
+      "code": "SUBOCCUPATION_AGENTS_BROKERS_SALESMEN_ADVERTISING_OTHER_BUSINESS_SERVICES",
+      "id": 223,
+      "minoroccupationid": 42,
+      "migrationeducationid": 543,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Auctioneers",
+      "namelocal": "ഓക്ഷനീയര്‍",
+      "code": "SUBOCCUPATION_AUCTIONEERS",
+      "id": 224,
+      "minoroccupationid": 42,
+      "migrationeducationid": 544,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Valuers and Appraisers",
+      "namelocal": "വാല്യൂര്‍ & അപ്രൈസര്‍",
+      "code": "SUBOCCUPATION_VALUERS_AND_APPRAISERS",
+      "id": 225,
+      "minoroccupationid": 42,
+      "migrationeducationid": 545,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Insurance, Real Estate, Securities & Business Service/Salesmen and Auctioneers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഇന്‍ഷ്വറന്‍സ്, റിയല്‍ എസ്റ്റേറ്റ്, സെക്യൂരിറ്റീസ് & ബിസിനസ്സ് സേവനങ്ങള്‍ ചെയ്യുന്നവര്‍, സെയില്‍സ്മാന്‍ & ലേലത്തില്‍ ഏര്‍പ്പെടുന്നവും",
+      "code": "SUBOCCUPATION_INSURANCE_REAL_ESTATE_SECURITIES_BUSINESS_SERVICE_SALESMEN_AUCTIONEERS_NEC",
+      "id": 226,
+      "minoroccupationid": 42,
+      "migrationeducationid": 546,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Money Lenders (Including indigenous Bankers)",
+      "namelocal": "പണം കടംകൊടുക്കുന്നയാള്‍ (പ്രാദേശിക ബാങ്കര്‍മാര്‍ ഉള്‍പ്പെടെ)",
+      "code": "SUBOCCUPATION_MONEY_LENDERS_INCLUDING_INDIGENOUS_BANKERS",
+      "id": 227,
+      "minoroccupationid": 43,
+      "migrationeducationid": 550,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pawn Brokers",
+      "namelocal": "സ്വര്‍ണ്ണപണയം എടുക്കുന്നയാള്‍",
+      "code": "SUBOCCUPATION_PAWN_BROKERS",
+      "id": 228,
+      "minoroccupationid": 43,
+      "migrationeducationid": 551,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Money Lender & Pawn Brokers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത പണം പലിശക്ക് കടം കൊടുക്കുന്നവര്‍ & സ്വര്‍ണ്ണം ഉള്‍പ്പെടെയുള്ള വസ്തുക്കള്‍ പണമായി സ്വീകരിച്ച് വായ്പ കൊടുക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_MONEY_LENDER_PAWN_BROKERS_NEC",
+      "id": 229,
+      "minoroccupationid": 43,
+      "migrationeducationid": 552,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sales Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കച്ചവടത്തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_SALES_WORKERS_NEC",
+      "id": 230,
+      "minoroccupationid": 44,
+      "migrationeducationid": 560,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hotel and Restaurant Keepers",
+      "namelocal": "ഹോട്ടല്‍ & റസ്റ്ററന്‍റ് സൂക്ഷിപ്പുകാര്‍",
+      "code": "SUBOCCUPATION_HOTEL_AND_RESTAURANT_KEEPERS",
+      "id": 231,
+      "minoroccupationid": 45,
+      "migrationeducationid": 600,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cooks and Cook-Bearers",
+      "namelocal": "പാചകക്കാരന്‍ & കുക്ക്  ബെയറര്‍",
+      "code": "SUBOCCUPATION_COOKS_AND_COOKBEARERS",
+      "id": 232,
+      "minoroccupationid": 47,
+      "migrationeducationid": 620,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bultlers, Bearers & Waiters",
+      "namelocal": "ബട്ലര്‍. ബെയറര്‍ & വെയിറ്റര്‍",
+      "code": "SUBOCCUPATION_BULTLERS_BEARERS_WAITERS",
+      "id": 233,
+      "minoroccupationid": 47,
+      "migrationeducationid": 621,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bartenders & Related Workers",
+      "namelocal": "മദ്യശാലയിലെ വിളമ്പുകാരന്‍ & അനുബന്ധ മേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_BARTENDERS_RELATED_WORKERS",
+      "id": 234,
+      "minoroccupationid": 47,
+      "migrationeducationid": 622,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cooks, Waiter, Bartenders, and Related Workers (Domestic and Institutional)n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത പാചകക്കാര്‍ വെയിറ്റര്‍, ബാര്‍ത്തൊഴിലാളികള്‍ ബന്ധപ്പെട്ട തൊഴില്‍ ചെയ്യുന്നവര്‍ (ഗൃഹവും വ്യവസായികവും)",
+      "code": "SUBOCCUPATION_COOKS_WAITER_BARTENDERS_WORKERS_DOMESTIC_INSTITUTIONALNEC",
+      "id": 235,
+      "minoroccupationid": 47,
+      "migrationeducationid": 623,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ayaha",
+      "namelocal": "ആയ",
+      "code": "SUBOCCUPATION_AYAHA",
+      "id": 236,
+      "minoroccupationid": 48,
+      "migrationeducationid": 630,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nurse",
+      "namelocal": "നേഴ്സ്",
+      "code": "SUBOCCUPATION_NURSE",
+      "id": 237,
+      "minoroccupationid": 48,
+      "migrationeducationid": 631,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Maids",
+      "namelocal": "മെയ്ഡ്",
+      "code": "SUBOCCUPATION_MAIDS",
+      "id": 238,
+      "minoroccupationid": 48,
+      "migrationeducationid": 632,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Domestic Servants",
+      "namelocal": "വീട്ടുജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_DOMESTIC_SERVANTS",
+      "id": 239,
+      "minoroccupationid": 48,
+      "migrationeducationid": 633,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Maids and Related House Keeping Service Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത മെയ്ഡുകളും ബന്ധപ്പെട്ട ഹൗസ് കീപ്പിംഗ് സേവനങ്ങളും  ചെയ്യുന്ന പണിക്കാര്‍",
+      "code": "SUBOCCUPATION_MAIDS_AND_RELATED_HOUSE_KEEPING_SERVICE_WORKERS_NEC",
+      "id": 240,
+      "minoroccupationid": 48,
+      "migrationeducationid": 634,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Building Caretakers",
+      "namelocal": "കെട്ടിട സൂക്ഷിപ്പുകാര്‍",
+      "code": "SUBOCCUPATION_BUILDING_CARETAKERS",
+      "id": 241,
+      "minoroccupationid": 49,
+      "migrationeducationid": 640,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sweepers, Cleaners & Related Workers",
+      "namelocal": "തൂപ്പുകാര്‍, ശുചീകരണ ജോലി ചെയ്യുന്നവര്‍ & അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_SWEEPERS_CLEANERS_RELATED_WORKERS",
+      "id": 242,
+      "minoroccupationid": 49,
+      "migrationeducationid": 641,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Watermen",
+      "namelocal": "വാട്ടര്‍മാന്‍",
+      "code": "SUBOCCUPATION_WATERMEN",
+      "id": 243,
+      "minoroccupationid": 49,
+      "migrationeducationid": 642,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Building Caretakers, Sweepers, Cleaners and Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ബില്‍ഡിംഗ് കെയര്‍ടേക്കര്‍മാര്‍, തൂപ്പുകാര്‍, വീടു വൃത്തിയാക്കുന്നവര്‍, ബന്ധപ്പെട്ട ജോലികള്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_BUILDING_CARETAKERS_SWEEPERS_CLEANERS_WORKERS_NEC",
+      "id": 244,
+      "minoroccupationid": 49,
+      "migrationeducationid": 643,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Laundrymen, Washermen & Dhobis",
+      "namelocal": "അലക്കുകാരന്‍, വാഷര്‍മാന്‍, ഡോബികള്‍",
+      "code": "SUBOCCUPATION_LAUNDRYMEN_WASHERMEN_DHOBIS",
+      "id": 245,
+      "minoroccupationid": 50,
+      "migrationeducationid": 650,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dry-Cleaners and Pressers",
+      "namelocal": "ഡ്രൈക്ലീനര്‍ & തേപ്പുകാരന്‍",
+      "code": "SUBOCCUPATION_DRYCLEANERS_PRESSERS",
+      "id": 246,
+      "minoroccupationid": 50,
+      "migrationeducationid": 651,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Launders, Dry-Cleaners and Pressers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത അലക്കുകാര്‍, ഡ്രൈക്ലീനര്‍മാര്‍, തുണി ഇസ്തിരി ഇടുന്നവര്‍",
+      "code": "SUBOCCUPATION_LAUNDERS_DRYCLEANERS_PRESSERS_NEC",
+      "id": 247,
+      "minoroccupationid": 50,
+      "migrationeducationid": 652,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hair Dressers, Barbers ",
+      "namelocal": "ഹെയര്‍ ഡ്രെസ്സേഴ്സ് & ബാര്‍ബര്‍",
+      "code": "SUBOCCUPATION_HAIR_DRESSERS_BARBERS_",
+      "id": 248,
+      "minoroccupationid": 51,
+      "migrationeducationid": 660,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Beauticians & Related Workers",
+      "namelocal": "ബ്യൂട്ടീഷ്യന്‍ & ബന്ധപ്പെട്ട ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_BEAUTICIANS_RELATED_WORKERS",
+      "id": 249,
+      "minoroccupationid": 51,
+      "migrationeducationid": 661,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fire Fighters",
+      "namelocal": "അഗ്നിശമന പ്രവര്‍ത്തകര്‍",
+      "code": "SUBOCCUPATION_FIRE_FIGHTERS",
+      "id": 250,
+      "minoroccupationid": 52,
+      "migrationeducationid": 670,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Policemen and Detectives",
+      "namelocal": "പോലീസുകാര്‍, ഡിറ്റക്റ്റീവുകള്‍",
+      "code": "SUBOCCUPATION_POLICEMEN_DETECTIVES",
+      "id": 251,
+      "minoroccupationid": 52,
+      "migrationeducationid": 671,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Customs Examiners, Patrollers and Related Workers",
+      "namelocal": "കസ്റ്റംസ് എക്സാമിനര്‍, നീരീക്ഷകര്‍, അനുബന്ധ മേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_CUSTOMS_EXAMINERS_PATROLLERS_RELATED_WORKERS",
+      "id": 252,
+      "minoroccupationid": 52,
+      "migrationeducationid": 672,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Protection Force, Home Guards and Security Workers",
+      "namelocal": "സുരക്ഷാസേന, ഹോംഗാര്‍ഡുകള്‍, സെക്യൂരിറ്റി ജീവനക്കാര്‍",
+      "code": "SUBOCCUPATION_PROTECTION_FORCE_HOME_GUARDS_SECURITY_WORKERS",
+      "id": 253,
+      "minoroccupationid": 52,
+      "migrationeducationid": 673,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Watchmen, Chowkidars & Gate Keepers",
+      "namelocal": "വാച്ച്മാന്‍, ചൗക്കീദാര്‍ & ഗേറ്റ് കീപ്പര്‍",
+      "code": "SUBOCCUPATION_WATCHMEN_CHOWKIDARS_GATE_KEEPERS",
+      "id": 254,
+      "minoroccupationid": 52,
+      "migrationeducationid": 674,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Protective Service Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സുരക്ഷാസേവന തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_PROTECTIVE_SERVICE_WORKERS_NEC",
+      "id": 255,
+      "minoroccupationid": 52,
+      "migrationeducationid": 675,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Guides",
+      "namelocal": "ഗൈഡ്",
+      "code": "SUBOCCUPATION_GUIDES",
+      "id": 256,
+      "minoroccupationid": 53,
+      "migrationeducationid": 680,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Undertakers & Embalmers",
+      "namelocal": "അണ്ടര്‍ടേക്കര്‍ & എംബാമര്‍",
+      "code": "SUBOCCUPATION_UNDERTAKERS_EMBALMERS",
+      "id": 257,
+      "minoroccupationid": 53,
+      "migrationeducationid": 681,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Service Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സേവന തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_SERVICE_WORKERS_NEC",
+      "id": 258,
+      "minoroccupationid": 53,
+      "migrationeducationid": 682,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Managers & Supervisors, Crop Production",
+      "namelocal": "ഫാം മാനേജര്‍ & സൂപ്പര്‍വൈസര്‍  കാര്‍ഷിക വിളയുല്‍പാദനം",
+      "code": "SUBOCCUPATION_FARM_MANAGERS_SUPERVISORS_CROP_PRODUCTION",
+      "id": 259,
+      "minoroccupationid": 54,
+      "migrationeducationid": 700,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Managers, Plantation",
+      "namelocal": "പ്ലാന്‍റേഷന്‍ മാനേജര്‍",
+      "code": "SUBOCCUPATION_MANAGERS_PLANTATION",
+      "id": 260,
+      "minoroccupationid": 54,
+      "migrationeducationid": 701,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Managers, Horticulture",
+      "namelocal": "ഹോര്‍ട്ടികള്‍ച്ചര്‍  ഫാം മാനേജര്‍",
+      "code": "SUBOCCUPATION_FARM_MANAGERS_HORTICULTURE",
+      "id": 261,
+      "minoroccupationid": 54,
+      "migrationeducationid": 702,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Managers, Livestock Farm",
+      "namelocal": "ഫാം മാനേജര്‍ ലൈവ് സ്റ്റോക്ക് ഫാം",
+      "code": "SUBOCCUPATION_FARM_MANAGERS_LIVESTOCK_FARM",
+      "id": 262,
+      "minoroccupationid": 54,
+      "migrationeducationid": 703,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Managers, Dairy Farm",
+      "namelocal": "ഫാം മാനേജര്‍ ഡയറിഫാം",
+      "code": "SUBOCCUPATION_FARM_MANAGERS_DAIRY_FARM",
+      "id": 263,
+      "minoroccupationid": 54,
+      "migrationeducationid": 704,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Managers, Poultry Farm",
+      "namelocal": "പൗള്‍ട്രിഫാം  മാനേജര്‍",
+      "code": "SUBOCCUPATION_FARM_MANAGERS_POULTRY_FARM",
+      "id": 264,
+      "minoroccupationid": 54,
+      "migrationeducationid": 705,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Managers & Supervisors, n.e.c.",
+      "namelocal": "ഫാം മാനേജര്‍മാര്‍ & സൂപ്പര്‍വൈസര്‍മാര്‍,.മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_FARM_MANAGERS_SUPERVISORS_NEC",
+      "id": 265,
+      "minoroccupationid": 54,
+      "migrationeducationid": 706,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cultivators (Owners)",
+      "namelocal": "കര്‍ഷകര്‍ (ഉടമസ്ഥര്‍)",
+      "code": "SUBOCCUPATION_CULTIVATORS_OWNERS",
+      "id": 266,
+      "minoroccupationid": 55,
+      "migrationeducationid": 710,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cultivators (Tenants)",
+      "namelocal": "കര്‍ഷകര്‍  പാട്ടത്തിന് കൃഷിചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_CULTIVATORS_TENANTS",
+      "id": 267,
+      "minoroccupationid": 55,
+      "migrationeducationid": 711,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cultivators, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കൃഷിക്കാര്‍",
+      "code": "SUBOCCUPATION_CULTIVATORS_NEC",
+      "id": 268,
+      "minoroccupationid": 55,
+      "migrationeducationid": 712,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Planters",
+      "namelocal": "തോട്ടമുടമകള്‍",
+      "code": "SUBOCCUPATION_PLANTERS",
+      "id": 269,
+      "minoroccupationid": 56,
+      "migrationeducationid": 720,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Livestock Farmers",
+      "namelocal": "കന്നുകാലി കര്‍ഷകന്‍",
+      "code": "SUBOCCUPATION_LIVESTOCK_FARMERS",
+      "id": 270,
+      "minoroccupationid": 56,
+      "migrationeducationid": 721,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dairy Farmers",
+      "namelocal": "ക്ഷീര കര്‍ഷകന്‍",
+      "code": "SUBOCCUPATION_DAIRY_FARMERS",
+      "id": 271,
+      "minoroccupationid": 56,
+      "migrationeducationid": 722,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Poultry Farmers",
+      "namelocal": "കോഴി കര്‍ഷകന്‍",
+      "code": "SUBOCCUPATION_POULTRY_FARMERS",
+      "id": 272,
+      "minoroccupationid": 56,
+      "migrationeducationid": 723,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Insect Rearers",
+      "namelocal": "ഷഡ്പദങ്ങളെ വളര്‍ത്തുന്നവര്‍",
+      "code": "SUBOCCUPATION_INSECT_REARERS",
+      "id": 273,
+      "minoroccupationid": 56,
+      "migrationeducationid": 724,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Orchard, Vineyard & Related Workers",
+      "namelocal": "ഫലവൃക്ഷത്തോട്ടം, മുന്തിരിത്തോട്ടം, അനുബന്ധമേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_ORCHARD_VINEYARD_RELATED_WORKERS",
+      "id": 274,
+      "minoroccupationid": 56,
+      "migrationeducationid": 725,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farmers, other than Cultivators, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കൃഷി ചെയ്യുന്ന കര്‍ഷകര്‍",
+      "code": "SUBOCCUPATION_FARMERS_OTHER_THAN_CULTIVATORS_NEC",
+      "id": 275,
+      "minoroccupationid": 56,
+      "migrationeducationid": 726,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agricultural Laborers",
+      "namelocal": "കര്‍ഷകതൊഴിലാളി",
+      "code": "SUBOCCUPATION_AGRICULTURAL_LABORERS",
+      "id": 276,
+      "minoroccupationid": 57,
+      "migrationeducationid": 730,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plantation Laborers",
+      "namelocal": "തോട്ടം തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_PLANTATION_LABORERS",
+      "id": 277,
+      "minoroccupationid": 58,
+      "migrationeducationid": 740,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tappers (Palm, Rubber Trees ect)",
+      "namelocal": "ടാപ്പിംഗ് തൊഴിലാളി (പന, റബ്ബര്‍മരം മുതലായവ)",
+      "code": "SUBOCCUPATION_TAPPERS_PALM_RUBBER_TREES_ECT",
+      "id": 278,
+      "minoroccupationid": 58,
+      "migrationeducationid": 741,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plantation Laborers & Related Workers, n.e.c.",
+      "namelocal": "തോട്ടം തൊഴിലാളികള്‍ & അനുബന്ധമേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍, മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "code": "SUBOCCUPATION_PLANTATION_LABORERS_RELATED_WORKERS_NEC",
+      "id": 279,
+      "minoroccupationid": 58,
+      "migrationeducationid": 742,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Machinery Operators",
+      "namelocal": "കാര്‍ഷിക യന്ത്രം പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_FARM_MACHINERY_OPERATORS",
+      "id": 280,
+      "minoroccupationid": 59,
+      "migrationeducationid": 750,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Workers, Animal, Birds and Insect Rearing",
+      "namelocal": "ഫാം തൊഴിലാളി  മൃഗ, പക്ഷി, ഷഡ്പദ പരിപാലനം",
+      "code": "SUBOCCUPATION_FARM_WORKERS_ANIMAL_BIRDS_AND_INSECT_REARING",
+      "id": 281,
+      "minoroccupationid": 59,
+      "migrationeducationid": 751,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gardeners &  Nursery Workers",
+      "namelocal": "തോട്ടക്കാരന്‍, നേഴ്സറിയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_GARDENERS__NURSERY_WORKERS",
+      "id": 282,
+      "minoroccupationid": 59,
+      "migrationeducationid": 752,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Other Farm Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ പെടാത്ത മറ്റ് ഫാം തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_OTHER_FARM_WORKERS_NEC",
+      "id": 283,
+      "minoroccupationid": 59,
+      "migrationeducationid": 753,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Foresters & Related Workers",
+      "namelocal": "വനപാലകര്‍, അനുബന്ധ മേഖലയില്‍ ജോലിചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_FORESTERS_RELATED_WORKERS",
+      "id": 284,
+      "minoroccupationid": 60,
+      "migrationeducationid": 760,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Harvesters & Gatherers of Forest Products (including Lac except Logs)",
+      "namelocal": "വിളവെടുപ്പുകാര്‍, വനോല്‍പ്പന്നങ്ങള്‍ ശേഖരിക്കുന്നവര്‍ (മരത്തടി ഒഴികെ, കോലരക്ക് ഉള്‍പ്പെടെ)",
+      "code": "SUBOCCUPATION_HARVESTERS_GATHERERS_FOREST_PRODUCTS_LAC_EXCEPT_LOGS",
+      "id": 285,
+      "minoroccupationid": 60,
+      "migrationeducationid": 761,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Log Fellers & Wood Cutters",
+      "namelocal": "മരം മുറിക്കുന്നവര്‍ & തടിവെട്ടുകാരന്‍",
+      "code": "SUBOCCUPATION_LOG_FELLERS_WOOD_CUTTERS",
+      "id": 286,
+      "minoroccupationid": 60,
+      "migrationeducationid": 762,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Charcoal Burners & Forest Product Processors",
+      "namelocal": "കരി ഉണ്ടാക്കുന്നവര്‍, വാനോല്‍പന്നങ്ങള്‍ സംസ്ക്കരിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_CHARCOAL_BURNERS_FOREST_PRODUCT_PROCESSORS",
+      "id": 287,
+      "minoroccupationid": 60,
+      "migrationeducationid": 763,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Loggers & Other Forestry Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത മരം വെട്ടുകാര്‍ & മറ്റു വനജോലികള്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_LOGGERS_OTHER_FORESTRY_WORKERS_NEC",
+      "id": 288,
+      "minoroccupationid": 60,
+      "migrationeducationid": 764,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hunters",
+      "namelocal": "നായാട്ടുകാര്‍",
+      "code": "SUBOCCUPATION_HUNTERS",
+      "id": 289,
+      "minoroccupationid": 61,
+      "migrationeducationid": 770,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Trappers",
+      "namelocal": "കെണിയൊരുക്കുന്നവര്‍ (ട്രാപ്പര്‍)",
+      "code": "SUBOCCUPATION_TRAPPERS",
+      "id": 290,
+      "minoroccupationid": 61,
+      "migrationeducationid": 771,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hunters and Related Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത വേട്ടക്കാരും അനുബന്ധ തൊഴിലുകള്‍ ചെയ്യുന്നവരും",
+      "code": "SUBOCCUPATION_HUNTERS_AND_RELATED_WORKERS_NEC",
+      "id": 291,
+      "minoroccupationid": 61,
+      "migrationeducationid": 772,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fishermen, Deep Sea",
+      "namelocal": "ആഴക്കടല്‍ മത്സ്യബന്ധനം നടത്തുന്നവര്‍",
+      "code": "SUBOCCUPATION_FISHERMEN_DEEP_SEA",
+      "id": 292,
+      "minoroccupationid": 62,
+      "migrationeducationid": 780,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fishermen, Inland & Coastal Waters",
+      "namelocal": "ഉള്‍നാടന്‍, തീരദേശ ജലാശയങ്ങളില്‍ മത്സ്യബന്ധനം നടത്തുന്നവര്‍",
+      "code": "SUBOCCUPATION_FISHERMEN_INLAND_COASTAL_WATERS",
+      "id": 293,
+      "minoroccupationid": 62,
+      "migrationeducationid": 781,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Conch & Shell Gatherers, Sponge & Pearl Divers",
+      "namelocal": "ശംഖ്, കക്ക ശേഖരിക്കുന്നവര്‍ & സ്പോഞ്ച്, മുത്തുചിപ്പി എന്നിവ മുങ്ങിയെടുക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_CONCH_SHELL_GATHERERS_SPONGE_PEARL_DIVERS",
+      "id": 294,
+      "minoroccupationid": 62,
+      "migrationeducationid": 782,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fishermen & Related Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത മത്സ്യത്തൊഴിലാളികള്‍ & അനുബന്ധ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_FISHERMEN_RELATED_WORKERS_NEC",
+      "id": 295,
+      "minoroccupationid": 62,
+      "migrationeducationid": 783,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Mining, Quarrying, Well Drilling & Related Activities",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍  ഖനനം, പാറ പൊട്ടിക്കല്‍, കിണര്‍കുഴിക്കല്‍, അനുബന്ധ ജോലികള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_MINING_QUARRYING_WELL_DRILLING",
+      "id": 296,
+      "minoroccupationid": 63,
+      "migrationeducationid": 800,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Miners",
+      "namelocal": "ഖനിതൊഴിലാളി",
+      "code": "SUBOCCUPATION_MINERS",
+      "id": 297,
+      "minoroccupationid": 63,
+      "migrationeducationid": 801,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Quarrymen",
+      "namelocal": "ക്വാറിത്തൊഴിലാളി",
+      "code": "SUBOCCUPATION_QUARRYMEN",
+      "id": 298,
+      "minoroccupationid": 63,
+      "migrationeducationid": 802,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Driller, Mines & Quarries",
+      "namelocal": "ഡ്രില്ലര്‍ മൈന്‍, ക്വാറി",
+      "code": "SUBOCCUPATION_DRILLER_MINES_QUARRIES",
+      "id": 299,
+      "minoroccupationid": 63,
+      "migrationeducationid": 803,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shot Firers",
+      "namelocal": "ഷോട്ട് ഫയറര്‍",
+      "code": "SUBOCCUPATION_SHOT_FIRERS",
+      "id": 300,
+      "minoroccupationid": 63,
+      "migrationeducationid": 804,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Miners & Quarrymen, other",
+      "namelocal": "ഖനിതൊഴിലാളി, ക്വാറിത്തൊഴിലാളി, മറ്റുളളവര്‍",
+      "code": "SUBOCCUPATION_MINERS_QUARRYMEN_OTHER",
+      "id": 301,
+      "minoroccupationid": 63,
+      "migrationeducationid": 805,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Well Drillers, Petroleum and Gas",
+      "namelocal": "കിണര്‍കുഴിക്കുന്നവര്‍ പെട്രോളിയം, ഗ്യാസ്",
+      "code": "SUBOCCUPATION_WELL_DRILLERS_PETROLEUM_AND_GAS",
+      "id": 302,
+      "minoroccupationid": 63,
+      "migrationeducationid": 806,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Well Drillers,Other than Petroleum and Gas",
+      "namelocal": "കിണര്‍കുഴിക്കുന്നവര്‍ പെട്രോളിയം, ഗ്യാസ് എന്നിവ ഒഴിച്ചുളളവ",
+      "code": "SUBOCCUPATION_WELL_DRILLERSOTHER_THAN_PETROLEUM_AND_GAS",
+      "id": 303,
+      "minoroccupationid": 63,
+      "migrationeducationid": 807,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mineral Treaters",
+      "namelocal": "ധാതുലവണങ്ങള്‍ സംസ്ക്കരിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_MINERAL_TREATERS",
+      "id": 304,
+      "minoroccupationid": 63,
+      "migrationeducationid": 808,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Miners, Quarrymen and Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഖനനപണിയും, ക്വാറി പണിയും അനുബന്ധമായ പണികളും ചെയ്യുന്ന ജോലിക്കാര്‍.",
+      "code": "SUBOCCUPATION_MINERS_QUARRYMEN_AND_RELATED_WORKERS_NEC",
+      "id": 305,
+      "minoroccupationid": 63,
+      "migrationeducationid": 809,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Metal Smelting, Converting and Refining",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍, ലോഹ സ്മെല്‍റ്റിംഗ്, കണ്‍വെര്‍ട്ടിംഗ്, റിഫൈനിംഗ്",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_METAL_SMELTING_CONVERTING_REFINING",
+      "id": 306,
+      "minoroccupationid": 64,
+      "migrationeducationid": 810,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Smelting, Converting and Refining Furnacemen",
+      "namelocal": "ഫര്‍ണസ്മെന്‍  ലോഹ സ്മെല്‍റ്റിംഗ്, കണ്‍വെര്‍ട്ടിംഗ്, റിഫൈനിംഗ്",
+      "code": "SUBOCCUPATION_METAL_SMELTING_CONVERTING_REFINING_FURNACEMEN",
+      "id": 307,
+      "minoroccupationid": 64,
+      "migrationeducationid": 811,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Rolling Mill Workers",
+      "namelocal": "മെറ്റല്‍ റോളിംഗ്, മില്‍തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_METAL_ROLLING_MILL_WORKERS",
+      "id": 308,
+      "minoroccupationid": 64,
+      "migrationeducationid": 812,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Melters & Reheaters",
+      "namelocal": "ലോഹം ഉരുക്കുന്നവര്‍, റീഹീറ്റേഴ്സ്",
+      "code": "SUBOCCUPATION_METAL_MELTERS_REHEATERS",
+      "id": 309,
+      "minoroccupationid": 64,
+      "migrationeducationid": 813,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Casters",
+      "namelocal": "മെറ്റല്‍ കാസ്റ്റര്‍",
+      "code": "SUBOCCUPATION_METAL_CASTERS",
+      "id": 310,
+      "minoroccupationid": 64,
+      "migrationeducationid": 814,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Moulders & Core-Makers",
+      "namelocal": "ലോഹം വാര്‍ക്കുന്നവന്‍ & കോര്‍ മേക്കര്‍",
+      "code": "SUBOCCUPATION_METAL_MOULDERS_COREMAKERS",
+      "id": 311,
+      "minoroccupationid": 64,
+      "migrationeducationid": 815,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Annealers, Temperers  & Case Hardeners",
+      "namelocal": "മെറ്റല്‍ അനീലര്‍, ടെമ്പറേഴ്സ് & കേസ് ഹാര്‍ഡനര്‍",
+      "code": "SUBOCCUPATION_METAL_ANNEALERS_TEMPERERS_CASE_HARDENERS",
+      "id": 312,
+      "minoroccupationid": 64,
+      "migrationeducationid": 816,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Drawers & Extruders",
+      "namelocal": "മെറ്റല്‍ ഡ്രോയര്‍ & എക്സ് ഡ്രൂഡര്‍",
+      "code": "SUBOCCUPATION_METAL_DRAWERS_EXTRUDERS",
+      "id": 313,
+      "minoroccupationid": 64,
+      "migrationeducationid": 817,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Platers & Coaters",
+      "namelocal": "മെറ്റല്‍ പ്ലേറ്റര്‍ & കോട്ടര്‍",
+      "code": "SUBOCCUPATION_METAL_PLATERS_COATERS",
+      "id": 314,
+      "minoroccupationid": 64,
+      "migrationeducationid": 818,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Processors, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ലോഹ സംസ്കരണ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_METAL_PROCESSORS_NEC",
+      "id": 315,
+      "minoroccupationid": 64,
+      "migrationeducationid": 819,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Wood Preparation and Paper Making ",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍  വുഡ് പ്രിപ്പറേഷന്‍, പേപ്പര്‍ നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_WOOD_PREPARATION_AND_PAPER_MAKING",
+      "id": 316,
+      "minoroccupationid": 65,
+      "migrationeducationid": 820,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Wood Treaters",
+      "namelocal": "തടി സംസ്ക്കരണം നടത്തുന്നവര്‍",
+      "code": "SUBOCCUPATION_WOOD_TREATERS",
+      "id": 317,
+      "minoroccupationid": 65,
+      "migrationeducationid": 821,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sawyers, Plywood Makers & Related Wood Processing Workers",
+      "namelocal": "തടിയറപ്പുകാരന്‍, പ്ലൈവുഡ് നിര്‍മ്മാണം നടത്തുന്നവര്‍, അനുബന്ധ തടി സംസ്കരണ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_SAWYERS_PLYWOOD_MAKERS_RELATED_WOOD_PROCESSING_WORKERS",
+      "id": 318,
+      "minoroccupationid": 65,
+      "migrationeducationid": 822,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Paper Pulp Prepares",
+      "namelocal": "പേപ്പര്‍ പള്‍പ്പ് ഉണ്ടാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_PAPER_PULP_PREPARES",
+      "id": 319,
+      "minoroccupationid": 65,
+      "migrationeducationid": 823,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Paper Makers",
+      "namelocal": "പേപ്പര്‍ ഉണ്ടാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_PAPER_MAKERS",
+      "id": 320,
+      "minoroccupationid": 65,
+      "migrationeducationid": 824,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Wood Preparation and Paper Making Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത തടിസംസ്കരണ പേപ്പര്‍ നിര്‍മ്മാണ തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_WOOD_PREPARATION_PAPER_MAKING_WORKERS_NEC",
+      "id": 321,
+      "minoroccupationid": 65,
+      "migrationeducationid": 825,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Chemical, Processing & Related Activities",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  കെമിക്കല്‍ പ്രോസസ്സിംഗ്  മറ്റ് അനുബന്ധ പ്രവര്‍ത്തനങ്ങള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_CHEMICAL_PROCESSING_RELATED_ACTIVITIES",
+      "id": 322,
+      "minoroccupationid": 66,
+      "migrationeducationid": 830,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Crushers, Grinders & Mixers",
+      "namelocal": "ക്രഷര്‍, ഗ്രൈന്‍ഡര്‍, മിക്സര്‍",
+      "code": "SUBOCCUPATION_CRUSHERS_GRINDERS_MIXERS",
+      "id": 323,
+      "minoroccupationid": 66,
+      "migrationeducationid": 831,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cookers, Roasters & Related Heat Treaters",
+      "namelocal": "കുക്കര്‍, റോസ്റ്റര്‍, അനുബന്ധ ഹീറ്റ് ട്രീറ്റിംഗ് പ്രവര്‍ത്തനങ്ങള്‍ നടത്തുന്നവര്‍",
+      "code": "SUBOCCUPATION_COOKERS_ROASTERS_RELATED_HEAT_TREATERS",
+      "id": 324,
+      "minoroccupationid": 66,
+      "migrationeducationid": 832,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Filter & Separator Operator",
+      "namelocal": "ഫില്‍ട്ടര്‍  സെപ്പറേറ്റര്‍ ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_FILTER_SEPARATOR_OPERATOR",
+      "id": 325,
+      "minoroccupationid": 66,
+      "migrationeducationid": 833,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Still & Reactor Operators",
+      "namelocal": "സ്റ്റില്‍ & റിയാക്ടര്‍ ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_STILL_REACTOR_OPERATORS",
+      "id": 326,
+      "minoroccupationid": 66,
+      "migrationeducationid": 834,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Petroleum Refining Workers",
+      "namelocal": "പെട്രോളിയം റിഫൈനിംഗ് പണിക്കാര്‍",
+      "code": "SUBOCCUPATION_PETROLEUM_REFINING_WORKERS",
+      "id": 327,
+      "minoroccupationid": 66,
+      "migrationeducationid": 835,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chemical Processors & Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കെമിക്കല്‍ പ്രൊസ്സസ്സര്‍മാര്‍ & ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_CHEMICAL_PROCESSORS_RELATED_WORKERS_NEC",
+      "id": 328,
+      "minoroccupationid": 66,
+      "migrationeducationid": 836,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Spinning, Weaving, Knitting, Dyeing & Related Processes",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  നൂല്‍ നൂല്‍ക്കല്‍, നെയ്ത്ത്, തയ്യല്‍, ഡൈയിങ്, അനുബന്ധ പ്രക്രിയകള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_SPINNING_WEAVING_KNITTING_DYEING_RELATED_PROCESSES",
+      "id": 329,
+      "minoroccupationid": 67,
+      "migrationeducationid": 840,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fiber Prepares",
+      "namelocal": "ഫൈബര്‍ ഉണ്ടാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_FIBER_PREPARES",
+      "id": 330,
+      "minoroccupationid": 67,
+      "migrationeducationid": 841,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Spinners and Winders",
+      "namelocal": "നൂല്‍നൂല്‍ക്കുന്നവര്‍, വൈന്‍ഡര്‍",
+      "code": "SUBOCCUPATION_SPINNERS_AND_WINDERS",
+      "id": 331,
+      "minoroccupationid": 67,
+      "migrationeducationid": 842,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Warpers and Sizers",
+      "namelocal": "വാര്‍പ്പേഴ്സ, സൈസ്സേഴ്സ്",
+      "code": "SUBOCCUPATION_WARPERS_AND_SIZERS",
+      "id": 332,
+      "minoroccupationid": 67,
+      "migrationeducationid": 843,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Weaving & Knitting Machine Setters & Pattern Card Prepares",
+      "namelocal": "നെയ്ത്ത് & തുന്നല്‍ യന്ത്രങ്ങള്‍ സെറ്റ് ചെയ്യുന്നവര്‍ & പാറ്റേണ്‍ കാര്‍ഡ്  തയ്യാറാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_WEAVING_KNITTING_MACHINE_SETTERS_PATTERN_CARD_PREPARES",
+      "id": 333,
+      "minoroccupationid": 67,
+      "migrationeducationid": 844,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Weavers & Related Workers",
+      "namelocal": "നെയ്ത്തുകാര്‍, അനുബന്ധ മേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_WEAVERS_RELATED_WORKERS",
+      "id": 334,
+      "minoroccupationid": 67,
+      "migrationeducationid": 845,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Carpet Makers & Finishers",
+      "namelocal": "പരവതാനി നിര്‍മ്മിക്കുന്നവര്‍, ഫിനിഷര്‍",
+      "code": "SUBOCCUPATION_CARPET_MAKERS_FINISHERS",
+      "id": 335,
+      "minoroccupationid": 67,
+      "migrationeducationid": 846,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bleachers, Dyers & Textile Printers and Finishers",
+      "namelocal": "ബ്ലീച്ചര്‍, ഡൈയര്‍, ടെക്സ്റ്റയില്‍ പ്രിന്‍റര്‍, ഫിനിഷര്‍",
+      "code": "SUBOCCUPATION_BLEACHERS_DYERS_TEXTILE_PRINTERS_AND_FINISHERS",
+      "id": 336,
+      "minoroccupationid": 67,
+      "migrationeducationid": 847,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Knitters",
+      "namelocal": "തുന്നല്‍ ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_KNITTERS",
+      "id": 337,
+      "minoroccupationid": 67,
+      "migrationeducationid": 848,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Spinners, Weavers, Knitters, Dyers & Related Workers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത നൂല്‍ നൂല്‍പ്പുകാര്‍, നെയ്ത്തുകാര്‍, തയ്യല്‍ക്കാര്‍, നിറം മുക്കുന്നവര്‍ & ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_SPINNERS_WEAVERS_KNITTERS_DYERS_RELATED_WORKERS_NEC",
+      "id": 338,
+      "minoroccupationid": 67,
+      "migrationeducationid": 849,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Tanning & Pelt Dressing",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  തുകല്‍ ഊറയ്ക്കിടല്‍, പെല്‍റ്റ് ഡ്രസ്സിംഗ്",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_TANNING_PELT_DRESSING",
+      "id": 339,
+      "minoroccupationid": 68,
+      "migrationeducationid": 850,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tanners & Fellmongers",
+      "namelocal": "തോല്‍ ഊറയ്ക്കിടുന്നവര്‍, മൃഗ ചര്‍മ്മം വില്‍ക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_TANNERS_FELLMONGERS",
+      "id": 340,
+      "minoroccupationid": 68,
+      "migrationeducationid": 851,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pelt Dressers",
+      "namelocal": "രോമ കുപ്പായം ഉണ്ടാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_PELT_DRESSERS",
+      "id": 341,
+      "minoroccupationid": 68,
+      "migrationeducationid": 852,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tanners, Fellmongers and Pelt Dressers, n.e.c.",
+      "namelocal": "മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ടാനേഴ്സ്, തുകല്‍ വില്പന്നക്കാര്‍, പെല്‍റ്റ് ഡ്രെസ്സേഴ്സ്",
+      "code": "SUBOCCUPATION_TANNERS_FELLMONGERS_AND_PELT_DRESSERS_NEC",
+      "id": 342,
+      "minoroccupationid": 68,
+      "migrationeducationid": 853,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors and Foremen, Food & Beverage Processing",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  ഭക്ഷ്യപാനീയ സംസ്ക്കരണം",
+      "code": "SUBOCCUPATION_SUPERVISORS_AND_FOREMEN_FOOD_BEVERAGE_PROCESSING",
+      "id": 343,
+      "minoroccupationid": 69,
+      "migrationeducationid": 860,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Grain Millers, Parchers & Related Workers",
+      "namelocal": "ധാന്യം പൊടിക്കുന്നവര്‍, പാര്‍ച്ചേഴ്സ് & ബന്ധപ്പെട്ട പണികള്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_GRAIN_MILLERS_PARCHERS_RELATED_WORKERS",
+      "id": 344,
+      "minoroccupationid": 69,
+      "migrationeducationid": 861,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Crushers & Pressers, Oil Seeds",
+      "namelocal": "എണ്ണക്കുരു  ക്രഷേഴ്സ്, പ്രസ്സേഴ്സ്",
+      "code": "SUBOCCUPATION_CRUSHERS_PRESSERS_OIL_SEEDS",
+      "id": 345,
+      "minoroccupationid": 69,
+      "migrationeducationid": 862,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khandsari, Sugar & Gur Makers",
+      "namelocal": "ഖണ്ഡസാരി, പഞ്ചസാര, ഗുര്‍ എന്നിവ ഉണ്ടാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_KHANDSARI_SUGAR_GUR_MAKERS",
+      "id": 346,
+      "minoroccupationid": 69,
+      "migrationeducationid": 863,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Butchers & Meat Prepares",
+      "namelocal": "ഇറച്ചിവെട്ടുകാര്‍, മാംസം തയ്യാറാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_BUTCHERS_MEAT_PREPARES",
+      "id": 347,
+      "minoroccupationid": 69,
+      "migrationeducationid": 864,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Food Preservers & Canners",
+      "namelocal": "ഭക്ഷ്യവസ്തുകള്‍ കേടുകൂടാതെ സൂക്ഷിക്കുന്ന ജോലികളില്‍ ഏര്‍പ്പെടുന്നവര്‍, കാനര്‍",
+      "code": "SUBOCCUPATION_FOOD_PRESERVERS_CANNERS",
+      "id": 348,
+      "minoroccupationid": 69,
+      "migrationeducationid": 865,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dairy Product Processors",
+      "namelocal": "ക്ഷീരോല്‍പന്നങ്ങള്‍ ഉണ്ടാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_DAIRY_PRODUCT_PROCESSORS",
+      "id": 349,
+      "minoroccupationid": 69,
+      "migrationeducationid": 866,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bakers, Confectioners, Candy & Sweet Meat Makers & Other Food Processors",
+      "namelocal": "ബേക്കര്‍മാര്‍, കണ്‍ഫക്ഷണേര്‍സ്, കാന്‍ഡി, മിഠായി & മറ്റു ഭക്ഷ്യ വസ്തുക്കള്‍ സംസ്കരണം ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_BAKERS_CONFECTIONERS_CANDY_SWEET_MEAT_MAKERS_OTHER_FOOD_PROCESSORS",
+      "id": 350,
+      "minoroccupationid": 69,
+      "migrationeducationid": 867,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tea, Coffee & Cocoa Prepares",
+      "namelocal": "തേയില, കാപ്പി, കൊക്കോ തയ്യാറാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_TEA_COFFEE_COCOA_PREPARES",
+      "id": 351,
+      "minoroccupationid": 69,
+      "migrationeducationid": 868,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Brewers & Aerated Water & Beverage Makers",
+      "namelocal": "ബ്രൂയിംഗ്, എയിറേറ്റഡ് വാട്ടര്‍, പാനീയ നിര്‍മ്മാണത്തില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_BREWERS_AERATED_WATER_BEVERAGE_MAKERS",
+      "id": 352,
+      "minoroccupationid": 69,
+      "migrationeducationid": 869,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Tobacco & Tobacco Product Making",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  പുകയില & പുകയില ഉല്‍പ്പന്നങ്ങള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_TOBACCO_TOBACCO_PRODUCT_MAKING",
+      "id": 353,
+      "minoroccupationid": 70,
+      "migrationeducationid": 870,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tobacco Preparers",
+      "namelocal": "പുകയില തയ്യാറാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_TOBACCO_PREPARERS",
+      "id": 354,
+      "minoroccupationid": 70,
+      "migrationeducationid": 871,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cigar Makers",
+      "namelocal": "ചുരുട്ട് തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_CIGAR_MAKERS",
+      "id": 355,
+      "minoroccupationid": 70,
+      "migrationeducationid": 872,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cigarette Makers",
+      "namelocal": "സിഗററ്റ് ഉണ്ടാക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_CIGARETTE_MAKERS",
+      "id": 356,
+      "minoroccupationid": 70,
+      "migrationeducationid": 873,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bidi Makers",
+      "namelocal": "ബീഡി തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_BIDI_MAKERS",
+      "id": 357,
+      "minoroccupationid": 70,
+      "migrationeducationid": 874,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tobacco Prepares & Tobacco Product Makers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത പുകയില തയ്യാറാക്കുന്നവര്‍ & പുകയില ഉല്‍പ്പന്നങ്ങള്‍ ഉണ്ടാക്കുന്നവരും",
+      "code": "SUBOCCUPATION_TOBACCO_PREPARES_TOBACCO_PRODUCT_MAKERS_NEC",
+      "id": 358,
+      "minoroccupationid": 70,
+      "migrationeducationid": 875,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Tailoring, Dress Making, Sewing & Upholstery Work",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍, തയ്യല്‍, വസ്ത്ര നിര്‍മ്മാണം, തുന്നല്‍ &  അപ്പ്ഹോള്‍സറി ജോലികള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_TAILORING_DRESS_MAKING_SEWING_UPHOLSTERY_WORK",
+      "id": 359,
+      "minoroccupationid": 71,
+      "migrationeducationid": 880,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tailors and Dress Makers",
+      "namelocal": "ടെയിലര്‍, ഡ്രസ്സ് മേക്കര്‍",
+      "code": "SUBOCCUPATION_TAILORS_AND_DRESS_MAKERS",
+      "id": 360,
+      "minoroccupationid": 71,
+      "migrationeducationid": 881,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fur Tailors & Related Workers",
+      "namelocal": "രോമക്കുപ്പായം തുന്നുന്നവര്‍, അനുബന്ധ മേഖലയില്‍ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_FUR_TAILORS_RELATED_WORKERS",
+      "id": 361,
+      "minoroccupationid": 71,
+      "migrationeducationid": 882,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Milliners, Hat & Cap Makers",
+      "namelocal": "തൊപ്പി നിര്‍മ്മാതാക്കള്‍, തൊപ്പി വില്‍പ്പനക്കാര്‍",
+      "code": "SUBOCCUPATION_MILLINERS_HAT_CAP_MAKERS",
+      "id": 362,
+      "minoroccupationid": 71,
+      "migrationeducationid": 883,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pattern Makers & Cutters",
+      "namelocal": "പാറ്റേണ്‍ ചെയ്യുന്നവര്‍, കട്ടേഴ്സ്",
+      "code": "SUBOCCUPATION_PATTERN_MAKERS_CUTTERS",
+      "id": 363,
+      "minoroccupationid": 71,
+      "migrationeducationid": 884,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sewers & Embroiderers",
+      "namelocal": "തുന്നല്‍ക്കാര്‍, എംബ്രോയിഡറി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_SEWERS_EMBROIDERERS",
+      "id": 364,
+      "minoroccupationid": 71,
+      "migrationeducationid": 885,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Upholsters & Related Workers",
+      "namelocal": "അപ്ഹോള്‍സറിയും അനുബന്ധ ജോലികളും ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_UPHOLSTERS_RELATED_WORKERS",
+      "id": 365,
+      "minoroccupationid": 71,
+      "migrationeducationid": 886,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tailors, Dress Makers, Sewers, Upholsters & Related Workers n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കൊല്ലന്‍മാര്‍, ടൂള്‍ നിര്‍മ്മാതക്കള്‍ & മെഷീന്‍ ടൂള്‍ ഓപ്പറേറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_TAILORS_DRESS_MAKERS_SEWERS_UPHOLSTERS_RELATED_WORKERS_NEC",
+      "id": 366,
+      "minoroccupationid": 71,
+      "migrationeducationid": 887,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Shoe and Leather Good Making",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍, ഷൂ, ലെതര്‍ ഉല്‍പ്പന്നങ്ങളുടെ നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_SHOE_AND_LEATHER_GOOD_MAKING",
+      "id": 367,
+      "minoroccupationid": 72,
+      "migrationeducationid": 900,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shoemakers & Shoe Repairers",
+      "namelocal": "ഷൂ നിര്‍മ്മാണം, ഷൂ റിപ്പയര്‍ എന്നിവയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_SHOEMAKERS_SHOE_REPAIRERS",
+      "id": 368,
+      "minoroccupationid": 72,
+      "migrationeducationid": 901,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shoe Cutters, Lasters, Sewers and Related Workers",
+      "namelocal": "ഷൂ നിര്‍മ്മാണം  കട്ടര്‍, ലാസ്റ്റര്‍, തുന്നല്‍ , അനുബന്ധ ജോലികള്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_SHOE_CUTTERS_LASTERS_SEWERS_AND_RELATED_WORKERS",
+      "id": 369,
+      "minoroccupationid": 72,
+      "migrationeducationid": 902,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Harness and Saddle Makers",
+      "namelocal": "കുതിരജീനി, കുതിരസവാരിക്കുള്ള ഇരിപ്പിടം എന്നിവ ഉണ്ടാക്കുകയോ വില്ക്കുകയോ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_HARNESS_AND_SADDLE_MAKERS",
+      "id": 370,
+      "minoroccupationid": 72,
+      "migrationeducationid": 903,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Leather Cutters, Lasters and Sewers and Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗത്തില്‍ ഉള്‍പ്പെടാത്ത തുകല്‍ വെട്ടുന്നവര്‍, ലാന്‍റേഴ്സ്, സീവേഴ്സ്, ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_LEATHER_CUTTERS_LASTERS_AND_SEWERS_AND_RELATED_WORKERS_NEC",
+      "id": 371,
+      "minoroccupationid": 72,
+      "migrationeducationid": 904,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Carpentry, Cabinet Making & Related Wood Working Processes",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍ ആശാരിപ്പണി, ക്യാബിനറ്റ്, നിര്‍മ്മാണം & ബന്ധപ്പെട്ട  തടിപ്പണി പ്രക്രിയകള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_CARPENTRY_CABINET_MAKING_RELATED_WOOD_WORKING_PROCESSES",
+      "id": 372,
+      "minoroccupationid": 73,
+      "migrationeducationid": 910,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Carpenters",
+      "namelocal": "ആശാരി",
+      "code": "SUBOCCUPATION_CARPENTERS",
+      "id": 373,
+      "minoroccupationid": 73,
+      "migrationeducationid": 911,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cabinet Makers",
+      "namelocal": "ക്യാബിനറ്റ് നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_CABINET_MAKERS",
+      "id": 374,
+      "minoroccupationid": 73,
+      "migrationeducationid": 912,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Wood Working Machine Operators",
+      "namelocal": "തടിപ്പണി മെഷീനുകള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_WOOD_WORKING_MACHINE_OPERATORS",
+      "id": 375,
+      "minoroccupationid": 73,
+      "migrationeducationid": 913,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cart Builders & Wheel Wright",
+      "namelocal": "വണ്ടി നിര്‍മ്മാണത്തില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_CART_BUILDERS_WHEEL_WRIGHT",
+      "id": 376,
+      "minoroccupationid": 73,
+      "migrationeducationid": 914,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Coach & Body Builders",
+      "namelocal": "കോച്ച് & ബോഡി നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_COACH_BODY_BUILDERS",
+      "id": 377,
+      "minoroccupationid": 73,
+      "migrationeducationid": 915,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shipwrights & Boat Builders",
+      "namelocal": "കപ്പല്‍/ബോട്ട് നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_SHIPWRIGHTS_BOAT_BUILDERS",
+      "id": 378,
+      "minoroccupationid": 73,
+      "migrationeducationid": 916,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Radio Broadcasing Television Operators",
+      "namelocal": "റേഡിയോ, ബ്രോഡ്കാസ്റ്റിംഗ്, ടെലിവിഷന്‍ ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_RADIO_BROADCASING_TELEVISION_OPERATORS",
+      "id": 379,
+      "minoroccupationid": 78,
+      "migrationeducationid": 961,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Carpenters, Cabinet Makers & Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ആശാരിമാര്‍, ക്യാബിനറ്റ് നിര്‍മ്മാതാക്കള്‍ & ബന്ധപ്പെട്ട ജോലികള്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_CARPENTERS_CABINET_MAKERS_RELATED_WORKERS_NEC",
+      "id": 380,
+      "minoroccupationid": 73,
+      "migrationeducationid": 917,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Stone Cutting & Carving",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  കല്ല് വെട്ടല്‍, കല്ല് കൊത്തല്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_STONE_CUTTING_CARVING",
+      "id": 381,
+      "minoroccupationid": 74,
+      "migrationeducationid": 920,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stone Cutters & Carvers",
+      "namelocal": "കല്ല് വെട്ടുന്നവര്‍, കല്ല് കൊത്തുന്നവര്‍",
+      "code": "SUBOCCUPATION_STONE_CUTTERS_CARVERS",
+      "id": 382,
+      "minoroccupationid": 74,
+      "migrationeducationid": 921,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stone Cutters and Carvers n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കല്ലുവെട്ടുകാരും കല്ല് കൊത്തുകാരും",
+      "code": "SUBOCCUPATION_STONE_CUTTERS_AND_CARVERS_NEC",
+      "id": 383,
+      "minoroccupationid": 74,
+      "migrationeducationid": 922,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Blacksmithy, Tool Making & Machine Tool Operation",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍. കൊല്ലപണി ഉപകരണ നിര്‍മ്മാണം. യന്ത്രോപകരണം പ്രവര്‍ത്തിപ്പിക്കല്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_BLACKSMITHY_TOOL_MAKING_MACHINE_OPERATION",
+      "id": 384,
+      "minoroccupationid": 75,
+      "migrationeducationid": 930,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Blacksmiths, Hammersmiths and Forging Press Operators",
+      "namelocal": "കൊല്ലന്‍, മൂശാരി, ഫോര്‍ജിങ് പ്രസ് ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_BLACKSMITHS_HAMMERSMITHS_AND_FORGING_PRESS_OPERATORS",
+      "id": 385,
+      "minoroccupationid": 75,
+      "migrationeducationid": 931,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Markers",
+      "namelocal": "ലോഹ നിര്‍മ്മാതാക്കള്‍",
+      "code": "SUBOCCUPATION_METAL_MARKERS",
+      "id": 386,
+      "minoroccupationid": 75,
+      "migrationeducationid": 932,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tool Makers & Metal Pattern Makers",
+      "namelocal": "ഉപകരണങ്ങളും പണി ആയുധങ്ങളും ലോഹ പാറ്റേണുകളും നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_TOOL_MAKERS_METAL_PATTERN_MAKERS",
+      "id": 387,
+      "minoroccupationid": 75,
+      "migrationeducationid": 933,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Machine Tool Setters",
+      "namelocal": "യന്ത്രോപകരണം സെറ്റ് ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_MACHINE_TOOL_SETTERS",
+      "id": 388,
+      "minoroccupationid": 75,
+      "migrationeducationid": 934,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Machine Tool Operators",
+      "namelocal": "യന്ത്രോപകരണം ഓപ്പറേറ്റ് ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_MACHINE_TOOL_OPERATORS",
+      "id": 389,
+      "minoroccupationid": 75,
+      "migrationeducationid": 935,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Grinders, Polishers & Tool Sharpeners",
+      "namelocal": "ലോഹം ഗ്രൈന്‍റ് ചെയ്യുന്നവര്‍, മിനുസപ്പെടുത്തുന്നവര്‍, ലോഹഉപകരണങ്ങള്‍ മൂര്‍ച്ചകൂട്ടുന്നവര്‍",
+      "code": "SUBOCCUPATION_METAL_GRINDERS_POLISHERS_TOOL_SHARPENERS",
+      "id": 390,
+      "minoroccupationid": 75,
+      "migrationeducationid": 936,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Blacksmiths, Tool Makers & Machine Tool Operations, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടുന്നവര്‍",
+      "code": "SUBOCCUPATION_BLACKSMITHS_TOOL_MAKERS_MACHINE_TOOL_OPERATIONS_NEC",
+      "id": 391,
+      "minoroccupationid": 75,
+      "migrationeducationid": 937,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Machinery Fitting, Assembling, Repairing & Precision Instrument Making (Except Electrical)",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  യന്ത്രം ഫിറ്റിംഗ്, അസംബ്ലിങ്,  റിപ്പയറിംഗ്, പ്രസിഷന്‍ ഇന്‍സ്ട്രുമെന്‍റ് നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_MACHINERY_FITTING_INSTRUMENT_MAKING_EXCEPT_ELECTRICAL",
+      "id": 392,
+      "minoroccupationid": 76,
+      "migrationeducationid": 940,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Watch, Clock& Precision Instrument Makers (Except Electrical)",
+      "namelocal": "വാച്ച്, ക്ലോക്ക്, പ്രിസിഷന്‍ ഇന്‍സ്ട്രുമെന്‍റ് നിര്‍മ്മാതാക്കള്‍ (ഇലക്ട്രിക്കല്‍ ഒഴികെ)",
+      "code": "SUBOCCUPATION_WATCH_CLOCK_PRECISION_INSTRUMENT_MAKERS_EXCEPT_ELECTRICAL",
+      "id": 393,
+      "minoroccupationid": 76,
+      "migrationeducationid": 941,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Machinery Fitters & Machine Assemblers",
+      "namelocal": "മെഷിനറി ഫിറ്റര്‍ & മെഷിന്‍ അസംബ്ലര്‍",
+      "code": "SUBOCCUPATION_MACHINERY_FITTERS_MACHINE_ASSEMBLERS",
+      "id": 394,
+      "minoroccupationid": 76,
+      "migrationeducationid": 942,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Motor Vehicle Mechanics",
+      "namelocal": "മോട്ടോര്‍ വാഹന മെക്കാനിക്",
+      "code": "SUBOCCUPATION_MOTOR_VEHICLE_MECHANICS",
+      "id": 395,
+      "minoroccupationid": 76,
+      "migrationeducationid": 943,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aircraft Engine Mechanics",
+      "namelocal": "എയര്‍ക്രാഫ്റ്റ് എന്‍ജിന്‍ മെക്കാനിക്",
+      "code": "SUBOCCUPATION_AIRCRAFT_ENGINE_MECHANICS",
+      "id": 396,
+      "minoroccupationid": 76,
+      "migrationeducationid": 944,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mechanics, Repairmen, Other",
+      "namelocal": "മെക്കാനിക്, റിപ്പയര്‍മെന്‍, മറ്റുളളവര്‍",
+      "code": "SUBOCCUPATION_MECHANICS_REPAIRMEN_OTHER",
+      "id": 397,
+      "minoroccupationid": 76,
+      "migrationeducationid": 945,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Machinery Fitters, Machine Assemblers & Precusion Instrument Makers (Except Electrical), n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത മെഷിനറി ഫിറ്റേഴ്സ്, മെഷീന്‍ അസംബ്ലേഴ്സ്, പ്രിസിഷന്‍ ഉപകരണങ്ങള്‍ (ഇലക്ട്രിക്കല്‍ ഒഴികെ) നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_MACHINERY_FITTERS_MACHINE_ASSEMBLERS_INSTRUMENT_MAKERS_EXCEPT_ELECTRICAL_NEC",
+      "id": 398,
+      "minoroccupationid": 76,
+      "migrationeducationid": 946,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Electrical & Electronic Equipment Fitting, Assembling, Installing and Repairing",
+      "namelocal": "സൂപ്പര്‍വൈസേര്‍സ് & ഫോര്‍മാന്‍  ഇലക്ട്രിക്കല്‍ & ഇലക്ട്രോണിക്സ് ഉപകരണങ്ങള്‍ ഘടിപ്പിക്കല്‍, അസംബ്ലിങ്,  ഇന്‍സ്റ്റാളിംഗ്, റിപ്പയറിംഗ്",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_ELECTRICAL_ELECTRONIC_EQUIPMENT_FITTING",
+      "id": 399,
+      "minoroccupationid": 77,
+      "migrationeducationid": 950,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electricians, Electrical Fitters & Related Workers",
+      "namelocal": "ഇലക്ട്രീഷ്യന്‍, ഇലക്ട്രിക് ഉപകരണങ്ങള്‍ ഘടിപ്പിക്കുന്നവര്‍ & അനുബന്ധ ജോലി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_ELECTRICIANS_ELECTRICAL_FITTERS",
+      "id": 400,
+      "minoroccupationid": 77,
+      "migrationeducationid": 951,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electronic Fitters",
+      "namelocal": "ഇലക്ട്രോണിക് ഫിറ്റര്‍",
+      "code": "SUBOCCUPATION_ELECTRONIC_FITTERS",
+      "id": 401,
+      "minoroccupationid": 77,
+      "migrationeducationid": 952,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electrical & electronic Equipment Assemblers",
+      "namelocal": "അസംബ്ലര്‍  ഇലക്ട്രിക്കല്‍, ഇലക്ട്രോണിക് ഉപകരണങ്ങള്‍",
+      "code": "SUBOCCUPATION_ELECTRICAL_ELECTRONIC_EQUIPMENT_ASSEMBLERS",
+      "id": 402,
+      "minoroccupationid": 77,
+      "migrationeducationid": 953,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Radio & Television Mechanics and Repairmen",
+      "namelocal": "റേഡിയോ & ടെലിവിഷന്‍ മെക്കാനിക്കുകളും റിപ്പയര്‍ ചെയ്യുന്നവരും",
+      "code": "SUBOCCUPATION_RADIO_TELEVISION_MECHANICS_REPAIRMEN",
+      "id": 403,
+      "minoroccupationid": 77,
+      "migrationeducationid": 954,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electrical Wiremen",
+      "namelocal": "ഇലക്ട്രിക്കല്‍ വയര്‍മെന്‍",
+      "code": "SUBOCCUPATION_ELECTRICAL_WIREMEN",
+      "id": 404,
+      "minoroccupationid": 77,
+      "migrationeducationid": 955,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Telephone & Telegraph Installers & Repairmen",
+      "namelocal": "ടെലിഫോണ്‍, ടെലിഗ്രാഫ് & ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നവര്‍, റിപ്പയര്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_TELEPHONE_TELEGRAPH_INSTALLERS_REPAIRMEN",
+      "id": 405,
+      "minoroccupationid": 77,
+      "migrationeducationid": 956,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electric Linemen & Cable Jointers",
+      "namelocal": "ഇലക്ട്രിക് ലൈന്‍മാനും കേബിള്‍ ജോയിന്‍റര്‍",
+      "code": "SUBOCCUPATION_ELECTRIC_LINEMEN_CABLE_JOINTERS",
+      "id": 406,
+      "minoroccupationid": 77,
+      "migrationeducationid": 957,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electrical Fitters & Related Electrical and Electronic Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഇലകട്രിക്കല്‍ ഫിറ്റര്‍മാര്‍ & ബന്ധപ്പെട്ട ഇലക്ട്രോണിക് ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_ELECTRICAL_FITTERS_RELATED_ELECTRICAL_AND_ELECTRONIC_WORKERS_NEC",
+      "id": 407,
+      "minoroccupationid": 77,
+      "migrationeducationid": 958,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors, Broadcasting, Audio-Visual Projection and Sound Equipment Operations",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍  ബ്രോഡ്കാസ്റ്റിംഗ്, ഓഡിയോവിഷ്വല്‍ പ്രൊജക്ഷന്‍ & സൗണ്ട് എക്യുപ്മെന്‍റ് ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_BROADCASTING_AUDIOVISUAL_PROJECTION_SOUND_EQUIPMENT_OPERATIONS",
+      "id": 408,
+      "minoroccupationid": 78,
+      "migrationeducationid": 960,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sound Equipment Operators and Cinema Projectionists",
+      "namelocal": "സൗണ്ട് ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍, സിനിമ പ്രൊജക്ഷന്‍ നടത്തുന്നവര്‍",
+      "code": "SUBOCCUPATION_SOUND_EQUIPMENT_OPERATORS_AND_CINEMA_PROJECTIONISTS",
+      "id": 409,
+      "minoroccupationid": 78,
+      "migrationeducationid": 962,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Broadcasting Station and Sound Equipment Operators and Cinema Projectionists, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ബ്രോഡ്കാസ്റ്റിംഗ്, സ്റ്റേഷന്‍സ് & സൗണ്ട് എക്യുപ്മെന്‍റ് ഓപ്പറേറ്റര്‍മാര്‍, സിനിമ പ്രൊജക്ഷന്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_BROADCASTING_STATION_SOUND_EQUIPMENT_OPERATORS_CINEMA_PROJECTIONISTS_NEC",
+      "id": 410,
+      "minoroccupationid": 78,
+      "migrationeducationid": 963,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Plumbing, Welding, Structural & Sheet Metal Working",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  പ്ലംമ്പിംഗ്, വെല്‍ഡിംഗ്, സ്ട്രക്ച്ചറല്‍ & ഷീറ്റ് മെറ്റല്‍ വര്‍ക്കിംഗ്",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_PLUMBING_WELDING_STRUCTURAL_SHEET_METAL_WORKING",
+      "id": 411,
+      "minoroccupationid": 79,
+      "migrationeducationid": 970,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plumbers & Pipe Fitters",
+      "namelocal": "പ്ലംബര്‍, പൈപ്പ് ഫിറ്റര്‍",
+      "code": "SUBOCCUPATION_PLUMBERS_PIPE_FITTERS",
+      "id": 412,
+      "minoroccupationid": 79,
+      "migrationeducationid": 971,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Welders and Flame Cutters",
+      "namelocal": "വെല്‍ഡ് ചെയ്യുന്നവര്‍, ഫ്ളയിംകട്ടര്‍",
+      "code": "SUBOCCUPATION_WELDERS_AND_FLAME_CUTTERS",
+      "id": 413,
+      "minoroccupationid": 79,
+      "migrationeducationid": 972,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sheet Metal Workers",
+      "namelocal": "ഷീറ്റ് മെറ്റല്‍ തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_SHEET_METAL_WORKERS",
+      "id": 414,
+      "minoroccupationid": 79,
+      "migrationeducationid": 973,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal Plate & Structural Metal Workers",
+      "namelocal": "മെറ്റല്‍ പ്ലേറ്റ് & സ്ട്രക്ച്ചറല്‍ മെറ്റല്‍ ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_METAL_PLATE_STRUCTURAL_METAL_WORKERS",
+      "id": 415,
+      "minoroccupationid": 79,
+      "migrationeducationid": 974,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plumbers, Welders, Sheet Metal & Structural Metal Prepares & Erectors, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത പ്ലംബര്‍മാര്‍, വെല്‍ഡര്‍മാര്‍, ഷീറ്റ് മെറ്റല്‍ & സ്ട്രക്ച്ചറല്‍ മെറ്റല്‍ തയ്യാറിപ്പുകാര്‍ & സ്ഥാപിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_PLUMBERS_WELDERS_SHEET_METAL_STRUCTURAL_METAL_PREPARES_ERECTORS_NEC",
+      "id": 416,
+      "minoroccupationid": 79,
+      "migrationeducationid": 975,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors, Jewellery & Precious Metal Working",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍  ജ്വലറി, വിലപിടിപ്പുളള ലോഹവസ്തുക്കള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_JEWELLERY_PRECIOUS_METAL_WORKING",
+      "id": 417,
+      "minoroccupationid": 80,
+      "migrationeducationid": 980,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jewelers, Goldsmiths & Silversmiths",
+      "namelocal": "ജ്വവല്ലര്‍, സ്വര്‍ണ്ണപണിക്കാരന്‍, വെളളിപണിക്കാരന്‍",
+      "code": "SUBOCCUPATION_JEWELERS_GOLDSMITHS_SILVERSMITHS",
+      "id": 418,
+      "minoroccupationid": 80,
+      "migrationeducationid": 981,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jewellery Engravers",
+      "namelocal": "ആഭരണങ്ങളുടെ കൊത്തുപണിയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_JEWELLERY_ENGRAVERS",
+      "id": 419,
+      "minoroccupationid": 80,
+      "migrationeducationid": 982,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Other Metal Engravers (Except Printing)",
+      "namelocal": "മറ്റു ലോഹങ്ങളുടെ കൊത്തുപണിയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍ (പ്രിന്‍റിംഗ് ഒഴികെ)",
+      "code": "SUBOCCUPATION_OTHER_METAL_ENGRAVERS_EXCEPT_PRINTING",
+      "id": 420,
+      "minoroccupationid": 80,
+      "migrationeducationid": 983,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jewellery and Precious Metal Workers and Metal Engravers, n.e.c. (Except Printing)",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ജ്വല്ലറി, വിലപിടിപ്പുള്ള ലോഹങ്ങളുടെ പണിക്കാര്‍, മെറ്റല്‍ എന്‍ഗ്രേവേഴ്സ് (പ്രിന്‍റിംഗ് ഒഴികെ)",
+      "code": "SUBOCCUPATION_JEWELLERY_METAL_WORKERS_METAL_ENGRAVERS_NEC_EXCEPT_PRINTING",
+      "id": 421,
+      "minoroccupationid": 80,
+      "migrationeducationid": 984,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Glass Forming, Pottery & Related Activities",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  ഗ്ലാസ്, മണ്‍പാത്ര നിര്‍മ്മാണം, അനുബന്ധ ജോലികള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_GLASS_FORMING_POTTERY_RELATED_ACTIVITIES",
+      "id": 422,
+      "minoroccupationid": 81,
+      "migrationeducationid": 990,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Glass Formers, Cutters, Grinders & Finshers",
+      "namelocal": "ഗ്ലാസ് ഫോര്‍മര്‍, കട്ടര്‍, ഗ്രൈന്‍റര്‍, ഫിനിഷര്‍",
+      "code": "SUBOCCUPATION_GLASS_FORMERS_CUTTERS_GRINDERS_FINSHERS",
+      "id": 423,
+      "minoroccupationid": 81,
+      "migrationeducationid": 991,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Potters & Related Clay & Abrasive Formers",
+      "namelocal": "മണ്‍പാത്രങ്ങള്‍ നിര്‍മ്മിക്കുന്നവര്‍, അനുബന്ധ ക്ലേ, അബ്രേസീവ് കളിമണ്ണ്  ഉല്‍പന്നങ്ങള്‍ നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_POTTERS_RELATED_CLAY_ABRASIVE_FORMERS",
+      "id": 424,
+      "minoroccupationid": 81,
+      "migrationeducationid": 992,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Glass & Ceramics Kilnmen",
+      "namelocal": "ഗ്ലാസ്, സെറാമിക്, ചൂളത്തൊഴിലാളി",
+      "code": "SUBOCCUPATION_GLASS_CERAMICS_KILNMEN",
+      "id": 425,
+      "minoroccupationid": 81,
+      "migrationeducationid": 993,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Glass Engravers & Etchers",
+      "namelocal": "ഗ്ലാസില്‍ ശില്‍പവിദ്യ, ചിത്രപ്പണി ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_GLASS_ENGRAVERS_ETCHERS",
+      "id": 426,
+      "minoroccupationid": 81,
+      "migrationeducationid": 994,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Glass & Ceramics Painters and Decorators",
+      "namelocal": "ഗ്ലാസ്, സിറാമിക്സ്  പെയിന്‍റര്‍, ഡെക്കറേറ്റര്‍",
+      "code": "SUBOCCUPATION_GLASS_CERAMICS_PAINTERS_AND_DECORATORS",
+      "id": 427,
+      "minoroccupationid": 81,
+      "migrationeducationid": 995,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Glass Formers, Potters and Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഗ്ലാസ്സ ഫോര്‍മേഴ്സ്, മണ്‍പാത്ര നിര്‍മ്മാണ തൊഴിലാളികള്‍, ബന്ധപ്പെട്ട ജോലികള്‍ ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_GLASS_FORMERS_POTTERS_AND_RELATED_WORKERS_NEC",
+      "id": 428,
+      "minoroccupationid": 81,
+      "migrationeducationid": 996,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Rubber & Plastics Product Making",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  റബര്‍ & പ്ലാസ്റ്റിക് ഉല്പന്നങ്ങളുടെ നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_RUBBER_PLASTICS_PRODUCT_MAKING",
+      "id": 429,
+      "minoroccupationid": 82,
+      "migrationeducationid": 1000,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plastics Product Makers",
+      "namelocal": "പ്ലാസ്റ്റിക് ഉല്‍പ്പന്നങ്ങള്‍ നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_PLASTICS_PRODUCT_MAKERS",
+      "id": 430,
+      "minoroccupationid": 82,
+      "migrationeducationid": 1001,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rubber Product Makers (Except Tyre Makers & Vulcanisers)",
+      "namelocal": "റബര്‍ ഉല്പന്നങ്ങള്‍ നിര്‍മ്മിക്കുന്നവര്‍ (ടയര്‍ നിര്‍മ്മിക്കുന്നവര്‍, വള്‍ക്കനൈസര്‍ ഒഴികെ)",
+      "code": "SUBOCCUPATION_RUBBER_PRODUCT_MAKERS_EXCEPT_TYRE_MAKERS_VULCANISERS",
+      "id": 431,
+      "minoroccupationid": 82,
+      "migrationeducationid": 1002,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tyre Makers & Vulcanisers",
+      "namelocal": "ടയര്‍ നിര്‍മ്മാതാക്കള്‍, വള്‍ക്കനൈസര്‍മാര്‍",
+      "code": "SUBOCCUPATION_TYRE_MAKERS_VULCANISERS",
+      "id": 432,
+      "minoroccupationid": 82,
+      "migrationeducationid": 1003,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rubber and Plastics Product Makers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത റബ്ബര്‍, പ്ലാസ്റ്റിക് ഉല്പന്ന നിര്‍മ്മാതാക്കള്‍",
+      "code": "SUBOCCUPATION_RUBBER_AND_PLASTICS_PRODUCT_MAKERS_NEC",
+      "id": 433,
+      "minoroccupationid": 82,
+      "migrationeducationid": 1004,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Paper & Paper Board Product Making",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  പേപ്പര്‍ & പേപ്പര്‍ ബോര്‍ഡ് ഉല്‍പ്പന്ന നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_PAPER_PAPER_BOARD_PRODUCT_MAKING",
+      "id": 434,
+      "minoroccupationid": 83,
+      "migrationeducationid": 1010,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Paper & Paper Board Product Makers",
+      "namelocal": "പേപ്പര്‍, പേപ്പര്‍ ബോര്‍ഡ് നിര്‍മ്മാണത്തില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_PAPER_PAPER_BOARD_PRODUCT_MAKERS",
+      "id": 435,
+      "minoroccupationid": 83,
+      "migrationeducationid": 1011,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Paper and Paper Board Products Makers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത പേപ്പറും പേപ്പര്‍ ബോര്‍ഡ് ഉല്‍പ്പന്നങ്ങളും നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_PAPER_AND_PAPER_BOARD_PRODUCTS_MAKERS_NEC",
+      "id": 436,
+      "minoroccupationid": 83,
+      "migrationeducationid": 1012,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Printing & Related Work",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  പ്രിന്‍റിംഗ് , അനുബന്ധ ജോലികള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_PRINTING_RELATED_WORK",
+      "id": 437,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1020,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Compositors",
+      "namelocal": "കമ്പോസിറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_COMPOSITORS",
+      "id": 438,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1021,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Type Setters & Photo Type Setters",
+      "namelocal": "ടൈപ്പ്സെറ്റര്‍, ഫോട്ടോടൈപ്പ് സെറ്റര്‍",
+      "code": "SUBOCCUPATION_TYPE_SETTERS_PHOTO_TYPE_SETTERS",
+      "id": 439,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1022,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Printing Pressmen",
+      "namelocal": "അച്ചടി പ്രസ്മാന്‍",
+      "code": "SUBOCCUPATION_PRINTING_PRESSMEN",
+      "id": 440,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1023,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stereo-typers & Electro Typers",
+      "namelocal": "സ്റ്റീരിയോ ടൈപ്പര്‍, ഇലക്ട്രോ ടൈപ്പര്‍",
+      "code": "SUBOCCUPATION_STEREOTYPERS_ELECTRO_TYPERS",
+      "id": 441,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1024,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Engravers, Printing (Except Photo-engravers)",
+      "namelocal": "എന്‍ഗ്രേവര്‍, പ്രിന്‍റിംഗ് (ഫോട്ടോ എന്‍ഗ്രേവ് ചെയ്യുന്നത് ഒഴികെ)",
+      "code": "SUBOCCUPATION_ENGRAVERS_PRINTING_EXCEPT_PHOTOENGRAVERS",
+      "id": 442,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1025,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Photo Engravers",
+      "namelocal": "ഫോട്ടോ എന്‍ഗ്രേവ് ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_PHOTO_ENGRAVERS",
+      "id": 443,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1026,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Book Binders & Related Workers",
+      "namelocal": "ബുക്ക് ബൈന്‍ഡിംഗ്  അനുബന്ധ മേഖലയിലെ ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_BOOK_BINDERS_RELATED_WORKERS",
+      "id": 444,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1027,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Photographic Darkroom Workers",
+      "namelocal": "ഫോട്ടോഗ്രാഫിക്ക്  ഡാര്‍ക്ക് റൂം വര്‍ക്കര്‍",
+      "code": "SUBOCCUPATION_PHOTOGRAPHIC_DARKROOM_WORKERS",
+      "id": 445,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1028,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Printers & Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത പ്രിന്‍റര്‍മാര്‍, ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_PRINTERS_RELATED_WORKERS_NEC",
+      "id": 446,
+      "minoroccupationid": 84,
+      "migrationeducationid": 1029,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Painting",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍  പെയിന്‍റിംഗ്",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_PAINTING",
+      "id": 447,
+      "minoroccupationid": 85,
+      "migrationeducationid": 1030,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Painters, Construction",
+      "namelocal": "പെയിന്‍റര്‍  നിര്‍മ്മാണം",
+      "code": "SUBOCCUPATION_PAINTERS_CONSTRUCTION",
+      "id": 448,
+      "minoroccupationid": 85,
+      "migrationeducationid": 1031,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Painters, Spray & Sign Writing",
+      "namelocal": "പെയിന്‍റര്‍  സ്പ്രേ പെയിന്‍റ്, സൈന്‍ എഴുത്ത്",
+      "code": "SUBOCCUPATION_PAINTERS_SPRAY_SIGN_WRITING",
+      "id": 449,
+      "minoroccupationid": 85,
+      "migrationeducationid": 1032,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Painter, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത പെയിന്‍റര്‍",
+      "code": "SUBOCCUPATION_PAINTER_NEC",
+      "id": 450,
+      "minoroccupationid": 85,
+      "migrationeducationid": 1033,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Production & Related Activities, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍ ഉല്പ്പന നിര്‍മ്മാണം, ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_PRODUCTION_RELATED_ACTIVITIES_NEC",
+      "id": 451,
+      "minoroccupationid": 86,
+      "migrationeducationid": 1040,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Musical Instrument Makers and Tuners",
+      "namelocal": "സംഗീത ഉപകരണങ്ങള്‍ ഉണ്ടാക്കുന്നവര്‍, സംഗീതം നല്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_MUSICAL_INSTRUMENT_MAKERS_AND_TUNERS",
+      "id": 452,
+      "minoroccupationid": 86,
+      "migrationeducationid": 1041,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Basketry Weavers & Brush Makers",
+      "namelocal": "കുട്ട മെടയുന്നവര്‍, ബ്രഷ് നിര്‍മ്മിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_BASKETRY_WEAVERS_BRUSH_MAKERS",
+      "id": 453,
+      "minoroccupationid": 86,
+      "migrationeducationid": 1042,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Non-Metallic Mineral Product Makers",
+      "namelocal": "ലോഹേതര മിനറല്‍ പ്രോഡക്ട് മേക്കര്‍",
+      "code": "SUBOCCUPATION_NONMETALLIC_MINERAL_PRODUCT_MAKERS",
+      "id": 454,
+      "minoroccupationid": 86,
+      "migrationeducationid": 1043,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Production & Related Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഉല്പ്പന്ന നിര്‍മ്മാണം & ബന്ധപ്പെട്ട ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_PRODUCTION_RELATED_WORKERS_NEC",
+      "id": 455,
+      "minoroccupationid": 86,
+      "migrationeducationid": 1044,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Bricklaying & Other Construction Work",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  ഇഷ്ടിക പാകല്‍, മറ്റ് നിര്‍മ്മാണ  പ്രവര്‍ത്തനങ്ങള്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_BRICKLAYING_OTHER_CONSTRUCTION_WORK",
+      "id": 456,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1050,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bricklayers, Stone Masons & Tile Setters",
+      "namelocal": "ഇഷ്ടിക പാകുന്നവര്‍, പാറമേസ്തിരി, ടൈല്‍ സെറ്റര്‍",
+      "code": "SUBOCCUPATION_BRICKLAYERS_STONE_MASONS_TILE_SETTERS",
+      "id": 457,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1051,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Reinforced Concreters, Cement Finishers & Terrazzo workers",
+      "namelocal": "കമ്പി ഉപയോഗിച്ച് കോണ്‍ക്രീറ്റ് ചെയ്യുന്നവര്‍, സിമന്‍റ് തേപ്പുകാര്‍, ടെറാസോ ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_REINFORCED_CONCRETERS_CEMENT_FINISHERS_TERRAZZO_WORKERS",
+      "id": 458,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1052,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Roofers",
+      "namelocal": "മേല്‍ക്കൂര പണിക്കാര്‍",
+      "code": "SUBOCCUPATION_ROOFERS",
+      "id": 459,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1053,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Parquetry Workers",
+      "namelocal": "തറ പണിക്കാര്‍",
+      "code": "SUBOCCUPATION_PARQUETRY_WORKERS",
+      "id": 460,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1054,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plasterers",
+      "namelocal": "തേപ്പുകാര്‍",
+      "code": "SUBOCCUPATION_PLASTERERS",
+      "id": 461,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1055,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Insulators",
+      "namelocal": "ഇന്‍സുലേറ്റര്‍സ്",
+      "code": "SUBOCCUPATION_INSULATORS",
+      "id": 462,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1056,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Glaziers",
+      "namelocal": "ഗ്ലേസിയേര്‍സ്",
+      "code": "SUBOCCUPATION_GLAZIERS",
+      "id": 463,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1057,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hut Builders & Thatchers",
+      "namelocal": "കുടില്‍ നിര്‍മ്മാണം  പുരമേയല്‍ തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_HUT_BUILDERS_THATCHERS",
+      "id": 464,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1058,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Well Diggers and Construction Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത കിണര്‍ കുഴിപ്പുകാര്‍, നിര്‍മ്മാണ തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_WELL_DIGGERS_AND_CONSTRUCTION_WORKERS_NEC",
+      "id": 465,
+      "minoroccupationid": 87,
+      "migrationeducationid": 1059,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen Stationary & Related Equipment Operation",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍, ഫോര്‍മാന്‍  സ്റ്റേഷനറി, അനുബന്ധ ഉപകരണങ്ങളുടെ ഓപ്പറേറ്റര്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_STATIONARY_RELATED_EQUIPMENT_OPERATION",
+      "id": 466,
+      "minoroccupationid": 88,
+      "migrationeducationid": 1060,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stationary Engine & Related Equipment Operation",
+      "namelocal": "സ്റ്റേഷനറി എന്‍ജിന്‍, ബന്ധപ്പെട്ട ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_STATIONARY_ENGINE_RELATED_EQUIPMENT_OPERATION",
+      "id": 467,
+      "minoroccupationid": 88,
+      "migrationeducationid": 1061,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Boilermen & Firemen",
+      "namelocal": "ബോയിലര്‍മെന്‍ & ഫയര്‍മെന്‍",
+      "code": "SUBOCCUPATION_BOILERMEN_FIREMEN",
+      "id": 468,
+      "minoroccupationid": 88,
+      "migrationeducationid": 1062,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Oilers and Greasers (Including Cleaners, Motor Vehicles)",
+      "namelocal": "ഓയിലര്‍, ഗ്രീസര്‍ (മോട്ടോര്‍ വാഹനങ്ങളിലെ ക്ലീനര്‍മാര്‍ ഉള്‍പ്പെടെ)",
+      "code": "SUBOCCUPATION_OILERS_AND_GREASERS_INCLUDING_CLEANERS_MOTOR_VEHICLES",
+      "id": 469,
+      "minoroccupationid": 88,
+      "migrationeducationid": 1063,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stationary Engine & Related Equipment Operators, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സ്റ്റേഷനറി എഞ്ചിന്‍ & ബന്ധപ്പെട്ട ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_STATIONARY_ENGINE_RELATED_EQUIPMENT_OPERATORS_NEC",
+      "id": 470,
+      "minoroccupationid": 88,
+      "migrationeducationid": 1064,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Material & Freight Handling & Related Equipment Operations (Loaders & Unloaders)",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍  ചരക്ക് കൈകാര്യം ചെയ്യല്‍, ചരക്ക് കയറ്റിറക്ക് എന്നിവയില്‍ ഏര്‍പ്പെടുന്നവര്‍, അനുബന്ധ ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_MATERIAL_FREIGHT_HANDLING_RELATED",
+      "id": 471,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1070,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dockers & Freight Handlers",
+      "namelocal": "തുറമുഖ തൊഴിലാളി, ചരക്ക് കയറ്റിറക്ക് തൊഴിലാളി",
+      "code": "SUBOCCUPATION_DOCKERS_FREIGHT_HANDLERS",
+      "id": 472,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1071,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Riggers & Cable Splicers",
+      "namelocal": "റിഗ്ഗര്‍മാര്‍, കേബിള്‍ സ്പ്ലൈസേഴ്സ്",
+      "code": "SUBOCCUPATION_RIGGERS_CABLE_SPLICERS",
+      "id": 473,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1072,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Crane & Hoist Operators",
+      "namelocal": "ക്രെയിന്‍, ഹോയിസ്റ്റ് ഓപ്പറേറ്റര്‍മാര്‍",
+      "code": "SUBOCCUPATION_CRANE_HOIST_OPERATORS",
+      "id": 474,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1073,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Earth Moving & Related Machinery Operators",
+      "namelocal": "മണ്ണ് മാന്തല്‍, അനുബന്ധ ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_EARTH_MOVING_RELATED_MACHINERY_OPERATORS",
+      "id": 475,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1074,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Checkers, Testers, Sorters, Weighers & Counters",
+      "namelocal": "ചെക്ക് ചെയ്യുന്നവര്‍, ടെസ്റ്റ് ചെയ്യുന്നവര്‍, സോര്‍ട്ട് ചെയ്യുന്നവര്‍, ഭാരം അളക്കുന്നവര്‍, കണക്കെടുക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_CHECKERS_TESTERS_SORTERS_WEIGHERS_COUNTERS",
+      "id": 476,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1075,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Packers, Labellers & Related Workers",
+      "namelocal": "പായ്ക്ക് ചെയ്യുന്നവര്‍, ലേബല്‍ ഒട്ടിക്കുന്നവര്‍, ബന്ധപ്പെട്ട  ജോലിക്കാര്‍",
+      "code": "SUBOCCUPATION_PACKERS_LABELLERS_RELATED_WORKERS",
+      "id": 477,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1076,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Material Handling Equipment Operations, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത സാധനങ്ങള്‍ കൈകാര്യം ചെയ്യുന്ന ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_MATERIAL_HANDLING_EQUIPMENT_OPERATIONS_NEC",
+      "id": 478,
+      "minoroccupationid": 89,
+      "migrationeducationid": 1077,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supervisors & Foremen, Transport Equipment Operation",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍ & ഫോര്‍മാന്‍, ഗതാഗത ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കല്‍",
+      "code": "SUBOCCUPATION_SUPERVISORS_FOREMEN_TRANSPORT_EQUIPMENT_OPERATION",
+      "id": 479,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1080,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ships Deck Ratings, Barge Crews & Boatmen",
+      "namelocal": "ഷിപ്പ് ഡെക്ക് റേറ്റിംഗ്, ബാര്‍ജി പ്രവൃത്തി ചെയ്യുന്നവര്‍, ബോട്ട്മാന്‍",
+      "code": "SUBOCCUPATION_SHIPS_DECK_RATINGS_BARGE_CREWS_BOATMEN",
+      "id": 480,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1081,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ships Engine room Ratings",
+      "namelocal": "ഷിപ്പ് എന്‍ജിന്‍, റൂം റേറ്റിംഗ്",
+      "code": "SUBOCCUPATION_SHIPS_ENGINE_ROOM_RATINGS",
+      "id": 481,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1082,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Drivers, Railways",
+      "namelocal": "ഡ്രൈവര്‍  റെയില്‍വേ",
+      "code": "SUBOCCUPATION_DRIVERS_RAILWAYS",
+      "id": 482,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1083,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fire Men Railways",
+      "namelocal": "ഫയര്‍മാന്‍  റെയില്‍വേ",
+      "code": "SUBOCCUPATION_FIRE_MEN_RAILWAYS",
+      "id": 483,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1084,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pointsmen, Signalmen & Shunters, Railways",
+      "namelocal": "പോയിന്‍റ്മാന്‍, സിഗ്നല്‍മാന്‍, ഷണ്ടര്‍  റെയില്‍വേ",
+      "code": "SUBOCCUPATION_POINTSMEN_SIGNALMEN_SHUNTERS_RAILWAYS",
+      "id": 484,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1085,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tram Car & Motor Vehicle Drivers",
+      "namelocal": "ട്രാം കാര്‍, മോട്ടോര്‍ വെഹിക്കിള്‍ ഡ്രൈവര്‍",
+      "code": "SUBOCCUPATION_TRAM_CAR_MOTOR_VEHICLE_DRIVERS",
+      "id": 485,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1086,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Drivers, Animal & Animal Drawn Vehicle",
+      "namelocal": "മൃഗങ്ങളെ ഉപയോഗിച്ച് ഓടിക്കുന്ന വാഹനങ്ങളിലെ ഡ്രൈവര്‍മാര്‍",
+      "code": "SUBOCCUPATION_DRIVERS_ANIMAL_ANIMAL_DRAWN_VEHICLE",
+      "id": 486,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1087,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cycle Rickshaw Drivers & Rickshaw Pullers",
+      "namelocal": "സൈക്കിള്‍ റിക്ഷാ തൊഴിലാളികള്‍, റിക്ഷാ വലിക്കുന്നവര്‍",
+      "code": "SUBOCCUPATION_CYCLE_RICKSHAW_DRIVERS_RICKSHAW_PULLERS",
+      "id": 487,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1088,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Transport Equipment Operators and Drivers n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത ഗതാഗത ഉപകരണങ്ങളുടെ ഓപ്പറേറ്റര്‍മാരും ഡ്രൈവര്‍മാരും",
+      "code": "SUBOCCUPATION_TRANSPORT_EQUIPMENT_OPERATORS_DRIVERS_NEC",
+      "id": 488,
+      "minoroccupationid": 90,
+      "migrationeducationid": 1089,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Labourers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്ത തൊഴിലാളികള്‍",
+      "code": "SUBOCCUPATION_LABOURERS_NEC",
+      "id": 489,
+      "minoroccupationid": 91,
+      "migrationeducationid": 1090,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers Without Occupations Matriculates and Above",
+      "namelocal": "തൊഴില്‍ ഇല്ലാത്തവര്‍  പത്താംതരവും അതിനു മുകളിലും വിദ്യാഭ്യാസമുള്ളവര്‍",
+      "code": "SUBOCCUPATION_WORKERS_WITHOUT_OCCUPATIONS_MATRICULATES_ABOVE",
+      "id": 490,
+      "minoroccupationid": 92,
+      "migrationeducationid": 1100,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers Without Occupations, Literates",
+      "namelocal": "തൊഴില്‍ ഇല്ലാത്തവര്‍  സാക്ഷരര്‍",
+      "code": "SUBOCCUPATION_WORKERS_WITHOUT_OCCUPATIONS_LITERATES",
+      "id": 491,
+      "minoroccupationid": 92,
+      "migrationeducationid": 1101,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers Without Occupations, Others",
+      "namelocal": "ജോലി ഇല്ലാത്ത തൊഴിലാളി  മറ്റുള്ളവ",
+      "code": "SUBOCCUPATION_WORKERS_WITHOUT_OCCUPATIONS_OTHERS",
+      "id": 492,
+      "minoroccupationid": 92,
+      "migrationeducationid": 1102,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers Reporting Occupations unidentifiable or unclassifiable",
+      "namelocal": "തിരിച്ചറിയാന്‍ കഴിയാത്തതോ തരം തിരിക്കാന്‍ സാധിക്കാത്തതോ ആയ തൊഴില്‍ റിപ്പോര്‍ട്ട് ചെയ്യുന്നവര്‍",
+      "code": "SUBOCCUPATION_WORKERS_REPORTING_OCCUPATIONS_UNIDENTIFIABLE_UNCLASSIFIABLE",
+      "id": 493,
+      "minoroccupationid": 93,
+      "migrationeducationid": 1110,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers not reporting any Occupations",
+      "namelocal": "ഒരു തൊഴിലും റിപ്പോര്‍ട്ട് ചെയ്യാത്തവര്‍",
+      "code": "SUBOCCUPATION_WORKERS_NOT_REPORTING_OCCUPATIONS",
+      "id": 494,
+      "minoroccupationid": 94,
+      "migrationeducationid": 1120,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Unemployed",
+      "namelocal": "തൊഴില്‍രഹിതന്‍",
+      "code": "SUBOCCUPATION_UNEMPLOYED",
+      "id": 495,
+      "minoroccupationid": 95,
+      "migrationeducationid": 9999,
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}
