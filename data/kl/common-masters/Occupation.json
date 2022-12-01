@@ -1,0 +1,114 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "Occupation": [
+    {
+      "name": "Professional, Technical and Related Workers",
+      "namelocal": "പ്രൊഫഷണല്‍, ടെക്നിക്കല്‍, മറ്റ് അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 1,
+      "id": 1,
+      "code": "OCCUPATION_PROFESSIONAL_TECHNICAL_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mathematicians, Statisticians and Related Workers",
+      "namelocal": "മാത്തമാറ്റീഷ്യന്‍, സ്റ്റാറ്റിസ്റ്റിഷ്യന്‍, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 2,
+      "id": 2,
+      "code": "OCCUPATION_MATHEMATICIANS_STATISTICIANS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative, Executive and Managerial Workers",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ്, എക്സിക്യൂട്ടീവ് മാനേജീരിയല്‍ ജോലികളില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 3,
+      "id": 3,
+      "code": "OCCUPATION_ADMINISTRATIVE_EXECUTIVE_AND_MANAGERIAL_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Clerical and Related Workers",
+      "namelocal": "ക്ലാര്‍ക്ക്, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 4,
+      "id": 4,
+      "code": "OCCUPATION_CLERICAL_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sale Workers",
+      "namelocal": "വില്പന നടത്തുന്നവര്‍",
+      "migrationId": 5,
+      "id": 5,
+      "code": "OCCUPATION_SALE_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Service Workers",
+      "namelocal": "സേവനങ്ങള്‍ ചെയ്യുന്നവര്‍",
+      "migrationId": 6,
+      "id": 6,
+      "code": "OCCUPATION_SERVICE_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farmers, Fishermen, Hunters, Loggers and Related Workers",
+      "namelocal": "കൃഷിക്കാരന്‍, മീന്‍ പിടിക്കുന്നവര്‍, വേട്ടക്കാരന്‍, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 7,
+      "id": 7,
+      "code": "OCCUPATION_FARMERS_FISHERMEN_HUNTERS_LOGGERS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Production and Related Workers (Mines, metal, wood and food related)",
+      "namelocal": "ഖനനം പാറത്തൊഴില്‍, കിണര്‍ കുഴിയ്ക്കല്‍ മുതലായ  അനുബന്ധ മേഖലയിലും പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 8,
+      "id": 8,
+      "code": "OCCUPATION_PRODUCTION_AND_RELATED_WORKERS_(MINES_METAL_WOOD_AND_FOOD_RELATED)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Manufacturers and Related Workers",
+      "namelocal": "നിര്‍മ്മാണവുമായി (ഉല്പാദിപ്പിക്കലും ) ബന്ധപ്പെട്ട  മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 9,
+      "id": 9,
+      "code": "OCCUPATION_MANUFACTURERS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Transport Equipment Operators and Labours",
+      "namelocal": "ഗതാഗത ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്ന തൊഴിലാളികള്‍",
+      "migrationId": 10,
+      "id": 10,
+      "code": "OCCUPATION_TRANSPORT_EQUIPMENT_OPERATORS_AND_LABOURS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers not Classified by Occupations",
+      "namelocal": "മറ്റ് മേഖലകളില്‍ ഉള്‍പ്പെടുത്താന്‍ കഴിയാത്ത പണികള്‍ ചെയ്യുന്നവര്‍",
+      "migrationId": 11,
+      "id": 11,
+      "code": "OCCUPATION_WORKERS_NOT_CLASSIFIED_BY_OCCUPATIONS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Unemployed",
+      "namelocal": "തൊഴില്‍രഹിതന്‍",
+      "migrationId": 9999,
+      "id": 12,
+      "code": "OCCUPATION_UNEMPLOYED",
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}
