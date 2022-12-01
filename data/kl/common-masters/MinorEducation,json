@@ -1,0 +1,426 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "MinorEducation": [
+    {
+      "name": "Totally Illiterate",
+      "namelocal": "പൂര്‍ണ്ണമായും നിരക്ഷരന്‍",
+      "migrationId": 1,
+      "id": 1,
+      "majorId": 1,
+      "code": "MINOREDUCATION_TOTALLY_ILLITERATE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Read only",
+      "namelocal": "വായന മാത്രം",
+      "migrationId": 2,
+      "id": 2,
+      "majorId": 1,
+      "code": "MINOREDUCATION_READ_ONLY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Numeric ability",
+      "namelocal": "കണക്ക് കൂട്ടല്‍ മാത്രം",
+      "migrationId": 3,
+      "id": 3,
+      "majorId": 1,
+      "code": "MINOREDUCATION_NUMERIC_ABILITY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Read and Numeric ability",
+      "namelocal": "വായനയും കണക്ക് കൂട്ടലും",
+      "migrationId": 4,
+      "id": 4,
+      "majorId": 1,
+      "code": "MINOREDUCATION_READ_AND_NUMERIC_ABILITY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Non-formal Education",
+      "namelocal": "അനൗപചാരിക വിദ്യാഭ്യാസം",
+      "migrationId": 5,
+      "id": 5,
+      "majorId": 2,
+      "code": "MINOREDUCATION_NON-FORMAL_EDUCATION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Adult Education",
+      "namelocal": "വയോജന വിദ്യാഭ്യാസം",
+      "migrationId": 6,
+      "id": 6,
+      "majorId": 2,
+      "code": "MINOREDUCATION_ADULT_EDUCATION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pre-Primary Education",
+      "namelocal": "പ്രീപ്രൈമറി വിദ്യാഭ്യാസം",
+      "migrationId": 7,
+      "id": 7,
+      "majorId": 2,
+      "code": "MINOREDUCATION_PRE-PRIMARY_EDUCATION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lower Primary Education",
+      "namelocal": "ലോവര്‍ പ്രൈമറി വിദ്യാഭ്യാസം",
+      "migrationId": 8,
+      "id": 8,
+      "majorId": 2,
+      "code": "MINOREDUCATION_LOWER_PRIMARY_EDUCATION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Upper Primary (Up to 7th Standard)",
+      "namelocal": "അപ്പര്‍ പ്രൈമറി വിദ്യാഭ്യാസം (ഏഴാം ക്ലാസ് വരെ)",
+      "migrationId": 9,
+      "id": 9,
+      "majorId": 2,
+      "code": "MINOREDUCATION_UPPER_PRIMARY_(UP_TO_7TH_STANDARD)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Non-Matriculate",
+      "namelocal": "മെട്രിക്കുലേറ്റ് അല്ല",
+      "migrationId": 10,
+      "id": 10,
+      "majorId": 3,
+      "code": "MINOREDUCATION_NON-MATRICULATE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Upper Primary Education (7th Standard Passed)",
+      "namelocal": "അപ്പര്‍ പ്രൈമറി വിദ്യാഭ്യാസം (ഏഴാം ക്ലാസ് പാസ്സായി)",
+      "migrationId": 11,
+      "id": 11,
+      "majorId": 3,
+      "code": "MINOREDUCATION_UPPER_PRIMARY_EDUCATION_(7TH_STANDARD_PASSED)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Secondary (Up to 10th Standard) / High School level Education(Upto 10th Standard)",
+      "namelocal": "സെക്കന്‍ററി (10ാം ക്ലാസ് വരെ) /ഹൈസ്കൂള്‍ തല വിദ്യാഭ്യാസം (10ാം ക്ലാസ് വരെ)",
+      "migrationId": 12,
+      "id": 12,
+      "majorId": 3,
+      "code": "MINOREDUCATION_SECONDARY_(UP_TO_10TH_STANDARD)_/_HIGH_SCHOOL_LEVEL_EDUCATION(UPTO_10TH_STANDARD)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Junior Technical School (up to 10th standard",
+      "namelocal": "ജൂനിയര്‍ ടെക്നിക്കല്‍ സ്കൂള്‍ (10ാം ക്ലാസ് വരെ",
+      "migrationId": 13,
+      "id": 13,
+      "majorId": 3,
+      "code": "MINOREDUCATION_JUNIOR_TECHNICAL_SCHOOL_(UP_TO_10TH_STANDARD",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "ITI / ITC (Non Matric trades)",
+      "namelocal": "ഐ.റ്റി.ഐ/ഐ.റ്റി.സി (നോണ്‍ മെട്രിക് ട്രേഡ്)",
+      "migrationId": 14,
+      "id": 14,
+      "majorId": 3,
+      "code": "MINOREDUCATION_ITI_/_ITC_(NON_MATRIC_TRADES)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "KGTE",
+      "namelocal": "കെ.ജി.റ്റി.ഇ",
+      "migrationId": 15,
+      "id": 15,
+      "majorId": 3,
+      "code": "MINOREDUCATION_KGTE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Matriculation",
+      "namelocal": "മെട്രിക്കുലേഷന്‍",
+      "migrationId": 16,
+      "id": 16,
+      "majorId": 4,
+      "code": "MINOREDUCATION_MATRICULATION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SSLC",
+      "namelocal": "എസ്.എസ്.എല്‍.സി.",
+      "migrationId": 17,
+      "id": 17,
+      "majorId": 4,
+      "code": "MINOREDUCATION_SSLC",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SSC(ICSE)/AISSE(CBSE)(Xth )",
+      "namelocal": "എസ് എസ് സി ( ഐ. സി . എസ്. ഇ)/എ .ഐ .എസ് .എസ് .സി (സി. ബി.എസ്. ഇ )(ഃ ാം ക്ലാസ്സ്)",
+      "migrationId": 18,
+      "id": 18,
+      "majorId": 4,
+      "code": "MINOREDUCATION_SSC(ICSE)/AISSE(CBSE)(XTH_)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "THSLC",
+      "namelocal": "റ്റി.എച്ച്.എസ്.എല്‍.സി.",
+      "migrationId": 19,
+      "id": 19,
+      "majorId": 4,
+      "code": "MINOREDUCATION_THSLC",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "JTSLC",
+      "namelocal": "ജെ.റ്റി.എസ്സ്.എല്‍.സി",
+      "migrationId": 20,
+      "id": 20,
+      "majorId": 4,
+      "code": "MINOREDUCATION_JTSLC",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "CBSE ( XII CLASS )",
+      "namelocal": "സി.ബി.എസ്സ്.സി (12ാം സ്റ്റാന്‍ഡേര്‍ഡ്)",
+      "migrationId": 21,
+      "id": 21,
+      "majorId": 4,
+      "code": "MINOREDUCATION_CBSE_(_XII_CLASS_)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "ICSE ( XII CLASS )",
+      "namelocal": "ഐ.സി.എസ്സ്.സി (12ാം സ്റ്റാന്‍ഡേര്‍ഡ്)",
+      "migrationId": 22,
+      "id": 22,
+      "majorId": 4,
+      "code": "MINOREDUCATION_ICSE_(_XII_CLASS_)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "PUC (Pre- University  Certificate)",
+      "namelocal": "പി.യു.സി (പ്രീയൂണിവേഴ്സിറ്റി സര്‍ട്ടിഫിക്കറ്റ്)",
+      "migrationId": 23,
+      "id": 23,
+      "majorId": 4,
+      "code": "MINOREDUCATION_PUC_(PRE-_UNIVERSITY__CERTIFICATE)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Intermediate",
+      "namelocal": "ഇന്‍റര്‍മീഡിയറ്റ്",
+      "migrationId": 24,
+      "id": 24,
+      "majorId": 4,
+      "code": "MINOREDUCATION_INTERMEDIATE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "PDC (Pre- degree)",
+      "namelocal": "പി.ഡി.സി (പ്രീഡിഗ്രി)",
+      "migrationId": 25,
+      "id": 25,
+      "majorId": 4,
+      "code": "MINOREDUCATION_PDC_(PRE-_DEGREE)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Higher Secondary",
+      "namelocal": "ഹയര്‍ സെക്കന്‍ഡറി",
+      "migrationId": 26,
+      "id": 26,
+      "majorId": 4,
+      "code": "MINOREDUCATION_HIGHER_SECONDARY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "VHSE ( Vocational Higher Secondary Certificate)",
+      "namelocal": "വി.എച്ച്.എസ്സ്.സി. (വൊക്കേഷണല്‍ ഹയര്‍ സെക്കന്‍ഡറി സര്‍ട്ടിഫിക്കറ്റ്)",
+      "migrationId": 27,
+      "id": 27,
+      "majorId": 4,
+      "code": "MINOREDUCATION_VHSE_(_VOCATIONAL_HIGHER_SECONDARY_CERTIFICATE)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "ITI / ITC (Metric Trades)",
+      "namelocal": "ഐ.റ്റി.ഐ/ഐ.റ്റി.സി ( മെട്രിക് ട്രേഡ്)",
+      "migrationId": 28,
+      "id": 28,
+      "majorId": 4,
+      "code": "MINOREDUCATION_ITI_/_ITC_(METRIC_TRADES)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Diploma in Engineering",
+      "namelocal": "എഞ്ചിനീയറിംഗ് ഡിപ്ലോമ",
+      "migrationId": 29,
+      "id": 29,
+      "majorId": 4,
+      "code": "MINOREDUCATION_DIPLOMA_IN_ENGINEERING",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Diploma in Pharmacy",
+      "namelocal": "ഫാര്‍മസി ഡിപ്ലോമ",
+      "migrationId": 30,
+      "id": 30,
+      "majorId": 4,
+      "code": "MINOREDUCATION_DIPLOMA_IN_PHARMACY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teacher Education",
+      "namelocal": "ടീച്ചര്‍ എജൂക്കേഷന്‍",
+      "migrationId": 31,
+      "id": 31,
+      "majorId": 4,
+      "code": "MINOREDUCATION_TEACHER_EDUCATION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Performing Arts",
+      "namelocal": "പെര്‍ഫോമിംഗ് ആര്‍ട്സ്",
+      "migrationId": 32,
+      "id": 32,
+      "majorId": 4,
+      "code": "MINOREDUCATION_PERFORMING_ARTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Diploma after Matriculation/Higher Secondary",
+      "namelocal": "മെട്രിക്കുലേഷന്‍ / ഹയര്‍ സെക്കന്‍ഡറി കഴിഞ്ഞതിനു ശേഷമുള്ള ഡിപ്ലോമാ",
+      "migrationId": 33,
+      "id": 33,
+      "majorId": 4,
+      "code": "MINOREDUCATION_DIPLOMA_AFTER_MATRICULATION/HIGHER_SECONDARY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Graduate",
+      "namelocal": "ബിരുദം",
+      "migrationId": 34,
+      "id": 34,
+      "majorId": 5,
+      "code": "MINOREDUCATION_GRADUATE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Graduate - Professional",
+      "namelocal": "പ്രൊഫഷണല്‍ ബിരുദം",
+      "migrationId": 35,
+      "id": 35,
+      "majorId": 5,
+      "code": "MINOREDUCATION_GRADUATE_-_PROFESSIONAL",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Post Graduate",
+      "namelocal": "ബിരുദാനന്തര ബിരുദം",
+      "migrationId": 36,
+      "id": 36,
+      "majorId": 5,
+      "code": "MINOREDUCATION_POST_GRADUATE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Post Graduate -Diploma",
+      "namelocal": "ബിരുദാനന്തര ബിരുദം  ഡിപ്ലോമാ",
+      "migrationId": 37,
+      "id": 37,
+      "majorId": 5,
+      "code": "MINOREDUCATION_POST_GRADUATE_-DIPLOMA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Post PG Diploma",
+      "namelocal": "ബിരുദാനന്തര ബിരുദത്തിനു ശേഷമുള്ള ഡിപ്ലോമാ",
+      "migrationId": 38,
+      "id": 38,
+      "majorId": 5,
+      "code": "MINOREDUCATION_POST_PG_DIPLOMA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mphil (Master of Philosophy)",
+      "namelocal": "എംഫില്‍ (മാസ്റ്റര്‍ ഓഫ് ഫിലോസഫി)",
+      "migrationId": 39,
+      "id": 39,
+      "majorId": 5,
+      "code": "MINOREDUCATION_MPHIL_(MASTER_OF_PHILOSOPHY)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Phd",
+      "namelocal": "പി.എച്ച്.ഡി",
+      "migrationId": 40,
+      "id": 40,
+      "majorId": 5,
+      "code": "MINOREDUCATION_PHD",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Diploma Other than PG Diploma",
+      "namelocal": "പി.ജി ഡിപ്ലോമാ അല്ലാത്ത ഡിപ്ലോമാ",
+      "migrationId": 41,
+      "id": 41,
+      "majorId": 5,
+      "code": "MINOREDUCATION_DIPLOMA_OTHER_THAN_PG_DIPLOMA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Certificate Courses after Graduation",
+      "namelocal": "ബിരുദാനന്തര സര്‍ട്ടിഫിക്കറ്റ് കോഴ്സ്",
+      "migrationId": 42,
+      "id": 42,
+      "majorId": 5,
+      "code": "MINOREDUCATION_CERTIFICATE_COURSES_AFTER_GRADUATION",
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}
