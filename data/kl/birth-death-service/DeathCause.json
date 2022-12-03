@@ -1,0 +1,54 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "DeathCause": [
+    {
+      "name": "Communicable Disease",
+      "namelocal": "സാംക്രമിക രോഗങ്ങള്‍",
+      "code": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Diseases affecting Specific Organs",
+      "namelocal": "പ്രത്യേക അവയവങ്ങളെ ബാധിക്കുന്ന രോഗങ്ങള്‍",
+      "code": "DEATHCAUSE_MAIN_AFFECTORGANS",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Other Internal Causes",
+      "namelocal": "മറ്റ് ആന്തരിക കാരണങ്ങള്‍",
+      "code": "DEATHCAUSE_MAIN_INTERNALCAUSE",
+      "id": 3,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Accidents",
+      "namelocal": "അപകടങ്ങള്‍",
+      "code": "DEATHCAUSE_MAIN_ACCIDENTS",
+      "id": 4,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Other External Causes",
+      "namelocal": "മറ്റ് ബാഹ്യകാരണങ്ങള്‍",
+      "code": "DEATHCAUSE_MAIN_EXTERNALCAUSE",
+      "id": 5,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Other External Causes not elsewhere classified",
+      "namelocal": "തരംതിരിച്ചിട്ടില്ലാത്ത മറ്റു ബാഹ്യകാരണങ്ങള്‍",
+      "code": "DEATHCAUSE_MAIN_EXTERNALCAUSEOTHER",
+      "id": 6,
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
