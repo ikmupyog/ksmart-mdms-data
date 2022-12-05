@@ -5693,6 +5693,80 @@
   "order": "0",
   "isRequired": false,
   "isDiscountApplicable": false
-}
+},
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL FINE",
+      "code": "140200300",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    }
+        ,
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL_APPLNFEE",
+      "code": "140129900",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    }
+        ,
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL_ARR",
+      "code": "431300202",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL_LICCHARGEFEE",
+      "code": "140400500",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL_INSTALLATIONFEE",
+      "code": "140120200",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL_COURTFEE",
+      "code": "350100112",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+        {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL_ADV",
+      "code": "350410301",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+        {
+      "category": "TAX",
+      "service": "TL",
+      "name": "TL_CUR",
+      "code": "431300201",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    }
   ]
 }
