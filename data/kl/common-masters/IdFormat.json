@@ -713,6 +713,18 @@
         {
             "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]-[TENANT_ID]",
             "idname": "tl.aplnumber"
+        },
+        {            
+            "format": "BR/APLN/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+            "idname": "applicationno"
+        },
+        {            
+            "format": "BR/FM/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]_[TENANT_ID]",
+            "idname": "fm_fileno"
+        },
+        {            
+            "format": "BR/REGY/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+            "idname": "registrationno"
         }
     ]
 }
