@@ -1,0 +1,94 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "IdProof": [
+    {
+      "name": "GST Registration Number",
+      "namelocal": "‍‍‍ജി എസ്സ് ടി രെജിസ്ട്രേഷന്‍ നമ്പര്‍",
+      "id": 11,
+      "code": "MIDPROOF_GST_REGISTRATION_NUMBER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aadhaar Card",
+      "namelocal": "ആധാര്‍ കാര്‍ഡ്",
+      "id": 1,
+      "code": "MIDPROOF_AADHAAR_CARD",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Passport",
+      "namelocal": "പാസ്പോര്‍ട്ട്",
+      "id": 2,
+      "code": "MIDPROOF_PASSPORT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Arms License",
+      "namelocal": "ആംസ് ലൈസന്‍സ്",
+      "id": 3,
+      "code": "MIDPROOF_ARMS_LICENSE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Driving License",
+      "namelocal": "ഡ്രൈവിംഗ് ലൈസന്‍സ്",
+      "id": 4,
+      "code": "MIDPROOF_DRIVING_LICENSE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Election Commission ID Card",
+      "namelocal": "സമ്മദിദായക ഫോട്ടോ തിരിച്ചറിയല്‍ കാര്‍ഡ്",
+      "id": 5,
+      "code": "MIDPROOF_ELECTION_COMMISSION_ID_CARD",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ration Card",
+      "namelocal": "റേഷന്‍കാര്‍ഡ്",
+      "id": 6,
+      "code": "MIDPROOF_RATION_CARD_",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "CGHS/ECHS Card",
+      "namelocal": "സി.ജി.എച്ച് /ഇ.സി.ച്ച്.എസ് കാര്‍ഡ്",
+      "id": 7,
+      "code": "MIDPROOF_CGHS/ECHS_CARD",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Income Tax PAN Card",
+      "namelocal": "പാന്‍ കാര്‍ഡ്",
+      "id": 8,
+      "code": "MIDPROOF_INCOME_TAX_PAN_CARD",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "TAN NO",
+      "namelocal": "ടി എ എന്‍ നമ്പര്‍",
+      "id": 9,
+      "code": "MIDPROOF_TAN_NO",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "TIN NO",
+      "namelocal": "ടി ഐ എന്‍ നമ്പര്‍",
+      "id": 10,
+      "code": "MIDPROOF_TIN_NO",
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}
