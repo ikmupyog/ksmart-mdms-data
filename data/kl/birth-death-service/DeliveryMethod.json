@@ -1,0 +1,20 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "DeliveryMethod": [
+    {
+      "name": "Natural",
+      "namelocal": "",
+      "code": "DELIVERY_NATURAL",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Caesarean",
+      "namelocal": "",
+      "code": "DELIVERY_CAESAREAN",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

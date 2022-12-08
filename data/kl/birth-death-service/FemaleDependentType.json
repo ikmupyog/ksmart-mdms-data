@@ -1,0 +1,30 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "FemaleDependentType": [
+    {
+      "name": "Mother",
+      "namelocal": "മാതാവ്",
+      "code": "FEMALE_DEPENDENT_MOTHER",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Wife",
+      "namelocal": "ഭാര്യ",
+      "code": "FEMALE_DEPENDENT_WIFE",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Daughter",
+      "namelocal": "മകൾ",
+      "code": "FEMALE_DEPENDENT_DAUGHTER",
+      "id": 3,
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

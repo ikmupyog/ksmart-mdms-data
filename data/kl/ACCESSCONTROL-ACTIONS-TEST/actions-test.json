@@ -16,6 +16,42 @@
          "path": "Boundary Module.Get location by LocationName"
       },
       {
+         "id": 2413,
+         "name": "Create File",
+         "url": "/filemgmnt/v1/applicantpersonals/_create",
+         "parentModule": "",
+         "displayName": "Create File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2414,
+         "name": "Update File",
+         "url": "/filemgmnt/v1/applicantpersonals/_update",
+         "parentModule": "",
+         "displayName": "Update File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2415,
+         "name": "Search File",
+         "url": "/filemgmnt/v1/applicantpersonals/_search",
+         "parentModule": "",
+         "displayName": "Search File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },
+      {
          "id": 7,
          "name": "Search Boundary by BoundryTypeName and HierarchyTypeName",
          "url": "/v1/location/boundarys/boundariesByBndryTypeNameAndHierarchyTypeName",

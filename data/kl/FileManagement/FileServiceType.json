@@ -1,0 +1,12 @@
+{
+  "tenantId": "kl",
+  "moduleName": "FileManagement",
+  "FileServiceType": [
+    {
+      "code": "PN001",
+      "name": "Social Security Pension",
+      "localName": "സാമൂഹിക സുരക്ഷാ പെൻഷൻ",
+      "active": true
+    }
+  ]
+}

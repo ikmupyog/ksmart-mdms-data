@@ -8,6 +8,26 @@
       "description": "Citizen who can raise complaint"
     },
     {
+      "code": "FM_CEMP",
+      "name": "FM Counter Employee",
+      "description": "Counter Employee in File Management who files file on behalf of the citizen"
+    },
+    {
+      "code": "FM_OPERATOR",
+      "name": "TL Operator",
+      "description": "Who has a access to File management Workflow"
+    },
+    {
+      "code": "FM_VERIFIER",
+      "name": "FM Verifier",
+      "description": "Filemanagement Verifier"
+    },
+    {
+      "code": "FM_APPROVER",
+      "name": "FM Approver",
+      "description": "Who has a access to File management Workflow"
+    },
+    {
       "code": "EMPLOYEE",
       "name": "Employee",
       "description": "Default role for all employees"
@@ -614,8 +634,8 @@
     },
     {
       "code": "BND_DISTRICT_REGISTRAR",
-      "name": "Birth and Death Enquiry officer",
-      "description": "Birth and Death Enquiry officer after one year"
+      "name": "Birth and Death Approver",
+      "description": "Birth and Death Approver after one year"
     },
     {
       "code": "DASHBOARD_REPORT_VIEWER",

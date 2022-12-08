@@ -1,0 +1,30 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "MedicalAttentionType": [
+    {
+      "name": "Institution",
+      "namelocal": "സ്ഥാപനങ്ങൾ",
+      "code": "MEDICAL_ATTENTION_TYPE_INSTITUTION",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Medical Attention other than Instituion",
+      "namelocal": "സ്ഥാപനങ്ങളില്‍ നിന്നല്ലാതെയുള്ള വൈദ്യശുശ്രൂഷ",
+      "code": "MEDICAL_ATTENTION_TYPE_OTHER_INSTITUTION",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "No Medical Attention",
+      "namelocal": "വൈദ്യശുശ്രൂഷ ലഭിച്ചില്ല",
+      "code": "MEDICAL_ATTENTION_TYPE_NO_MEDICAL_ATTENTION",
+      "id": 3,
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

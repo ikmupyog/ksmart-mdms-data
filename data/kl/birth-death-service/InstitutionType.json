@@ -1,0 +1,27 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "InstitutionType": [
+    {
+      "name": "Government",
+      "namelocal": "",
+      "code": "INSTITUTION_GOVERMENT",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Private or Non - Government",
+      "namelocal": "",
+      "code": "INSTITUTION_PRIVATE_NON_GOVERMENT",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": null,
+      "namelocal": "",
+      "code": "None",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

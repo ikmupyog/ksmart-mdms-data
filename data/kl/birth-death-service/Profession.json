@@ -1,0 +1,41 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "Profession": [
+    {
+      "name": "Self Employed",
+      "namelocal": "",
+      "code": "PROFFESION_SELF_EMPLOYED",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Entrepreneur",
+      "namelocal": "",
+      "code": "PROFFESION_ENTREPRENEUR",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Private Employee",
+      "namelocal": "",
+      "code": "PROFFESION_PRIVATE_EMPLOYEE",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Govt Employee",
+      "namelocal": "",
+      "code": "PROFFESION_GOVT_EMPLOYEE",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Unemployed",
+      "namelocal": "",
+      "code": "PROFFESION_UNEMPLOYED",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

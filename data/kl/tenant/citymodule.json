@@ -105,6 +105,9 @@
           "code": "kl.kollam"
         },
         {
+          "code": "kl.kottayam"
+        },
+        {
           "code": "kl.kannur"
         },
         {
@@ -115,6 +118,7 @@
         }
       ]
     },
+   
     {
       "module": "FIRENOC",
       "code": "FIRENOC",
@@ -452,8 +456,8 @@
       ]
     },
     {
-      "module": "NDSS",
-      "code": "NDSS",
+      "module": "CR",
+      "code": "CR",
       "active": true,
       "order":5,
       "tenants": [

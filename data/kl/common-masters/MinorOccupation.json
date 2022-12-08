@@ -1,0 +1,956 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "MinorOccupation": [
+    {
+      "name": "Physical Scientists",
+      "namelocal": "ഫിസിക്കല്‍ സയന്‍റിസ്റ്റ്",
+      "migrationId": 1,
+      "id": 1,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONPHYSICAL_SCIENTISTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Architects, Engineers, Technologists & Surveyors",
+      "namelocal": "ആര്‍ക്കിടെക്റ്റ്, എഞ്ചിനീയര്‍, ടെക്നോളജിസ്റ്റ് സര്‍വ്വേയര്‍",
+      "migrationId": 2,
+      "id": 2,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONARCHITECTS,_ENGINEERS,_TECHNOLOGISTS_&_SURVEYORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Engineering Technicians",
+      "namelocal": "എഞ്ചിനീയറിംഗ് ടെക്നീഷ്യന്‍",
+      "migrationId": 3,
+      "id": 3,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONENGINEERING_TECHNICIANS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aircraft and Ship Officers",
+      "namelocal": "എയര്‍ക്രാഫ്റ്റ്/ഷിപ്പ് ഓഫീസര്‍",
+      "migrationId": 4,
+      "id": 4,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONAIRCRAFT_AND_SHIP_OFFICERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Life Scientists",
+      "namelocal": "ലൈഫ് സയന്‍റിസ്റ്റ്",
+      "migrationId": 5,
+      "id": 5,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONLIFE_SCIENTISTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Life Science Technicians",
+      "namelocal": "ലൈഫ് സയന്‍സ് ടെക്നീഷ്യന്‍",
+      "migrationId": 6,
+      "id": 6,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONLIFE_SCIENCE_TECHNICIANS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physicians & Surgeons, (Allopathic, Dental & Veterinary Surgeons)",
+      "namelocal": "ഫിസിഷ്യന്‍ & സര്‍ജന്‍ (അലോപ്പതി, ഡന്‍റല്‍, വെറ്റിനറി)",
+      "migrationId": 7,
+      "id": 7,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONPHYSICIANS_&_SURGEONS,_(ALLOPATHIC,_DENTAL_&_VETERINARY_SURGEONS)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nursing & Other Medical and Health Technicians",
+      "namelocal": "നേഴ്സ്, മറ്റ് മെഡിക്കല്‍, ഹെല്‍ത്ത് ടെക്നീഷ്യന്‍",
+      "migrationId": 8,
+      "id": 8,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONNURSING_&_OTHER_MEDICAL_AND_HEALTH_TECHNICIANS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Scientific, Medical & Technical Persons, other",
+      "namelocal": "സയന്‍റിഫിക്, മെഡിക്കല്‍, ടെക്നിക്കല്‍ പേഴ്സണ്‍  മറ്റുള്ളവ",
+      "migrationId": 9,
+      "id": 9,
+      "majorId": 1,
+      "code": "MINIOROCCUPATIONSCIENTIFIC,_MEDICAL_&_TECHNICAL_PERSONS,_OTHER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mathematicians, Statisticians",
+      "namelocal": "മാത്തമാറ്റീഷ്യന്‍, സ്റ്റാറ്റിസ്റ്റിഷ്യന്‍",
+      "migrationId": 20,
+      "id": 10,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONMATHEMATICIANS,_STATISTICIANS_",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Economists and Realted Workers",
+      "namelocal": "ഇക്കണോമിസ്റ്റ്, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 21,
+      "id": 11,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONECONOMISTS_AND_REALTED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Accountants, Auditors & Related Workers",
+      "namelocal": "അക്കൗണ്ടന്‍റ്, ഓഡിറ്റര്‍, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 22,
+      "id": 12,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONACCOUNTANTS,_AUDITORS_&_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Social Scientists and Related Workers",
+      "namelocal": "സോഷ്യല്‍ സയന്‍റിസ്റ്റ്, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 23,
+      "id": 13,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONSOCIAL_SCIENTISTS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jurists",
+      "namelocal": "ജൂറിസ്റ്റ്",
+      "migrationId": 24,
+      "id": 14,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONJURISTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Teachers",
+      "namelocal": "അദ്ധ്യാപകര്‍",
+      "migrationId": 25,
+      "id": 15,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONTEACHERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Poets, Authors, Jouranalists and Realted Workers",
+      "namelocal": "കവി, ഗ്രന്ഥകര്‍ത്താവ്, പത്രപ്രവര്‍ത്തകന്‍, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 26,
+      "id": 16,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONPOETS,_AUTHORS,_JOURANALISTS_AND_REALTED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sculptors, Painters, Photographers & Related Creative Artists",
+      "namelocal": "ശില്‍പി, ചിത്രകാരന്‍, ഫോട്ടോഗ്രാഫര്‍, മറ്റ് കലാസൃഷ്ടിയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 27,
+      "id": 17,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONSCULPTORS,_PAINTERS,_PHOTOGRAPHERS_&_RELATED_CREATIVE_ARTISTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Composers and Performing Artists",
+      "namelocal": "കംപോസര്‍, കലാ പ്രകടനം നടത്തുന്നവര്‍",
+      "migrationId": 28,
+      "id": 18,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONCOMPOSERS_AND_PERFORMING_ARTISTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Professional Workers, n.e.c.",
+      "namelocal": "പ്രൊഫഷണല്‍ വര്‍ക്കര്‍, മറ്റ് വിഭാഗങ്ങളില്‍ പെടാത്തവര്‍",
+      "migrationId": 29,
+      "id": 19,
+      "majorId": 2,
+      "code": "MINIOROCCUPATIONPROFESSIONAL_WORKERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Elected and Legislative Officials",
+      "namelocal": "നിയമസഭയുമായി ബന്ധപ്പെട്ട് തിരഞ്ഞെടുക്കപ്പെട്ട ഔദ്യോഗിക വിഭാഗത്തില്‍പ്പെട്ടവരുമായവര്‍",
+      "migrationId": 30,
+      "id": 20,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONELECTED_AND_LEGISLATIVE_OFFICIALS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative & Executive Officials, Government & Local Bodies",
+      "namelocal": "സര്‍ക്കാര്‍, അര്‍ദ്ധ സര്‍ക്കാര്‍ സ്ഥാപനങ്ങളിലെ ഓഫീസര്‍",
+      "migrationId": 31,
+      "id": 21,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONADMINISTRATIVE_&_EXECUTIVE_OFFICIALS,_GOVERNMENT_&_LOCAL_BODIES",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Directors & Managers, Wholesale & Retail Trade",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍, ഡയറക്ടര്‍, മാനേജര്‍  മൊത്ത വ്യാപാരം/ചില്ലറ വ്യാപാരം",
+      "migrationId": 32,
+      "id": 22,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONWORKING_PROPRIETORS,_DIRECTORS_&_MANAGERS,_WHOLESALE_&_RETAIL_TRADE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Directors and Managers, Financial Institutions",
+      "namelocal": "മാനേജര്‍, ഡയറക്ടര്‍  ധനകാര്യ സ്ഥാപനം",
+      "migrationId": 33,
+      "id": 23,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONDIRECTORS_AND_MANAGERS,_FINANCIAL_INSTITUTIONS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Directors & Managers, Mining, Construction, Manufacturing & Related Concerns",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍, ഡയറക്ടര്‍, മാനേജര്‍  മൈനിംഗ്, കണ്‍സ്ട്രക്ഷന്‍",
+      "migrationId": 34,
+      "id": 24,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONWORKING_PROPRIETORS,_DIRECTORS_&_MANAGERS,_MINING,_CONSTRUCTION,_MANUFACTURING_&_RELATED_CONCERNS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Directors, Managers & Related Executives, Transport, Storage & Communication",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍, ഡയറക്ടര്‍, മാനേജര്‍, ബന്ധപ്പെട്ട് മറ്റ്  എക്സിക്യൂട്ടീവ് .",
+      "migrationId": 35,
+      "id": 25,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONWORKING_PROPRIETORS,_DIRECTORS,_MANAGERS_&_RELATED_EXECUTIVES,_TRANSPORT,_STORAGE_&_COMMUNICATION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Working Proprietors, Directors & Managers, Other Services",
+      "namelocal": "വര്‍ക്കിംഗ് പ്രൊപ്രൈറ്റര്‍, ഡയറക്ടര്‍, മാനേജര്‍, മറ്റ് സര്‍വ്വീസ് മേഖലകള്‍",
+      "migrationId": 36,
+      "id": 26,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONWORKING_PROPRIETORS,_DIRECTORS_&_MANAGERS,_OTHER_SERVICES",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative, Executive & Managerial Workers, n.e.c.",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ്, എക്സിക്യൂട്ടീവ് മാനേജീരിയല്‍ വര്‍ക്കര്‍  മറ്റു മേഖലയില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "migrationId": 37,
+      "id": 27,
+      "majorId": 3,
+      "code": "MINIOROCCUPATIONADMINISTRATIVE,_EXECUTIVE_&_MANAGERIAL_WORKERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Clerical and other Supervisors",
+      "namelocal": "ക്ലാര്‍ക്ക്, സൂപ്പര്‍വൈസര്‍",
+      "migrationId": 40,
+      "id": 28,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONCLERICAL_AND_OTHER_SUPERVISORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Village Officials",
+      "namelocal": "വില്ലേജ് ഓഫീസിലെ ഉദ്യോഗസ്ഥന്‍",
+      "migrationId": 41,
+      "id": 29,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONVILLAGE_OFFICIALS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stenographers, Typists and Card and Tape punching Operators",
+      "namelocal": "സ്റ്റെനോഗ്രാഫര്‍, ടൈപ്പിസ്റ്റ്, കാര്‍ഡ്ടേപ്പ് പഞ്ച് ഓപ്പറേറ്റര്‍",
+      "migrationId": 42,
+      "id": 30,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONSTENOGRAPHERS,_TYPISTS_AND_CARD_AND_TAPE_PUNCHING_OPERATORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Book-Keepers, Cashiers and Related Workers",
+      "namelocal": "ബുക്ക്കീപ്പര്‍, കാഷ്യര്‍, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 43,
+      "id": 31,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONBOOK-KEEPERS,_CASHIERS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Computing Machine Operators",
+      "namelocal": "കമ്പ്യൂട്ടര്‍ ഓപ്പറേറ്റര്‍",
+      "migrationId": 44,
+      "id": 32,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONCOMPUTING_MACHINE_OPERATORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Clerical and Related Workers, n.e.c.",
+      "namelocal": "ക്ലാര്‍ക്ക്, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍  മറ്റു വിഭാഗങ്ങളില്‍ ഉള്‍പ്പെടാത്തവര്‍",
+      "migrationId": 45,
+      "id": 33,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONCLERICAL_AND_RELATED_WORKERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Transport & Communication Supervisors",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍  ഗതാഗതം, വാര്‍ത്താവിനിമയം",
+      "migrationId": 46,
+      "id": 34,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONTRANSPORT_&_COMMUNICATION_SUPERVISORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Transport Conductors and Guards",
+      "namelocal": "ട്രാന്‍സ്പോര്‍ട്ട് കണ്ടക്ടര്‍, ഗാര്‍ഡ്",
+      "migrationId": 47,
+      "id": 35,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONTRANSPORT_CONDUCTORS_AND_GUARDS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mail Distributors and Related Workers",
+      "namelocal": "തപാല്‍ ഉരുപ്പടികള്‍ വിതരണം ചെയ്യുന്നവര്‍  അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 48,
+      "id": 36,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONMAIL_DISTRIBUTORS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Telephone and Telegraph Operators",
+      "namelocal": "ടെലിഫോണ്‍, ടെലിഗ്രാഫ് ഓപ്പറേറ്റര്‍",
+      "migrationId": 49,
+      "id": 37,
+      "majorId": 4,
+      "code": "MINIOROCCUPATIONTELEPHONE_AND_TELEGRAPH_OPERATORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Merchants and Shop Keepers, Wholesale and Retail Trade",
+      "namelocal": "കച്ചവടം (മൊത്തവ്യാപാരം, ചില്ലറ വ്യാപാരം)",
+      "migrationId": 50,
+      "id": 38,
+      "majorId": 5,
+      "code": "MINIOROCCUPATIONMERCHANTS_AND_SHOP_KEEPERS,_WHOLESALE_AND_RETAIL_TRADE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Manufacturers & Agents",
+      "namelocal": "വ്യവസായി, ഏജന്‍റ്",
+      "migrationId": 51,
+      "id": 39,
+      "majorId": 5,
+      "code": "MINIOROCCUPATIONMANUFACTURERS_&_AGENTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Technical Salesman and Commercial Travellers",
+      "namelocal": "ടെക്നിക്കല്‍ സെയില്‍സ്മാന്‍, കൊമേഴ്സ്യല്‍ ട്രാവലര്‍",
+      "migrationId": 52,
+      "id": 40,
+      "majorId": 5,
+      "code": "MINIOROCCUPATIONTECHNICAL_SALESMAN_AND_COMMERCIAL_TRAVELLERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Salesmen, Shop Assistants and Related Workers",
+      "namelocal": "സെയില്‍സ്മാന്‍, ഷോപ്പ് അസിസ്റ്റന്‍റ്  അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 53,
+      "id": 41,
+      "majorId": 5,
+      "code": "MINIOROCCUPATIONSALESMEN,_SHOP_ASSISTANTS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Insurance, Retail Estate, Securities and Business Service Salesmen & Auctioneers",
+      "namelocal": "ഇന്‍ഷുറന്‍സ്, ഏജന്‍റ്, റീയല്‍ എസ്റ്റേറ്റ് ബ്രോക്കര്‍  ലേലത്തില്‍ പങ്കെടുക്കുന്നവര്‍",
+      "migrationId": 54,
+      "id": 42,
+      "majorId": 5,
+      "code": "MINIOROCCUPATIONINSURANCE,_RETAIL_ESTATE,_SECURITIES_AND_BUSINESS_SERVICE_SALESMEN_&_AUCTIONEERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Money Lenders & pawn Brokers",
+      "namelocal": "പണം കടംകൊടുക്കുന്നവര്‍,  പണ്ടത്തിന്‍മേല്‍ പണം കടം കൊടുക്കുന്നവര്‍",
+      "migrationId": 55,
+      "id": 43,
+      "majorId": 5,
+      "code": "MINIOROCCUPATIONMONEY_LENDERS_&_PAWN_BROKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sales Workers, n.e.c.",
+      "namelocal": "മറ്റ് വിഭാഗത്തില്‍ ഉള്‍പ്പെടുത്താത്ത വില്പനക്കാര്‍",
+      "migrationId": 56,
+      "id": 44,
+      "majorId": 5,
+      "code": "MINIOROCCUPATIONSALES_WORKERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hotel and Restaurant Keepers",
+      "namelocal": "ഹോട്ടല്‍, റസ്റ്റോറന്‍റ് സൂക്ഷിപ്പുകാരന്‍",
+      "migrationId": 60,
+      "id": 45,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONHOTEL_AND_RESTAURANT_KEEPERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "House Keepers, Matrons and Stewards (Domestic & Institutional)",
+      "namelocal": "ഹൗസ് കീപ്പര്‍, മേട്രന്‍, കാര്യസ്ഥന്‍",
+      "migrationId": 61,
+      "id": 46,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONHOUSE_KEEPERS,_MATRONS_AND_STEWARDS_(DOMESTIC_&_INSTITUTIONAL)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cooks, Waiters, Bartenders and Related Workers (Domestic & Institutional)",
+      "namelocal": "പാചകക്കാരന്‍, പരിചാരകന്‍, മദ്യശാലയിലെ വിളമ്പുകാരന്‍, അനുബന്ധ ജോലിചെയ്യുന്നവര്‍",
+      "migrationId": 62,
+      "id": 47,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONCOOKS,_WAITERS,_BARTENDERS_AND_RELATED_WORKERS_(DOMESTIC_&_INSTITUTIONAL)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Maids and Related House Keeping Service Workers, n.e.c.",
+      "namelocal": "വേലക്കാരി , വീട് സൂക്ഷിപ്പുമായി ബന്ധപ്പെട്ട ജോലികള്‍ ചെയ്യുന്നവള്‍, മറ്റ് വിഭാഗത്തില്‍പ്പെടാത്തവര്‍",
+      "migrationId": 63,
+      "id": 48,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONMAIDS_AND_RELATED_HOUSE_KEEPING_SERVICE_WORKERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Building Caretakers, Sweepers, Cleaners & Related Workers",
+      "namelocal": "കെട്ടിടം സൂക്ഷിക്കുന്നയാള്‍, തൂപ്പുകാരന്‍, ശൂചീകരണ തൊഴിലാളി, അനുബന്ധജോലി ചെയ്യുന്നവര്‍",
+      "migrationId": 64,
+      "id": 49,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONBUILDING_CARETAKERS,_SWEEPERS,_CLEANERS_&_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Launderers, Dry-cleaners and Pressers, n.e.c.",
+      "namelocal": "അലക്കുകാരന്‍, ഡ്രൈ ക്ലീനര്‍, തേപ്പുകാരന്‍, മറ്റു വിഭാഗത്തില്‍പെടാത്തവര്‍",
+      "migrationId": 65,
+      "id": 50,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONLAUNDERERS,_DRY-CLEANERS_AND_PRESSERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hair Dressers, Barbers, Beauticians and Related Workers",
+      "namelocal": "ഹെയര്‍ ഡ്രസ്സേഴ്സ്, ബാര്‍ബര്‍, ബ്യൂട്ടീഷ്യന്‍, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 66,
+      "id": 51,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONHAIR_DRESSERS,_BARBERS,_BEAUTICIANS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Protective Service Workers",
+      "namelocal": "സുരക്ഷാ ജോലിയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 67,
+      "id": 52,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONPROTECTIVE_SERVICE_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Service Workers, n.e.c.",
+      "namelocal": "മറ്റ് സേവന മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 68,
+      "id": 53,
+      "majorId": 6,
+      "code": "MINIOROCCUPATIONSERVICE_WORKERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farm Plantation, Dairy and other Managers and Supervisors",
+      "namelocal": "സൂപ്പര്‍വൈസര്‍  മാനേജര്‍, കൃഷിത്തോട്ടം , ഡയറി",
+      "migrationId": 70,
+      "id": 54,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONFARM_PLANTATION,_DAIRY_AND_OTHER_MANAGERS_AND_SUPERVISORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cultivators",
+      "namelocal": "കൃഷിക്കാര്‍",
+      "migrationId": 71,
+      "id": 55,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONCULTIVATORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farmers, other than Cultivators",
+      "namelocal": "കര്‍ഷകര്‍",
+      "migrationId": 72,
+      "id": 56,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONFARMERS,_OTHER_THAN_CULTIVATORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agricultural Labourers",
+      "namelocal": "കര്‍ഷകത്തൊഴിലാളി",
+      "migrationId": 73,
+      "id": 57,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONAGRICULTURAL_LABOURERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plantation Labourers & Related Workers",
+      "namelocal": "തോട്ടംതൊഴിലാളികള്‍,  അനുബന്ധ ജോലിചെയ്യുന്നവര്‍",
+      "migrationId": 74,
+      "id": 58,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONPLANTATION_LABOURERS_&_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Other Farm Workers",
+      "namelocal": "മറ്റ് ഫാം തൊഴിലാളികള്‍",
+      "migrationId": 75,
+      "id": 59,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONOTHER_FARM_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Forestry Workers",
+      "namelocal": "ഫോറസ്ട്രി വര്‍ക്കര്‍",
+      "migrationId": 76,
+      "id": 60,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONFORESTRY_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hunters and Related Workers",
+      "namelocal": "വേട്ടക്കാരന്‍ അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 77,
+      "id": 61,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONHUNTERS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fishermen and Related Workers",
+      "namelocal": "ഫിഷര്‍മാന്‍ അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 78,
+      "id": 62,
+      "majorId": 7,
+      "code": "MINIOROCCUPATIONFISHERMEN_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Miners, Quarrymen, Well Drillers & Related Workers",
+      "namelocal": "ഖനി തൊഴിലാളികള്‍, പാറത്തൊഴിലാളി, കിണര്‍ കുഴിക്കുന്നവര്‍",
+      "migrationId": 80,
+      "id": 63,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONMINERS,_QUARRYMEN,_WELL_DRILLERS_&_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Metal  Processors",
+      "namelocal": "ലോഹപണി ചെയ്യുന്നവര്‍",
+      "migrationId": 81,
+      "id": 64,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONMETAL__PROCESSORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Wood Preparation Workers and Paper Makers",
+      "namelocal": "തടി, പേപ്പര്‍ നിര്‍മ്മാണം എന്നിവയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 82,
+      "id": 65,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONWOOD_PREPARATION_WORKERS_AND_PAPER_MAKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chemical Processors and Related Workers",
+      "namelocal": "കെമിക്കല്‍ പ്രോസസ്സര്‍, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 83,
+      "id": 66,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONCHEMICAL_PROCESSORS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Spinners, Weavers, Knitters, Dyers and Related Workers",
+      "namelocal": "നെയ്ത്ത് ചായം മുക്കല്‍ പണിയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 84,
+      "id": 67,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONSPINNERS,_WEAVERS,_KNITTERS,_DYERS_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tanners, Fellmongers and Pelt Dressers",
+      "namelocal": "തോല്‍ ഊറയ്ക്കിടുന്നവര്‍, മൃഗചര്‍മ്മം വില്പനക്കാര്‍ അനുബന്ധ പണികള്‍ ചെയ്യുന്നവര്‍",
+      "migrationId": 85,
+      "id": 68,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONTANNERS,_FELLMONGERS_AND_PELT_DRESSERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Food and Beverage Processors",
+      "namelocal": "ഭക്ഷണം മദ്യം എന്നിവ തയ്യാറാക്കുന്നവര്‍",
+      "migrationId": 86,
+      "id": 69,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONFOOD_AND_BEVERAGE_PROCESSORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tobacco Preparers & Tobacco Product Makers",
+      "namelocal": "പുകയില, പുകയില ഉല്‍പന്നങ്ങള്‍ തയ്യാറാക്കുന്നവര്‍",
+      "migrationId": 87,
+      "id": 70,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONTOBACCO_PREPARERS_&_TOBACCO_PRODUCT_MAKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tailors, Dress Makers, Sewers, Upholsterers & Related Workers",
+      "namelocal": "തയ്യല്‍ക്കാരന്‍, അപ്ഹോഴ്സറി വര്‍ക്കില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 88,
+      "id": 71,
+      "majorId": 8,
+      "code": "MINIOROCCUPATIONTAILORS,_DRESS_MAKERS,_SEWERS,_UPHOLSTERERS_&_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shoemakers & Leather Good Makers",
+      "namelocal": "ഷൂവും ലതര്‍ ഉല്‍പന്നങ്ങളും ഉണ്ടാക്കുന്നവര്‍",
+      "migrationId": 90,
+      "id": 72,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONSHOEMAKERS_&_LEATHER_GOOD_MAKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Carpenters, Cabinet & Related Wood Workers",
+      "namelocal": "തടിപ്പണിയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 91,
+      "id": 73,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONCARPENTERS,_CABINET_&_RELATED_WOOD_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stone Cutters and Carvers",
+      "namelocal": "കല്ല് വെട്ടുന്നവര്‍, കല്ല് കൊത്തുന്നവര്‍",
+      "migrationId": 92,
+      "id": 74,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONSTONE_CUTTERS_AND_CARVERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Blacksmiths, Tool Makers and Machine Tool Operators",
+      "namelocal": "ബ്ലാക്ക് സ്മിത്ത്, പണിയായുധങ്ങള്‍ ഉണ്ടാക്കുന്നവര്‍, യന്ത്രോപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "migrationId": 93,
+      "id": 75,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONBLACKSMITHS,_TOOL_MAKERS_AND_MACHINE_TOOL_OPERATORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Machinery Fitters, Machine Assemblers and Precision Instrument Makers ( Except Electrical)",
+      "namelocal": "മെഷീന്‍ ഫിറ്റര്‍, അസംബ്ലര്‍, പ്രസിഷന്‍ ഇന്‍സ്ട്രുമെന്‍റ് ഉണ്ടാക്കുന്നവര്‍",
+      "migrationId": 94,
+      "id": 76,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONMACHINERY_FITTERS,_MACHINE_ASSEMBLERS_AND_PRECISION_INSTRUMENT_MAKERS_(_EXCEPT_ELECTRICAL)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Electrical Fitters & Related Electrical & Electronic Workers",
+      "namelocal": "ഇലക്ട്രിക്കല്‍ ഫിറ്റര്‍, അനുബന്ധ ഇലക്ട്രിക്കല്‍ ഇലക്ട്രോണിക് മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 95,
+      "id": 77,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONELECTRICAL_FITTERS_&_RELATED_ELECTRICAL_&_ELECTRONIC_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Broadcasting Station and Sound Equipment Operators and Cinema Projectionists",
+      "namelocal": "ബ്രോഡ്കാസ്റ്റിംഗ് സ്റ്റേഷനില്‍ പണിയെടുക്കുന്നവര്‍, സിനിമ ഓപ്പറേറ്റര്‍",
+      "migrationId": 96,
+      "id": 78,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONBROADCASTING_STATION_AND_SOUND_EQUIPMENT_OPERATORS_AND_CINEMA_PROJECTIONISTS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Plumbers, Welders, Sheet Metal & Structural Metal Preparers and Erectors",
+      "namelocal": "പ്ലംബര്‍, വെല്‍ഡര്‍, സ്ട്രക്ച്ചറല്‍ മെറ്റല്‍ വര്‍ക്കര്‍ തുടങ്ങിയവര്‍",
+      "migrationId": 97,
+      "id": 79,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONPLUMBERS,_WELDERS,_SHEET_METAL_&_STRUCTURAL_METAL_PREPARERS_AND_ERECTORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jewellery & Precious Metal Engravers (Except Printing)",
+      "namelocal": "ആഭരണ നിര്‍മ്മാണത്തില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 98,
+      "id": 80,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONJEWELLERY_&_PRECIOUS_METAL_ENGRAVERS_(EXCEPT_PRINTING)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Glass Formers, Potters & Related Workers",
+      "namelocal": "ഗ്ലാസ് , മണ്‍പാത്രം നിര്‍മ്മാണത്തില്‍ ഏര്‍പ്പെട്ടിട്ടുളളവര്‍",
+      "migrationId": 99,
+      "id": 81,
+      "majorId": 9,
+      "code": "MINIOROCCUPATIONGLASS_FORMERS,_POTTERS_&_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rubber and Plastic Product Makers",
+      "namelocal": "റബ്ബര്‍, പ്ലാസ്റ്റിക് വസ്തുക്കള്‍ എന്നിവയുടെ നിര്‍മ്മാതാവ്",
+      "migrationId": 100,
+      "id": 82,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONRUBBER_AND_PLASTIC_PRODUCT_MAKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Paper & Paper Board Products Makers",
+      "namelocal": "പേപ്പര്‍, പേപ്പര്‍ ബോര്‍ഡ് വസ്തുക്കള്‍ നിര്‍മ്മാണം",
+      "migrationId": 101,
+      "id": 83,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONPAPER_&_PAPER_BOARD_PRODUCTS_MAKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Printing and Related Workers",
+      "namelocal": "അച്ചടി, അനുബന്ധ മേഖലയില്‍ പണിയെടുക്കുന്നവര്‍",
+      "migrationId": 102,
+      "id": 84,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONPRINTING_AND_RELATED_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Painters",
+      "namelocal": "പെയിന്‍റര്‍",
+      "migrationId": 103,
+      "id": 85,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONPAINTERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Production & Related Workers, n.e.c.",
+      "namelocal": "നിര്‍മ്മാണവും അനുബന്ധ മേഖലയിലും പണിയെടുക്കുന്ന, മറ്റ് വിഭാഗത്തില്‍പെടാത്തവര്‍",
+      "migrationId": 104,
+      "id": 86,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONPRODUCTION_&_RELATED_WORKERS,_N.E.C.",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Brick layers and other Construction Workers",
+      "namelocal": "ഇഷ്ടിക പാകുന്നവരും മറ്റു നിര്‍മ്മാണ പ്രവര്‍ത്തനങ്ങളുമായി ബന്ധപ്പെട്ടവര്‍",
+      "migrationId": 105,
+      "id": 87,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONBRICK_LAYERS_AND_OTHER_CONSTRUCTION_WORKERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Stationary Engines & Related Equipment Operators Oiler & Greaser",
+      "namelocal": "സ്റ്റേഷനറി യന്ത്രങ്ങളും അനുബന്ധ ഉപകരണങ്ങളും പ്രവര്‍ത്തിപ്പിക്കുന്നവരും അതില്‍ പണിയെടുക്കുന്നവരും",
+      "migrationId": 106,
+      "id": 88,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONSTATIONARY_ENGINES_&_RELATED_EQUIPMENT_OPERATORS_OILER_&_GREASER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Material Handling and Related Equipment (Perators Loaders and unloader)",
+      "namelocal": "സാധനങ്ങള്‍ ഇറക്കുകയും കയറ്റുകയും ചെയ്യുന്ന ജോലിയില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 107,
+      "id": 89,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONMATERIAL_HANDLING_AND_RELATED_EQUIPMENT_(PERATORS_LOADERS_AND_UNLOADER)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Transport Equipment Operators",
+      "namelocal": "ഗതാഗത ഉപകരണങ്ങള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നവര്‍",
+      "migrationId": 108,
+      "id": 90,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONTRANSPORT_EQUIPMENT_OPERATORS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Labourers",
+      "namelocal": "തൊഴിലാളികള്‍",
+      "migrationId": 109,
+      "id": 91,
+      "majorId": 10,
+      "code": "MINIOROCCUPATIONLABOURERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "New Workers Seeking Employment",
+      "namelocal": "ജോലി അന്വേഷിക്കുന്നവര്‍",
+      "migrationId": 110,
+      "id": 92,
+      "majorId": 11,
+      "code": "MINIOROCCUPATIONNEW_WORKERS_SEEKING_EMPLOYMENT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers Reporting Occupations unidentifiable or Inadequately described",
+      "namelocal": "തരം തിരിക്കാന്‍ കഴിയാത്ത തൊഴിലില്‍ ഏര്‍പ്പെട്ടിരിക്കുന്നവര്‍",
+      "migrationId": 111,
+      "id": 93,
+      "majorId": 11,
+      "code": "MINIOROCCUPATIONWORKERS_REPORTING_OCCUPATIONS_UNIDENTIFIABLE_OR_INADEQUATELY_DESCRIBED",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Workers Not Reporting any Occupations",
+      "namelocal": "തൊഴില്‍ വ്യക്തമാക്കാത്ത തൊഴിലാളികള്‍",
+      "migrationId": 112,
+      "id": 94,
+      "majorId": 11,
+      "code": "MINIOROCCUPATIONWORKERS_NOT_REPORTING_ANY_OCCUPATIONS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Unemployed",
+      "namelocal": "തൊഴില്‍രഹിതന്‍",
+      "migrationId": 9999,
+      "id": 95,
+      "majorId": 12,
+      "code": "MINIOROCCUPATIONUNEMPLOYED",
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}

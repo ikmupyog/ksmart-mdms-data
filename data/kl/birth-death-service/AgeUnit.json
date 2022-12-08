@@ -1,0 +1,38 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "AgeUnit": [
+    {
+      "name": "Years",
+      "namelocal": "വർഷം",
+      "code": "AGE_UNIT_YEARS",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Months",
+      "namelocal": "മാസം",
+      "code": "AGE_UNIT_MONTHS",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Days",
+      "namelocal": "ദിവസം",
+      "code": "AGE_UNIT_DAYS",
+      "id": 3,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Hours",
+      "namelocal": "മണിക്കൂർ",
+      "code": "AGE_UNIT_HOURS",
+      "id": 4,
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

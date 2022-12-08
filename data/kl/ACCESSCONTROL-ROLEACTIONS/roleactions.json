@@ -8,6 +8,80 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+      {
+      "rolecode": "CITIZEN",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+ 
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },   
+    {
+      "rolecode": "FM_CEMP",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_CEMP",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_CEMP",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_OPERATOR",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "FM_APPROVER",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },    
+    {
+      "rolecode": "FM_VERIFIER",
+      "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   
     {
       "rolecode": "RO",
       "actionid": 596,
@@ -29,24 +103,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 401,
-      "actioncode": "",
-      "tenantId": "kl"
-    },
-     {
-      "rolecode": "BND_SUB_REGISTRAR",
-      "actionid": 2410,
-      "actioncode": "",
-      "tenantId": "kl"
-    },
-     {
-      "rolecode": "BND_LOCAL_REGISTRAR",
-      "actionid": 2411,
-      "actioncode": "",
-      "tenantId": "kl"
-    },
-     {
-      "rolecode": "BND_DISTRICT_REGISTRAR",
-      "actionid": 2412,
       "actioncode": "",
       "tenantId": "kl"
     },
@@ -5207,6 +5263,24 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 916,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2410,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2412,
       "actioncode": "",
       "tenantId": "kl"
     },

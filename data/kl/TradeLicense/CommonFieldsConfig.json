@@ -206,22 +206,15 @@
             "body": [
                 {
                     "route": "info",
-                    "component": "TradeLicense",
-                    "nextStep": "TradeName",
-                    "hideInEmployee": true,
-                    "key": "tl"
-                },
-                {
-                    "route": "TradeName",
                     "component": "SelectTradeName",
-                    "texts": {
+					"texts": {
                         "headerCaption": "",
                         "header": "TL_TRADE_NAME_HEADER",
                         "cardText": "TL_TARDE_NAME_TEXT",
                         "submitBarLabel": "CS_COMMON_NEXT",
                         "skipText": ""
                     },
-                    "withoutLabel": true,
+		    "withoutLabel": true,
                     "key": "TradeDetails",
                     "nextStep": "structure-type",
                     "type": "component",
@@ -241,10 +234,7 @@
                     "key": "TradeDetails",
                     "withoutLabel": true,
                     "hideInEmployee": true,
-                    "nextStep": {
-                        "TL_COMMON_YES": "Building-type",
-                        "TL_COMMON_NO": "vehicle-type"
-                    }
+		    "nextStep": "commencement-date"
                 },
                 {
                     "type": "component",
