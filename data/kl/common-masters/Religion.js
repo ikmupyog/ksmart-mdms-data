@@ -13,7 +13,7 @@
     },
     {
       "name": "Christian",
-      "namelocal": "",
+      "namelocal": "ക്രിസ്ത്യൻ",
       "migrationId": 2,
       "id": 2,
       "code": "RELIGION_CHRISTIAN",
