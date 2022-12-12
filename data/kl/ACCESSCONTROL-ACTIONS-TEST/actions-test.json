@@ -12749,7 +12749,7 @@
     {
       "id": 2361,
       "name": "Birth-Death : Birth Save Report",
-      "url": "/birth-death-services/common/savebirthimport",
+      "url": "/birth-services/cr/birth/_create",
       "displayName": "Birth Save",
       "orderNumber": 0,
       "parentModule": "",
@@ -13066,6 +13066,18 @@
       "id": 2379,
       "name": "Birth Download",
       "url": "/birth-death-services/birth/_download",
+      "displayName": "Download",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Birth-Death",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2379,
+      "name": "Birth Download",
+      "url": "/birth-services/cr/registry/_download",
       "displayName": "Download",
       "orderNumber": 0,
       "parentModule": "",
