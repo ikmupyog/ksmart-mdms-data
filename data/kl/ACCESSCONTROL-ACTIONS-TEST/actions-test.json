@@ -12945,7 +12945,7 @@
     {
       "id": 2379,
       "name": "Birth Download",
-      "url": "/birth-death-services/birth/_download",
+      "url": "/birth-services/cr/registry/_download",
       "displayName": "Download",
       "orderNumber": 0,
       "parentModule": "",
@@ -12969,7 +12969,7 @@
     {
       "id": 2381,
       "name": "Birth View Certificate",
-      "url": "/birth-death-services/birth/_viewfullcertdata",
+      "url": "/birth-services/birth/_viewfullcertdata",
       "displayName": "View Certificate",
       "orderNumber": 0,
       "parentModule": "",
@@ -12981,7 +12981,7 @@
     {
       "id": 2382,
       "name": "Death View Certificate",
-      "url": "/birth-death-services/death/_viewfullcertdata",
+      "url": "/death-services/death/_viewfullcertdata",
       "displayName": "View Certificate",
       "orderNumber": 0,
       "parentModule": "",
@@ -13017,12 +13017,12 @@
     {
       "id": 2385,
       "name": "my requests",
-      "url": "/birth-death-services/birth/_searchapplications",
+      "url": "/birth-services/cr/birth/_search",
       "parentModule": "",
       "displayName": "my requests",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "birth-death-services",
+      "serviceCode": "birth-services",
       "code": "null",
       "path": ""
     },
@@ -13046,12 +13046,12 @@
     {
       "id": 2387,
       "name": "death Search",
-      "url": "/birth-death-services/death/_search",
+      "url": "death-services/v1/crdeathdetails/_search",
       "parentModule": "",
       "displayName": "death Search",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "birth-death-services",
+      "serviceCode": "death-services",
       "code": "null",
       "path": ""
     },
