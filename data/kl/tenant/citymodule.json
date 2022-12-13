@@ -32,7 +32,7 @@
       "code": "PT",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": false,
-      "order":1,
+      "order":20,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -55,7 +55,7 @@
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
-      "order":1,
+      "order":19,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -72,7 +72,7 @@
       "module": "Finance",
       "code": "Finance",
       "active": false,
-      "order":4,
+      "order":18,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -123,7 +123,7 @@
       "module": "FIRENOC",
       "code": "FIRENOC",
       "active": false,
-      "order":2,
+      "order":17,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -146,7 +146,7 @@
       "module": "UC",
       "code": "UC",
       "active": false,
-      "order":2,
+      "order":16,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -170,7 +170,7 @@
       "code": "BPAREG",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": false,
-      "order":2,
+      "order":15,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -194,7 +194,7 @@
       "code": "BPAAPPLY",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": false,
-      "order":2,
+      "order":14,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -229,7 +229,7 @@
       "code": "OBPS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": false,
-      "order":2,
+      "order":13,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -252,7 +252,7 @@
       "module": "FSM",
       "code": "FSM",
       "active": false,
-      "order":2,
+      "order":12,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -275,7 +275,7 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
-      "order":1,
+      "order":11,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -298,7 +298,7 @@
       "module": "Receipts",
       "code": "Receipts",
       "active": true,
-      "order":3,
+      "order":10,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -321,7 +321,7 @@
       "module": "NOC",
       "code": "NOC",
       "active": false,
-      "order":2,
+      "order":9,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -344,7 +344,7 @@
       "module": "DSS",
       "code": "DSS",
       "active": true,
-      "order":6,
+      "order":8,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -367,7 +367,7 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
-      "order":3,
+      "order":7,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -390,7 +390,7 @@
       "module": "MCollect",
       "code": "MCollect",
       "active": false,
-      "order":1,
+      "order"6,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -436,7 +436,7 @@
       "module": "CommonPT",
       "code": "CommonPT",
       "active": false,
-      "order":3,
+      "order":5,
       "tenants": [
         {
           "code": "kl.cochin"
