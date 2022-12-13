@@ -1,0 +1,27 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "ModeOfPregnancy": [
+    {
+      "code": "MODE_Of_PREGNACY_NATURAL",
+      "name": "Natural",
+      "namelocal": "സ്വാഭാവികമായ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "MODE_Of_PREGNACY_IVF",
+      "name": "IVF",
+      "namelocal": "ഐ വി എഫ്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "MODE_Of_PREGNACY_SURROGACY",
+      "name": "Surrogacy",
+      "namelocal": "വാടക ഗര്‍ഭധാരണം",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
