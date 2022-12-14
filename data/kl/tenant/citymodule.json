@@ -26,6 +26,102 @@
         }
       ]
     },
+        {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        },
+        {
+          "code": "kl.kollam"
+        },
+        {
+          "code": "kl.kottayam"
+        },
+        {
+          "code": "kl.kannur"
+        },
+        {
+          "code": "kl.kozhikode"
+        },
+        {
+          "code": "kl.thiruvananthapuram"
+        }
+      ]
+    },
+    {
+      "module": "CR",
+      "code": "CR",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        },
+        {
+          "code": "kl.kollam"
+        },
+        {
+          "code": "kl.kannur"
+        },
+        {
+          "code": "kl.thrissur"
+        },
+        {
+          "code": "kl.thiruvananthapuram"
+        }
+      ]
+    },
+    {
+      "module": "DFM",
+      "code": "DFM",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        },
+        {
+          "code": "kl.kollam"
+        },
+        {
+          "code": "kl.kannur"
+        },
+        {
+          "code": "kl.thrissur"
+        },
+        {
+          "code": "kl.thiruvananthapuram"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "kl.cochin"
+        },
+        {
+          "code": "kl.kollam"
+        },
+        {
+          "code": "kl.kannur"
+        },
+        {
+          "code": "kl.kozhikode"
+        },
+        {
+          "code": "kl.thiruvananthapuram"
+        }
+      ]
+    },
     {
       "module": "PT",
       "code": "PT",
@@ -78,33 +174,6 @@
         },
         {
           "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.kozhikode"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
-      "module": "TL",
-      "code": "TL",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
-      "active": true,
-      "order": 2,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kottayam"
         },
         {
           "code": "kl.kannur"
@@ -365,7 +434,7 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
-      "order": 7,
+      "order": 6,
       "tenants": [
         {
           "code": "kl.cochin"
@@ -408,56 +477,10 @@
       ]
     },
     {
-      "module": "HRMS",
-      "code": "HRMS",
-      "active": true,
-      "order": 4,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.kozhikode"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
       "module": "CommonPT",
       "code": "CommonPT",
       "active": false,
       "order": 5,
-      "tenants": [
-        {
-          "code": "kl.cochin"
-        },
-        {
-          "code": "kl.kollam"
-        },
-        {
-          "code": "kl.kannur"
-        },
-        {
-          "code": "kl.thrissur"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
-        }
-      ]
-    },
-    {
-      "module": "CR",
-      "code": "CR",
-      "active": true,
-      "order": 3,
       "tenants": [
         {
           "code": "kl.cochin"
