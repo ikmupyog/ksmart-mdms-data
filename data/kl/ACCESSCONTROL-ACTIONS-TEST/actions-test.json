@@ -16,6 +16,18 @@
          "path": "Boundary Module.Get location by LocationName"
       },
       {
+         "id": 2347,
+         "name": "Create Birth",
+         "url": "/birth-services/cr/birth/_create",
+         "parentModule": "",
+         "displayName": "Create Birth",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "birth-services",
+         "code": "null",
+         "path": ""
+      },
+      {
          "id": 2413,
          "name": "Create File",
          "url": "/filemgmnt/v1/applicantpersonals/_create",
