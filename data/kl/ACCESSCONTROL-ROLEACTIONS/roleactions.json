@@ -8,6 +8,12 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2416,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
      {
       "rolecode": "EMPLOYEE",
       "actionid": 2413,
@@ -29,6 +35,12 @@
      {
       "rolecode": "CITIZEN",
       "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2416,
       "actioncode": "",
       "tenantId": "kl"
     },
@@ -44,7 +56,13 @@
       "actionid": 2415,
       "actioncode": "",
       "tenantId": "kl"
-    },   
+    },  
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2416,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
     {
       "rolecode": "FM_CEMP",
       "actionid": 2413,
