@@ -50,19 +50,7 @@
          "serviceCode": "egov-filemgmnt",
          "code": "null",
          "path": ""
-      },
-      {
-         "id": 2415,
-         "name": "Update File",
-         "url": "/filemgmnt/v1/applicantpersonals/_update",
-         "parentModule": "",
-         "displayName": "Update File",
-         "orderNumber": 0,
-         "enabled": false,
-         "serviceCode": "egov-filemgmnt",
-         "code": "null",
-         "path": ""
-      },
+      },     
       {
          "id": 2415,
          "name": "Search File",
