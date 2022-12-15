@@ -2,17 +2,17 @@
   "tenantId": "kl",
   "moduleName": "TradeLicense",
   "PlaceOfActivity": [
-    {
-      "name": "Vacant Land",
-      "namelocal": "തുറസ്സായ ഭൂമി/പറമ്പ്",
+   {
+      "name": "Vacant Private Land",
+      "namelocal": "ഒഴിഞ്ഞ സ്വകാര്യ ഭൂമി",
       "code": "LAND",
       "active": true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "name": "Building/Construction",
-      "namelocal": "കെട്ടിടം/നിർമിതി",
+      "name": "Building",
+      "namelocal": "കെട്ടിടം",
       "code": "BUILDING",
       "active": true,
       "type": "TL",
@@ -27,9 +27,17 @@
       "validityPeriod": null
     },
     {
-      "name": "Water",
-      "namelocal": "വെള്ളത്തിൽ",
+      "name": "Water Vessel",
+      "namelocal": "യാന പാത്രം",
       "code": "WATER",
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name": "Designated Public Places",
+      "namelocal": "നിശ്ചയിക്കപ്പെട്ട പൊതുസ്ഥലം",
+      "code": "DESIGNATEDPLACE",
       "active": true,
       "type": "TL",
       "validityPeriod": null
