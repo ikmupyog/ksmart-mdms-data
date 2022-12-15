@@ -25,7 +25,12 @@
       "code": "PERM_BUILD",
       "active": true,
       "type": "TL",
-      "validityPeriod": null
+      "validityPeriod": null,
+      "ZoneId": "Active",
+      "WardId": "Active",
+      "DoorNo": "Active",
+      "DoorNoSub": "Active",
+      "BuildingId": "Inactive"
     },
     {
       "name": "Temporary Building",
@@ -36,7 +41,12 @@
       "code": "TEMP_BUILD",
       "active": true,
       "type": "TL",
-      "validityPeriod": null
+      "validityPeriod": null,
+      "ZoneId": "Active",
+      "WardId": "Active",
+      "DoorNo": "Active",
+      "DoorNoSub": "Active",
+      "BuildingId": "Inactive"
     },
     {
       "name": "Hand Driven Vehicle",
