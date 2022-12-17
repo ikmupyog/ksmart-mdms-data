@@ -15,6 +15,230 @@
          "code": "null",
          "path": "Boundary Module.Get location by LocationName"
       },
+       {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/birth-services/cr/birth/_create",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2425,
+      "name": "Update birth application",
+      "url": "/birth-services/cr/birth/_update",
+      "parentModule": "",
+      "displayName": "Update File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2426,
+      "name": "Search birth application",
+      "url": "/birth-services/cr/birth/_search",
+      "parentModule": "",
+      "displayName": "Search File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+
+
+ {
+      "id": 2427,
+      "name": "Create birth certificate",
+      "url": "/birth-services/cr/registry/_create",
+      "parentModule": "",
+      "displayName": "Create death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2428,
+      "name": "Update birth certificate",
+      "url": "/birth-services/cr/registry/_update",
+      "parentModule": "",
+      "displayName": "Update death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2429,
+      "name": "search birth certificate",
+      "url": "/birth-services/cr/registry/_search",
+      "parentModule": "",
+      "displayName": "Search death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2430,
+      "name": "Download birth certificate",
+      "url": "/birth-services/cr/registry/_download",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+
+ {
+      "id": 2431,
+      "name": "Create new birth application",
+      "url": "/birth-services/cr/adoption/_create",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2432,
+      "name": "Update birth application",
+      "url": "/birth-services/cr/adoption/_update",
+      "parentModule": "",
+      "displayName": "Update File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2433,
+      "name": "Search birth application",
+      "url": "/birth-services/cr/adoption/_search",
+      "parentModule": "",
+      "displayName": "Search File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+       {
+      "id": 2417,
+      "name": "Create new death application",
+      "url": "death-services/v1/crdeathdetails/_create",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2418,
+      "name": "Update death application",
+      "url": "death-services/v1/crdeathdetails/_update",
+      "parentModule": "",
+      "displayName": "Update File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2419,
+      "name": "Search death application",
+      "url": "death-services/v1/crdeathdetails/_search",
+      "parentModule": "",
+      "displayName": "Search File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2420,
+      "name": "Create death certificate",
+      "url": "death-services/v1/crdeathregistry/_create",
+      "parentModule": "",
+      "displayName": "Create death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2421,
+      "name": "Update death certificate",
+      "url": "death-services/v1/crdeathregistry/_update",
+      "parentModule": "",
+      "displayName": "Update death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2422,
+      "name": "search death certificate",
+      "url": "death-services/v1/crdeathregistry/_search",
+      "parentModule": "",
+      "displayName": "Search death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+
+ {
+      "id": 2423,
+      "name": "Download death certificate",
+      "url": "death-services/v1/crdeathregistry/_download",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+
       {
          "id": 2416,
          "name": "Create Birth",
