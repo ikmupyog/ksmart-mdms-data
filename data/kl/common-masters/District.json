@@ -11,35 +11,11 @@
       "active": "true"
     },
     {
-      "name": "Kollam",
-      "localname": "കൊല്ലം",
-      "code": "DIST_KLM",
-      "stateid": 32,
-      "districtid": 2,
-      "active": "true"
-    },
-    {
-      "name": "Pathanamthitta",
-      "localname": "പത്തനംതിട്ട",
-      "code": "DIST_PTA",
-      "stateid": 32,
-      "districtid": 3,
-      "active": "true"
-    },
-    {
       "name": "Alappuzha",
       "localname": "ആലപ്പുഴ",
       "code": "DIST_APL",
       "stateid": 32,
       "districtid": 4,
-      "active": "true"
-    },
-    {
-      "name": "Kottayam",
-      "localname": "കോട്ടയം",
-      "code": "DIST_KTM",
-      "stateid": 32,
-      "districtid": 5,
       "active": "true"
     },
     {
@@ -83,43 +59,11 @@
       "active": "true"
     },
     {
-      "name": "Kozhikode",
-      "localname": "കോഴിക്കോട്",
-      "code": "DIST_KZD",
-      "stateid": 32,
-      "districtid": 11,
-      "active": "true"
-    },
-    {
-      "name": "Wayanad",
-      "localname": "വയനാട്",
-      "code": "DIST_WND",
-      "stateid": 32,
-      "districtid": 12,
-      "active": "true"
-    },
-    {
       "name": "Kannur",
       "localname": "കണ്ണൂര്‍",
       "code": "DIST_KNR",
       "stateid": 32,
       "districtid": 13,
-      "active": "true"
-    },
-    {
-      "name": "Kasaragod",
-      "localname": "കാസര്‍കോഡ്",
-      "code": "DIST_KSD",
-      "stateid": 32,
-      "districtid": 14,
-      "active": "true"
-    },
-    {
-      "name": "Kasaragod",
-      "localname": "കാസര്‍കോഡ്",
-      "code": "DIST_KSD",
-      "stateid": 32,
-      "districtid": 14,
       "active": "true"
     }
   ]
