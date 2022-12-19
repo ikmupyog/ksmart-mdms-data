@@ -15,7 +15,7 @@
          "code": "null",
          "path": "Boundary Module.Get location by LocationName"
       },
-       {
+     {
       "id": 2424,
       "name": "Create new birth application",
       "url": "/birth-services/cr/birth/_create",
@@ -27,6 +27,117 @@
       "code": "null",
       "path": ""
     },
+     {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/child-details",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+       {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/birth-place",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/hospital-details",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/father-informations",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/mother-informations",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/statistical-information",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/check",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2424,
+      "name": "Create new birth application",
+      "url": "/digit-ui/employee/cr/cr-flow/acknowledgement",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+
+
 
  {
       "id": 2425,
