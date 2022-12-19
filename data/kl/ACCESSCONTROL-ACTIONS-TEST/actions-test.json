@@ -6733,6 +6733,20 @@
          "leftIcon": "places:business-center"
       },
       {
+         "id": 1841,
+         "name": "TradeLicenseApplication",
+         "url": "url",
+         "displayName": "Apply",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "TradeLicense",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/tl/new-application/acknowledgement",
+         "path": "TradeLicense.Apply",
+         "leftIcon": "places:business-center"
+      },
+      {
          "id": 1842,
          "name": "RainmakerPGR-SourceWiseReport-Metadata",
          "url": "/report/rainmaker-pgr/SourceWiseReport/metadata/_get",
