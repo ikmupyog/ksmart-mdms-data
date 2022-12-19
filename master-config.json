@@ -735,13 +735,13 @@
         "$.code"
       ]
     },
-     "TradeStructureSubtype": {
+      "TradeStructureSubtype": {
       "masterName": "TradeStructureSubtype",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
-     },
+    },
     "documentObj": {
       "masterName": "documentObj",
       "isStateLevel": true,
@@ -1214,20 +1214,7 @@
         "$.code"
       ]
     }
-  },"NatureOfInstitution": {
-      "masterName": "NatureOfInstitution",
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
-    },
-"TypeOfUnit": {
-      "masterName": "TypeOfUnit",
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
-    },
+  },
   "Vehicle":{
      "SuctionType": {
       "masterName": "SuctionType",
@@ -1264,19 +1251,7 @@
       "uniqueKeys": [
         "$.code"
       ]
-    },
-      "NatureOfInstitution": {
-        "masterName": "NatureOfInstitution",
-        "isStateLevel": true,
-        "uniqueKeys": [
-        "$.code"
-      ]
-    },
-     "TypeOfUnit": {
-        "masterName": "TypeOfUnit",
-        "isStateLevel": true,
-        "uniqueKeys": [
-        "$.code"
-      ]
+    }
+  }
   }
 }
