@@ -1252,6 +1252,20 @@
         "$.code"
       ]
     }
+      "NatureOfInstitution": {
+      "masterName": "NatureOfInstitution",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+      "TypeOfUnit": {
+      "masterName": "TypeOfUnit",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
   }
   }
 }
