@@ -1,0 +1,38 @@
+{
+  "tenantId": "kl",
+  "moduleName": "FileManagement",
+  "ApplicantCategory": [
+    {
+      "name": "General",
+      "namelocal": "ജനറൽ",
+      "code": "Category_General",
+      "id": 1,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "OBC",
+      "namelocal": "ഒ.ബി.സി",
+      "code": "Category_OBC",
+      "id": 2,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Scheduled Tribes",
+      "namelocal": "ഷെഡ്യൂൾ ട്രൈബ്",
+      "code": "Category_ST",
+      "id": 3,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Scheduled Castes",
+      "namelocal": "ഷെഡ്യൂൾ കാസ്റ്റ്",
+      "code": "Category_SC",
+      "id": 4,
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}
