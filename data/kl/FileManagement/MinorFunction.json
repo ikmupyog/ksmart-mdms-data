@@ -1,0 +1,296 @@
+{
+  "tenantId": "kl",
+  "moduleName": "FileManagement",
+  "MinorFunction": [
+    {
+      "name": "Residential Certificate",
+      "code": "MN001",
+      "mainCode": "FF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Tax Exemption Certificate",
+      "code": "MN002",
+      "mainCode": "FF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Area Certificate",
+      "code": "MN003",
+      "mainCode": "FF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Extract Of Register",
+      "code": "MN004",
+      "mainCode": "FF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Inhabitable House",
+      "code": "MN005",
+      "mainCode": "FF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Age Certificate",
+      "code": "MN006",
+      "mainCode": "FF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Vaccancy Remission",
+      "code": "MN007",
+      "mainCode": "FF002",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Ex-servicemen Tax Exemption",
+      "code": "MN008",
+      "mainCode": "FF002",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Appeal For Property Tax Assessment",
+      "code": "MN009",
+      "mainCode": "FF002",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Title Transfer",
+      "code": "MN010",
+      "mainCode": "FF003",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Modification Of Assessment",
+      "code": "MN011",
+      "mainCode": "FF003",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Demolition Of Building",
+      "code": "MN012",
+      "mainCode": "FF004",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "BPL Certificate",
+      "code": "MN013",
+      "mainCode": "FF005",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Beneficiary Aid Certificate",
+      "code": "MN014",
+      "mainCode": "FF006",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Pet License",
+      "code": "MN015",
+      "mainCode": "FF007",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Dog License",
+      "code": "MN016",
+      "mainCode": "FF007",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Sanitation Certificate",
+      "code": "MN017",
+      "mainCode": "FF008",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "License For Dangerous Wildlife Eradiction",
+      "code": "MN018",
+      "mainCode": "FF009",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Adventure Sports NOC",
+      "code": "MN019",
+      "mainCode": "FF010",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Fitness Certificate",
+      "code": "MN020",
+      "mainCode": "FF011",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Damage Certificate",
+      "code": "MN021",
+      "mainCode": "FF011",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Contractor License",
+      "code": "MN022",
+      "mainCode": "FF012",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Application For Public Utility Asset",
+      "code": "MN023",
+      "mainCode": "FF013",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "TDS Certificate",
+      "code": "MN024",
+      "mainCode": "FF014",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Refund Of Security Deposit",
+      "code": "MN025",
+      "mainCode": "FF015",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Refund Of Payment",
+      "code": "MN026",
+      "mainCode": "FF016",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Surrender Of Land For Public Use",
+      "code": "MN027",
+      "mainCode": "FF017",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Certificate For Assistance",
+      "code": "MN028",
+      "mainCode": "FF018",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "RTI Application",
+      "code": "MN029",
+      "mainCode": "FF019",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    }
+  ]
+}
