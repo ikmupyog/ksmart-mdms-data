@@ -6447,34 +6447,7 @@
          "path": "TradeLicense.Apply",
          "leftIcon": "places:business-center"
       },
-      {
-         "id": 1841,
-         "name": "TradeLicenseApplication",
-         "url": "url",
-         "displayName": "Apply",
-         "orderNumber": 13,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "TradeLicense",
-         "code": "null",
-         "navigationURL": "/digit-ui/employee/tl/new-application/check",
-         "path": "TradeLicense.Apply",
-         "leftIcon": "places:business-center"
-      },
-      {
-         "id": 1841,
-         "name": "TradeLicenseApplication",
-         "url": "url",
-         "displayName": "Apply",
-         "orderNumber": 13,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "TradeLicense",
-         "code": "null",
-         "navigationURL": "/digit-ui/employee/tl/new-application/acknowledgement",
-         "path": "TradeLicense.Apply",
-         "leftIcon": "places:business-center"
-      },
+    
       {
          "id": 1842,
          "name": "RainmakerPGR-SourceWiseReport-Metadata",
@@ -13827,6 +13800,34 @@
       "serviceCode": "death-services",
       "code": "null",
       "path": ""
-    }
+    },
+        {
+         "id": 2434,
+         "name": "TradeLicenseApplication",
+         "url": "url",
+         "displayName": "Apply",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "TradeLicense",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/tl/new-application/check",
+         "path": "TradeLicense.Apply",
+         "leftIcon": "places:business-center"
+      },
+      {
+         "id": 2435,
+         "name": "TradeLicenseApplication",
+         "url": "url",
+         "displayName": "Apply",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "TradeLicense",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/tl/new-application/acknowledgement",
+         "path": "TradeLicense.Apply",
+         "leftIcon": "places:business-center"
+      }
    ]
 }
