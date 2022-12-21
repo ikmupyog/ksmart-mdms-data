@@ -13979,6 +13979,21 @@
          "navigationURL": "/digit-ui/employee/cr/death-flow/Informant-Details",
          "leftIcon": " ",
          "rightIcon": ""
+      },
+      {
+         "id": 2446,
+         "name": "Death Registration",
+         "url": "url",
+         "displayName": "Death Registration",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "death-services",
+         "code": "null",
+         "path": " ",
+         "navigationURL": "/digit-ui/employee/cr/death-flow/acknowledgement",
+         "leftIcon": " ",
+         "rightIcon": ""
       }
    ]
 }
