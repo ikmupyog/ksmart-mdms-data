@@ -686,6 +686,101 @@
       "code": "NDA_SYSTEM",
       "name": "National Dashboard Systeme user",
       "description": "Push data through adopter for all states"
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_FM_CEMP",
+      "name": "File Management Counter Employee",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_FM_OPERATOR",
+      "name": "File Management Operator",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_FM_VERIFIER",
+      "name": "File Management Verifier",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_FM_APPROVER",
+      "name": "File Management Approver",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_FIRE_NOC_APPROVER",
+      "name": "Fire Noc Department Approver",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BND_CEMP",
+      "name": "Birth and Death Counter Employee",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BND_SUB_REGISTRAR",
+      "name": "Birth and Death Sub Registrar",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BND_DISTRICT_REGISTRAR",
+      "name": "Birth and Death District Registrar",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BND_LOCAL_REGISTRAR",
+      "name": "Birth and Death Local Registrar",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_DASHBOARD_REPORT_VIEWER",
+      "name": "Birth and Death Dashboard viewer",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BIRTH_APPLICATION_CREATOR",
+      "name": "Birth Application Creator",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_DEATH_APPLICATION_CREATOR",
+      "name": "Death Application Creator",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BIRTH_APPLICATION_VIEWER",
+      "name": "Birth Application Viewer",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_DEATH_APPLICATION_VIEWER",
+      "name": "Death Application Viewer",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BIRTH_REPORT_VIEWER",
+      "name": "Birth Report Viewer",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_DEATH_REPORT_VIEWER",
+      "name": "Death Report Viewer",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_BIRTH_APPLICATION_EDITOR",
+      "name": "Birth Application Editor",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_DEATH_APPLICATION_EDITOR",
+      "name": "DEATH Application Editor",
+      "description": null
+    },
+    {
+      "code": "ACCESSCONTROL_ROLES_ROLES_NDA_SYSTEM",
+      "name": "National Dashboard Systeme",
+      "description": null
     }
   ]
 }
