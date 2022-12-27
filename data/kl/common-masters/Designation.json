@@ -1,180 +1,419 @@
 {
   "tenantId": "kl",
-  "moduleName": "common-masters",
+  "moduleName": "hrms",
   "Designation": [
     {
-      "code": "DESIG_01",
-      "name": "Superintending Engineer ( B&R)",
-      "description": "Superintending Engineer ( B&R)",
-      "active": true
+      "name": "CORPORATION SECRETARY",
+      "namelocal": "കോർപ്പറേഷൻ സെക്രട്ടറി ",
+      "code": "CORPSEC",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_02",
-      "name": "Corporation Engineer (B&R)",
-      "description": "Corporation Engineer (B&R)",
-      "active": true
+      "name": "CORPORATION ADDITIONAL SECRETARY",
+      "namelocal": "കോർപ്പറേഷൻ അഡിഷണൽ  സെക്രട്ടറി ",
+      "code": "CORPADDSEC",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_03",
-      "name": "Asst. Engineer ( B&R)",
-      "description": "Asst. Engineer ( B&R)",
-      "active": true
+      "name": "MUNICIPAL SECRETARY - I",
+      "namelocal": "മുനിസിപ്പൽ സെക്രട്ടറി ഗ്രേഡ് l ",
+      "code": "MUNSECI",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_04",
-      "name": "Junior Engineer ( B&R)",
-      "description": "Junior Engineer ( B&R)",
-      "active": true
+      "name": "MUNICIPAL SECRETARY - II",
+      "namelocal": "മുനിസിപ്പൽ സെക്രട്ടറി ഗ്രേഡ് l l ",
+      "code": "MUNSECII",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_05",
-      "name": "Land Scape Officer",
-      "description": "Land Scape Officer",
-      "active": true
+      "name": "MUNICIPAL SECRETARY - III",
+      "namelocal": "മുനിസിപ്പൽ സെക്രട്ടറി ഗ്രേഡ് lll ",
+      "code": "MUNSECIII",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_06",
-      "name": "Superintending Engineer ( O&M)",
-      "description": "Superintending Engineer ( O&M)",
-      "active": true
+      "name": "DEPUTY SECRETARY",
+      "namelocal": "ഡെപ്യൂട്ടി സെക്രട്ടറി ",
+      "code": "DEPSECH",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_07",
-      "name": "Corporation Engineer (O&M)",
-      "description": "Corporation Engineer (O&M)",
-      "active": true
+      "name": "P A TO SECRETARY ",
+      "namelocal": "പി എ ടു സെക്രട്ടറി ",
+      "code": "PATS",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_08",
-      "name": "Asst. Engineer ( O&M)",
-      "description": "Asst. Engineer ( O&M)",
-      "active": true
+      "name": "COUNCIL SECRETARY",
+      "namelocal": "കൌൺസിൽ സെക്രട്ടറി",
+      "code": "CNLSEC",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_09",
-      "name": "Junior Engineer ( O&M)",
-      "description": "Junior Engineer ( O&M)",
-      "active": true
+      "name": "REVENUE OFFICER GRADE I",
+      "namelocal": "റവന്യൂ ഓഫീസർ  ഗ്രേഡ് -l",
+      "code": "ROGRI",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_10",
-      "name": "Superintending Engineer ( Light)",
-      "description": "Superintending Engineer ( Light)",
-      "active": true
+      "name": "ACCOUNTS OFFICER",
+      "namelocal": "അക്കൌണ്ട്സ് ഓഫീസർ ",
+      "code": "ACCOF",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_11",
-      "name": "Corporation Engineer (Light)",
-      "description": "Corporation Engineer (Light)",
-      "active": true
+      "name": "REVENUE OFFICER GRADE-II",
+      "namelocal": "റവന്യൂ ഓഫീസർ  ഗ്രേഡ് -ll",
+      "code": "ROGRII",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_12",
-      "name": "Junior Engineer ( Light)",
-      "description": "Junior Engineer ( Light)",
-      "active": true
+      "name": "SUPERINTENDENT",
+      "namelocal": "സൂപ്രണ്ട് ",
+      "code": "SUP",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_13",
-      "name": "Health Officer",
-      "description": "Health Officer",
-      "active": true
+      "name": "HEAD CLERK / REVENUE INSPECTOR",
+      "namelocal": "ഹെഡ് ക്ലർക്ക് /റവന്യൂ ഓഫീസർ ",
+      "code": "HC/RO",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_14",
-      "name": "Medical Officer",
-      "description": "Medical Officer",
-      "active": true
+      "name": "ACCOUNTS ASSISTANT ",
+      "namelocal": "അക്കൌണ്ട്സ് അസ്സിസ്റ്റൻസ് ",
+      "code": "ACCAST",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_15",
-      "name": "Chief Sanitary Inspector",
-      "description": "Mechanical Oversear",
-      "active": true
+      "name": "SENIOR CLERK",
+      "namelocal": "സീനിയർ ക്ലർക്ക് ",
+      "code": "SC",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_16",
-      "name": "Sainitary Inspector",
-      "description": "Clerk",
-      "active": true
+      "name": "CLERK / BILL COLLECTOR",
+      "namelocal": "ക്ലർക്ക്/ബിൽ കളക്ടർ ",
+      "code": "CL/BC",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_17",
-      "name": "Sainitary Supervisor",
-      "description": "Accountant",
-      "active": true
+      "name": "FAIR COPY SUPERINTENDENT",
+      "namelocal": "ഫെയർ കോപ്പി സൂപ്രണ്ട് ",
+      "code": "FCSUP",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_18",
-      "name": "Senior Town Planner",
-      "description": "Senior Town Planner",
-      "active": true
+      "name": "TYPIST SELECTION GRADE",
+      "namelocal": "സെലക്ഷൻ  ഗ്രേഡ് ടൈപ്പിസ്റ്റ് ",
+      "code": "TYPSELGR",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_19",
-      "name": "Municipal Town Planner",
-      "description": "Municipal Town Planner",
-      "active": true
+      "name": "TYPIST SENIOR GRADE",
+      "namelocal": "സീനിയർ ഗ്രേഡ് ടൈപ്പിസ്റ്റ് ",
+      "code": "TYPSENGR",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_20",
-      "name": "Asst. Town Planner",
-      "description": "Asst. Town Planner",
-      "active": true
+      "name": "UPPER DIVISION TYPIST",
+      "namelocal": "അപ്പർ ഡിവിഷൻ  ടൈപ്പിസ്റ്റ് ",
+      "code": "UDTYP",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_21",
-      "name": "Building Inspector",
-      "description": "Building Inspector",
-      "active": true
+      "name": "LOWER DIVISION TYPIST",
+      "namelocal": "ലോവർ ഡിവിഷൻ ടൈപ്പിസ്റ്റ് ",
+      "code": "LDTYP",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_22",
-      "name": "Junior Enginer ( Horticulutre)",
-      "description": "Junior Enginer ( Horticulutre)",
-      "active": true
+      "name": "C.A. GRADE - II / STENO TYPIST - II",
+      "namelocal": "സി എ ഗ്രേഡ് -ll /സ്റ്റെനോ ടൈപ്പിസ്റ്റ് -ll ",
+      "code": "CAGRII/STTYPII",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "code": "DESIG_23",
-      "name": "Citizen service representative",
-      "description": "Citizen service representative",
-      "active": true
+      "name": "C.A. GRADE - I / STENO TYPIST - I",
+      "namelocal": "സി എ ഗ്രേഡ് -l/സ്റ്റെനോ ടൈപ്പിസ്റ്റ് -l",
+      "code": "CAGRI/STTYPI",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Deputy Controller Finance and Accounts",
-      "description": "Deputy Controller Finance and Accounts",
-      "code": "DESIG_1001",
-      "active": true
-    },
-   {
-      "name": "Accountant",
-      "description": "Accountant",
-      "code": "DESIG_58",
-      "active": true
-    },
-   {
-      "code": "DESIG_24",
-      "name": "Assistant Commissioner",
-      "description": "Assistant Commissioner",
-      "active": true
-    },    
-    {
-      "name": "Superintendent",
-      "description": "Superintendent",
-      "code": "DESIG_47",
-      "active": true
+      "name": "C.A. SENIOR. GRADE ",
+      "namelocal": "സീനിയർ ഗ്രേഡ് സി എ ",
+      "code": "CASENGR",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Accounts Officer",
-      "description": "Accounts Officer",
-      "code": "AO",
-      "active": true
+      "name": "C.A. SELECTION GRADE",
+      "namelocal": "സെലെക്ഷ ൻ  ഗ്രേഡ് സി എ ",
+      "code": "CASELGR",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Commissioner",
-      "description": "Commissioner",
-      "code": "COMM",
-      "active": true
+      "name": "OFFICE ATTENDANT",
+      "namelocal": "ഓഫീസ് അറ്റെണ്ടന്റ് ",
+      "code": "OA",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "JUNIOR HEALTH INSPECTOR - II",
+      "namelocal": "ജൂനിയർ ഹെൽത്ത് ഇൻസ്പെക്ടർ -ll ",
+      "code": "JHIGRII",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "JUNIOR HEALTH INSPECTOR - I",
+      "namelocal": "ജൂനിയർ ഹെൽത്ത് ഇൻസ്പെക്ടർ -l",
+      "code": "JHIGRI",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "HEALTH INSPECTOR - II",
+      "namelocal": "ഹെൽത്ത് ഇൻസ്പെക്ടർ -ll ",
+      "code": "HIGRII",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "HEALTH INSPECTOR - I",
+      "namelocal": "ഹെൽത്ത് ഇൻസ്പെക്ടർ -l",
+      "code": "HIGRI",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "HEALTH SUPERVISOR",
+      "namelocal": "ഹെൽത്ത് സൂപ്പർവൈസർ ",
+      "code": "HSUP",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "JUNIOR PUBLIC HEALTH NURSE  HIGHER GRADE",
+      "namelocal": "ജൂനിയർ പബ്ളിക് ഹെൽത്ത്  നേഴ്സ് ഹൈയർ ഗ്രേഡ്",
+      "code": "JPHNHG",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "JUNIOR PUBLIC HEALTH NURSE  GRADE I",
+      "namelocal": "ജൂനിയർ പബ്ളിക് ഹെൽത്ത്  നേഴ്സ് ഗ്രേഡ് -l",
+      "code": "JPHNGRI",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "JUNIOR PUBLIC HEALTH NURSE  GRADE II",
+      "namelocal": "ജൂനിയർ പബ്ളിക് ഹെൽത്ത്  നേഴ്സ് ഗ്രേഡ് -lI",
+      "code": "JPHNGRII",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "JPHN GRADE  ",
+      "namelocal": "ജെ പി എച്ച് എൻ ഗ്രേഡ് ",
+      "code": "JPHN",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "PHARMACIST  (ALLOPATHY)",
+      "namelocal": "ഫാർമസിസ്റ്റ് ( അലോപ്പതി )",
+      "code": "PHAL",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "PHARMACIST  (HOMOEO)",
+      "namelocal": "ഫാർമസിസ്റ്റ് ( ഹോമിയോ  )",
+      "code": "PHH",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "PHARMACIST  (AYURVEDA)",
+      "namelocal": "ഫാർമസിസ്റ്റ് (ആയൂർവേദ )",
+      "code": "PHAYR",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "DATA ENTRY OPERATOR",
+      "namelocal": "ഡാറ്റാ  എൻട്രി ഓപ്പറേറ്റർ ",
+      "code": "DEO",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "PABX OPERATOR / TELEPHONE ATTENDER",
+      "namelocal": "പി  എ  ബി എക്സ് ഓപ്പറേറ്റർ / ടെലിഫോണ് അറ്റെ ണ്ടർ ",
+      "code": "PXOP/TELATT",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "DUFFEDAR ",
+      "namelocal": "ഡഫെദാർ ",
+      "code": "DUFF",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "LAND TENURE CO-ORDINATOR ",
+      "namelocal": "ലാൻട്  ടെന്യൂർ കോ ഓർഡിനേറ്റർ ",
+      "code": "LDTYP",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "ASST. PROJECT OFFICER",
+      "namelocal": "അസിസ്റ്റൻറ് പ്രോജക്റ്റ് ഓഫീസർ ",
+      "code": "APROO",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "ASST. CURATOR ",
+      "namelocal": "അസിസ്റ്റൻറ് ക്യൂറെറ്റർ ",
+      "code": "ASTCUR",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "LEGAL ASSISTANT",
+      "namelocal": "ലീഗൽ അസിസ്റ്റൻറ് ",
+      "code": "LEGASS",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "LIBRARIAN GR-IV",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് lV ",
+      "code": "LIBGRIV",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "LIBRARIAN GR-III",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് lll ",
+      "code": "LIBGRIII",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "LIBRARIAN GR-II",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് ll ",
+      "code": "LIBGRII",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "LIBRARIAN GR-I",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് l ",
+      "code": "LIBGRI",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "HEALTH OFFICER GR-I",
+      "namelocal": "ഹെൽത്ത് ഓഫീസർ ഗ്രേഡ് l ",
+      "code": "HOGRI",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "HEALTH OFFICER GR-II",
+      "namelocal": "ഹെൽത്ത് ഓഫീസർ ഗ്രേഡ് l l ",
+      "code": "HOGRII",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "HEALTH OFFICER GR-III ",
+      "namelocal": "ഹെൽത്ത് ഓഫീസർ ഗ്രേഡ് l ll ",
+      "code": "HOGRIII",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "ASST. HEALTH OFFICER ( CORPORATION)",
+      "namelocal": "അസ്സിസ്റ്റന്റ് ഹെൽത്ത് ഓഫീസർ (കോർപ്പറേഷൻ)",
+      "code": "ASSTHO",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "T B SPECIALIST ",
+      "namelocal": "ടി ബി സ്പെഷ്യലിസ്റ്റ് ",
+      "code": "TBSPCL",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "LADY MEDICAL OFFICER",
+      "namelocal": "ലേഡീ മെഡിക്കൽ ഓഫീസർ ",
+      "code": "LMO",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "VETERINERY SURGEON",
+      "namelocal": "വെറ്റിനറി  സർജൻ ",
+      "code": "VTSUR",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "HOMEO MEDICAL OFFICER",
+      "namelocal": "ഹോമിയോ മെഡിക്കൽ ഓഫീസർ ",
+      "code": "HMO",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "MEDICAL OFFICER - AYURVEDA",
+      "namelocal": "മെഡിക്കൽ ഓഫീസർ -ആയൂർവേദ ",
+      "code": "MOAYUR",
+      "active": true,
+      "type": "hrms"
+    },
+    {
+      "name": "FULL TIME LIBRARIAN",
+      "namelocal": "ഫുൾ  ടൈം  ലൈബ്രേറിയൻ ",
+      "code": "FTLIB",
+      "active": true,
+      "type": "hrms"
     }
   ]
 }
