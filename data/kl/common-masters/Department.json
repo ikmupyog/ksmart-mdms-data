@@ -1,71 +1,97 @@
 {
   "tenantId": "kl",
-  "moduleName": "common-masters",
+  "moduleName": "hrms",
   "Department": [
     {
-      "name": "Street Lights",
-      "code": "DEPT_1",
-      "active": true
+      "name": "General Administration Department",
+      "namelocal": "പൊതു ഭരണം ",
+      "code": "GAD",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Building & Roads",
-      "code": "DEPT_2",
-      "active": true
+      "name": "Accounts Department",
+      "namelocal": "അക്കൌണ്ട്സ് വിഭാഗം ",
+      "code": "ACC",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Health & Sanitation",
-      "code": "DEPT_3",
-      "active": true
+      "name": "Council Department",
+      "namelocal": "കൌൺസിൽ വിഭാഗം ",
+      "code": "CNL",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Operation & Maintenance",
-      "code": "DEPT_4",
-      "active": true
+      "name": "Revenue Department",
+      "namelocal": "റവന്യൂ വിഭാഗം ",
+      "code": "REV",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Horticulture",
-      "code": "DEPT_5",
-      "active": true
+      "name": "Public Work Department",
+      "namelocal": "പൊതു മരാമത്ത് വിഭാഗം ",
+      "code": "PWD",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Building Branch",
-      "code": "DEPT_6",
-      "active": true
+      "name": "Town Planning Department",
+      "namelocal": "നഗരാസൂത്രണ വിഭാഗം ",
+      "code": "TNP",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Citizen service desk",
-      "code": "DEPT_7",
-      "active": true
+      "name": "Health Department",
+      "namelocal": "ആരോഗ്യ വിഭാഗം ",
+      "code": "HTH",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Complaint Cell",
-      "code": "DEPT_8",
-      "active": true
+      "name": "Education Department",
+      "namelocal": "വിദ്യാഭ്യാസ വിഭാഗം ",
+      "code": "EDU",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Executive Branch",
-      "code": "DEPT_9",
-      "active": true
+      "name": "Personnel Department",
+      "namelocal": "ഉദ്യോഗസ്ഥ ഭരണ വിഭാഗം ",
+      "code": "PSN",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Others",
-      "code": "DEPT_10",
-      "active": true
+      "name": "Project Department",
+      "namelocal": "പദ്ധതി വിഭാഗം ",
+      "code": "PRJ",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Tax Branch",
-      "code": "DEPT_13",
-      "active": true
+      "name": "Zonal Office ",
+      "namelocal": "സോണൽ ഓഫീസ് ",
+      "code": "ZON",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Accounts Branch",
-      "code": "DEPT_25",
-      "active": true
+      "name": "Circle Office ",
+      "namelocal": "സർക്കിൾ ഓഫീസ് ",
+      "code": "CIR",
+      "active": true,
+      "type": "hrms"
     },
     {
-      "name": "Works Branch",
-      "code": "DEPT_35",
-      "active": true
+      "name": null,
+      "namelocal": null,
+      "code": "None",
+      "active": true,
+      "type": "hrms"
     }
   ]
 }
