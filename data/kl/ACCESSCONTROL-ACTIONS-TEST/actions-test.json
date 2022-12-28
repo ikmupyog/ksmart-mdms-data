@@ -13040,18 +13040,7 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 2379,
-      "name": "Birth Download",
-      "url": "/birth-services/cr/registry/_download",
-      "displayName": "Download",
-      "orderNumber": 0,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "Birth-Death",
-      "code": "null",
-      "path": ""
-    },
+    
     {
       "id": 2380,
       "name": "Death Download",
