@@ -1,0 +1,54 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "QualificationSub": [
+    {
+      "code": "QUALIFICATION_SUB_BELOW_FOURTH",
+      "name": "Below 4th std",
+      "maincode": "QUALIFICATION_BELOW_MATRICULATION",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "QUALIFICATION_SUB_FOURTH",
+      "name": "4th std",
+      "maincode": "QUALIFICATION_BELOW_MATRICULATION",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "QUALIFICATION_SUB_SEVENTH",
+      "name": "7th std",
+      "maincode": "QUALIFICATION_BELOW_MATRICULATION",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "QUALIFICATION_SUB_GRADUATION",
+      "name": "Graduation",
+      "maincode": "QUALIFICATION_GRADUATION_AND_ABOVE",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "QUALIFICATION_SUB_POSTGRADUATION",
+      "name": "Post Graduation",
+      "maincode": "QUALIFICATION_GRADUATION_AND_ABOVE",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "QUALIFICATION_SUB_PHD",
+      "name": "PhD",
+      "maincode": "QUALIFICATION_GRADUATION_AND_ABOVE",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

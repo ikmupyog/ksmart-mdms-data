@@ -1,0 +1,136 @@
+{
+  "tenantId": "kl",
+  "moduleName": "FileManagement",
+  "SubFunction": [
+    {
+      "name": "Property Tax",
+      "code": "SF001",
+      "mainCode": "MF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Poverty Related Assistance",
+      "code": "SF002",
+      "mainCode": "MF002",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Beneficiary Aid",
+      "code": "SF003",
+      "mainCode": "MF002",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Regulation",
+      "code": "SF004",
+      "mainCode": "MF003",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Regulation",
+      "code": "SF005",
+      "mainCode": "MF004",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Building",
+      "code": "SF006",
+      "mainCode": "MF005",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Public Works",
+      "code": "SF007",
+      "mainCode": "MF005",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Deduction",
+      "code": "SF008",
+      "mainCode": "MF006",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Security Deposit",
+      "code": "SF009",
+      "mainCode": "MF006",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Income",
+      "code": "SF010",
+      "mainCode": "MF006",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Land",
+      "code": "SF011",
+      "mainCode": "MF007",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Assisstance",
+      "code": "SF012",
+      "mainCode": "MF008",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Good Governance",
+      "code": "SF013",
+      "mainCode": "MF009",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    }
+  ]
+}

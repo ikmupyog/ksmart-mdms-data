@@ -98,7 +98,23 @@
           {
             "jsonPath" : "icdcode",
             "type" : "Normal"
-          } 
+          },
+          {
+            "jsonPath" : "deceasedAadharNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "informantAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "maleDependentAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "femaleDependentAadharNo",
+            "type" : "Normal"
+          }
         ]
       }
     ]

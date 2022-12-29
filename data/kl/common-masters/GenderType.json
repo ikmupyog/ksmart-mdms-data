@@ -1,22 +1,31 @@
 {
-    "tenantId": "kl",
-    "moduleName": "common-masters",
-    "GenderType":
-    [
-      {
-        "code": "MALE",
-        "active": true
-      },
-      {
-        "code": "FEMALE",
-        "active": true
-      },{
-        "code": "TRANSGENDER",
-        "active": true
-      },
-      {
-        "code": "OTHERS",
-        "active": false
-      }
-    ]
-  }
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "GenderType": [
+    {
+      "code": "MALE",
+      "id": 1,
+      "active": true
+    },
+    {
+      "code": "FEMALE",
+      "id": 1,
+      "active": true
+    },
+    {
+      "code": "TRANSGENDER",
+      "id": 3,
+      "active": true
+    },
+    {
+      "code": "UNIDENTIFIED",
+      "id": 4,
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "id": 5,
+      "active": false
+    }
+  ]
+}
