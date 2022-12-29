@@ -98,7 +98,11 @@
           {
             "jsonPath" : "icdcode",
             "type" : "Normal"
-          } 
+          },
+          {
+            "jsonPath" : "deceasedAadharNumber",
+            "type" : "Normal"
+          }
         ]
       }
     ]
