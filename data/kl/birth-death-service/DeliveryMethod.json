@@ -15,6 +15,13 @@
       "code": "DELIVERY_CAESAREAN",
       "active": true,
       "type": "BND"
+    },
+    {
+      "code": "DELIVERY_FORCEPS_VACCUM",
+      "name": "Forceps/Vacuum",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     }
   ]
 }

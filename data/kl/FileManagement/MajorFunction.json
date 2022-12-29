@@ -1,0 +1,87 @@
+{
+  "tenantId": "kl",
+  "moduleName": "FileManagement",
+  "MajorFunction": [
+    {
+      "name": "Revenue",
+      "code": "MF001",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Poverty Alleviation",
+      "code": "MF002",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Health",
+      "code": "MF003",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Sports &Cultural",
+      "code": "MF004",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Engineering",
+      "code": "MF005",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Accounts",
+      "code": "MF006",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Asset",
+      "code": "MF007",
+      "namelocal": "null",
+      "applicationDocument": "Ration Card,Birth Certificate",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Welfare",
+      "code": "MF008",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    },
+    {
+      "name": "Administration",
+      "code": "MF009",
+      "namelocal": "null",
+      "applicationDocument": "Adhar Card,Pan Card",
+      "validityPeriod": "null",
+      "active": true,
+      "type": "FM"
+    }
+  ]
+}
