@@ -13324,6 +13324,30 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
+    },
+       {
+      "id": 2409,
+      "name": "Death Check",
+      "url": "/digit-ui/employee/cr/death-flow/deathcheck",
+      "parentModule": "",
+      "displayName": "DeathCheck",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+       {
+      "id": 2410,
+      "name": "Death Acknowledgement",
+      "url": "/digit-ui/employee/cr/death-flow/deathacknowledgement",
+      "parentModule": "",
+      "displayName": "Acknowledgement",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
    ]
 }
