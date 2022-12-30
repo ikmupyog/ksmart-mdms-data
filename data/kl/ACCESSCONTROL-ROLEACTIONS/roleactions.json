@@ -24925,6 +24925,30 @@
       "actionid": 2410,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2412,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2412,
+      "actioncode": "",
+      "tenantId": "kl"
     }
   ]
 }
