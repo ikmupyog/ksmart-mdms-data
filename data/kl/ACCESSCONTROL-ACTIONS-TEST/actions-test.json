@@ -13348,6 +13348,30 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+       {
+      "id": 2411,
+      "name": "Death flow acknowledgement",
+      "url": "/digit-ui/employee/cr/death-flow/acknowledgement",
+      "parentModule": "",
+      "displayName": "DeathFlowAcknowledgement",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+       {
+      "id": 2412,
+      "name": "Death flow check",
+      "url": "/digit-ui/employee/cr/death-flow/check",
+      "parentModule": "",
+      "displayName": "DeathFlowCheck",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
    ]
 }
