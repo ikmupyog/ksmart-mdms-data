@@ -176,6 +176,14 @@
         "$.code",
         "$.tenantId"
       ]
+    },
+    "FinancialPeriod": {
+      "masterName": "FinancialPeriod",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "lcms": {
