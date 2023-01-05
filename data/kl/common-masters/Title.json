@@ -2,6 +2,42 @@
   "tenantId": "kl",
   "moduleName": "common-masters",
   "Title": [
+     {
+      "name": "Shri.",
+      "namelocal": "ശ്രീ",
+      "code": "TITLE_SHRI.",
+      "id": 3,
+      "titlecode": "M",
+      "active": true,
+      "type": "COMMON"
+    },    
+    {
+      "name": "Smt.",
+      "namelocal": "ശ്രീമതി",
+      "code": "TITLE_SMT.",
+      "id": 4,
+      "titlecode": "F",
+      "active": true,
+      "type": "COMMON"
+    },
+   {
+      "name": "Kum.",
+      "namelocal": "കുമാരി",
+      "code": "TITLE_KUM.",
+      "id": 32,
+      "titlecode": "F",
+      "active": true,
+      "type": "COMMON"
+    },
+   {
+      "name": "Sir",
+      "namelocal": "സര്‍",
+      "code": "TITLE_SIR",
+      "id": 26,
+      "titlecode": "C",
+      "active": true,
+      "type": "COMMON"
+    },
     {
       "name": "Adv.",
       "namelocal": "അഡ്വ.",
@@ -20,24 +56,7 @@
       "active": true,
       "type": "COMMON"
     },
-    {
-      "name": "Shri.",
-      "namelocal": "ശ്രീ",
-      "code": "TITLE_SHRI.",
-      "id": 3,
-      "titlecode": "M",
-      "active": true,
-      "type": "COMMON"
-    },
-    {
-      "name": "Smt.",
-      "namelocal": "ശ്രീമതി",
-      "code": "TITLE_SMT.",
-      "id": 4,
-      "titlecode": "F",
-      "active": true,
-      "type": "COMMON"
-    },
+   
     {
       "name": "Acharya",
       "namelocal": "ആചാര്യ",
@@ -227,15 +246,7 @@
       "active": true,
       "type": "COMMON"
     },
-    {
-      "name": "Sir",
-      "namelocal": "സര്‍",
-      "code": "TITLE_SIR",
-      "id": 26,
-      "titlecode": "C",
-      "active": true,
-      "type": "COMMON"
-    },
+   
     {
       "name": "Swami",
       "namelocal": "സ്വാമി",
@@ -281,15 +292,7 @@
       "active": true,
       "type": "COMMON"
     },
-    {
-      "name": "Kum.",
-      "namelocal": "കുമാരി",
-      "code": "TITLE_KUM.",
-      "id": 32,
-      "titlecode": "F",
-      "active": true,
-      "type": "COMMON"
-    },
+
     {
       "name": "Lieutenant",
       "namelocal": "ലെഫ്റ്റനന്റ്",
