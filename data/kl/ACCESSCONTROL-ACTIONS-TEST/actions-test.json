@@ -14088,7 +14088,7 @@
       },
       {
          "id": 2454,
-         "name": "Create PDE TradeLicense",
+         "name": "Search PDE TradeLicense",
          "url": "/tl-services/pde/_search",
          "parentModule": "",
          "displayName": "Search PDE TradeLicense",
@@ -14100,7 +14100,7 @@
       },
       {
          "id": 2455,
-         "name": "Create PDE TradeLicense",
+         "name": "Update PDE TradeLicense",
          "url": "/tl-services/pde/_update",
          "parentModule": "",
          "displayName": "Update PDE TradeLicense",
