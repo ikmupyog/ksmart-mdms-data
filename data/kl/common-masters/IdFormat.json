@@ -695,7 +695,7 @@
             "idname": "bpa.permitnumber"
         },
         {
-            "format": "BR/CB/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+            "format": "BR-CB-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
             "idname": "birth_cert.receipt.id"
         },
         {
@@ -715,15 +715,15 @@
             "idname": "tl.aplnumber"
         },
         {            
-            "format": "BR/APLN/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+            "format": "BR-APLN-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
             "idname": "applicationno"
         },
         {            
-            "format": "BR/FM/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]_[TENANT_ID]",
+            "format": "BR-FM-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]_[TENANT_ID]",
             "idname": "fm_fileno"
         },
         {            
-            "format": "BR/REGY/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+            "format": "BR-REGY-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
             "idname": "registrationno"
         }
     ]
