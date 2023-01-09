@@ -1,0 +1,90 @@
+{
+  "tenantId": "kl",
+  "moduleName": "egf-master",
+  "FinancialPeriod": [
+    {
+      "code": "IHALF",
+      "description": "Ist Half",
+      "descriptionlocal": "ആദ്യ പകുതി",
+      "category": "CATEGORY_TAX"
+    },
+    {
+      "code": "IIHALF",
+      "description": "IInd Half",
+      "descriptionlocal": "രണ്ടാം പകുതി",
+      "category": "CATEGORY_TAX"
+    },
+    {
+      "code": "JAN",
+      "description": "January",
+      "descriptionlocal": "ജനുവരി",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "FEB",
+      "description": "February",
+      "descriptionlocal": "ഫെബ്രുവരി",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "MAR",
+      "description": "March",
+      "descriptionlocal": "മാർച്ച്",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "APR",
+      "description": "April",
+      "descriptionlocal": "ഏപ്രിൽ",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "MAY",
+      "description": "May",
+      "descriptionlocal": "മെയ്",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "JUN",
+      "description": "June",
+      "descriptionlocal": "ജൂൺ",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "JUL",
+      "description": "July",
+      "descriptionlocal": "ജൂലൈ",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "AUG",
+      "description": "August",
+      "descriptionlocal": "ഓഗസ്റ്റ്",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "SEP",
+      "description": "September",
+      "descriptionlocal": "സെപ്റ്റംബർ",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "OCT",
+      "description": "October",
+      "descriptionlocal": "ഒക്ടോബർ",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "NOV",
+      "description": "November",
+      "descriptionlocal": "നവംബർ",
+      "category": "CATEGORY_RENT"
+    },
+    {
+      "code": "DEC",
+      "description": "December",
+      "descriptionlocal": "ഡിസംബർ",
+      "category": "CATEGORY_RENT"
+    }
+  ]
+}

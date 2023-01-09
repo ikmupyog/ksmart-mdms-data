@@ -43,18 +43,8 @@
       "type": "FM"
     },
     {
-      "name": "Regulation",
-      "code": "SF005",
-      "mainCode": "MF004",
-      "namelocal": "null",
-      "applicationDocument": "Ration Card,Birth Certificate",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
       "name": "Building",
-      "code": "SF006",
+      "code": "SF005",
       "mainCode": "MF005",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -64,7 +54,7 @@
     },
     {
       "name": "Public Works",
-      "code": "SF007",
+      "code": "SF006",
       "mainCode": "MF005",
       "namelocal": "null",
       "applicationDocument": "Ration Card,Birth Certificate",
@@ -74,7 +64,7 @@
     },
     {
       "name": "Deduction",
-      "code": "SF008",
+      "code": "SF007",
       "mainCode": "MF006",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -84,7 +74,7 @@
     },
     {
       "name": "Security Deposit",
-      "code": "SF009",
+      "code": "SF008",
       "mainCode": "MF006",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -94,7 +84,7 @@
     },
     {
       "name": "Income",
-      "code": "SF010",
+      "code": "SF009",
       "mainCode": "MF006",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -104,7 +94,7 @@
     },
     {
       "name": "Land",
-      "code": "SF011",
+      "code": "SF010",
       "mainCode": "MF007",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -114,7 +104,7 @@
     },
     {
       "name": "Assisstance",
-      "code": "SF012",
+      "code": "SF011",
       "mainCode": "MF008",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -124,7 +114,7 @@
     },
     {
       "name": "Good Governance",
-      "code": "SF013",
+      "code": "SF012",
       "mainCode": "MF009",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",

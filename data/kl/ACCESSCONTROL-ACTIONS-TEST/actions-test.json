@@ -14073,6 +14073,42 @@
          "navigationURL": "/digit-ui/employee/cr/cr-flow/check",
          "leftIcon": " ",
          "rightIcon": ""
+      },
+      {
+         "id": 2453,
+         "name": "Create PDE TradeLicense",
+         "url": "/tl-services/pde/_create",
+         "parentModule": "",
+         "displayName": "Create PDE TradeLicense",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2454,
+         "name": "Search PDE TradeLicense",
+         "url": "/tl-services/pde/_search",
+         "parentModule": "",
+         "displayName": "Search PDE TradeLicense",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2455,
+         "name": "Update PDE TradeLicense",
+         "url": "/tl-services/pde/_update",
+         "parentModule": "",
+         "displayName": "Update PDE TradeLicense",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
