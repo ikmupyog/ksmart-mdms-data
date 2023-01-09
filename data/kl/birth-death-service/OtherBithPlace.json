@@ -4,99 +4,115 @@
   "OtherBithPlace": [
     {
       "code": "OTHER_PLACE_ROAD_STREET",
-      "message": "Road/Street",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Road/Street",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_RAILWAY_RACK",
-      "message": "Railway Track",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Railway Track",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_BUS_STATION",
-      "message": "Bus Station",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Bus Station",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_RAILWAY_STATION",
-      "message": "Railway Station",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Railway Station",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_AIRPORT",
-      "message": "Airport",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Airport",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_BOAT_JETTY",
-      "message": "Boat Jetty",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Boat Jetty",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_SEA_PORT",
-      "message": "Sea Port",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Sea Port",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_STADIUM",
-      "message": "Stadium",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Stadium",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_PARK",
-      "message": "Park",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Park",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_COMMERCIAL PLACES_SHOPS",
-      "message": "Commercial Places/Shops",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Commercial Places/Shops",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_CINEMA_THEATRE",
-      "message": "Cinema Theatre",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Cinema Theatre",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_FOREST_AREA",
-      "message": "Forest Area",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Forest Area",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_RIVER",
-      "message": "River",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "River",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_LAKE",
-      "message": "Lake",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Lake",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_DAM",
-      "message": "Dam",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Dam",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     },
     {
       "code": "OTHER_PLACE_OTHERS",
-      "message": "Other Public Places",
-      "module": "rainmaker-cr",
-      "locale": "en_IN"
+      "name": "Other Public Places",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
     }
   ]
 }
