@@ -43,38 +43,8 @@
       "type": "FM"
     },
     {
-      "name": "Certificate",
-      "code": "FF005",
-      "mainCode": "SF002",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
-      "name": "Certificate",
-      "code": "FF006",
-      "mainCode": "SF003",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
       "name": "License",
-      "code": "FF007",
-      "mainCode": "SF004",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
-      "name": "Certificate",
-      "code": "FF008",
+      "code": "FF005",
       "mainCode": "SF004",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -84,7 +54,7 @@
     },
     {
       "name": "Eradiction",
-      "code": "FF009",
+      "code": "FF006",
       "mainCode": "SF004",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -94,37 +64,17 @@
     },
     {
       "name": "NOC",
-      "code": "FF010",
+      "code": "FF007",
       "mainCode": "SF005",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
       "validityPeriod": "null",
       "active": true,
       "type": "FM"
-    },
-    {
-      "name": "Certificate",
-      "code": "FF011",
-      "mainCode": "SF006",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
-      "name": "License",
-      "code": "FF012",
-      "mainCode": "SF007",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
+    },    
     {
       "name": "Asset Creation",
-      "code": "FF013",
+      "code": "FF008",
       "mainCode": "SF007",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -133,28 +83,8 @@
       "type": "FM"
     },
     {
-      "name": "Certificate",
-      "code": "FF014",
-      "mainCode": "SF008",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
       "name": "Refund",
-      "code": "FF015",
-      "mainCode": "SF009",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
-      "name": "Refund",
-      "code": "FF016",
+      "code": "FF009",
       "mainCode": "SF010",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -164,7 +94,7 @@
     },
     {
       "name": "Aquisition Of Land",
-      "code": "FF017",
+      "code": "FF010",
       "mainCode": "SF011",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
@@ -173,18 +103,8 @@
       "type": "FM"
     },
     {
-      "name": "Certificate",
-      "code": "FF018",
-      "mainCode": "SF012",
-      "namelocal": "null",
-      "applicationDocument": "Adhar Card,Pan Card",
-      "validityPeriod": "null",
-      "active": true,
-      "type": "FM"
-    },
-    {
       "name": "Data Transfer",
-      "code": "FF019",
+      "code": "FF011",
       "mainCode": "SF013",
       "namelocal": "null",
       "applicationDocument": "Adhar Card,Pan Card",
