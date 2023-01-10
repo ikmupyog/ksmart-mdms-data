@@ -4,7 +4,6 @@
   "tenants": [
     {
       "code": "kl.adoor",
-      "lbid": 178,
       "name": "Adoor Municipality",
       "description": "Adoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/adoor.jpg",
@@ -41,7 +40,6 @@
     },
     {
       "code": "kl.alappuzha",
-      "lbid": 185,
       "name": "Alappuzha Municipality",
       "description": "Alappuzha",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/alappuzha.jpg",
@@ -78,7 +76,6 @@
     },
     {
       "code": "kl.aluva",
-      "lbid": 198,
       "name": "Aluva Municipality",
       "description": "Aluva",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/aluva.jpg",
@@ -115,7 +112,6 @@
     },
     {
       "code": "kl.angamaly",
-      "lbid": 193,
       "name": "Angamaly Municipality",
       "description": "Angamaly",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/angamaly.jpg",
@@ -152,7 +148,6 @@
     },
     {
       "code": "kl.anthoor",
-      "lbid": 1287,
       "name": "Anthoor Municipality",
       "description": "Anthoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/anthoor.jpg",
@@ -189,7 +184,6 @@
     },
     {
       "code": "kl.attingal",
-      "lbid": 173,
       "name": "Attingal Municipality",
       "description": "Attingal",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/attingal.jpg",
@@ -226,7 +220,6 @@
     },
     {
       "code": "kl.chalakudy",
-      "lbid": 202,
       "name": "Chalakudy Municipality",
       "description": "Chalakudy",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/chalakudy.jpg",
@@ -263,7 +256,6 @@
     },
     {
       "code": "kl.changanassery",
-      "lbid": 188,
       "name": "Changanassery Municipality",
       "description": "Changanassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/changanassery.jpg",
@@ -300,7 +292,6 @@
     },
     {
       "code": "kl.chavakkad",
-      "lbid": 200,
       "name": "Chavakkad Municipality",
       "description": "Chavakkad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/chavakkad.jpg",
@@ -337,7 +328,6 @@
     },
     {
       "code": "kl.chengannur",
-      "lbid": 181,
       "name": "Chengannur Municipality",
       "description": "Chengannur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/chengannur.jpg",
@@ -374,7 +364,6 @@
     },
     {
       "code": "kl.cherpulassery",
-      "lbid": 1270,
       "name": "Cherpulassery Municipality",
       "description": "Cherpulassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/cherpulassery.jpg",
@@ -411,7 +400,6 @@
     },
     {
       "code": "kl.cherthala",
-      "lbid": 183,
       "name": "Cherthala Municipality",
       "description": "Cherthala",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/cherthala.jpg",
@@ -448,7 +436,6 @@
     },
     {
       "code": "kl.chittur",
-      "lbid": 207,
       "name": "Chittur Tattamangalam Municipality",
       "description": "Chittur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/chittur.jpg",
@@ -485,10 +472,9 @@
     },
     {
       "code": "kl.cochin",
-      "lbid": 169,
-      "name": "Kochi Corporation",
-      "description": "Kochi",
-      "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/cochin.jpg",
+      "name": "Cochin Corporation",
+      "description": "Cochin ",
+      "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/cochin .jpg",
       "imageId": null,
       "domainUrl": "https://kochicorporation.lsgkerala.gov.in/",
       "twitterUrl": null,
@@ -498,19 +484,19 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kochi Corporation",
+        "name": "Cochin Corporation",
         "localName": "കൊച്ചി കോര്‍പ്പറേഷന്‍",
         "districtid": 7,
         "districtCode": "555",
         "districtName": "Ernakulam",
         "regionName": "Kerala",
-        "ulbGrade": "Corporation",
+        "ulbGrade": "Corporation ",
         "longitude": 76.280362,
         "latitude": 9.992699,
         "captcha": null,
         "shapeFileLocation": null,
         "code": "C070100",
-        "ddrName": "Cochin"
+        "ddrName": "Cochin "
       },
       "address": "Kochi Municipal Corporation\nPB No-1016, Cochin\nErnakulam Dt-Kerala State\nPin - 682011",
       "pincode": [
@@ -522,7 +508,6 @@
     },
     {
       "code": "kl.eloor",
-      "lbid": 1246,
       "name": "Eloor Municipality",
       "description": "Eloor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/eloor.jpg",
@@ -559,7 +544,6 @@
     },
     {
       "code": "kl.erattupetta",
-      "lbid": 1264,
       "name": "Erattupetta Municipality",
       "description": "Erattupetta",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/erattupetta.jpg",
@@ -596,7 +580,6 @@
     },
     {
       "code": "kl.ettumanoor",
-      "lbid": 1263,
       "name": "Ettumanoor Municipality",
       "description": "Ettumanoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/ettumanoor.jpg",
@@ -633,7 +616,6 @@
     },
     {
       "code": "kl.feroke",
-      "lbid": 1281,
       "name": "Feroke Municipality",
       "description": "Feroke",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/feroke.jpg",
@@ -670,7 +652,6 @@
     },
     {
       "code": "kl.guruvayur",
-      "lbid": 199,
       "name": "Guruvayur Municipality",
       "description": "Guruvayur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/guruvayur.jpg",
@@ -707,7 +688,6 @@
     },
     {
       "code": "kl.haripad",
-      "lbid": 1262,
       "name": "Haripad Municipality",
       "description": "Haripad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/haripad.jpg",
@@ -744,7 +724,6 @@
     },
     {
       "code": "kl.irinjalakuda",
-      "lbid": 203,
       "name": "Irinjalakuda Municipality",
       "description": "Irinjalakuda",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/irinjalakuda.jpg",
@@ -781,7 +760,6 @@
     },
     {
       "code": "kl.iritty",
-      "lbid": 1286,
       "name": "Iritty Municipality",
       "description": "Iritty",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/iritty.jpg",
@@ -818,7 +796,6 @@
     },
     {
       "code": "kl.kalamassery",
-      "lbid": 191,
       "name": "Kalamassery Municipality",
       "description": "Kalamassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/kalamassery.jpg",
@@ -855,7 +832,6 @@
     },
     {
       "code": "kl.kalpetta",
-      "lbid": 216,
       "name": "Kalpetta Municipality",
       "description": "Kalpetta",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/wayanad/kalpetta.jpg",
@@ -892,7 +868,6 @@
     },
     {
       "code": "kl.kanhangad",
-      "lbid": 223,
       "name": "Kanhangad Municipality",
       "description": "Kanhangad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kasargode/kanhangad.jpg",
@@ -929,7 +904,6 @@
     },
     {
       "code": "kl.kannur",
-      "lbid": 1259,
       "name": "Kannur Corporation",
       "description": "Kannur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/kannur.jpg",
@@ -948,7 +922,7 @@
         "districtCode": "557",
         "districtName": "Kannur",
         "regionName": "Kerala",
-        "ulbGrade": "Corporation",
+        "ulbGrade": "Corporation ",
         "longitude": 75.370369,
         "latitude": 11.874477,
         "captcha": null,
@@ -966,7 +940,6 @@
     },
     {
       "code": "kl.karunagappally",
-      "lbid": 1244,
       "name": "Karunagappally Municipality",
       "description": "Karunagappally",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/karunagappally.jpg",
@@ -1003,7 +976,6 @@
     },
     {
       "code": "kl.kasaragod",
-      "lbid": 224,
       "name": "Kasaragod Municipality",
       "description": "Kasaragod",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kasargode/kasaragod.jpg",
@@ -1040,7 +1012,6 @@
     },
     {
       "code": "kl.kattappana",
-      "lbid": 1265,
       "name": "Kattappana Municipality",
       "description": "Kattappana",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/idukki/kattappana.jpg",
@@ -1077,7 +1048,6 @@
     },
     {
       "code": "kl.kayamkulam",
-      "lbid": 184,
       "name": "Kayamkulam Municipality",
       "description": "Kayamkulam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/kayamkulam.jpg",
@@ -1114,7 +1084,6 @@
     },
     {
       "code": "kl.kodungallur",
-      "lbid": 201,
       "name": "Kodungallur Municipality",
       "description": "Kodungallur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/kodungallur.jpg",
@@ -1151,7 +1120,6 @@
     },
     {
       "code": "kl.koduvally",
-      "lbid": 1278,
       "name": "Koduvally Municipality",
       "description": "Koduvally",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/koduvally.jpg",
@@ -1188,7 +1156,6 @@
     },
     {
       "code": "kl.kollam",
-      "lbid": 168,
       "name": "Kollam Corporation",
       "description": "Kollam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/kollam.jpg",
@@ -1207,7 +1174,7 @@
         "districtCode": "559",
         "districtName": "Kollam",
         "regionName": "Kerala",
-        "ulbGrade": "Corporation",
+        "ulbGrade": "Corporation ",
         "longitude": null,
         "latitude": null,
         "captcha": null,
@@ -1225,7 +1192,6 @@
     },
     {
       "code": "kl.kondotty",
-      "lbid": 1272,
       "name": "Kondotty Municipality",
       "description": "Kondotty",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/kondotty.jpg",
@@ -1262,7 +1228,6 @@
     },
     {
       "code": "kl.koothattukulam",
-      "lbid": 1266,
       "name": "Koothattukulam Municipality",
       "description": "Koothattukulam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/koothattukulam.jpg",
@@ -1299,7 +1264,6 @@
     },
     {
       "code": "kl.kothamangalam",
-      "lbid": 192,
       "name": "Kothamangalam Municipality",
       "description": "Kothamangalam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/kothamangalam.jpg",
@@ -1336,7 +1300,6 @@
     },
     {
       "code": "kl.kottakkal",
-      "lbid": 1248,
       "name": "Kottakkal Municipality",
       "description": "Kottakkal",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/kottakkal.jpg",
@@ -1373,7 +1336,6 @@
     },
     {
       "code": "kl.kottarakara",
-      "lbid": 1260,
       "name": "Kottarakara Municipality",
       "description": "Kottarakara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/kottarakara.jpg",
@@ -1410,7 +1372,6 @@
     },
     {
       "code": "kl.kottayam",
-      "lbid": 189,
       "name": "Kottayam Municipality",
       "description": "Kottayam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/kottayam.jpg",
@@ -1447,7 +1408,6 @@
     },
     {
       "code": "kl.koyilandy",
-      "lbid": 215,
       "name": "Koyilandy Municipality",
       "description": "Koyilandy",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/koyilandy.jpg",
@@ -1484,7 +1444,6 @@
     },
     {
       "code": "kl.kozhikode",
-      "lbid": 171,
       "name": "Kozhikode Corporation",
       "description": "Kozhikode",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/kozhikode.jpg",
@@ -1503,7 +1462,7 @@
         "districtCode": "561",
         "districtName": "Kozhikkode",
         "regionName": "Kerala",
-        "ulbGrade": "Corporation",
+        "ulbGrade": "Corporation ",
         "longitude": null,
         "latitude": null,
         "captcha": null,
@@ -1521,7 +1480,6 @@
     },
     {
       "code": "kl.kunnamkulam",
-      "lbid": 204,
       "name": "Kunnamkulam Municipality",
       "description": "Kunnamkulam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/kunnamkulam.jpg",
@@ -1558,7 +1516,6 @@
     },
     {
       "code": "kl.kuthuparamba",
-      "lbid": 219,
       "name": "Kuthuparamba Municipality",
       "description": "Kuthuparamba",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/kuthuparamba.jpg",
@@ -1595,7 +1552,6 @@
     },
     {
       "code": "kl.malappuram",
-      "lbid": 213,
       "name": "Malappuram Municipality",
       "description": "Malappuram",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/malappuram.jpg",
@@ -1632,7 +1588,6 @@
     },
     {
       "code": "kl.mananthavady",
-      "lbid": 1282,
       "name": "Mananthavady Municipality",
       "description": "Mananthavady",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/wayanad/mananthavady.jpg",
@@ -1669,7 +1624,6 @@
     },
     {
       "code": "kl.manjeri",
-      "lbid": 211,
       "name": "Manjeri Municipality",
       "description": "Manjeri",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/manjeri.jpg",
@@ -1706,7 +1660,6 @@
     },
     {
       "code": "kl.mannarkad",
-      "lbid": 1271,
       "name": "Mannarkad Municipality",
       "description": "Mannarkad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/mannarkad.jpg",
@@ -1743,7 +1696,6 @@
     },
     {
       "code": "kl.maradu",
-      "lbid": 1247,
       "name": "Maradu Municipality",
       "description": "Maradu",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/maradu.jpg",
@@ -1780,7 +1732,6 @@
     },
     {
       "code": "kl.mattanur",
-      "lbid": 217,
       "name": "Mattanur Municipality",
       "description": "Mattanur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/mattanur.jpg",
@@ -1817,7 +1768,6 @@
     },
     {
       "code": "kl.mavelikara",
-      "lbid": 182,
       "name": "Mavelikara Municipality",
       "description": "Mavelikara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/mavelikara.jpg",
@@ -1854,7 +1804,6 @@
     },
     {
       "code": "kl.mukkam",
-      "lbid": 1279,
       "name": "Mukkam Municipality",
       "description": "Mukkam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/mukkam.jpg",
@@ -1891,7 +1840,6 @@
     },
     {
       "code": "kl.muvattupuzha",
-      "lbid": 195,
       "name": "Muvattupuzha Municipality",
       "description": "Muvattupuzha",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/muvattupuzha.jpg",
@@ -1928,7 +1876,6 @@
     },
     {
       "code": "kl.nedumangad",
-      "lbid": 174,
       "name": "Nedumangad Municipality",
       "description": "Nedumangad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/nedumangad.jpg",
@@ -1965,7 +1912,6 @@
     },
     {
       "code": "kl.neyyattinkara",
-      "lbid": 175,
       "name": "Neyyattinkara Municipality",
       "description": "Neyyattinkara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/neyyattinkara.jpg",
@@ -2002,7 +1948,6 @@
     },
     {
       "code": "kl.nilambur",
-      "lbid": 1249,
       "name": "Nilambur Municipality",
       "description": "Nilambur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/nilambur.jpg",
@@ -2039,7 +1984,6 @@
     },
     {
       "code": "kl.nileshwar",
-      "lbid": 1250,
       "name": "Nileshwar Municipality",
       "description": "Nileshwar",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kasargode/nileshwar.jpg",
@@ -2076,7 +2020,6 @@
     },
     {
       "code": "kl.north",
-      "lbid": 196,
       "name": "North Paravur Municipality",
       "description": "North",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/north.jpg",
@@ -2113,7 +2056,6 @@
     },
     {
       "code": "kl.ottapalam",
-      "lbid": 205,
       "name": "Ottapalam Municipality",
       "description": "Ottapalam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/ottapalam.jpg",
@@ -2150,7 +2092,6 @@
     },
     {
       "code": "kl.pala",
-      "lbid": 186,
       "name": "Pala Municipality",
       "description": "Pala",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/pala.jpg",
@@ -2187,7 +2128,6 @@
     },
     {
       "code": "kl.palakkad",
-      "lbid": 208,
       "name": "Palakkad Municipality",
       "description": "Palakkad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/palakkad.jpg",
@@ -2224,7 +2164,6 @@
     },
     {
       "code": "kl.pandalam",
-      "lbid": 1261,
       "name": "Pandalam Municipality",
       "description": "Pandalam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/pandalam.jpg",
@@ -2261,7 +2200,6 @@
     },
     {
       "code": "kl.panoor",
-      "lbid": 1285,
       "name": "Panoor Municipality",
       "description": "Panoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/panoor.jpg",
@@ -2298,7 +2236,6 @@
     },
     {
       "code": "kl.parappanangadi",
-      "lbid": 1275,
       "name": "Parappanangadi Municipality",
       "description": "Parappanangadi",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/parappanangadi.jpg",
@@ -2335,7 +2272,6 @@
     },
     {
       "code": "kl.paravur",
-      "lbid": 176,
       "name": "Paravur Municipality",
       "description": "Paravur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/paravur.jpg",
@@ -2372,7 +2308,6 @@
     },
     {
       "code": "kl.pathanamthitta",
-      "lbid": 180,
       "name": "Pathanamthitta Municipality",
       "description": "Pathanamthitta",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/pathanamthitta.jpg",
@@ -2409,7 +2344,6 @@
     },
     {
       "code": "kl.pattambi",
-      "lbid": 1269,
       "name": "Pattambi Municipality",
       "description": "Pattambi",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/pattambi.jpg",
@@ -2446,7 +2380,6 @@
     },
     {
       "code": "kl.payyannur",
-      "lbid": 220,
       "name": "Payyannur Municipality",
       "description": "Payyannur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/payyannur.jpg",
@@ -2483,7 +2416,6 @@
     },
     {
       "code": "kl.payyoli",
-      "lbid": 1277,
       "name": "Payyoli Municipality",
       "description": "Payyoli",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/payyoli.jpg",
@@ -2520,7 +2452,6 @@
     },
     {
       "code": "kl.perinthalmanna",
-      "lbid": 209,
       "name": "Perinthalmanna Municipality",
       "description": "Perinthalmanna",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/perinthalmanna.jpg",
@@ -2557,7 +2488,6 @@
     },
     {
       "code": "kl.perumbavoor",
-      "lbid": 197,
       "name": "Perumbavoor Municipality",
       "description": "Perumbavoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/perumbavoor.jpg",
@@ -2594,7 +2524,6 @@
     },
     {
       "code": "kl.piravom",
-      "lbid": 1267,
       "name": "Piravom Municipality",
       "description": "Piravom",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/piravom.jpg",
@@ -2631,7 +2560,6 @@
     },
     {
       "code": "kl.ponnani",
-      "lbid": 210,
       "name": "Ponnani Municipality",
       "description": "Ponnani",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/ponnani.jpg",
@@ -2668,7 +2596,6 @@
     },
     {
       "code": "kl.punalur",
-      "lbid": 177,
       "name": "Punalur Municipality",
       "description": "Punalur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/punalur.jpg",
@@ -2705,7 +2632,6 @@
     },
     {
       "code": "kl.ramanattukara",
-      "lbid": 1280,
       "name": "Ramanattukara Municipality",
       "description": "Ramanattukara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/ramanattukara.jpg",
@@ -2742,7 +2668,6 @@
     },
     {
       "code": "kl.shoranur",
-      "lbid": 206,
       "name": "Shoranur Municipality",
       "description": "Shoranur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/shoranur.jpg",
@@ -2779,7 +2704,6 @@
     },
     {
       "code": "kl.sreekandapuram",
-      "lbid": 1284,
       "name": "Sreekandapuram Municipality",
       "description": "Sreekandapuram",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/sreekandapuram.jpg",
@@ -2816,7 +2740,6 @@
     },
     {
       "code": "kl.sulthan",
-      "lbid": 1283,
       "name": "Sulthan Bathery Municipality",
       "description": "Sulthan",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/wayanad/sulthan.jpg",
@@ -2853,7 +2776,6 @@
     },
     {
       "code": "kl.tanur",
-      "lbid": 1276,
       "name": "Tanur Municipality",
       "description": "Tanur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/tanur.jpg",
@@ -2890,7 +2812,6 @@
     },
     {
       "code": "kl.thalassery",
-      "lbid": 221,
       "name": "Thalassery Municipality",
       "description": "Thalassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/thalassery.jpg",
@@ -2927,7 +2848,6 @@
     },
     {
       "code": "kl.thalipparamba",
-      "lbid": 218,
       "name": "Thalipparamba Municipality",
       "description": "Thalipparamba",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/thalipparamba.jpg",
@@ -2964,7 +2884,6 @@
     },
     {
       "code": "kl.thiruvalla",
-      "lbid": 179,
       "name": "Thiruvalla Municipality",
       "description": "Thiruvalla",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/thiruvalla.jpg",
@@ -3001,7 +2920,6 @@
     },
     {
       "code": "kl.thiruvananthapuram",
-      "lbid": 167,
       "name": "Thiruvananthapuram Corporation",
       "description": "Thiruvananthapuram",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/thiruvananthapuram.jpg",
@@ -3020,7 +2938,7 @@
         "districtCode": "565",
         "districtName": "Thiruvananthapuram",
         "regionName": "Kerala",
-        "ulbGrade": "Corporation",
+        "ulbGrade": "Corporation ",
         "longitude": 76.95284,
         "latitude": 8.50384,
         "captcha": null,
@@ -3038,7 +2956,6 @@
     },
     {
       "code": "kl.thodupuzha",
-      "lbid": 190,
       "name": "Thodupuzha Municipality",
       "description": "Thodupuzha",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/idukki/thodupuzha.jpg",
@@ -3075,7 +2992,6 @@
     },
     {
       "code": "kl.thrikkakara",
-      "lbid": 1245,
       "name": "Thrikkakara Municipality",
       "description": "Thrikkakara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/thrikkakara.jpg",
@@ -3112,7 +3028,6 @@
     },
     {
       "code": "kl.thrissur",
-      "lbid": 170,
       "name": "Thrissur Corporation",
       "description": "Thrissur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/thrissur.jpg",
@@ -3131,7 +3046,7 @@
         "districtCode": "566",
         "districtName": "Thrissur",
         "regionName": "Kerala",
-        "ulbGrade": "Corporation",
+        "ulbGrade": "Corporation ",
         "longitude": 76.214342,
         "latitude": 10.52094,
         "captcha": null,
@@ -3149,7 +3064,6 @@
     },
     {
       "code": "kl.tirur",
-      "lbid": 212,
       "name": "Tirur Municipality",
       "description": "Tirur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/tirur.jpg",
@@ -3186,7 +3100,6 @@
     },
     {
       "code": "kl.tirurangadi",
-      "lbid": 1274,
       "name": "Tirurangadi Municipality",
       "description": "Tirurangadi",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/tirurangadi.jpg",
@@ -3223,7 +3136,6 @@
     },
     {
       "code": "kl.tripunithura",
-      "lbid": 194,
       "name": "Tripunithura Municipality",
       "description": "Tripunithura",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/tripunithura.jpg",
@@ -3260,7 +3172,6 @@
     },
     {
       "code": "kl.vadakara",
-      "lbid": 214,
       "name": "Vadakara Municipality",
       "description": "Vadakara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/vadakara.jpg",
@@ -3297,7 +3208,6 @@
     },
     {
       "code": "kl.vaikom",
-      "lbid": 187,
       "name": "Vaikom Municipality",
       "description": "Vaikom",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/vaikom.jpg",
@@ -3334,7 +3244,6 @@
     },
     {
       "code": "kl.valanchery",
-      "lbid": 1273,
       "name": "Valanchery Municipality",
       "description": "Valanchery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/valanchery.jpg",
@@ -3371,7 +3280,6 @@
     },
     {
       "code": "kl.varkala",
-      "lbid": 172,
       "name": "Varkala Municipality",
       "description": "Varkala",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/varkala.jpg",
@@ -3408,7 +3316,42 @@
     },
     {
       "code": "kl.wadakanchery",
-      "lbid": 1268,
+      "name": "Wadakanchery Municipality",
+      "description": "Wadakanchery",
+      "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/wadakanchery.jpg",
+      "imageId": null,
+      "domainUrl": "wadakancherymunicipality.lsgkerala.gov.in",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "wckymp@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Wadakanchery Municipality",
+        "localName": "വടക്കാഞ്ചേരി മുനിസിപ്പാലിറ്റി",
+        "districtid": 8,
+        "districtCode": "566",
+        "districtName": "Thrissur",
+        "regionName": "Kerala",
+        "ulbGrade": "Municipality Grade 3",
+        "longitude": 76.245492,
+        "latitude": 10.661915,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "M080700",
+        "ddrName": "Wadakanchery"
+      },
+      "address": "Wadakkanchery P.O.,Thrissur-680582",
+      "pincode": [
+        680582
+      ],
+      "contactNumber": "04884-232252",
+      "pdfHeader": "",
+      "pdfContactDetails": ""
+    },
+    {
+      "code": "kl.wadakanchery",
       "name": "Wadakanchery Municipality",
       "description": "Wadakanchery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/wadakanchery.jpg",
