@@ -6,14 +6,14 @@
       "name": "District Panchayat",
       "namelocal": "",
       "code": "LB_TYPE_DIST_PANCHAYAT",
-      "active": true,
+      "active": false,
       "type": "BND"
     },
     {
       "name": "Block Panchayat",
       "namelocal": "",
       "code": "LB_TYPE_BLOCK_PANCHAYAT",
-      "active": true,
+      "active": false,
       "type": "BND"
     },
     {
@@ -41,7 +41,7 @@
       "name": "State Level",
       "namelocal": "",
       "code": "LB_TYPE_STATE_LEVEL",
-      "active": true,
+      "active": false,
       "type": "BND"
     }
   ]
