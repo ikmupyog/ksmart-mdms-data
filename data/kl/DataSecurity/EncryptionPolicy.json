@@ -114,11 +114,8 @@
           {
             "jsonPath" : "femaleDependentAadharNo",
             "type" : "Normal"
-          },
-          {
-            "jsonPath" : "applicantAadhar",
-            "type" : "Normal"
           }
+          
         ]
       }
     ]
