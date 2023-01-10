@@ -3349,42 +3349,7 @@
       "contactNumber": "04884-232252",
       "pdfHeader": "",
       "pdfContactDetails": ""
-    },
-    {
-      "code": "kl.wadakanchery",
-      "name": "Wadakanchery Municipality",
-      "description": "Wadakanchery",
-      "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/wadakanchery.jpg",
-      "imageId": null,
-      "domainUrl": "wadakancherymunicipality.lsgkerala.gov.in",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "wckymp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Wadakanchery Municipality",
-        "localName": "വടക്കാഞ്ചേരി മുനിസിപ്പാലിറ്റി",
-        "districtid": 8,
-        "districtCode": "566",
-        "districtName": "Thrissur",
-        "regionName": "Kerala",
-        "ulbGrade": "Municipality Grade 3",
-        "longitude": 76.245492,
-        "latitude": 10.661915,
-        "captcha": null,
-        "shapeFileLocation": null,
-        "code": "M080700",
-        "ddrName": "Wadakanchery"
-      },
-      "address": "Wadakkanchery P.O.,Thrissur-680582",
-      "pincode": [
-        680582
-      ],
-      "contactNumber": "04884-232252",
-      "pdfHeader": "",
-      "pdfContactDetails": ""
     }
+    
   ]
 }
