@@ -121,5 +121,14 @@
           }
         ]
       }
+        {
+        "key" : "FMDetail",
+        "attributeList" : [
+          {
+            "jsonPath" : "aadhaarNo",
+            "type" : "Normal"
+          }
+        ]
+      }
     ]
 }
