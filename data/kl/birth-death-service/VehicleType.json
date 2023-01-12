@@ -1,0 +1,76 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "VehicleType": [
+    {
+      "code": "VEHICLE_TYPE_AEROPLANE",
+      "name": "Aeroplane",
+      "namelocal": "വിമാനം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_BOAT",
+      "name": "Boat",
+      "namelocal": "ബോട്ട്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_BUS",
+      "name": "Bus",
+      "namelocal": "ബസ്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_CAR",
+      "name": "Car",
+      "namelocal": "കാർ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_JEEP",
+      "name": "Jeep",
+      "namelocal": "ജീപ്പ്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_LORRY",
+      "name": "Lorry",
+      "namelocal": "ലോറി",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_OTHER_VEHICLES",
+      "name": "Other Vehicles",
+      "namelocal": "മറ്റ് വാഹനങ്ങൾ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_TRAIN",
+      "name": "Train",
+      "namelocal": "ട്രെയിൻ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_TRUCK",
+      "name": "Truck",
+      "namelocal": "ട്രക്ക്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "VEHICLE_TYPE_VAN",
+      "name": "Van",
+      "namelocal": "വാൻ",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
