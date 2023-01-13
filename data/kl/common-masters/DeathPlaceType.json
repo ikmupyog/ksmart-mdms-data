@@ -1,0 +1,41 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "PlaceMaster": [
+    {
+      "name": "Hospital",
+      "namelocal": "",
+      "code": "HOSPITAL",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Institution",
+      "namelocal": "",
+      "code": "INSTITUTION",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Home",
+      "namelocal": "",
+      "code": "HOME",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Vehicle",
+      "namelocal": "",
+      "code": "VEHICLE",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Other Places",
+      "namelocal": "",
+      "code": "PUBLIC_PLACES",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
