@@ -32,7 +32,22 @@
           "registrationAadhaar": 123456789012,
           "registrationMobile": 9999999999,
           "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
+        },
+        {
+          "hospitalRegistar": "Dr abc",
+          "registrationNo": "ABC1",
+          "registrationAadhaar": 111111111111,
+          "registrationMobile": 8888888888,
+          "registarDesig": "DESIGNATION_ICDS_SUPERVISOR"
+        },
+        {
+          "hospitalRegistar": "Dr GTH",
+          "registrationNo": "GTH1",
+          "registrationAadhaar": 232323232323,
+          "registrationMobile": 7777777777,
+          "registarDesig": "DESIGNATION_GYNAECOLOGIST"
         }
+        
       ],
       "talukCode": "TALUK_KOCHI",
       "stateCode": "STATE_LABEL",
