@@ -25514,6 +25514,18 @@
       "actionid": 2456,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
     }
   ]
 }
