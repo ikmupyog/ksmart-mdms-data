@@ -125,7 +125,15 @@
         "key" : "FMDetail",
         "attributeList" : [
           {
-            "jsonPath" : "aadhaarNo",
+            "jsonPath" : "aadhaarNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "mobileNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "emailId",
             "type" : "Normal"
           }
         ]
