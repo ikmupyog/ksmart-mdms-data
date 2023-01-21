@@ -3,117 +3,5740 @@
   "moduleName": "common-masters",
   "District": [
     {
+      "name": "Kheri",
+      "namelocal": "ഖേരി ",
+      "code": "DISTRICT_173",
+      "id": 173,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
       "name": "Thiruvananthapuram",
-      "localname": "തിരുവനന്തപുരം",
-      "code": "DIST_TVM",
-      "stateid": 32,
-      "districtid": 1,
-      "active": "true"
+      "namelocal": "തിരുവനന്തപുരം",
+      "code": "DISTRICT_1",
+      "id": 1,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Kollam",
-      "localname": "കൊല്ലം",
-      "code": "DIST_KLM",
-      "stateid": 32,
-      "districtid": 2,
-      "active": "true"
+      "namelocal": "കൊല്ലം",
+      "code": "DISTRICT_2",
+      "id": 2,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Pathanamthitta",
-      "localname": "പത്തനംതിട്ട",
-      "code": "DIST_PTA",
-      "stateid": 32,
-      "districtid": 3,
-      "active": "true"
+      "namelocal": "പത്തനംതിട്ട",
+      "code": "DISTRICT_3",
+      "id": 3,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Alappuzha",
-      "localname": "ആലപ്പുഴ",
-      "code": "DIST_APL",
-      "stateid": 32,
-      "districtid": 4,
-      "active": "true"
+      "namelocal": "ആലപ്പുഴ",
+      "code": "DISTRICT_4",
+      "id": 4,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Kottayam",
-      "localname": "കോട്ടയം",
-      "code": "DIST_KTM",
-      "stateid": 32,
-      "districtid": 5,
-      "active": "true"
+      "namelocal": "കോട്ടയം",
+      "code": "DISTRICT_5",
+      "id": 5,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Idukki",
-      "localname": "ഇടുക്കി",
-      "code": "DIST_IDK",
-      "stateid": 32,
-      "districtid": 6,
-      "active": "true"
+      "namelocal": "ഇടുക്കി",
+      "code": "DISTRICT_6",
+      "id": 6,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Ernakulam",
-      "localname": "എറണാകുളം",
-      "code": "DIST_EKM",
-      "stateid": 32,
-      "districtid": 7,
-      "active": "true"
+      "namelocal": "എറണാകുളം",
+      "code": "DISTRICT_7",
+      "id": 7,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Thrissur",
-      "localname": "തൃശ്ശൂര്‍",
-      "code": "DIST_TSR",
-      "stateid": 32,
-      "districtid": 8,
-      "active": "true"
+      "namelocal": "തൃശ്ശൂര്‍",
+      "code": "DISTRICT_8",
+      "id": 8,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Palakkad",
-      "localname": "പാലക്കാട്",
-      "code": "DIST_PKD",
-      "stateid": 32,
-      "districtid": 9,
-      "active": "true"
+      "namelocal": "പാലക്കാട്",
+      "code": "DISTRICT_9",
+      "id": 9,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Malappuram",
-      "localname": "മലപ്പുറം",
-      "code": "DIST_MLP",
-      "stateid": 32,
-      "districtid": 10,
-      "active": "true"
+      "namelocal": "മലപ്പുറം",
+      "code": "DISTRICT_10",
+      "id": 10,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Kozhikode",
-      "localname": "കോഴിക്കോട്",
-      "code": "DIST_KZD",
-      "stateid": 32,
-      "districtid": 11,
-      "active": "true"
+      "namelocal": "കോഴിക്കോട്",
+      "code": "DISTRICT_11",
+      "id": 11,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Wayanad",
-      "localname": "വയനാട്",
-      "code": "DIST_WND",
-      "stateid": 32,
-      "districtid": 12,
-      "active": "true"
+      "namelocal": "വയനാട്",
+      "code": "DISTRICT_12",
+      "id": 12,
+      "active": true,
+      "type": "COMMON"
     },
     {
       "name": "Kannur",
-      "localname": "കണ്ണൂര്‍",
-      "code": "DIST_KNR",
-      "stateid": 32,
-      "districtid": 13,
-      "active": "true"
+      "namelocal": "കണ്ണൂര്‍",
+      "code": "DISTRICT_13",
+      "id": 13,
+      "active": true,
+      "type": "COMMON"
     },
-   
     {
       "name": "Kasaragod",
-      "localname": "കാസര്‍കോഡ്",
-      "code": "DIST_KSD",
-      "stateid": 32,
-      "districtid": 14,
-      "active": "true"
+      "namelocal": "കാസര്‍കോഡ്",
+      "code": "DISTRICT_14",
+      "id": 14,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kupwara",
+      "namelocal": "കുപ്‍വാറ",
+      "code": "DISTRICT_15",
+      "id": 15,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Baramulla",
+      "namelocal": "ബറാമുള്ള",
+      "code": "DISTRICT_16",
+      "id": 16,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Srinagar",
+      "namelocal": "ശ്രീനഗര്‍",
+      "code": "DISTRICT_17",
+      "id": 17,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Badgam",
+      "namelocal": "ബഡ്ഗാം",
+      "code": "DISTRICT_18",
+      "id": 18,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pulwama",
+      "namelocal": "പുല്‍വാമ",
+      "code": "DISTRICT_19",
+      "id": 19,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Anantnag",
+      "namelocal": "അനന്തനാഗ്",
+      "code": "DISTRICT_20",
+      "id": 20,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Doda",
+      "namelocal": "ഡോഡ",
+      "code": "DISTRICT_23",
+      "id": 23,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kishtwar",
+      "namelocal": "കിഷ്ത്വര്‍",
+      "code": "DISTRICT_24",
+      "id": 24,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ramban",
+      "namelocal": "രംബന്‍",
+      "code": "DISTRICT_25",
+      "id": 25,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Udhampur",
+      "namelocal": "ഉധംപൂര്‍",
+      "code": "DISTRICT_26",
+      "id": 26,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Poonch",
+      "namelocal": "പൂഞ്ച്",
+      "code": "DISTRICT_27",
+      "id": 27,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rajauri",
+      "namelocal": "റജൗറി",
+      "code": "DISTRICT_28",
+      "id": 28,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jammu",
+      "namelocal": "ജമ്മു",
+      "code": "DISTRICT_29",
+      "id": 29,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kathua",
+      "namelocal": "കത്വ",
+      "code": "DISTRICT_30",
+      "id": 30,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bandipora",
+      "namelocal": "ബന്തിപ്പുര",
+      "code": "DISTRICT_31",
+      "id": 31,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ganderbal",
+      "namelocal": "ഗന്ധര്‍ബല്‍",
+      "code": "DISTRICT_32",
+      "id": 32,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kulgam",
+      "namelocal": "കുല്‍ഗാം",
+      "code": "DISTRICT_33",
+      "id": 33,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Reasi",
+      "namelocal": "റിയാസി",
+      "code": "DISTRICT_34",
+      "id": 34,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Samba",
+      "namelocal": "സാംബ",
+      "code": "DISTRICT_35",
+      "id": 35,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shopian",
+      "namelocal": "ഷോപിയാന്‍",
+      "code": "DISTRICT_36",
+      "id": 36,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chamba",
+      "namelocal": "ചമ്പ",
+      "code": "DISTRICT_37",
+      "id": 37,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kangra",
+      "namelocal": "കംഗ്ര",
+      "code": "DISTRICT_38",
+      "id": 38,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lahul And Spiti",
+      "namelocal": "ലഹൗള്‍ & സ്പിറ്റി",
+      "code": "DISTRICT_39",
+      "id": 39,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kullu",
+      "namelocal": "കുലു",
+      "code": "DISTRICT_40",
+      "id": 40,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mandi",
+      "namelocal": "മണ്ഡി",
+      "code": "DISTRICT_41",
+      "id": 41,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hamirpur",
+      "namelocal": "ഹമിര്‍പുര്‍",
+      "code": "DISTRICT_42",
+      "id": 42,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Una",
+      "namelocal": "യൂണ",
+      "code": "DISTRICT_43",
+      "id": 43,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bilaspur",
+      "namelocal": "ബിലാസ്പൂര്‍",
+      "code": "DISTRICT_44",
+      "id": 44,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Solan",
+      "namelocal": "സൊലാന്‍",
+      "code": "DISTRICT_45",
+      "id": 45,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sirmaur",
+      "namelocal": "സിര്‍മൗര്‍",
+      "code": "DISTRICT_46",
+      "id": 46,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shimla",
+      "namelocal": "സിംല",
+      "code": "DISTRICT_47",
+      "id": 47,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kinnaur",
+      "namelocal": "കിനൌര്‍",
+      "code": "DISTRICT_48",
+      "id": 48,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gurdaspur",
+      "namelocal": "ഗുരുദാസ്പൂര്‍",
+      "code": "DISTRICT_49",
+      "id": 49,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Amritsar",
+      "namelocal": "അമൃത്‍സര്‍",
+      "code": "DISTRICT_50",
+      "id": 50,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kapurthala",
+      "namelocal": "കപൂര്‍ത്തല",
+      "code": "DISTRICT_51",
+      "id": 51,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jalandhar",
+      "namelocal": "ജലന്ധര്‍",
+      "code": "DISTRICT_52",
+      "id": 52,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hoshiarpur",
+      "namelocal": "ഹോഷിയാര്‍പുര്‍",
+      "code": "DISTRICT_53",
+      "id": 53,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shahid Bhagat Singh Nagar",
+      "namelocal": "സാഹിബ് ഭഗത് സിംഗ് നഗര്‍",
+      "code": "DISTRICT_54",
+      "id": 54,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rupnagar",
+      "namelocal": "രൂപ്‍നഗര്‍",
+      "code": "DISTRICT_55",
+      "id": 55,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "namelocal": "ഫത്തേഗഢ്സാഹിബ്",
+      "code": "DISTRICT_56",
+      "id": 56,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ludhiana",
+      "namelocal": "ലുധിയാന",
+      "code": "DISTRICT_57",
+      "id": 57,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Moga",
+      "namelocal": "മോഗ",
+      "code": "DISTRICT_58",
+      "id": 58,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Firozepur",
+      "namelocal": "ഫിറോസ്പുര്‍",
+      "code": "DISTRICT_59",
+      "id": 59,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sri Muktsar Sahib",
+      "namelocal": "ശ്രീ മുക്ത്‍സര്‍ സാഹിബ്",
+      "code": "DISTRICT_60",
+      "id": 60,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Faridkot",
+      "namelocal": "ഫരീദ്കോട്ട്",
+      "code": "DISTRICT_61",
+      "id": 61,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bathinda",
+      "namelocal": "ഭട്ടിന്‍ഡ",
+      "code": "DISTRICT_62",
+      "id": 62,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mansa",
+      "namelocal": "മാന്‍സ",
+      "code": "DISTRICT_63",
+      "id": 63,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sangrur",
+      "namelocal": "സന്‍ഗ്രൂര്‍",
+      "code": "DISTRICT_64",
+      "id": 64,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Patiala",
+      "namelocal": "പട്യാല",
+      "code": "DISTRICT_65",
+      "id": 65,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Barnala",
+      "namelocal": "ബര്‍ണല",
+      "code": "DISTRICT_66",
+      "id": 66,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fazilka",
+      "namelocal": "ഫസില്‍ക",
+      "code": "DISTRICT_67",
+      "id": 67,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pathankot",
+      "namelocal": "പത്താന്‍കോട്ട്",
+      "code": "DISTRICT_68",
+      "id": 68,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "S.A.S Nagar",
+      "namelocal": "എസ്എഎസ് നഗര്‍",
+      "code": "DISTRICT_69",
+      "id": 69,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tarn Taran",
+      "namelocal": "താണ്‍ തരണ്‍",
+      "code": "DISTRICT_70",
+      "id": 70,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chandigarh",
+      "namelocal": "ചണ്ഡീഗഢ്",
+      "code": "DISTRICT_71",
+      "id": 71,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Uttar Kashi",
+      "namelocal": "ഉത്തര്‍കാശി",
+      "code": "DISTRICT_72",
+      "id": 72,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chamoli",
+      "namelocal": "ചമോലി",
+      "code": "DISTRICT_73",
+      "id": 73,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rudra Prayag",
+      "namelocal": "രുദ്രപ്രയാഗ്",
+      "code": "DISTRICT_74",
+      "id": 74,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tehri Garhwal",
+      "namelocal": "തേഹ്രി ഗഢ്‍വാള്‍",
+      "code": "DISTRICT_75",
+      "id": 75,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dehradun",
+      "namelocal": "ഡെറാഡൂണ്‍",
+      "code": "DISTRICT_76",
+      "id": 76,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pauri Garhwal",
+      "namelocal": "പൗരി ഗഢ്‍വാള്‍",
+      "code": "DISTRICT_77",
+      "id": 77,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pithoragarh",
+      "namelocal": "പിത്തോറഗഢ്",
+      "code": "DISTRICT_78",
+      "id": 78,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bageshwar",
+      "namelocal": "ബാഹേശ്വര്‍",
+      "code": "DISTRICT_79",
+      "id": 79,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Almora",
+      "namelocal": "അല്‍മോറ",
+      "code": "DISTRICT_80",
+      "id": 80,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Champawat",
+      "namelocal": "ചമ്പാവത്",
+      "code": "DISTRICT_81",
+      "id": 81,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nainital",
+      "namelocal": "നൈനിത്താള്‍",
+      "code": "DISTRICT_82",
+      "id": 82,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Udam Singh Nagar",
+      "namelocal": "ഊതം സിങ് നഗര്‍",
+      "code": "DISTRICT_83",
+      "id": 83,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Haridwar",
+      "namelocal": "ഹരിദ്വാര്‍",
+      "code": "DISTRICT_84",
+      "id": 84,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Panchkula",
+      "namelocal": "പഞ്ചകുല",
+      "code": "DISTRICT_85",
+      "id": 85,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ambala",
+      "namelocal": "അമ്പാല",
+      "code": "DISTRICT_86",
+      "id": 86,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Yamunanagar",
+      "namelocal": "യമുനാനഗര്‍",
+      "code": "DISTRICT_87",
+      "id": 87,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kurukshetra",
+      "namelocal": "കുരുക്ഷേത്ര",
+      "code": "DISTRICT_88",
+      "id": 88,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kaithal",
+      "namelocal": "കൈതല്‍",
+      "code": "DISTRICT_89",
+      "id": 89,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karnal",
+      "namelocal": "കര്‍ണാല്‍",
+      "code": "DISTRICT_90",
+      "id": 90,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Panipat",
+      "namelocal": "പാനിപട്ട്",
+      "code": "DISTRICT_91",
+      "id": 91,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sonipat",
+      "namelocal": "സോണിപ്പട്ട്",
+      "code": "DISTRICT_92",
+      "id": 92,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jind",
+      "namelocal": "ജീന്ദ്",
+      "code": "DISTRICT_93",
+      "id": 93,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fatehabad",
+      "namelocal": "ഫത്തേബാദ്",
+      "code": "DISTRICT_94",
+      "id": 94,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sirsa",
+      "namelocal": "സിര്‍സ",
+      "code": "DISTRICT_95",
+      "id": 95,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hisar",
+      "namelocal": "ഹിസ്സാര്‍",
+      "code": "DISTRICT_96",
+      "id": 96,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhiwani",
+      "namelocal": "ഭിവാനി",
+      "code": "DISTRICT_97",
+      "id": 97,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rohtak",
+      "namelocal": "റോത്തക്",
+      "code": "DISTRICT_98",
+      "id": 98,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jhajjar",
+      "namelocal": "ജാഗര്‍",
+      "code": "DISTRICT_99",
+      "id": 99,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahendragarh",
+      "namelocal": "മഹേന്ദ്രഗഢ്",
+      "code": "DISTRICT_100",
+      "id": 100,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rewari",
+      "namelocal": "റിവാറി",
+      "code": "DISTRICT_101",
+      "id": 101,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gurugram",
+      "namelocal": "ഗുര്‍ഗാവ്",
+      "code": "DISTRICT_102",
+      "id": 102,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Faridabad",
+      "namelocal": "ഫരിദാബാദ്",
+      "code": "DISTRICT_103",
+      "id": 103,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Charki Dadri",
+      "namelocal": "ചര്‍ക്കി ദാദ്രി",
+      "code": "DISTRICT_104",
+      "id": 104,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mewat",
+      "namelocal": "മേവത്",
+      "code": "DISTRICT_105",
+      "id": 105,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Palwal",
+      "namelocal": "പല്‍വാള്‍",
+      "code": "DISTRICT_106",
+      "id": 106,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North West",
+      "namelocal": "നോര്‍ത്ത് വെസ്റ്റ് ഡല്‍ഹി",
+      "code": "DISTRICT_107",
+      "id": 107,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North",
+      "namelocal": "നോര്‍ത്ത് ഡല്‍ഹി",
+      "code": "DISTRICT_108",
+      "id": 108,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North East",
+      "namelocal": "നോര്‍ത്ത് ഈസ്റ്റ് ഡല്‍ഹി",
+      "code": "DISTRICT_109",
+      "id": 109,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East",
+      "namelocal": "ഈസ്റ്റ് ഡല്‍ഹി",
+      "code": "DISTRICT_110",
+      "id": 110,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "New Delhi",
+      "namelocal": "ന്യുഡല്‍ഹി ",
+      "code": "DISTRICT_111",
+      "id": 111,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Central",
+      "namelocal": "സെന്‍ട്രല്‍ ഡല്‍ഹി",
+      "code": "DISTRICT_112",
+      "id": 112,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West",
+      "namelocal": "വെസ്റ്റ് ഡല്‍ഹി",
+      "code": "DISTRICT_113",
+      "id": 113,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South West",
+      "namelocal": "സൗത്ത് വെസ്റ്റ് ഡല്‍ഹി",
+      "code": "DISTRICT_114",
+      "id": 114,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South",
+      "namelocal": "സൗത്ത് ഡല്‍ഹി",
+      "code": "DISTRICT_115",
+      "id": 115,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shahdara",
+      "namelocal": "ഷഹ്ദാര",
+      "code": "DISTRICT_116",
+      "id": 116,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South East",
+      "namelocal": "സൗത്ത് ഈസ്റ്റ് ഡല്‍ഹി",
+      "code": "DISTRICT_117",
+      "id": 117,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ganganagar",
+      "namelocal": "ഗംഗാനഗര്‍",
+      "code": "DISTRICT_118",
+      "id": 118,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hanumangarh",
+      "namelocal": "ഹനുമാന്‍ഗഢ്",
+      "code": "DISTRICT_119",
+      "id": 119,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bikaner",
+      "namelocal": "ബീക്കാനെര്‍",
+      "code": "DISTRICT_120",
+      "id": 120,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Churu",
+      "namelocal": "ചുരു",
+      "code": "DISTRICT_121",
+      "id": 121,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jhunjhunu",
+      "namelocal": "ഝുഝുണു",
+      "code": "DISTRICT_122",
+      "id": 122,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Alwar",
+      "namelocal": "അല്‍വാര്‍",
+      "code": "DISTRICT_123",
+      "id": 123,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bharatpur",
+      "namelocal": "ഭരത്പൂര്‍",
+      "code": "DISTRICT_124",
+      "id": 124,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dholpur",
+      "namelocal": "ധോല്‍പുര്‍",
+      "code": "DISTRICT_125",
+      "id": 125,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karauli",
+      "namelocal": "കാരാളി",
+      "code": "DISTRICT_126",
+      "id": 126,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sawai Madhopur",
+      "namelocal": "സവായ്‍മധോപൂര്‍",
+      "code": "DISTRICT_127",
+      "id": 127,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dausa",
+      "namelocal": "ഡൊവൂസ",
+      "code": "DISTRICT_128",
+      "id": 128,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jaipur",
+      "namelocal": "ജയ്പൂര്‍",
+      "code": "DISTRICT_129",
+      "id": 129,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sikar",
+      "namelocal": "സീക്കര്‍",
+      "code": "DISTRICT_130",
+      "id": 130,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nagaur",
+      "namelocal": "നാഗോര്‍",
+      "code": "DISTRICT_131",
+      "id": 131,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jodhpur",
+      "namelocal": "ജോധ്പൂര്‍",
+      "code": "DISTRICT_132",
+      "id": 132,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jaisalmer",
+      "namelocal": "ജെസല്‍മേര്‍",
+      "code": "DISTRICT_133",
+      "id": 133,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Barmer",
+      "namelocal": "ബാര്‍മേര്‍",
+      "code": "DISTRICT_134",
+      "id": 134,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jalore",
+      "namelocal": "ജലോര്‍",
+      "code": "DISTRICT_135",
+      "id": 135,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sirohi",
+      "namelocal": "സിരോഹി",
+      "code": "DISTRICT_136",
+      "id": 136,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pali",
+      "namelocal": "പാലി",
+      "code": "DISTRICT_137",
+      "id": 137,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ajmer",
+      "namelocal": "അജമീര്‍",
+      "code": "DISTRICT_138",
+      "id": 138,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tonk",
+      "namelocal": "ടോംക്",
+      "code": "DISTRICT_139",
+      "id": 139,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bundi",
+      "namelocal": "ബുന്തി",
+      "code": "DISTRICT_140",
+      "id": 140,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhilwara",
+      "namelocal": "ഭീല്‍വാര",
+      "code": "DISTRICT_141",
+      "id": 141,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rajsamand",
+      "namelocal": "രാജ്സമന്ദ്",
+      "code": "DISTRICT_142",
+      "id": 142,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Udaipur",
+      "namelocal": "ഉദയ്‍പൂര്‍",
+      "code": "DISTRICT_143",
+      "id": 143,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dungarpur",
+      "namelocal": "ദുംഗര്‍പുര്‍",
+      "code": "DISTRICT_144",
+      "id": 144,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Banswara",
+      "namelocal": "ബാന്‍സ്വാര",
+      "code": "DISTRICT_145",
+      "id": 145,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chittorgarh",
+      "namelocal": "ചിത്തോര്‍ഗഢ്",
+      "code": "DISTRICT_146",
+      "id": 146,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kota",
+      "namelocal": "കോട്ട",
+      "code": "DISTRICT_147",
+      "id": 147,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Baran",
+      "namelocal": "ബാരന്‍",
+      "code": "DISTRICT_148",
+      "id": 148,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jhalawar",
+      "namelocal": "ഝാലവാര്‍",
+      "code": "DISTRICT_149",
+      "id": 149,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pratapgarh",
+      "namelocal": "പ്രതാപ്ഗഢ്",
+      "code": "DISTRICT_150",
+      "id": 150,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Saharanpur",
+      "namelocal": "സഹാറന്‍പുര്‍",
+      "code": "DISTRICT_151",
+      "id": 151,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Muzaffarnagar",
+      "namelocal": "മുസഫര്‍ നഗര്‍",
+      "code": "DISTRICT_152",
+      "id": 152,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bijnor",
+      "namelocal": "ബിജ്നോര്‍",
+      "code": "DISTRICT_153",
+      "id": 153,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Moradabad",
+      "namelocal": "മൊറാദാബാദ്",
+      "code": "DISTRICT_154",
+      "id": 154,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rampur",
+      "namelocal": "റാംപുര്‍",
+      "code": "DISTRICT_155",
+      "id": 155,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Amroha",
+      "namelocal": "അംരോഹ (ജ്യോതിബാ ഫൂലെ നഗര്‍)",
+      "code": "DISTRICT_156",
+      "id": 156,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Meerut",
+      "namelocal": "മീററ്റ്",
+      "code": "DISTRICT_157",
+      "id": 157,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Baghpat",
+      "namelocal": "ബാഗ്പെട്ട്",
+      "code": "DISTRICT_158",
+      "id": 158,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ghaziabad",
+      "namelocal": "ഘാസിയാബാദ്",
+      "code": "DISTRICT_159",
+      "id": 159,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gautam Buddha Nagar",
+      "namelocal": "ഗൗതം ബുദ്ധ നഗര്‍",
+      "code": "DISTRICT_160",
+      "id": 160,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bulandshahr",
+      "namelocal": "ബുലങ്ഷഹര്‍",
+      "code": "DISTRICT_161",
+      "id": 161,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aligarh",
+      "namelocal": "അലിഗഢ്",
+      "code": "DISTRICT_162",
+      "id": 162,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hathras",
+      "namelocal": "ഹത്രാസ് (മഹാമായ നഗര്‍)",
+      "code": "DISTRICT_163",
+      "id": 163,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mathura",
+      "namelocal": "മഥുര",
+      "code": "DISTRICT_164",
+      "id": 164,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agra",
+      "namelocal": "ആഗ്ര",
+      "code": "DISTRICT_165",
+      "id": 165,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Firozabad",
+      "namelocal": "ഫിറോസാബാദ്",
+      "code": "DISTRICT_166",
+      "id": 166,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Etah",
+      "namelocal": "ഇറ്റാ",
+      "code": "DISTRICT_167",
+      "id": 167,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mainpuri",
+      "namelocal": "മയ്ന്‍പുരി",
+      "code": "DISTRICT_168",
+      "id": 168,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Budaun",
+      "namelocal": "ബുഡോ",
+      "code": "DISTRICT_169",
+      "id": 169,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bareilly",
+      "namelocal": "ബറേലി",
+      "code": "DISTRICT_170",
+      "id": 170,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pilibhit",
+      "namelocal": "പിലിഭിറ്റ്",
+      "code": "DISTRICT_171",
+      "id": 171,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shahjahanpur",
+      "namelocal": "ഷാജഹാന്‍പുര്‍",
+      "code": "DISTRICT_172",
+      "id": 172,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sitapur",
+      "namelocal": "സീതാപുര്‍",
+      "code": "DISTRICT_174",
+      "id": 174,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hardoi",
+      "namelocal": "ഹര്‍ഡോയ്",
+      "code": "DISTRICT_175",
+      "id": 175,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Unnao",
+      "namelocal": "ഉന്നാവ്",
+      "code": "DISTRICT_176",
+      "id": 176,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lucknow",
+      "namelocal": "ലക്നൌ",
+      "code": "DISTRICT_177",
+      "id": 177,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rae Bareli",
+      "namelocal": "റായ്ബറേലി",
+      "code": "DISTRICT_178",
+      "id": 178,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Farrukhabad",
+      "namelocal": "ഫറൂക്കാബാദ്",
+      "code": "DISTRICT_179",
+      "id": 179,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kannauj",
+      "namelocal": "കനൗജ്",
+      "code": "DISTRICT_180",
+      "id": 180,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Etawah",
+      "namelocal": "ഇറ്റാവാ",
+      "code": "DISTRICT_181",
+      "id": 181,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Auraiya",
+      "namelocal": "ഒറെയ",
+      "code": "DISTRICT_182",
+      "id": 182,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kanpur Dehat",
+      "namelocal": "കാണ്‍പൂര്‍ ദഹത്",
+      "code": "DISTRICT_183",
+      "id": 183,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kanpur Nagar",
+      "namelocal": "കാണ്‍പൂര്‍ നഗര്‍",
+      "code": "DISTRICT_184",
+      "id": 184,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jalaun",
+      "namelocal": "ജലോ",
+      "code": "DISTRICT_185",
+      "id": 185,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jhansi",
+      "namelocal": "ഝാന്‍സി",
+      "code": "DISTRICT_186",
+      "id": 186,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lalitpur",
+      "namelocal": "ലളിത്പുര്‍",
+      "code": "DISTRICT_187",
+      "id": 187,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hamirpur",
+      "namelocal": "ഹമീര്‍പുര്‍",
+      "code": "DISTRICT_188",
+      "id": 188,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahoba",
+      "namelocal": "മഹോബ",
+      "code": "DISTRICT_189",
+      "id": 189,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Banda",
+      "namelocal": "ബാന്‍ഡ",
+      "code": "DISTRICT_190",
+      "id": 190,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chitrakoot",
+      "namelocal": "ചിത്രകൂട്",
+      "code": "DISTRICT_191",
+      "id": 191,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Fatehpur",
+      "namelocal": "ഫത്തേപ്പൂര്‍",
+      "code": "DISTRICT_192",
+      "id": 192,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pratapgarh",
+      "namelocal": "പ്രതാപ്ഗഢ്",
+      "code": "DISTRICT_193",
+      "id": 193,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kaushambi",
+      "namelocal": "കൗശമ്പി",
+      "code": "DISTRICT_194",
+      "id": 194,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Allahabad",
+      "namelocal": "അലഹബാദ്",
+      "code": "DISTRICT_195",
+      "id": 195,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Barabanki",
+      "namelocal": "ബാറാബാങ്കി",
+      "code": "DISTRICT_196",
+      "id": 196,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Faizabad",
+      "namelocal": "ഫയ്സാബാദ്",
+      "code": "DISTRICT_197",
+      "id": 197,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ambedkar Nagar",
+      "namelocal": "അംബേദ്കര്‍ നഗര്‍",
+      "code": "DISTRICT_198",
+      "id": 198,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sultanpur",
+      "namelocal": "സുല്‍ത്താന്‍പുര്‍",
+      "code": "DISTRICT_199",
+      "id": 199,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bahraich",
+      "namelocal": "ബഹറായിച്ച്",
+      "code": "DISTRICT_200",
+      "id": 200,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shravasti",
+      "namelocal": "ശ്രാവസ്തി",
+      "code": "DISTRICT_201",
+      "id": 201,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Balrampur",
+      "namelocal": "ബല്‍റാംപുര്‍",
+      "code": "DISTRICT_202",
+      "id": 202,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gonda",
+      "namelocal": "ഗോണ്ഡ",
+      "code": "DISTRICT_203",
+      "id": 203,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Siddharth Nagar",
+      "namelocal": "സിദ്ധാര്‍ഥ് നഗര്‍",
+      "code": "DISTRICT_204",
+      "id": 204,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Basti",
+      "namelocal": "ബസ്തി",
+      "code": "DISTRICT_205",
+      "id": 205,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sant Kabeer Nagar",
+      "namelocal": "സന്ത് കബീര്‍ നഗര്‍",
+      "code": "DISTRICT_206",
+      "id": 206,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Maharajganj",
+      "namelocal": "മഹാരാജ്ഗഞ്ച്",
+      "code": "DISTRICT_207",
+      "id": 207,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gorakhpur",
+      "namelocal": "ഗോരഖ്പുര്‍",
+      "code": "DISTRICT_208",
+      "id": 208,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kushi Nagar",
+      "namelocal": "ഖുശി നഗര്‍",
+      "code": "DISTRICT_209",
+      "id": 209,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Deoria",
+      "namelocal": "ദേവറിയ",
+      "code": "DISTRICT_210",
+      "id": 210,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Azamgarh",
+      "namelocal": "ആസാംഗഢ്",
+      "code": "DISTRICT_211",
+      "id": 211,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mau",
+      "namelocal": "മൗ",
+      "code": "DISTRICT_212",
+      "id": 212,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ballia",
+      "namelocal": "ബലിയ",
+      "code": "DISTRICT_213",
+      "id": 213,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jaunpur",
+      "namelocal": "ജോപൂര്‍",
+      "code": "DISTRICT_214",
+      "id": 214,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ghazipur",
+      "namelocal": "ഘാസിപ്പൂര്‍",
+      "code": "DISTRICT_215",
+      "id": 215,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chandauli",
+      "namelocal": "ചന്ദൗളി",
+      "code": "DISTRICT_216",
+      "id": 216,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Varanasi",
+      "namelocal": "വാരാണസി",
+      "code": "DISTRICT_217",
+      "id": 217,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhadohi",
+      "namelocal": "സന്ത് രവിദാസ്‍നഗര്‍",
+      "code": "DISTRICT_218",
+      "id": 218,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mirzapur",
+      "namelocal": "മിര്‍സാപ്പുര്‍",
+      "code": "DISTRICT_219",
+      "id": 219,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sonbhadra",
+      "namelocal": "സോണ്‍ഭദ്ര",
+      "code": "DISTRICT_220",
+      "id": 220,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Amethi",
+      "namelocal": "അമേതി",
+      "code": "DISTRICT_221",
+      "id": 221,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hapur",
+      "namelocal": "ഹാപൂര്‍",
+      "code": "DISTRICT_222",
+      "id": 222,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kasganj",
+      "namelocal": "കസ്ഗഞ്ച്",
+      "code": "DISTRICT_223",
+      "id": 223,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sambhal",
+      "namelocal": "സാംബാള്‍",
+      "code": "DISTRICT_224",
+      "id": 224,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shamli",
+      "namelocal": "ഷാമ്‍ലി ",
+      "code": "DISTRICT_225",
+      "id": 225,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pashchim Champaran",
+      "namelocal": "പശ്ചിം ചമ്പാരന്‍",
+      "code": "DISTRICT_226",
+      "id": 226,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Purbi Champaran",
+      "namelocal": "പൂര്‍ബി ചമ്പാരന്‍",
+      "code": "DISTRICT_227",
+      "id": 227,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sheohar",
+      "namelocal": "ഷ്യോഹര്‍",
+      "code": "DISTRICT_228",
+      "id": 228,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sitamarhi",
+      "namelocal": "സീതാമര്‍ഹി",
+      "code": "DISTRICT_229",
+      "id": 229,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Madhubani",
+      "namelocal": "മധുബനി",
+      "code": "DISTRICT_230",
+      "id": 230,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Supaul",
+      "namelocal": "സുപോള്‍",
+      "code": "DISTRICT_231",
+      "id": 231,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Araria",
+      "namelocal": "അരാരിയ",
+      "code": "DISTRICT_232",
+      "id": 232,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kishanganj",
+      "namelocal": "കിഷന്‍ഗഞ്ച്",
+      "code": "DISTRICT_233",
+      "id": 233,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Purnia",
+      "namelocal": "പൂര്‍ണിയ",
+      "code": "DISTRICT_234",
+      "id": 234,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Katihar",
+      "namelocal": "കാത്തിഹാര്‍",
+      "code": "DISTRICT_235",
+      "id": 235,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Madhepura",
+      "namelocal": "മാധേപുര",
+      "code": "DISTRICT_236",
+      "id": 236,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Saharsa",
+      "namelocal": "സഹര്‍സ",
+      "code": "DISTRICT_237",
+      "id": 237,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Darbhanga",
+      "namelocal": "ധര്‍ഭംഗാ",
+      "code": "DISTRICT_238",
+      "id": 238,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Muzaffarpur",
+      "namelocal": "മുസാഫര്‍പൂര്‍",
+      "code": "DISTRICT_239",
+      "id": 239,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gopalganj",
+      "namelocal": "ഗോപാല്‍ഗഞ്ച്",
+      "code": "DISTRICT_240",
+      "id": 240,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Siwan",
+      "namelocal": "സിവന്‍",
+      "code": "DISTRICT_241",
+      "id": 241,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Saran",
+      "namelocal": "സര",
+      "code": "DISTRICT_242",
+      "id": 242,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vaishali",
+      "namelocal": "വൈശാലി",
+      "code": "DISTRICT_243",
+      "id": 243,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Samastipur",
+      "namelocal": "സമസ്തിപുര്‍",
+      "code": "DISTRICT_244",
+      "id": 244,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Begusarai",
+      "namelocal": "ബഗുസരായി",
+      "code": "DISTRICT_245",
+      "id": 245,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khagaria",
+      "namelocal": "കഖറിയ",
+      "code": "DISTRICT_246",
+      "id": 246,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhagalpur",
+      "namelocal": "ഭാഗല്‍പൂര്‍",
+      "code": "DISTRICT_247",
+      "id": 247,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Banka",
+      "namelocal": "ബങ്ക",
+      "code": "DISTRICT_248",
+      "id": 248,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Munger",
+      "namelocal": "മുംഗര്‍",
+      "code": "DISTRICT_249",
+      "id": 249,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lakhisarai",
+      "namelocal": "ലക്കിസരായ്",
+      "code": "DISTRICT_250",
+      "id": 250,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sheikhpura",
+      "namelocal": "ഷേയ്ക്ക്പുര",
+      "code": "DISTRICT_251",
+      "id": 251,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nalanda",
+      "namelocal": "നളന്ദ",
+      "code": "DISTRICT_252",
+      "id": 252,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Patna",
+      "namelocal": "പാറ്റ്ന",
+      "code": "DISTRICT_253",
+      "id": 253,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhojpur",
+      "namelocal": "ഭോജ്പൂര്‍",
+      "code": "DISTRICT_254",
+      "id": 254,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Buxar",
+      "namelocal": "ഭക്സര്‍",
+      "code": "DISTRICT_255",
+      "id": 255,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kaimur (Bhabua)",
+      "namelocal": "കയ്മുര്‍ (ബഹബുവ)",
+      "code": "DISTRICT_256",
+      "id": 256,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rohtas",
+      "namelocal": "റോഹ്താസ്",
+      "code": "DISTRICT_257",
+      "id": 257,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Arwal",
+      "namelocal": "അര്‍വല്‍",
+      "code": "DISTRICT_258",
+      "id": 258,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jehanabad",
+      "namelocal": "ജഹനാബാദ്",
+      "code": "DISTRICT_259",
+      "id": 259,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aurangabad",
+      "namelocal": "ഔറംഗാബാദ്",
+      "code": "DISTRICT_260",
+      "id": 260,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gaya",
+      "namelocal": "ഗയാ",
+      "code": "DISTRICT_261",
+      "id": 261,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nawada",
+      "namelocal": "നവാഡ",
+      "code": "DISTRICT_262",
+      "id": 262,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jamui",
+      "namelocal": "ജമുയി",
+      "code": "DISTRICT_263",
+      "id": 263,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North District",
+      "namelocal": "നോര്‍ത്ത് ജില്ല (സിക്കിം)",
+      "code": "DISTRICT_264",
+      "id": 264,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West District",
+      "namelocal": "വെസ്റ്റ് ജില്ല (സിക്കിം)",
+      "code": "DISTRICT_265",
+      "id": 265,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South District",
+      "namelocal": "സൗത്ത് ജില്ല (സിക്കിം)",
+      "code": "DISTRICT_266",
+      "id": 266,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East District",
+      "namelocal": "ഈസ്റ്റ് ജില്ല (സിക്കിം)",
+      "code": "DISTRICT_267",
+      "id": 267,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tawang",
+      "namelocal": "തവങ്",
+      "code": "DISTRICT_268",
+      "id": 268,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Kameng",
+      "namelocal": "വെസ്റ്റ് കാമെംഗ്",
+      "code": "DISTRICT_269",
+      "id": 269,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Kameng",
+      "namelocal": "ഈസ്റ്റ് കാമെംഗ്",
+      "code": "DISTRICT_270",
+      "id": 270,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Papum Pare",
+      "namelocal": "പവും പാറേ",
+      "code": "DISTRICT_271",
+      "id": 271,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lower Subansiri",
+      "namelocal": "ലലോവര്‍ സുബാന്‍സിരി",
+      "code": "DISTRICT_272",
+      "id": 272,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Upper Subansiri",
+      "namelocal": "അപ്പര്‍ സുബാന്‍സിരി",
+      "code": "DISTRICT_273",
+      "id": 273,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Siang",
+      "namelocal": "വെസ്റ്റ് സിയാങ്",
+      "code": "DISTRICT_274",
+      "id": 274,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Siang",
+      "namelocal": "ഈസ്റ്റ് സിയാങ്",
+      "code": "DISTRICT_275",
+      "id": 275,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Upper Siang",
+      "namelocal": "അപ്പര്‍ സിയാങ്",
+      "code": "DISTRICT_276",
+      "id": 276,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dibang Valley",
+      "namelocal": "ദിബങ്‍വാലി",
+      "code": "DISTRICT_277",
+      "id": 277,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lohit",
+      "namelocal": "ലോഹിത്",
+      "code": "DISTRICT_278",
+      "id": 278,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Changlang",
+      "namelocal": "ചങ്‍ലങ്",
+      "code": "DISTRICT_279",
+      "id": 279,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tirap",
+      "namelocal": "തിറപ്",
+      "code": "DISTRICT_280",
+      "id": 280,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kurung Kumey",
+      "namelocal": "കൂരങ്‍കൂമെ",
+      "code": "DISTRICT_281",
+      "id": 281,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lower Dibang Valley",
+      "namelocal": "ലോവര്‍ ദിബങ്‍വാലി",
+      "code": "DISTRICT_282",
+      "id": 282,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Anjaw",
+      "namelocal": "ആന്‍ജാ",
+      "code": "DISTRICT_283",
+      "id": 283,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kra Daadi",
+      "namelocal": "ക്രാ ഡാഡി",
+      "code": "DISTRICT_284",
+      "id": 284,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Longding",
+      "namelocal": "ലോങ്ഡിംഗ്",
+      "code": "DISTRICT_285",
+      "id": 285,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Namsai",
+      "namelocal": "നംസായി",
+      "code": "DISTRICT_286",
+      "id": 286,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Siang",
+      "namelocal": "സിയാംഗ്",
+      "code": "DISTRICT_287",
+      "id": 287,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mon",
+      "namelocal": "മോ",
+      "code": "DISTRICT_288",
+      "id": 288,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kiphire",
+      "namelocal": "കിഫൈര്‍",
+      "code": "DISTRICT_289",
+      "id": 289,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Longleng",
+      "namelocal": "ലോങ്‍ലെങ്",
+      "code": "DISTRICT_290",
+      "id": 290,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tuensang",
+      "namelocal": "ട്വിന്‍സങ്",
+      "code": "DISTRICT_291",
+      "id": 291,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mokokchung",
+      "namelocal": "മൊകോക്ചങ്",
+      "code": "DISTRICT_292",
+      "id": 292,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Zunheboto",
+      "namelocal": "സുന്‍ഹെബൊട്ടോ",
+      "code": "DISTRICT_293",
+      "id": 293,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Wokha",
+      "namelocal": "വൊഖ",
+      "code": "DISTRICT_294",
+      "id": 294,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dimapur",
+      "namelocal": "ദിമാപൂര്‍",
+      "code": "DISTRICT_295",
+      "id": 295,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kohima",
+      "namelocal": "കൊഹിമ",
+      "code": "DISTRICT_296",
+      "id": 296,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Peren",
+      "namelocal": "പരെണ്‍",
+      "code": "DISTRICT_297",
+      "id": 297,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Phek",
+      "namelocal": "ഫെക്",
+      "code": "DISTRICT_298",
+      "id": 298,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Senapati",
+      "namelocal": "സേനാപതി",
+      "code": "DISTRICT_299",
+      "id": 299,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tamenglong",
+      "namelocal": "തമെങ്‍ലോങ്",
+      "code": "DISTRICT_300",
+      "id": 300,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Churachandpur",
+      "namelocal": "ചുരചന്ദ്പുര്‍",
+      "code": "DISTRICT_301",
+      "id": 301,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bishnupur",
+      "namelocal": "ബിഷ്ണുപൂര്‍",
+      "code": "DISTRICT_302",
+      "id": 302,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Thoubal",
+      "namelocal": "തൗബാല്‍",
+      "code": "DISTRICT_303",
+      "id": 303,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Imphal West",
+      "namelocal": "ഇംഫാല്‍ വെസ്റ്റ്",
+      "code": "DISTRICT_304",
+      "id": 304,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Imphal East",
+      "namelocal": "ഇംഫാല്‍ ഈസ്റ്റ്",
+      "code": "DISTRICT_305",
+      "id": 305,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ukhrul",
+      "namelocal": "ഉക്രൂല്‍",
+      "code": "DISTRICT_306",
+      "id": 306,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chandel",
+      "namelocal": "ചണ്ടേല്‍",
+      "code": "DISTRICT_307",
+      "id": 307,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jiribam",
+      "namelocal": "ജിരിബം",
+      "code": "DISTRICT_308",
+      "id": 308,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kakching",
+      "namelocal": "കാക്ചിംഗ്",
+      "code": "DISTRICT_309",
+      "id": 309,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kamjong",
+      "namelocal": "കാംജോങ്",
+      "code": "DISTRICT_310",
+      "id": 310,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kangpokpi",
+      "namelocal": "കാങ്പോക്പി",
+      "code": "DISTRICT_311",
+      "id": 311,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Noney",
+      "namelocal": "നോനൈ",
+      "code": "DISTRICT_312",
+      "id": 312,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pherzawl",
+      "namelocal": "ഫെര്‍സാവല്‍",
+      "code": "DISTRICT_313",
+      "id": 313,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tengnoupal",
+      "namelocal": "തെങ്നോപല്‍",
+      "code": "DISTRICT_314",
+      "id": 314,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mamit",
+      "namelocal": "മാമിത്",
+      "code": "DISTRICT_315",
+      "id": 315,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kolasib",
+      "namelocal": "കോലാസിബ്",
+      "code": "DISTRICT_316",
+      "id": 316,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aizawl",
+      "namelocal": "ഐസോള്‍",
+      "code": "DISTRICT_317",
+      "id": 317,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Champhai",
+      "namelocal": "ചംഫായ്",
+      "code": "DISTRICT_318",
+      "id": 318,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Serchhip",
+      "namelocal": "സെര്‍ചിപ്",
+      "code": "DISTRICT_319",
+      "id": 319,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lunglei",
+      "namelocal": "ലുംഗ്‍ലേയ്",
+      "code": "DISTRICT_320",
+      "id": 320,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lawngtlai",
+      "namelocal": "ലോങ്ത്‍ലായ്",
+      "code": "DISTRICT_321",
+      "id": 321,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Saiha",
+      "namelocal": "സെയ്ഹ",
+      "code": "DISTRICT_322",
+      "id": 322,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Tripura",
+      "namelocal": "വെസ്റ്റ് ത്രിപുര",
+      "code": "DISTRICT_323",
+      "id": 323,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South Tripura",
+      "namelocal": "സൗത്ത് ത്രിപുര",
+      "code": "DISTRICT_324",
+      "id": 324,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhalai",
+      "namelocal": "ധലായി",
+      "code": "DISTRICT_325",
+      "id": 325,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North Tripura",
+      "namelocal": "നോര്‍ത്ത് ത്രിപുര",
+      "code": "DISTRICT_326",
+      "id": 326,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gomati",
+      "namelocal": "ഗോമതി",
+      "code": "DISTRICT_327",
+      "id": 327,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khowai",
+      "namelocal": "ഖോവായി",
+      "code": "DISTRICT_328",
+      "id": 328,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sepahijala",
+      "namelocal": "സെപാഹിജല",
+      "code": "DISTRICT_329",
+      "id": 329,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Unakoti",
+      "namelocal": "ഉനകൊട്ടി",
+      "code": "DISTRICT_330",
+      "id": 330,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Garo Hills",
+      "namelocal": "വെസ്റ്റ് ഗാരോ ഹില്‍സ്",
+      "code": "DISTRICT_331",
+      "id": 331,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Garo Hills",
+      "namelocal": "ഈസ്റ്റ് ഗാരോ ഹില്‍സ്",
+      "code": "DISTRICT_332",
+      "id": 332,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South Garo Hills",
+      "namelocal": "സൗത്ത് ഗാരോ ഹില്‍സ്",
+      "code": "DISTRICT_333",
+      "id": 333,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Khasi Hills",
+      "namelocal": "വെസ്റ്റ് ഘാസി ഹില്‍സ്",
+      "code": "DISTRICT_334",
+      "id": 334,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ri Bhoi",
+      "namelocal": "റി  ബോയ്",
+      "code": "DISTRICT_335",
+      "id": 335,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Khasi Hills",
+      "namelocal": "ഈസ്റ്റ് ഘാസി ഹില്‍സ്",
+      "code": "DISTRICT_336",
+      "id": 336,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Jaintia Hills",
+      "namelocal": "വെസ്റ്റ് ജയിന്‍തിയ ഹില്‍സ്",
+      "code": "DISTRICT_337",
+      "id": 337,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Jaintia Hills",
+      "namelocal": "ഈസ്റ്റ് ജയിന്‍തിയ ഹില്‍സ്",
+      "code": "DISTRICT_338",
+      "id": 338,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jamtara",
+      "namelocal": "ജംതാര",
+      "code": "DISTRICT_420",
+      "id": 420,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North Garo Hills",
+      "namelocal": "നോര്‍ത്ത് ഗാരോ ഹില്‍സ്",
+      "code": "DISTRICT_339",
+      "id": 339,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South West Garo Hills",
+      "namelocal": "സൗത്ത് വെസ്റ്റ് ഗാരോ ഹില്‍സ്",
+      "code": "DISTRICT_340",
+      "id": 340,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South West Khasi Hills",
+      "namelocal": "സൗത്ത് വെസ്റ്റ് ഘാസി ഹില്‍സ്",
+      "code": "DISTRICT_341",
+      "id": 341,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kokrajhar",
+      "namelocal": "കൊക്രാജാര്‍",
+      "code": "DISTRICT_342",
+      "id": 342,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhubri",
+      "namelocal": "ധുബ്രി",
+      "code": "DISTRICT_343",
+      "id": 343,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Goalpara",
+      "namelocal": "ഗോല്‍പാറ",
+      "code": "DISTRICT_344",
+      "id": 344,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bongaigaon",
+      "namelocal": "ബോഗയ്ഗാവ്",
+      "code": "DISTRICT_345",
+      "id": 345,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Barpeta",
+      "namelocal": "ബാര്‍പെറ്റ",
+      "code": "DISTRICT_346",
+      "id": 346,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kamrup",
+      "namelocal": "കാംരൂപ്",
+      "code": "DISTRICT_347",
+      "id": 347,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nalbari",
+      "namelocal": "നല്‍ബറി",
+      "code": "DISTRICT_348",
+      "id": 348,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Darrang",
+      "namelocal": "ധറാംഗ്",
+      "code": "DISTRICT_349",
+      "id": 349,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Marigaon",
+      "namelocal": "മെറിഗാവ്",
+      "code": "DISTRICT_350",
+      "id": 350,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nagaon",
+      "namelocal": "നാഗാവ്",
+      "code": "DISTRICT_351",
+      "id": 351,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sonitpur",
+      "namelocal": "സോണിറ്റ്പൂര്‍",
+      "code": "DISTRICT_352",
+      "id": 352,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lakhimpur",
+      "namelocal": "ലഖിംപൂര്‍",
+      "code": "DISTRICT_353",
+      "id": 353,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhemaji",
+      "namelocal": "ധമാജി",
+      "code": "DISTRICT_354",
+      "id": 354,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tinsukia",
+      "namelocal": "തിന്‍സുകിയ",
+      "code": "DISTRICT_355",
+      "id": 355,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dibrugarh",
+      "namelocal": "ദിബ്രുഗഢ്",
+      "code": "DISTRICT_356",
+      "id": 356,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sivasagar",
+      "namelocal": "ശിവ്സാഗര്‍",
+      "code": "DISTRICT_357",
+      "id": 357,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jorhat",
+      "namelocal": "ജോര്‍ഹട്ട്",
+      "code": "DISTRICT_358",
+      "id": 358,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Golaghat",
+      "namelocal": "ഗോലഘട്ട്",
+      "code": "DISTRICT_359",
+      "id": 359,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karbi Anglong",
+      "namelocal": "കര്‍ബി അംഗ്‍ലോഗ്",
+      "code": "DISTRICT_360",
+      "id": 360,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dima Hasao",
+      "namelocal": "ദിമ ഹസാവോ (നോര്‍ത്ത്  കച്ചാര്‍ ഹില്‍സ് )",
+      "code": "DISTRICT_361",
+      "id": 361,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cachar",
+      "namelocal": "കഛാര്‍",
+      "code": "DISTRICT_362",
+      "id": 362,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karimganj",
+      "namelocal": "കരിംഗഞ്ച്",
+      "code": "DISTRICT_363",
+      "id": 363,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hailakandi",
+      "namelocal": "ഹയ്‍ലകണ്ടി",
+      "code": "DISTRICT_364",
+      "id": 364,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Baksa",
+      "namelocal": "ബക്സ",
+      "code": "DISTRICT_365",
+      "id": 365,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Biswanath",
+      "namelocal": "ബിസ്വനാഥ്",
+      "code": "DISTRICT_366",
+      "id": 366,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Charaideo",
+      "namelocal": "ചരൈഡിയോ",
+      "code": "DISTRICT_367",
+      "id": 367,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chirang",
+      "namelocal": "ചിരാംഗ്",
+      "code": "DISTRICT_368",
+      "id": 368,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hojai",
+      "namelocal": "ഹോജയ്",
+      "code": "DISTRICT_369",
+      "id": 369,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kamrup Metro",
+      "namelocal": "കാംരൂപ് മെട്രോ പൊളിറ്റന്‍",
+      "code": "DISTRICT_370",
+      "id": 370,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Majuli",
+      "namelocal": "മാജുലി",
+      "code": "DISTRICT_371",
+      "id": 371,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South Salmara Mancachar",
+      "namelocal": "സൌത്ത് സല്‍മാര  മന്‍കാചാര്‍",
+      "code": "DISTRICT_372",
+      "id": 372,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Udalguri",
+      "namelocal": "ഉദല്‍ഗുരി",
+      "code": "DISTRICT_373",
+      "id": 373,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Karbi Anglong",
+      "namelocal": "വെസ്റ്റ് കര്‍ബി ആംഗലോഗ്",
+      "code": "DISTRICT_374",
+      "id": 374,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Darjeeling",
+      "namelocal": "ഡാര്‍ജിലിംഗ്",
+      "code": "DISTRICT_375",
+      "id": 375,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jalpaiguri",
+      "namelocal": "ജല്‍പായ്ഗൂരി",
+      "code": "DISTRICT_376",
+      "id": 376,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Coochbehar",
+      "namelocal": "കുച്ച് ബീഹാര്‍",
+      "code": "DISTRICT_377",
+      "id": 377,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dinajpur Uttar",
+      "namelocal": "ദിനജ്പൂര്‍ ഉത്തര്‍",
+      "code": "DISTRICT_378",
+      "id": 378,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dinajpur Dakshin",
+      "namelocal": "ദിനജ്പൂര്‍ ദക്ഷിണ്‍",
+      "code": "DISTRICT_379",
+      "id": 379,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Maldah",
+      "namelocal": "മാല്‍ഡ",
+      "code": "DISTRICT_380",
+      "id": 380,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Murshidabad",
+      "namelocal": "മൂര്‍ഷിദാബാദ്",
+      "code": "DISTRICT_381",
+      "id": 381,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Birbhum",
+      "namelocal": "ബിര്‍ഭും",
+      "code": "DISTRICT_382",
+      "id": 382,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Purba Bardhaman",
+      "namelocal": "ബര്‍ധമാന്‍",
+      "code": "DISTRICT_383",
+      "id": 383,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nadia",
+      "namelocal": "നാദിയ",
+      "code": "DISTRICT_384",
+      "id": 384,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "24 Paraganas North",
+      "namelocal": "24 പര്‍ഗാനസ് നോര്‍ത്ത് ",
+      "code": "DISTRICT_385",
+      "id": 385,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hooghly",
+      "namelocal": "ഹൂഗ്ളി",
+      "code": "DISTRICT_386",
+      "id": 386,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bankura",
+      "namelocal": "ബാങ്കുര",
+      "code": "DISTRICT_387",
+      "id": 387,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Purulia",
+      "namelocal": "പുരുലിയ",
+      "code": "DISTRICT_388",
+      "id": 388,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Medinipur East",
+      "namelocal": " മേദിനിപുര്‍ ഈസ്റ്റ്",
+      "code": "DISTRICT_389",
+      "id": 389,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Medinipur West",
+      "namelocal": " മേദിനിപുര്‍ വെസ്റ്റ്",
+      "code": "DISTRICT_390",
+      "id": 390,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Howrah",
+      "namelocal": "ഹൗറ",
+      "code": "DISTRICT_391",
+      "id": 391,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kolkata",
+      "namelocal": "കല്‍ക്കട്ട",
+      "code": "DISTRICT_392",
+      "id": 392,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "24 Paraganas South",
+      "namelocal": " 24 പര്‍ഗാനസ്  സൗത്ത്",
+      "code": "DISTRICT_393",
+      "id": 393,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Alipurduar",
+      "namelocal": "അലിപൂര്‍ദ്വാര്‍ ",
+      "code": "DISTRICT_394",
+      "id": 394,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jhargram",
+      "namelocal": " ഝര്‍ഗ്രം",
+      "code": "DISTRICT_395",
+      "id": 395,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kalimpong",
+      "namelocal": "കാലിംപോങ്",
+      "code": "DISTRICT_396",
+      "id": 396,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Paschim Bardhaman",
+      "namelocal": "പശ്ചിം ബര്‍ധമന്‍",
+      "code": "DISTRICT_397",
+      "id": 397,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Garhwa",
+      "namelocal": "ഗഢ്‍വ",
+      "code": "DISTRICT_398",
+      "id": 398,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Latehar",
+      "namelocal": "ലതേഹര്‍",
+      "code": "DISTRICT_399",
+      "id": 399,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Palamu",
+      "namelocal": "പലാമു",
+      "code": "DISTRICT_400",
+      "id": 400,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chatra",
+      "namelocal": "ഛത്ര",
+      "code": "DISTRICT_401",
+      "id": 401,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hazaribagh",
+      "namelocal": "ഹസാരിബാഗ്",
+      "code": "DISTRICT_402",
+      "id": 402,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ramgarh",
+      "namelocal": null,
+      "code": "DISTRICT_403",
+      "id": 403,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Koderma",
+      "namelocal": "കോടര്‍മ",
+      "code": "DISTRICT_404",
+      "id": 404,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Giridih",
+      "namelocal": "ഗിരിദി",
+      "code": "DISTRICT_405",
+      "id": 405,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Deoghar",
+      "namelocal": "ഷ്യോഹര്‍",
+      "code": "DISTRICT_406",
+      "id": 406,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Godda",
+      "namelocal": "ഗോഡ",
+      "code": "DISTRICT_407",
+      "id": 407,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sahebganj",
+      "namelocal": "സാഹേബ്‍ഗഞ്ച്",
+      "code": "DISTRICT_408",
+      "id": 408,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pakur",
+      "namelocal": "പകുര്‍",
+      "code": "DISTRICT_409",
+      "id": 409,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dumka",
+      "namelocal": "ഡുംക",
+      "code": "DISTRICT_410",
+      "id": 410,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhanbad",
+      "namelocal": "ധന്‍ബാദ്",
+      "code": "DISTRICT_411",
+      "id": 411,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bokaro",
+      "namelocal": "ബോക്കാറോ",
+      "code": "DISTRICT_412",
+      "id": 412,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khunti",
+      "namelocal": "ഘുന്തി",
+      "code": "DISTRICT_413",
+      "id": 413,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ranchi",
+      "namelocal": "റാഞ്ചി",
+      "code": "DISTRICT_414",
+      "id": 414,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lohardaga",
+      "namelocal": "ലോഹര്‍ഡാഗ",
+      "code": "DISTRICT_415",
+      "id": 415,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gumla",
+      "namelocal": "ഗുംല",
+      "code": "DISTRICT_416",
+      "id": 416,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Saraikela Kharsawan",
+      "namelocal": "സെരായികേല ഘര്‍സാവന്‍",
+      "code": "DISTRICT_417",
+      "id": 417,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Singhbhum",
+      "namelocal": "വെസ്റ്റ് സിങ്ഭും",
+      "code": "DISTRICT_418",
+      "id": 418,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Singhbum",
+      "namelocal": "ഈസ്റ്റ് സിങ്ഭും",
+      "code": "DISTRICT_419",
+      "id": 419,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Simdega",
+      "namelocal": "സിംദേഗ",
+      "code": "DISTRICT_421",
+      "id": 421,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bargarh",
+      "namelocal": "ബാര്‍ഗഢ്",
+      "code": "DISTRICT_422",
+      "id": 422,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jharsuguda",
+      "namelocal": "ജാര്‍സുഗുഡ",
+      "code": "DISTRICT_423",
+      "id": 423,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sambalpur",
+      "namelocal": "സാംബല്‍പുര്‍",
+      "code": "DISTRICT_424",
+      "id": 424,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Deogarh",
+      "namelocal": "ദേവ്ഗഢ്",
+      "code": "DISTRICT_425",
+      "id": 425,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sundargarh",
+      "namelocal": "സുന്ദര്‍ഗഢ്",
+      "code": "DISTRICT_426",
+      "id": 426,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kendujhar",
+      "namelocal": "കേന്‍ധുഝര്‍",
+      "code": "DISTRICT_427",
+      "id": 427,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mayurbhanj",
+      "namelocal": "മയൂര്‍ഭഞ്ച്",
+      "code": "DISTRICT_428",
+      "id": 428,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Baleshwar",
+      "namelocal": "ബാലേശ്വര്‍",
+      "code": "DISTRICT_429",
+      "id": 429,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhadrak",
+      "namelocal": "ഭദ്രക്",
+      "code": "DISTRICT_430",
+      "id": 430,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kendrapara",
+      "namelocal": "കേന്ദ്രപാറ",
+      "code": "DISTRICT_431",
+      "id": 431,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jagatsinghapur",
+      "namelocal": "ജഗത്സിംഗ്പുര്‍",
+      "code": "DISTRICT_432",
+      "id": 432,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cuttack",
+      "namelocal": "കട്ടക്ക്",
+      "code": "DISTRICT_433",
+      "id": 433,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jajapur",
+      "namelocal": "ജാജ്പുര്‍",
+      "code": "DISTRICT_434",
+      "id": 434,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhenkanal",
+      "namelocal": "ധെന്‍കനാല്‍",
+      "code": "DISTRICT_435",
+      "id": 435,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Anugul",
+      "namelocal": "അങ്കുല്‍",
+      "code": "DISTRICT_436",
+      "id": 436,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nayagarh",
+      "namelocal": "നയാഗഢ്",
+      "code": "DISTRICT_437",
+      "id": 437,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khordha",
+      "namelocal": "കോര്‍ഡാ",
+      "code": "DISTRICT_438",
+      "id": 438,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Puri",
+      "namelocal": "പുരി",
+      "code": "DISTRICT_439",
+      "id": 439,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ganjam",
+      "namelocal": "ഗഞ്ചം",
+      "code": "DISTRICT_440",
+      "id": 440,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gajapati",
+      "namelocal": "ഗജപതി",
+      "code": "DISTRICT_441",
+      "id": 441,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kandhamal",
+      "namelocal": "കാന്തമല്‍",
+      "code": "DISTRICT_442",
+      "id": 442,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Boudh",
+      "namelocal": "ബൗധ്",
+      "code": "DISTRICT_443",
+      "id": 443,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sonepur",
+      "namelocal": "സോനെപൂര്‍",
+      "code": "DISTRICT_444",
+      "id": 444,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Balangir",
+      "namelocal": "ബലന്‍ഗീര്‍",
+      "code": "DISTRICT_445",
+      "id": 445,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nuapada",
+      "namelocal": "നുവാപാഡ",
+      "code": "DISTRICT_446",
+      "id": 446,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kalahandi",
+      "namelocal": "കലഹന്ദി",
+      "code": "DISTRICT_447",
+      "id": 447,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rayagada",
+      "namelocal": "റായ്ഗുഡാ",
+      "code": "DISTRICT_448",
+      "id": 448,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nabarangpur",
+      "namelocal": "നബരങ്പുര്‍",
+      "code": "DISTRICT_449",
+      "id": 449,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Koraput",
+      "namelocal": "കോരാപുട്",
+      "code": "DISTRICT_450",
+      "id": 450,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Malkangiri",
+      "namelocal": "മല്‍കാനഗിരി",
+      "code": "DISTRICT_451",
+      "id": 451,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Korea",
+      "namelocal": "കൊറിയ",
+      "code": "DISTRICT_452",
+      "id": 452,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Surguja",
+      "namelocal": "സര്‍ഗുജ",
+      "code": "DISTRICT_453",
+      "id": 453,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jashpur",
+      "namelocal": "ജാഷ്പൂര്‍",
+      "code": "DISTRICT_454",
+      "id": 454,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Raigarh",
+      "namelocal": "റായ്ഗഢ്",
+      "code": "DISTRICT_455",
+      "id": 455,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Korba",
+      "namelocal": "കോര്‍ബാ",
+      "code": "DISTRICT_456",
+      "id": 456,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Janjgir-Champa",
+      "namelocal": "ജന്‍ജ്ഗീര്‍-ചംബ",
+      "code": "DISTRICT_457",
+      "id": 457,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bilaspur",
+      "namelocal": "ബിലാസ്പൂര്‍",
+      "code": "DISTRICT_458",
+      "id": 458,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kabirdham",
+      "namelocal": "കാബിര്‍ധം",
+      "code": "DISTRICT_459",
+      "id": 459,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rajnandgaon",
+      "namelocal": "രാജ്നന്ദഗാവ്",
+      "code": "DISTRICT_460",
+      "id": 460,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Durg",
+      "namelocal": "ദുര്‍ഗ്",
+      "code": "DISTRICT_461",
+      "id": 461,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Raipur",
+      "namelocal": "റായ്പൂര്‍",
+      "code": "DISTRICT_462",
+      "id": 462,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahasamund",
+      "namelocal": "മഹാസമുന്ദ്",
+      "code": "DISTRICT_463",
+      "id": 463,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhamtari",
+      "namelocal": "ധംതരി",
+      "code": "DISTRICT_464",
+      "id": 464,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kanker",
+      "namelocal": "കാന്‍കര്‍",
+      "code": "DISTRICT_465",
+      "id": 465,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bastar",
+      "namelocal": "ബാസ്താര്‍",
+      "code": "DISTRICT_466",
+      "id": 466,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bijapur",
+      "namelocal": "ബിജാപൂര്‍",
+      "code": "DISTRICT_467",
+      "id": 467,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dantewada",
+      "namelocal": "ദന്‍തേവാഡ",
+      "code": "DISTRICT_468",
+      "id": 468,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Balod",
+      "namelocal": "ബലോഡ്",
+      "code": "DISTRICT_469",
+      "id": 469,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Baloda Bazar",
+      "namelocal": "ബലോഡ ബസാര്‍",
+      "code": "DISTRICT_470",
+      "id": 470,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Balrampur",
+      "namelocal": "ബാല്‍രാംപൂര്‍",
+      "code": "DISTRICT_471",
+      "id": 471,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bemetara",
+      "namelocal": "ബെമെത്തര",
+      "code": "DISTRICT_472",
+      "id": 472,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gariyaband",
+      "namelocal": "ഗാരിയബന്ധ്‌",
+      "code": "DISTRICT_473",
+      "id": 473,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kondagaon",
+      "namelocal": "കൊണ്ടാഗാവ്‌",
+      "code": "DISTRICT_474",
+      "id": 474,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mungeli",
+      "namelocal": "മുംഗേലി",
+      "code": "DISTRICT_475",
+      "id": 475,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Narayanpur",
+      "namelocal": "നാരായണ്‍പൂര്‍",
+      "code": "DISTRICT_476",
+      "id": 476,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sukma",
+      "namelocal": "സുക്മ",
+      "code": "DISTRICT_477",
+      "id": 477,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Surajpur",
+      "namelocal": "സുരജ്പൂര്‍",
+      "code": "DISTRICT_478",
+      "id": 478,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sheopur",
+      "namelocal": "ശ്യോപുര്‍",
+      "code": "DISTRICT_479",
+      "id": 479,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Morena",
+      "namelocal": "മൊറേന",
+      "code": "DISTRICT_480",
+      "id": 480,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhind",
+      "namelocal": "ഭിന്‍ഡ്",
+      "code": "DISTRICT_481",
+      "id": 481,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gwalior",
+      "namelocal": "ഗ്വാളിയര്‍",
+      "code": "DISTRICT_482",
+      "id": 482,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Datia",
+      "namelocal": "ദടിയ",
+      "code": "DISTRICT_483",
+      "id": 483,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shivpuri",
+      "namelocal": "ശിവപുരി",
+      "code": "DISTRICT_484",
+      "id": 484,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Guna",
+      "namelocal": "ഗുണ",
+      "code": "DISTRICT_485",
+      "id": 485,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tikamgarh",
+      "namelocal": "തിക്കംഗഢ്",
+      "code": "DISTRICT_486",
+      "id": 486,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chhatarpur",
+      "namelocal": "ഛത്രപുര്‍",
+      "code": "DISTRICT_487",
+      "id": 487,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Panna",
+      "namelocal": "പന്ന",
+      "code": "DISTRICT_488",
+      "id": 488,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sagar",
+      "namelocal": "സാഗര്‍",
+      "code": "DISTRICT_489",
+      "id": 489,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Damoh",
+      "namelocal": "ദാമോഹ്",
+      "code": "DISTRICT_490",
+      "id": 490,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Satna",
+      "namelocal": "സത്‍ന",
+      "code": "DISTRICT_491",
+      "id": 491,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rewa",
+      "namelocal": "റെവ",
+      "code": "DISTRICT_492",
+      "id": 492,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Umaria",
+      "namelocal": "ഉമറിയ",
+      "code": "DISTRICT_493",
+      "id": 493,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Anuppur",
+      "namelocal": "അനുപ്പൂര്‍",
+      "code": "DISTRICT_494",
+      "id": 494,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shahdol",
+      "namelocal": "ഷഹ്ഡോല്‍",
+      "code": "DISTRICT_495",
+      "id": 495,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sidhi",
+      "namelocal": "സീധി",
+      "code": "DISTRICT_496",
+      "id": 496,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Neemuch",
+      "namelocal": "നീമച്ച്",
+      "code": "DISTRICT_497",
+      "id": 497,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mandsaur",
+      "namelocal": "മന്‍ഡ്സവര്‍",
+      "code": "DISTRICT_498",
+      "id": 498,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ratlam",
+      "namelocal": "റത്‍ലം",
+      "code": "DISTRICT_499",
+      "id": 499,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ujjain",
+      "namelocal": "ഉജ്ജയിന്‍",
+      "code": "DISTRICT_500",
+      "id": 500,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shajapur",
+      "namelocal": "ഷാജാപുര്‍",
+      "code": "DISTRICT_501",
+      "id": 501,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dewas",
+      "namelocal": "ദിവാസ്",
+      "code": "DISTRICT_502",
+      "id": 502,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Alirajpur",
+      "namelocal": "അലിരാജ്പൂര്‍",
+      "code": "DISTRICT_503",
+      "id": 503,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jhabua",
+      "namelocal": "ജബുവ",
+      "code": "DISTRICT_504",
+      "id": 504,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhar",
+      "namelocal": "ധര്‍",
+      "code": "DISTRICT_505",
+      "id": 505,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Indore",
+      "namelocal": "ഇന്തോര്‍",
+      "code": "DISTRICT_506",
+      "id": 506,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khargone",
+      "namelocal": "ഖര്‍ഗോന്‍",
+      "code": "DISTRICT_507",
+      "id": 507,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Barwani",
+      "namelocal": "ബര്‍വാനി",
+      "code": "DISTRICT_508",
+      "id": 508,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Burhanpur",
+      "namelocal": "ബുര്‍ഹാന്‍പൂര്‍",
+      "code": "DISTRICT_509",
+      "id": 509,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Nimar",
+      "namelocal": "ഈസ്റ്റ് നിമര്‍",
+      "code": "DISTRICT_510",
+      "id": 510,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rajgarh",
+      "namelocal": "റാജ്ഗഢ്",
+      "code": "DISTRICT_511",
+      "id": 511,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vidisha",
+      "namelocal": "വിദിഷ",
+      "code": "DISTRICT_512",
+      "id": 512,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhopal",
+      "namelocal": "ഭോപ്പാല്‍",
+      "code": "DISTRICT_513",
+      "id": 513,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sehore",
+      "namelocal": "സെഹോര്‍",
+      "code": "DISTRICT_514",
+      "id": 514,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Raisen",
+      "namelocal": "റയ്സ",
+      "code": "DISTRICT_515",
+      "id": 515,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Betul",
+      "namelocal": "ബേതുല്‍",
+      "code": "DISTRICT_516",
+      "id": 516,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Harda",
+      "namelocal": "ഹര്‍ദാ",
+      "code": "DISTRICT_517",
+      "id": 517,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hoshangabad",
+      "namelocal": "ഹോഷന്‍ഗബാദ്",
+      "code": "DISTRICT_518",
+      "id": 518,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Katni",
+      "namelocal": "കട്നി",
+      "code": "DISTRICT_519",
+      "id": 519,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jabalpur",
+      "namelocal": "ജബല്‍പൂര്‍",
+      "code": "DISTRICT_520",
+      "id": 520,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Narsinghpur",
+      "namelocal": "നര്‍സിംഗ്പുര്‍",
+      "code": "DISTRICT_521",
+      "id": 521,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dindori",
+      "namelocal": "ഡിന്‍ഡോറി",
+      "code": "DISTRICT_522",
+      "id": 522,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mandla",
+      "namelocal": "മണ്ട്‍ല",
+      "code": "DISTRICT_523",
+      "id": 523,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chhindwara",
+      "namelocal": "ചിന്ദ്‍വാര",
+      "code": "DISTRICT_524",
+      "id": 524,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Seoni",
+      "namelocal": "സിയോനി",
+      "code": "DISTRICT_525",
+      "id": 525,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Balaghat",
+      "namelocal": "ബലാഘട്ട്",
+      "code": "DISTRICT_526",
+      "id": 526,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ashoknagar",
+      "namelocal": "അശോക് നഗര്‍",
+      "code": "DISTRICT_527",
+      "id": 527,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agar Malwa",
+      "namelocal": "ആഗര്‍ മല്‍വ",
+      "code": "DISTRICT_528",
+      "id": 528,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Singrauli",
+      "namelocal": "സിങ്ക്രൌളി",
+      "code": "DISTRICT_529",
+      "id": 529,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kachchh",
+      "namelocal": "കഛ്",
+      "code": "DISTRICT_530",
+      "id": 530,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Banas Kantha",
+      "namelocal": "ബനാസ് ‍കന്ത",
+      "code": "DISTRICT_531",
+      "id": 531,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Patan",
+      "namelocal": "പഠാന്‍",
+      "code": "DISTRICT_532",
+      "id": 532,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahesana",
+      "namelocal": "മെഹ്സാന",
+      "code": "DISTRICT_533",
+      "id": 533,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sabar Kantha",
+      "namelocal": "സബര്‍കന്ത",
+      "code": "DISTRICT_534",
+      "id": 534,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gandhinagar",
+      "namelocal": "ഗാന്ധിനഗര്‍",
+      "code": "DISTRICT_535",
+      "id": 535,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ahmadabad",
+      "namelocal": "അഹമ്മദാബാദ്",
+      "code": "DISTRICT_536",
+      "id": 536,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Surendranagar",
+      "namelocal": "സുരേന്ദ്ര നഗര്‍",
+      "code": "DISTRICT_537",
+      "id": 537,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rajkot",
+      "namelocal": "രാജ്കോട്ട്",
+      "code": "DISTRICT_538",
+      "id": 538,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jamnagar",
+      "namelocal": "ജാംനഗര്‍",
+      "code": "DISTRICT_539",
+      "id": 539,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Porbandar",
+      "namelocal": "പോര്‍ബന്ദര്‍",
+      "code": "DISTRICT_540",
+      "id": 540,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Junagadh",
+      "namelocal": "ജുനഗഢ്",
+      "code": "DISTRICT_541",
+      "id": 541,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Amreli",
+      "namelocal": "അമ്റേലി",
+      "code": "DISTRICT_542",
+      "id": 542,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhavnagar",
+      "namelocal": "ഭാവ്നഗര്‍",
+      "code": "DISTRICT_543",
+      "id": 543,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Anand",
+      "namelocal": "ആനന്ദ്",
+      "code": "DISTRICT_544",
+      "id": 544,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kheda",
+      "namelocal": "ഖേദ്ദ",
+      "code": "DISTRICT_545",
+      "id": 545,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Panch Mahals",
+      "namelocal": "പഞ്ച് മഹല്‍സ്",
+      "code": "DISTRICT_546",
+      "id": 546,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dohad",
+      "namelocal": "ദാഹോദ്",
+      "code": "DISTRICT_547",
+      "id": 547,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vadodara",
+      "namelocal": "വഡോദ്ര",
+      "code": "DISTRICT_548",
+      "id": 548,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Narmada",
+      "namelocal": "നര്‍മ്മദ",
+      "code": "DISTRICT_549",
+      "id": 549,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bharuch",
+      "namelocal": "ഭരുച്ച്",
+      "code": "DISTRICT_550",
+      "id": 550,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Surat",
+      "namelocal": "സൂറത്ത്",
+      "code": "DISTRICT_551",
+      "id": 551,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dang",
+      "namelocal": "ഡാംഗ്സ്",
+      "code": "DISTRICT_552",
+      "id": 552,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Navsari",
+      "namelocal": "നവസാരി",
+      "code": "DISTRICT_553",
+      "id": 553,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Valsad",
+      "namelocal": "വല്‍സാദ്",
+      "code": "DISTRICT_554",
+      "id": 554,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Arvalli",
+      "namelocal": "അര്‍വല്ലി",
+      "code": "DISTRICT_555",
+      "id": 555,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Botad",
+      "namelocal": "ബൊറ്റാഡ്",
+      "code": "DISTRICT_556",
+      "id": 556,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chhotaudepur",
+      "namelocal": "ഝോത്ത്വദേപൂര്‍",
+      "code": "DISTRICT_557",
+      "id": 557,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Devbhumi Dwarka",
+      "namelocal": "ദേവ്ഭുമി ദ്വാര്‍ക",
+      "code": "DISTRICT_558",
+      "id": 558,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gir Somnath",
+      "namelocal": "ഗിര്‍ സോമനഥ്",
+      "code": "DISTRICT_559",
+      "id": 559,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahisagar",
+      "namelocal": "മഹിസാഗര്‍",
+      "code": "DISTRICT_560",
+      "id": 560,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Morbi",
+      "namelocal": "മോര്‍ബി",
+      "code": "DISTRICT_561",
+      "id": 561,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tapi",
+      "namelocal": "തപി",
+      "code": "DISTRICT_562",
+      "id": 562,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Diu",
+      "namelocal": "ഡ്യൂ",
+      "code": "DISTRICT_563",
+      "id": 563,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Daman",
+      "namelocal": "ഡാമന്‍ ",
+      "code": "DISTRICT_564",
+      "id": 564,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dadra And Nagar Haveli",
+      "namelocal": "ദാദ്ര ആന്റ് നാഗര്‍ ഹവേലി",
+      "code": "DISTRICT_565",
+      "id": 565,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nandurbar",
+      "namelocal": "നന്ദുര്‍ബാര്‍",
+      "code": "DISTRICT_566",
+      "id": 566,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dhule",
+      "namelocal": "ധുലെ",
+      "code": "DISTRICT_567",
+      "id": 567,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jalgaon",
+      "namelocal": "ജല്‍ഗാവ്",
+      "code": "DISTRICT_568",
+      "id": 568,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Buldhana",
+      "namelocal": "ബുല്‍ദാന",
+      "code": "DISTRICT_569",
+      "id": 569,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Akola",
+      "namelocal": "അകോല",
+      "code": "DISTRICT_570",
+      "id": 570,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Washim",
+      "namelocal": "വാഷിം",
+      "code": "DISTRICT_571",
+      "id": 571,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Amravati",
+      "namelocal": "അംരാവതി",
+      "code": "DISTRICT_572",
+      "id": 572,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Wardha",
+      "namelocal": "വാര്‍ധ",
+      "code": "DISTRICT_573",
+      "id": 573,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nagpur",
+      "namelocal": "നാഗ്പുര്‍",
+      "code": "DISTRICT_574",
+      "id": 574,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhandara",
+      "namelocal": "ഭണ്ഡാര",
+      "code": "DISTRICT_575",
+      "id": 575,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gondia",
+      "namelocal": "ഗോണ്ടിയ",
+      "code": "DISTRICT_576",
+      "id": 576,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gadchiroli",
+      "namelocal": "ഗഡ്ചിരോലി",
+      "code": "DISTRICT_577",
+      "id": 577,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chandrapur",
+      "namelocal": "ചന്ദ്രപ്പുര്‍",
+      "code": "DISTRICT_578",
+      "id": 578,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Yavatmal",
+      "namelocal": "യവത്മാല്‍",
+      "code": "DISTRICT_579",
+      "id": 579,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nanded",
+      "namelocal": "നന്ദേഢ്",
+      "code": "DISTRICT_580",
+      "id": 580,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hingoli",
+      "namelocal": "ഹിംഗോലി",
+      "code": "DISTRICT_581",
+      "id": 581,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Parbhani",
+      "namelocal": "പര്‍ഭനി",
+      "code": "DISTRICT_582",
+      "id": 582,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jalna",
+      "namelocal": "ജാല്‍ന",
+      "code": "DISTRICT_583",
+      "id": 583,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Aurangabad",
+      "namelocal": "ഔറംഗാബാദ്",
+      "code": "DISTRICT_584",
+      "id": 584,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nashik",
+      "namelocal": "നാസിക്",
+      "code": "DISTRICT_585",
+      "id": 585,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Thane",
+      "namelocal": "ഠാനെ",
+      "code": "DISTRICT_586",
+      "id": 586,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mumbai Suburban",
+      "namelocal": "മുംബൈ സുബര്‍ബന്‍",
+      "code": "DISTRICT_587",
+      "id": 587,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mumbai",
+      "namelocal": "മുംബൈ ",
+      "code": "DISTRICT_588",
+      "id": 588,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Raigad",
+      "namelocal": "റായ്ഗഢ്",
+      "code": "DISTRICT_589",
+      "id": 589,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pune",
+      "namelocal": "പൂണെ",
+      "code": "DISTRICT_590",
+      "id": 590,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ahmednagar",
+      "namelocal": "അഹമ്മദ്നഗര്‍",
+      "code": "DISTRICT_591",
+      "id": 591,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Beed",
+      "namelocal": "ബിഢ്",
+      "code": "DISTRICT_592",
+      "id": 592,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Latur",
+      "namelocal": "ലത്തൂര്‍",
+      "code": "DISTRICT_593",
+      "id": 593,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Osmanabad",
+      "namelocal": "ഒസ്‍മാനാബാദ്",
+      "code": "DISTRICT_594",
+      "id": 594,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Solapur",
+      "namelocal": "സോളാപ്പൂര്‍",
+      "code": "DISTRICT_595",
+      "id": 595,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Satara",
+      "namelocal": "സത്താറ",
+      "code": "DISTRICT_596",
+      "id": 596,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ratnagiri",
+      "namelocal": "രത്നഗിരി",
+      "code": "DISTRICT_597",
+      "id": 597,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sindhudurg",
+      "namelocal": "സിന്ധുദുര്‍ഗ്",
+      "code": "DISTRICT_598",
+      "id": 598,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kolhapur",
+      "namelocal": "കോല്‍ഹാപ്പുര്‍",
+      "code": "DISTRICT_599",
+      "id": 599,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sangli",
+      "namelocal": "സാംഗ്ളി",
+      "code": "DISTRICT_600",
+      "id": 600,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Palghar",
+      "namelocal": "പാല്‍ഘര്‍",
+      "code": "DISTRICT_601",
+      "id": 601,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Srikakulam",
+      "namelocal": "ശ്രീകാകുളം",
+      "code": "DISTRICT_602",
+      "id": 602,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vizianagaram",
+      "namelocal": "വിജയനഗരം",
+      "code": "DISTRICT_603",
+      "id": 603,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Visakhapatanam",
+      "namelocal": "വിശാഖപട്ടണം",
+      "code": "DISTRICT_604",
+      "id": 604,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "East Godavari",
+      "namelocal": "ഈസ്റ്റ് ഗോദാവരി",
+      "code": "DISTRICT_605",
+      "id": 605,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "West Godavari",
+      "namelocal": "വെസ്റ്റ് ഗോദാവരി",
+      "code": "DISTRICT_606",
+      "id": 606,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Krishna",
+      "namelocal": "കൃഷ്ണ",
+      "code": "DISTRICT_607",
+      "id": 607,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Guntur",
+      "namelocal": "ഗുണ്ടൂര്‍",
+      "code": "DISTRICT_608",
+      "id": 608,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Prakasam",
+      "namelocal": "പ്രകാശം",
+      "code": "DISTRICT_609",
+      "id": 609,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Spsr Nellore",
+      "namelocal": "എസ് പി എസ് ആര്‍ നെല്ലൂര്‍",
+      "code": "DISTRICT_610",
+      "id": 610,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Y.S.R.",
+      "namelocal": "വൈ എസ്സ് ആര്‍",
+      "code": "DISTRICT_611",
+      "id": 611,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kurnool",
+      "namelocal": "കുര്‍ണൂല്‍",
+      "code": "DISTRICT_612",
+      "id": 612,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Anantapur",
+      "namelocal": "അനന്തപൂര്‍",
+      "code": "DISTRICT_613",
+      "id": 613,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chittoor",
+      "namelocal": "ചിറ്റൂര്‍",
+      "code": "DISTRICT_614",
+      "id": 614,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Belagavi",
+      "namelocal": "ബെല്‍ഗാം",
+      "code": "DISTRICT_615",
+      "id": 615,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bagalkot",
+      "namelocal": "ബഗല്‍കോട്ട്",
+      "code": "DISTRICT_616",
+      "id": 616,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vijayapura",
+      "namelocal": "വിജയപുര",
+      "code": "DISTRICT_617",
+      "id": 617,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kalaburagi",
+      "namelocal": "കാലബുറഗി",
+      "code": "DISTRICT_618",
+      "id": 618,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Yadgir",
+      "namelocal": "യാദ് ഗിര്‍",
+      "code": "DISTRICT_619",
+      "id": 619,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bidar",
+      "namelocal": "ബിദാര്‍",
+      "code": "DISTRICT_620",
+      "id": 620,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Raichur",
+      "namelocal": "റെയിഞ്ചൂര്‍",
+      "code": "DISTRICT_621",
+      "id": 621,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Koppal",
+      "namelocal": "കൊപ്പല്‍",
+      "code": "DISTRICT_622",
+      "id": 622,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gadag",
+      "namelocal": "ഗാഡഗ്",
+      "code": "DISTRICT_623",
+      "id": 623,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dharwad",
+      "namelocal": "ധാര്‍വാഡ്",
+      "code": "DISTRICT_624",
+      "id": 624,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Uttar Kannad",
+      "namelocal": "ഉത്തര കന്നഡ",
+      "code": "DISTRICT_625",
+      "id": 625,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Haveri",
+      "namelocal": "ഹവേരി",
+      "code": "DISTRICT_626",
+      "id": 626,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ballari",
+      "namelocal": "ബെല്ലാരി",
+      "code": "DISTRICT_627",
+      "id": 627,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chitradurga",
+      "namelocal": "ചിത്രദുര്‍ഗ",
+      "code": "DISTRICT_628",
+      "id": 628,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Davangere",
+      "namelocal": "ദാവന്‍ഗ്രെ",
+      "code": "DISTRICT_629",
+      "id": 629,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shivamogga",
+      "namelocal": "ഷിമോഗ",
+      "code": "DISTRICT_630",
+      "id": 630,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Udupi",
+      "namelocal": "ഉഡുപ്പി",
+      "code": "DISTRICT_631",
+      "id": 631,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chikkamagaluru",
+      "namelocal": "ചിക് മഗ്ലൂര്‍",
+      "code": "DISTRICT_632",
+      "id": 632,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tumakuru",
+      "namelocal": "തുമകുരു‍",
+      "code": "DISTRICT_633",
+      "id": 633,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chikballapur",
+      "namelocal": "ചിക്കബല്ലാപൂര്‍",
+      "code": "DISTRICT_634",
+      "id": 634,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kolar",
+      "namelocal": "കോളാര്‍",
+      "code": "DISTRICT_635",
+      "id": 635,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bengaluru Urban",
+      "namelocal": "ബംഗളുരു അര്‍ബന്‍",
+      "code": "DISTRICT_636",
+      "id": 636,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bengaluru Rural",
+      "namelocal": "ബംഗളുരു  റൂറല്‍",
+      "code": "DISTRICT_637",
+      "id": 637,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ramanagara",
+      "namelocal": "റാംനഗര്‍",
+      "code": "DISTRICT_638",
+      "id": 638,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mandya",
+      "namelocal": "മാണ്ഡ്യ",
+      "code": "DISTRICT_639",
+      "id": 639,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hassan",
+      "namelocal": "ഹസന്‍",
+      "code": "DISTRICT_640",
+      "id": 640,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dakshin Kannad",
+      "namelocal": "ദക്ഷിണ കന്നഡ",
+      "code": "DISTRICT_641",
+      "id": 641,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kodagu",
+      "namelocal": "കൊഡക്",
+      "code": "DISTRICT_642",
+      "id": 642,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mysuru",
+      "namelocal": "മൈസൂര്‍",
+      "code": "DISTRICT_643",
+      "id": 643,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chamarajanagar",
+      "namelocal": "ചമരഞ്ചനഗര്‍",
+      "code": "DISTRICT_644",
+      "id": 644,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North Goa",
+      "namelocal": "നോര്‍ത്ത് ഗോവ",
+      "code": "DISTRICT_645",
+      "id": 645,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South Goa",
+      "namelocal": "സൗത്ത് ഗോവ",
+      "code": "DISTRICT_646",
+      "id": 646,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lakshadweep District",
+      "namelocal": "ലക്ഷദ്വീപ് ജില്ല",
+      "code": "DISTRICT_647",
+      "id": 647,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Thiruvallur",
+      "namelocal": "തിരുവള്ളൂര്‍",
+      "code": "DISTRICT_648",
+      "id": 648,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chennai",
+      "namelocal": "ചെന്നൈ",
+      "code": "DISTRICT_649",
+      "id": 649,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kanchipuram",
+      "namelocal": "കാഞ്ചീപുരം",
+      "code": "DISTRICT_650",
+      "id": 650,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vellore",
+      "namelocal": "വെല്ലൂര്‍",
+      "code": "DISTRICT_651",
+      "id": 651,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dharmapuri",
+      "namelocal": "ധര്‍മ്മപുരി",
+      "code": "DISTRICT_652",
+      "id": 652,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Krishnagiri",
+      "namelocal": "കൃഷ്ണഗിരി",
+      "code": "DISTRICT_653",
+      "id": 653,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tiruvannamalai",
+      "namelocal": "തിരുവണ്ണാമല",
+      "code": "DISTRICT_654",
+      "id": 654,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Villupuram",
+      "namelocal": "വില്ലുപുരം",
+      "code": "DISTRICT_655",
+      "id": 655,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Salem",
+      "namelocal": "സേലം",
+      "code": "DISTRICT_656",
+      "id": 656,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Namakkal",
+      "namelocal": "നാമക്കല്‍",
+      "code": "DISTRICT_657",
+      "id": 657,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Erode",
+      "namelocal": "ഈറോഡ്",
+      "code": "DISTRICT_658",
+      "id": 658,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "The Nilgiris",
+      "namelocal": "നീലഗിരി",
+      "code": "DISTRICT_659",
+      "id": 659,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Coimbatore",
+      "namelocal": "കോയമ്പത്തൂര്‍",
+      "code": "DISTRICT_660",
+      "id": 660,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Dindigul",
+      "namelocal": "ഡിണ്ടിഗല്‍",
+      "code": "DISTRICT_661",
+      "id": 661,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karur",
+      "namelocal": "കരൂര്‍",
+      "code": "DISTRICT_662",
+      "id": 662,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tiruchirappalli",
+      "namelocal": "തിരുച്ചിറപ്പള്ളി",
+      "code": "DISTRICT_663",
+      "id": 663,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Perambalur",
+      "namelocal": "പെരമ്പലൂര്‍",
+      "code": "DISTRICT_664",
+      "id": 664,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ariyalur",
+      "namelocal": "അരിയാലൂര്‍",
+      "code": "DISTRICT_665",
+      "id": 665,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cuddalore",
+      "namelocal": "കടലൂര്‍",
+      "code": "DISTRICT_666",
+      "id": 666,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nagapattinam",
+      "namelocal": "നാഗപട്ടണം",
+      "code": "DISTRICT_667",
+      "id": 667,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Thiruvarur",
+      "namelocal": "തിരുവാരൂര്‍",
+      "code": "DISTRICT_668",
+      "id": 668,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Thanjavur",
+      "namelocal": "തഞ്ചാവൂര്‍",
+      "code": "DISTRICT_669",
+      "id": 669,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pudukkottai",
+      "namelocal": "പുതുക്കോട്ട",
+      "code": "DISTRICT_670",
+      "id": 670,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sivaganga",
+      "namelocal": "ശിവഗംഗ",
+      "code": "DISTRICT_671",
+      "id": 671,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Madurai",
+      "namelocal": "മധുര",
+      "code": "DISTRICT_672",
+      "id": 672,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Theni",
+      "namelocal": "തേനി",
+      "code": "DISTRICT_673",
+      "id": 673,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Virudhunagar",
+      "namelocal": "വിരുദുനഗര്‍",
+      "code": "DISTRICT_674",
+      "id": 674,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ramanathapuram",
+      "namelocal": "രാമനാഥപുരം",
+      "code": "DISTRICT_675",
+      "id": 675,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tuticorin",
+      "namelocal": "തൂത്തുക്കുടി",
+      "code": "DISTRICT_676",
+      "id": 676,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tirunelveli",
+      "namelocal": "തിരുനെല്‍വേലി",
+      "code": "DISTRICT_677",
+      "id": 677,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kanniyakumari",
+      "namelocal": "കന്യാകുമാരി",
+      "code": "DISTRICT_678",
+      "id": 678,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Tiruppur",
+      "namelocal": "തിരുപ്പൂര്‍",
+      "code": "DISTRICT_679",
+      "id": 679,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Yanam",
+      "namelocal": "യാനം",
+      "code": "DISTRICT_680",
+      "id": 680,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Pondicherry",
+      "namelocal": "പുതുച്ചേരി",
+      "code": "DISTRICT_681",
+      "id": 681,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahe",
+      "namelocal": "മാഹി",
+      "code": "DISTRICT_682",
+      "id": 682,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karaikal",
+      "namelocal": "കാരയ്ക്കല്‍",
+      "code": "DISTRICT_683",
+      "id": 683,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "South Andamans",
+      "namelocal": "സൌത്ത് ആന്‍ഡമാന്‍",
+      "code": "DISTRICT_684",
+      "id": 684,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nicobars",
+      "namelocal": "നിക്കോബര്‍",
+      "code": "DISTRICT_685",
+      "id": 685,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "North And Middle Andaman",
+      "namelocal": "നോര്‍ത്ത് ആന്റ് മ്ഡ്ഡില്‍ ആന്‍ഡമാന്‍",
+      "code": "DISTRICT_686",
+      "id": 686,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Adilabad",
+      "namelocal": "അഡിലാബാദ്",
+      "code": "DISTRICT_687",
+      "id": 687,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nizamabad",
+      "namelocal": "നിസാമബാദ്",
+      "code": "DISTRICT_688",
+      "id": 688,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karimnagar",
+      "namelocal": "കരീംനഗര്‍",
+      "code": "DISTRICT_689",
+      "id": 689,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Medak",
+      "namelocal": "മേദക്",
+      "code": "DISTRICT_690",
+      "id": 690,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hyderabad",
+      "namelocal": "ഹൈദരാബാദ്",
+      "code": "DISTRICT_691",
+      "id": 691,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Ranga Reddy",
+      "namelocal": "രങ്കറെഡ്ഡി",
+      "code": "DISTRICT_692",
+      "id": 692,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahabubnagar",
+      "namelocal": "മെഹ്ബൂബ്‍നഗര്‍",
+      "code": "DISTRICT_693",
+      "id": 693,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nalgonda",
+      "namelocal": "നല്‍ഗൊണ്ട",
+      "code": "DISTRICT_694",
+      "id": 694,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Warangal Rural",
+      "namelocal": "വാറംഗല്‍ റൂറല്‍",
+      "code": "DISTRICT_695",
+      "id": 695,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khammam",
+      "namelocal": "ഖമ്മം",
+      "code": "DISTRICT_696",
+      "id": 696,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bhadradri Kothagudem",
+      "namelocal": "ഭദ്രഗിരി കൊത്തഗുഡം",
+      "code": "DISTRICT_697",
+      "id": 697,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jagitial",
+      "namelocal": "ജഗിതിയല്‍",
+      "code": "DISTRICT_698",
+      "id": 698,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jangoan",
+      "namelocal": "ജാങ്കോന്‍",
+      "code": "DISTRICT_699",
+      "id": 699,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jayashankar Bhupalapally",
+      "namelocal": "ജയശങ്കര്‍ ഭുപലപള്ളി",
+      "code": "DISTRICT_700",
+      "id": 700,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jogulamba Gadwal",
+      "namelocal": "ജോഗുലമ്പ ഗഡ്വല്‍",
+      "code": "DISTRICT_701",
+      "id": 701,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kamareddy",
+      "namelocal": "കാമറെഡ്ഡി",
+      "code": "DISTRICT_702",
+      "id": 702,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kumuram Bheem Asifabad",
+      "namelocal": "കുമുരം ഭീം ആസിഫാബാദ്",
+      "code": "DISTRICT_703",
+      "id": 703,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mahabubabad",
+      "namelocal": "മഹാബുബാബാദ്",
+      "code": "DISTRICT_704",
+      "id": 704,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Mancherial",
+      "namelocal": "മന്‍ചെരിയല്‍",
+      "code": "DISTRICT_705",
+      "id": 705,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Medchal Malkajgiri",
+      "namelocal": "മെട്ചല്‍ മല്‍കജ്ഗിരി",
+      "code": "DISTRICT_706",
+      "id": 706,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nagarkurnool",
+      "namelocal": "നാഗര്‍കുര്‍നൂല്‍",
+      "code": "DISTRICT_707",
+      "id": 707,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nirmal",
+      "namelocal": "നിര്‍മല്‍",
+      "code": "DISTRICT_708",
+      "id": 708,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Peddapalli",
+      "namelocal": "പെഡ്ഡപള്ളി",
+      "code": "DISTRICT_709",
+      "id": 709,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rajanna Sircilla",
+      "namelocal": "രാജണ്ണാ സിര്‍സില്ലാ",
+      "code": "DISTRICT_710",
+      "id": 710,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sangareddy",
+      "namelocal": "സങ്കറെഡ്ഡി",
+      "code": "DISTRICT_711",
+      "id": 711,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Siddipet",
+      "namelocal": "സിഡ്ഡിപെട്ട്",
+      "code": "DISTRICT_712",
+      "id": 712,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Suryapet",
+      "namelocal": "സൂര്യാപെട്ട്",
+      "code": "DISTRICT_713",
+      "id": 713,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Vikarabad",
+      "namelocal": "വികാരബാദ്",
+      "code": "DISTRICT_714",
+      "id": 714,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Wanaparthy",
+      "namelocal": "വനപാര്‍ത്തി",
+      "code": "DISTRICT_715",
+      "id": 715,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Warangal Urban",
+      "namelocal": "വാറംഗല്‍ അര്‍ബന്‍",
+      "code": "DISTRICT_716",
+      "id": 716,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Yadadri Bhuvanagiri",
+      "namelocal": "യദാദ്രി ഭുവനഗിരി",
+      "code": "DISTRICT_717",
+      "id": 717,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Leh Ladakh",
+      "namelocal": "ലഡാക്ക് (ലേ )",
+      "code": "DISTRICT_21",
+      "id": 21,
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kargil",
+      "namelocal": "കര്‍ഗില്‍",
+      "code": "DISTRICT_22",
+      "id": 22,
+      "active": true,
+      "type": "COMMON"
     }
   ]
 }
