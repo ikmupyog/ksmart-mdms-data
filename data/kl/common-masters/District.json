@@ -7,6 +7,8 @@
       "namelocal": "ഖേരി ",
       "code": "DISTRICT_173",
       "id": 173,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -15,6 +17,8 @@
       "namelocal": "തിരുവനന്തപുരം",
       "code": "DISTRICT_1",
       "id": 1,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -23,6 +27,8 @@
       "namelocal": "കൊല്ലം",
       "code": "DISTRICT_2",
       "id": 2,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -31,6 +37,8 @@
       "namelocal": "പത്തനംതിട്ട",
       "code": "DISTRICT_3",
       "id": 3,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -39,6 +47,8 @@
       "namelocal": "ആലപ്പുഴ",
       "code": "DISTRICT_4",
       "id": 4,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -47,6 +57,8 @@
       "namelocal": "കോട്ടയം",
       "code": "DISTRICT_5",
       "id": 5,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -55,6 +67,8 @@
       "namelocal": "ഇടുക്കി",
       "code": "DISTRICT_6",
       "id": 6,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -63,6 +77,8 @@
       "namelocal": "എറണാകുളം",
       "code": "DISTRICT_7",
       "id": 7,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -71,6 +87,8 @@
       "namelocal": "തൃശ്ശൂര്‍",
       "code": "DISTRICT_8",
       "id": 8,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -79,6 +97,8 @@
       "namelocal": "പാലക്കാട്",
       "code": "DISTRICT_9",
       "id": 9,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -87,6 +107,8 @@
       "namelocal": "മലപ്പുറം",
       "code": "DISTRICT_10",
       "id": 10,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -95,6 +117,8 @@
       "namelocal": "കോഴിക്കോട്",
       "code": "DISTRICT_11",
       "id": 11,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -103,6 +127,8 @@
       "namelocal": "വയനാട്",
       "code": "DISTRICT_12",
       "id": 12,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -111,6 +137,8 @@
       "namelocal": "കണ്ണൂര്‍",
       "code": "DISTRICT_13",
       "id": 13,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -119,6 +147,8 @@
       "namelocal": "കാസര്‍കോഡ്",
       "code": "DISTRICT_14",
       "id": 14,
+      "stateid": 32,
+      "statecode": "STATE_KERALA",
       "active": true,
       "type": "COMMON"
     },
@@ -127,6 +157,8 @@
       "namelocal": "കുപ്‍വാറ",
       "code": "DISTRICT_15",
       "id": 15,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
       "active": true,
       "type": "COMMON"
     },
@@ -135,6 +167,8 @@
       "namelocal": "ബറാമുള്ള",
       "code": "DISTRICT_16",
       "id": 16,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -143,6 +177,8 @@
       "namelocal": "ശ്രീനഗര്‍",
       "code": "DISTRICT_17",
       "id": 17,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -151,6 +187,8 @@
       "namelocal": "ബഡ്ഗാം",
       "code": "DISTRICT_18",
       "id": 18,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -159,6 +197,8 @@
       "namelocal": "പുല്‍വാമ",
       "code": "DISTRICT_19",
       "id": 19,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -167,6 +207,8 @@
       "namelocal": "അനന്തനാഗ്",
       "code": "DISTRICT_20",
       "id": 20,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -175,6 +217,8 @@
       "namelocal": "ഡോഡ",
       "code": "DISTRICT_23",
       "id": 23,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -183,6 +227,8 @@
       "namelocal": "കിഷ്ത്വര്‍",
       "code": "DISTRICT_24",
       "id": 24,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -191,6 +237,8 @@
       "namelocal": "രംബന്‍",
       "code": "DISTRICT_25",
       "id": 25,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -199,6 +247,8 @@
       "namelocal": "ഉധംപൂര്‍",
       "code": "DISTRICT_26",
       "id": 26,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -207,6 +257,8 @@
       "namelocal": "പൂഞ്ച്",
       "code": "DISTRICT_27",
       "id": 27,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -215,6 +267,8 @@
       "namelocal": "റജൗറി",
       "code": "DISTRICT_28",
       "id": 28,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -223,6 +277,8 @@
       "namelocal": "ജമ്മു",
       "code": "DISTRICT_29",
       "id": 29,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -231,6 +287,8 @@
       "namelocal": "കത്വ",
       "code": "DISTRICT_30",
       "id": 30,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -239,6 +297,8 @@
       "namelocal": "ബന്തിപ്പുര",
       "code": "DISTRICT_31",
       "id": 31,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -247,6 +307,8 @@
       "namelocal": "ഗന്ധര്‍ബല്‍",
       "code": "DISTRICT_32",
       "id": 32,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -255,6 +317,8 @@
       "namelocal": "കുല്‍ഗാം",
       "code": "DISTRICT_33",
       "id": 33,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -263,6 +327,8 @@
       "namelocal": "റിയാസി",
       "code": "DISTRICT_34",
       "id": 34,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -271,6 +337,8 @@
       "namelocal": "സാംബ",
       "code": "DISTRICT_35",
       "id": 35,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -279,6 +347,8 @@
       "namelocal": "ഷോപിയാന്‍",
       "code": "DISTRICT_36",
       "id": 36,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
       "active": true,
       "type": "COMMON"
     },
@@ -287,6 +357,8 @@
       "namelocal": "ചമ്പ",
       "code": "DISTRICT_37",
       "id": 37,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -295,6 +367,8 @@
       "namelocal": "കംഗ്ര",
       "code": "DISTRICT_38",
       "id": 38,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -303,6 +377,8 @@
       "namelocal": "ലഹൗള്‍ & സ്പിറ്റി",
       "code": "DISTRICT_39",
       "id": 39,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -311,6 +387,8 @@
       "namelocal": "കുലു",
       "code": "DISTRICT_40",
       "id": 40,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -319,6 +397,8 @@
       "namelocal": "മണ്ഡി",
       "code": "DISTRICT_41",
       "id": 41,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -327,6 +407,8 @@
       "namelocal": "ഹമിര്‍പുര്‍",
       "code": "DISTRICT_42",
       "id": 42,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -335,6 +417,8 @@
       "namelocal": "യൂണ",
       "code": "DISTRICT_43",
       "id": 43,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -343,6 +427,8 @@
       "namelocal": "ബിലാസ്പൂര്‍",
       "code": "DISTRICT_44",
       "id": 44,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -351,6 +437,8 @@
       "namelocal": "സൊലാന്‍",
       "code": "DISTRICT_45",
       "id": 45,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -359,6 +447,8 @@
       "namelocal": "സിര്‍മൗര്‍",
       "code": "DISTRICT_46",
       "id": 46,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -367,6 +457,8 @@
       "namelocal": "സിംല",
       "code": "DISTRICT_47",
       "id": 47,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -375,6 +467,8 @@
       "namelocal": "കിനൌര്‍",
       "code": "DISTRICT_48",
       "id": 48,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -383,6 +477,8 @@
       "namelocal": "ഗുരുദാസ്പൂര്‍",
       "code": "DISTRICT_49",
       "id": 49,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -391,6 +487,8 @@
       "namelocal": "അമൃത്‍സര്‍",
       "code": "DISTRICT_50",
       "id": 50,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -399,6 +497,8 @@
       "namelocal": "കപൂര്‍ത്തല",
       "code": "DISTRICT_51",
       "id": 51,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -407,6 +507,8 @@
       "namelocal": "ജലന്ധര്‍",
       "code": "DISTRICT_52",
       "id": 52,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -415,6 +517,8 @@
       "namelocal": "ഹോഷിയാര്‍പുര്‍",
       "code": "DISTRICT_53",
       "id": 53,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -423,6 +527,8 @@
       "namelocal": "സാഹിബ് ഭഗത് സിംഗ് നഗര്‍",
       "code": "DISTRICT_54",
       "id": 54,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -431,6 +537,8 @@
       "namelocal": "രൂപ്‍നഗര്‍",
       "code": "DISTRICT_55",
       "id": 55,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -439,6 +547,8 @@
       "namelocal": "ഫത്തേഗഢ്സാഹിബ്",
       "code": "DISTRICT_56",
       "id": 56,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -447,6 +557,8 @@
       "namelocal": "ലുധിയാന",
       "code": "DISTRICT_57",
       "id": 57,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -455,6 +567,8 @@
       "namelocal": "മോഗ",
       "code": "DISTRICT_58",
       "id": 58,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -463,6 +577,8 @@
       "namelocal": "ഫിറോസ്പുര്‍",
       "code": "DISTRICT_59",
       "id": 59,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -471,6 +587,8 @@
       "namelocal": "ശ്രീ മുക്ത്‍സര്‍ സാഹിബ്",
       "code": "DISTRICT_60",
       "id": 60,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -479,6 +597,8 @@
       "namelocal": "ഫരീദ്കോട്ട്",
       "code": "DISTRICT_61",
       "id": 61,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -487,6 +607,8 @@
       "namelocal": "ഭട്ടിന്‍ഡ",
       "code": "DISTRICT_62",
       "id": 62,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -495,6 +617,8 @@
       "namelocal": "മാന്‍സ",
       "code": "DISTRICT_63",
       "id": 63,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -503,6 +627,8 @@
       "namelocal": "സന്‍ഗ്രൂര്‍",
       "code": "DISTRICT_64",
       "id": 64,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -511,6 +637,8 @@
       "namelocal": "പട്യാല",
       "code": "DISTRICT_65",
       "id": 65,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -519,6 +647,8 @@
       "namelocal": "ബര്‍ണല",
       "code": "DISTRICT_66",
       "id": 66,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -527,6 +657,8 @@
       "namelocal": "ഫസില്‍ക",
       "code": "DISTRICT_67",
       "id": 67,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -535,6 +667,8 @@
       "namelocal": "പത്താന്‍കോട്ട്",
       "code": "DISTRICT_68",
       "id": 68,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -543,6 +677,8 @@
       "namelocal": "എസ്എഎസ് നഗര്‍",
       "code": "DISTRICT_69",
       "id": 69,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -551,6 +687,8 @@
       "namelocal": "താണ്‍ തരണ്‍",
       "code": "DISTRICT_70",
       "id": 70,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
       "active": true,
       "type": "COMMON"
     },
@@ -559,6 +697,8 @@
       "namelocal": "ചണ്ഡീഗഢ്",
       "code": "DISTRICT_71",
       "id": 71,
+      "stateid": 4,
+      "statecode": "STATE_CHANDIGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -567,6 +707,8 @@
       "namelocal": "ഉത്തര്‍കാശി",
       "code": "DISTRICT_72",
       "id": 72,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -575,6 +717,8 @@
       "namelocal": "ചമോലി",
       "code": "DISTRICT_73",
       "id": 73,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -583,6 +727,8 @@
       "namelocal": "രുദ്രപ്രയാഗ്",
       "code": "DISTRICT_74",
       "id": 74,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -591,6 +737,8 @@
       "namelocal": "തേഹ്രി ഗഢ്‍വാള്‍",
       "code": "DISTRICT_75",
       "id": 75,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -599,6 +747,8 @@
       "namelocal": "ഡെറാഡൂണ്‍",
       "code": "DISTRICT_76",
       "id": 76,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -607,6 +757,8 @@
       "namelocal": "പൗരി ഗഢ്‍വാള്‍",
       "code": "DISTRICT_77",
       "id": 77,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -615,6 +767,8 @@
       "namelocal": "പിത്തോറഗഢ്",
       "code": "DISTRICT_78",
       "id": 78,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -623,6 +777,8 @@
       "namelocal": "ബാഹേശ്വര്‍",
       "code": "DISTRICT_79",
       "id": 79,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -631,6 +787,8 @@
       "namelocal": "അല്‍മോറ",
       "code": "DISTRICT_80",
       "id": 80,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -639,6 +797,8 @@
       "namelocal": "ചമ്പാവത്",
       "code": "DISTRICT_81",
       "id": 81,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -647,6 +807,8 @@
       "namelocal": "നൈനിത്താള്‍",
       "code": "DISTRICT_82",
       "id": 82,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -655,6 +817,8 @@
       "namelocal": "ഊതം സിങ് നഗര്‍",
       "code": "DISTRICT_83",
       "id": 83,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -663,6 +827,8 @@
       "namelocal": "ഹരിദ്വാര്‍",
       "code": "DISTRICT_84",
       "id": 84,
+      "stateid": 5,
+      "statecode": "STATE_UTTARAKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -671,6 +837,8 @@
       "namelocal": "പഞ്ചകുല",
       "code": "DISTRICT_85",
       "id": 85,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -679,6 +847,8 @@
       "namelocal": "അമ്പാല",
       "code": "DISTRICT_86",
       "id": 86,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -687,6 +857,8 @@
       "namelocal": "യമുനാനഗര്‍",
       "code": "DISTRICT_87",
       "id": 87,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -695,6 +867,8 @@
       "namelocal": "കുരുക്ഷേത്ര",
       "code": "DISTRICT_88",
       "id": 88,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -703,6 +877,8 @@
       "namelocal": "കൈതല്‍",
       "code": "DISTRICT_89",
       "id": 89,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -711,6 +887,8 @@
       "namelocal": "കര്‍ണാല്‍",
       "code": "DISTRICT_90",
       "id": 90,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -719,6 +897,8 @@
       "namelocal": "പാനിപട്ട്",
       "code": "DISTRICT_91",
       "id": 91,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -727,6 +907,8 @@
       "namelocal": "സോണിപ്പട്ട്",
       "code": "DISTRICT_92",
       "id": 92,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -735,6 +917,8 @@
       "namelocal": "ജീന്ദ്",
       "code": "DISTRICT_93",
       "id": 93,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -743,6 +927,8 @@
       "namelocal": "ഫത്തേബാദ്",
       "code": "DISTRICT_94",
       "id": 94,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -751,6 +937,8 @@
       "namelocal": "സിര്‍സ",
       "code": "DISTRICT_95",
       "id": 95,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -759,6 +947,8 @@
       "namelocal": "ഹിസ്സാര്‍",
       "code": "DISTRICT_96",
       "id": 96,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -767,6 +957,8 @@
       "namelocal": "ഭിവാനി",
       "code": "DISTRICT_97",
       "id": 97,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -775,6 +967,8 @@
       "namelocal": "റോത്തക്",
       "code": "DISTRICT_98",
       "id": 98,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -783,6 +977,8 @@
       "namelocal": "ജാഗര്‍",
       "code": "DISTRICT_99",
       "id": 99,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -791,6 +987,8 @@
       "namelocal": "മഹേന്ദ്രഗഢ്",
       "code": "DISTRICT_100",
       "id": 100,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -799,6 +997,8 @@
       "namelocal": "റിവാറി",
       "code": "DISTRICT_101",
       "id": 101,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -807,6 +1007,8 @@
       "namelocal": "ഗുര്‍ഗാവ്",
       "code": "DISTRICT_102",
       "id": 102,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -815,6 +1017,8 @@
       "namelocal": "ഫരിദാബാദ്",
       "code": "DISTRICT_103",
       "id": 103,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -823,6 +1027,8 @@
       "namelocal": "ചര്‍ക്കി ദാദ്രി",
       "code": "DISTRICT_104",
       "id": 104,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -831,6 +1037,8 @@
       "namelocal": "മേവത്",
       "code": "DISTRICT_105",
       "id": 105,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -839,6 +1047,8 @@
       "namelocal": "പല്‍വാള്‍",
       "code": "DISTRICT_106",
       "id": 106,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
       "active": true,
       "type": "COMMON"
     },
@@ -847,6 +1057,8 @@
       "namelocal": "നോര്‍ത്ത് വെസ്റ്റ് ഡല്‍ഹി",
       "code": "DISTRICT_107",
       "id": 107,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -855,6 +1067,8 @@
       "namelocal": "നോര്‍ത്ത് ഡല്‍ഹി",
       "code": "DISTRICT_108",
       "id": 108,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -863,6 +1077,8 @@
       "namelocal": "നോര്‍ത്ത് ഈസ്റ്റ് ഡല്‍ഹി",
       "code": "DISTRICT_109",
       "id": 109,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -871,6 +1087,8 @@
       "namelocal": "ഈസ്റ്റ് ഡല്‍ഹി",
       "code": "DISTRICT_110",
       "id": 110,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -879,6 +1097,8 @@
       "namelocal": "ന്യുഡല്‍ഹി ",
       "code": "DISTRICT_111",
       "id": 111,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -887,6 +1107,8 @@
       "namelocal": "സെന്‍ട്രല്‍ ഡല്‍ഹി",
       "code": "DISTRICT_112",
       "id": 112,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -895,6 +1117,8 @@
       "namelocal": "വെസ്റ്റ് ഡല്‍ഹി",
       "code": "DISTRICT_113",
       "id": 113,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -903,6 +1127,8 @@
       "namelocal": "സൗത്ത് വെസ്റ്റ് ഡല്‍ഹി",
       "code": "DISTRICT_114",
       "id": 114,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -911,6 +1137,8 @@
       "namelocal": "സൗത്ത് ഡല്‍ഹി",
       "code": "DISTRICT_115",
       "id": 115,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -919,6 +1147,8 @@
       "namelocal": "ഷഹ്ദാര",
       "code": "DISTRICT_116",
       "id": 116,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -927,6 +1157,8 @@
       "namelocal": "സൗത്ത് ഈസ്റ്റ് ഡല്‍ഹി",
       "code": "DISTRICT_117",
       "id": 117,
+      "stateid": 7,
+      "statecode": "STATE_DELHI",
       "active": true,
       "type": "COMMON"
     },
@@ -935,6 +1167,8 @@
       "namelocal": "ഗംഗാനഗര്‍",
       "code": "DISTRICT_118",
       "id": 118,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -943,6 +1177,8 @@
       "namelocal": "ഹനുമാന്‍ഗഢ്",
       "code": "DISTRICT_119",
       "id": 119,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -951,6 +1187,8 @@
       "namelocal": "ബീക്കാനെര്‍",
       "code": "DISTRICT_120",
       "id": 120,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -959,6 +1197,8 @@
       "namelocal": "ചുരു",
       "code": "DISTRICT_121",
       "id": 121,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -967,6 +1207,8 @@
       "namelocal": "ഝുഝുണു",
       "code": "DISTRICT_122",
       "id": 122,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -975,6 +1217,8 @@
       "namelocal": "അല്‍വാര്‍",
       "code": "DISTRICT_123",
       "id": 123,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -983,6 +1227,8 @@
       "namelocal": "ഭരത്പൂര്‍",
       "code": "DISTRICT_124",
       "id": 124,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -991,6 +1237,8 @@
       "namelocal": "ധോല്‍പുര്‍",
       "code": "DISTRICT_125",
       "id": 125,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -999,6 +1247,8 @@
       "namelocal": "കാരാളി",
       "code": "DISTRICT_126",
       "id": 126,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1007,6 +1257,8 @@
       "namelocal": "സവായ്‍മധോപൂര്‍",
       "code": "DISTRICT_127",
       "id": 127,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1015,6 +1267,8 @@
       "namelocal": "ഡൊവൂസ",
       "code": "DISTRICT_128",
       "id": 128,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1023,6 +1277,8 @@
       "namelocal": "ജയ്പൂര്‍",
       "code": "DISTRICT_129",
       "id": 129,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1031,6 +1287,8 @@
       "namelocal": "സീക്കര്‍",
       "code": "DISTRICT_130",
       "id": 130,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1039,6 +1297,8 @@
       "namelocal": "നാഗോര്‍",
       "code": "DISTRICT_131",
       "id": 131,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1047,6 +1307,8 @@
       "namelocal": "ജോധ്പൂര്‍",
       "code": "DISTRICT_132",
       "id": 132,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1055,6 +1317,8 @@
       "namelocal": "ജെസല്‍മേര്‍",
       "code": "DISTRICT_133",
       "id": 133,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1063,6 +1327,8 @@
       "namelocal": "ബാര്‍മേര്‍",
       "code": "DISTRICT_134",
       "id": 134,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1071,6 +1337,8 @@
       "namelocal": "ജലോര്‍",
       "code": "DISTRICT_135",
       "id": 135,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1079,6 +1347,8 @@
       "namelocal": "സിരോഹി",
       "code": "DISTRICT_136",
       "id": 136,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1087,6 +1357,8 @@
       "namelocal": "പാലി",
       "code": "DISTRICT_137",
       "id": 137,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1095,6 +1367,8 @@
       "namelocal": "അജമീര്‍",
       "code": "DISTRICT_138",
       "id": 138,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1103,6 +1377,8 @@
       "namelocal": "ടോംക്",
       "code": "DISTRICT_139",
       "id": 139,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1111,6 +1387,8 @@
       "namelocal": "ബുന്തി",
       "code": "DISTRICT_140",
       "id": 140,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1119,6 +1397,8 @@
       "namelocal": "ഭീല്‍വാര",
       "code": "DISTRICT_141",
       "id": 141,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1127,6 +1407,8 @@
       "namelocal": "രാജ്സമന്ദ്",
       "code": "DISTRICT_142",
       "id": 142,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1135,6 +1417,8 @@
       "namelocal": "ഉദയ്‍പൂര്‍",
       "code": "DISTRICT_143",
       "id": 143,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1143,6 +1427,8 @@
       "namelocal": "ദുംഗര്‍പുര്‍",
       "code": "DISTRICT_144",
       "id": 144,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1151,6 +1437,8 @@
       "namelocal": "ബാന്‍സ്വാര",
       "code": "DISTRICT_145",
       "id": 145,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1159,6 +1447,8 @@
       "namelocal": "ചിത്തോര്‍ഗഢ്",
       "code": "DISTRICT_146",
       "id": 146,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1167,6 +1457,8 @@
       "namelocal": "കോട്ട",
       "code": "DISTRICT_147",
       "id": 147,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1175,6 +1467,8 @@
       "namelocal": "ബാരന്‍",
       "code": "DISTRICT_148",
       "id": 148,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1183,6 +1477,8 @@
       "namelocal": "ഝാലവാര്‍",
       "code": "DISTRICT_149",
       "id": 149,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1191,6 +1487,8 @@
       "namelocal": "പ്രതാപ്ഗഢ്",
       "code": "DISTRICT_150",
       "id": 150,
+      "stateid": 8,
+      "statecode": "STATE_RAJASTHAN",
       "active": true,
       "type": "COMMON"
     },
@@ -1199,6 +1497,8 @@
       "namelocal": "സഹാറന്‍പുര്‍",
       "code": "DISTRICT_151",
       "id": 151,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1207,6 +1507,8 @@
       "namelocal": "മുസഫര്‍ നഗര്‍",
       "code": "DISTRICT_152",
       "id": 152,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1215,6 +1517,8 @@
       "namelocal": "ബിജ്നോര്‍",
       "code": "DISTRICT_153",
       "id": 153,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1223,6 +1527,8 @@
       "namelocal": "മൊറാദാബാദ്",
       "code": "DISTRICT_154",
       "id": 154,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1231,6 +1537,8 @@
       "namelocal": "റാംപുര്‍",
       "code": "DISTRICT_155",
       "id": 155,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1239,6 +1547,8 @@
       "namelocal": "അംരോഹ (ജ്യോതിബാ ഫൂലെ നഗര്‍)",
       "code": "DISTRICT_156",
       "id": 156,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1247,6 +1557,8 @@
       "namelocal": "മീററ്റ്",
       "code": "DISTRICT_157",
       "id": 157,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1255,6 +1567,8 @@
       "namelocal": "ബാഗ്പെട്ട്",
       "code": "DISTRICT_158",
       "id": 158,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1263,6 +1577,8 @@
       "namelocal": "ഘാസിയാബാദ്",
       "code": "DISTRICT_159",
       "id": 159,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1271,6 +1587,8 @@
       "namelocal": "ഗൗതം ബുദ്ധ നഗര്‍",
       "code": "DISTRICT_160",
       "id": 160,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1279,6 +1597,8 @@
       "namelocal": "ബുലങ്ഷഹര്‍",
       "code": "DISTRICT_161",
       "id": 161,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1287,6 +1607,8 @@
       "namelocal": "അലിഗഢ്",
       "code": "DISTRICT_162",
       "id": 162,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1295,6 +1617,8 @@
       "namelocal": "ഹത്രാസ് (മഹാമായ നഗര്‍)",
       "code": "DISTRICT_163",
       "id": 163,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1303,6 +1627,8 @@
       "namelocal": "മഥുര",
       "code": "DISTRICT_164",
       "id": 164,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1311,6 +1637,8 @@
       "namelocal": "ആഗ്ര",
       "code": "DISTRICT_165",
       "id": 165,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1319,6 +1647,8 @@
       "namelocal": "ഫിറോസാബാദ്",
       "code": "DISTRICT_166",
       "id": 166,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1327,6 +1657,8 @@
       "namelocal": "ഇറ്റാ",
       "code": "DISTRICT_167",
       "id": 167,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1335,6 +1667,8 @@
       "namelocal": "മയ്ന്‍പുരി",
       "code": "DISTRICT_168",
       "id": 168,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1343,6 +1677,8 @@
       "namelocal": "ബുഡോ",
       "code": "DISTRICT_169",
       "id": 169,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1351,6 +1687,8 @@
       "namelocal": "ബറേലി",
       "code": "DISTRICT_170",
       "id": 170,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1359,6 +1697,8 @@
       "namelocal": "പിലിഭിറ്റ്",
       "code": "DISTRICT_171",
       "id": 171,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1367,6 +1707,8 @@
       "namelocal": "ഷാജഹാന്‍പുര്‍",
       "code": "DISTRICT_172",
       "id": 172,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1375,6 +1717,8 @@
       "namelocal": "സീതാപുര്‍",
       "code": "DISTRICT_174",
       "id": 174,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1383,6 +1727,8 @@
       "namelocal": "ഹര്‍ഡോയ്",
       "code": "DISTRICT_175",
       "id": 175,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1391,6 +1737,8 @@
       "namelocal": "ഉന്നാവ്",
       "code": "DISTRICT_176",
       "id": 176,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1399,6 +1747,8 @@
       "namelocal": "ലക്നൌ",
       "code": "DISTRICT_177",
       "id": 177,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1407,6 +1757,8 @@
       "namelocal": "റായ്ബറേലി",
       "code": "DISTRICT_178",
       "id": 178,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1415,6 +1767,8 @@
       "namelocal": "ഫറൂക്കാബാദ്",
       "code": "DISTRICT_179",
       "id": 179,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1423,6 +1777,8 @@
       "namelocal": "കനൗജ്",
       "code": "DISTRICT_180",
       "id": 180,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1431,6 +1787,8 @@
       "namelocal": "ഇറ്റാവാ",
       "code": "DISTRICT_181",
       "id": 181,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1439,6 +1797,8 @@
       "namelocal": "ഒറെയ",
       "code": "DISTRICT_182",
       "id": 182,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1447,6 +1807,8 @@
       "namelocal": "കാണ്‍പൂര്‍ ദഹത്",
       "code": "DISTRICT_183",
       "id": 183,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1455,6 +1817,8 @@
       "namelocal": "കാണ്‍പൂര്‍ നഗര്‍",
       "code": "DISTRICT_184",
       "id": 184,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1463,6 +1827,8 @@
       "namelocal": "ജലോ",
       "code": "DISTRICT_185",
       "id": 185,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1471,6 +1837,8 @@
       "namelocal": "ഝാന്‍സി",
       "code": "DISTRICT_186",
       "id": 186,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1479,6 +1847,8 @@
       "namelocal": "ലളിത്പുര്‍",
       "code": "DISTRICT_187",
       "id": 187,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1487,6 +1857,8 @@
       "namelocal": "ഹമീര്‍പുര്‍",
       "code": "DISTRICT_188",
       "id": 188,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1495,6 +1867,8 @@
       "namelocal": "മഹോബ",
       "code": "DISTRICT_189",
       "id": 189,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1503,6 +1877,8 @@
       "namelocal": "ബാന്‍ഡ",
       "code": "DISTRICT_190",
       "id": 190,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1511,6 +1887,8 @@
       "namelocal": "ചിത്രകൂട്",
       "code": "DISTRICT_191",
       "id": 191,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1519,6 +1897,8 @@
       "namelocal": "ഫത്തേപ്പൂര്‍",
       "code": "DISTRICT_192",
       "id": 192,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1527,6 +1907,8 @@
       "namelocal": "പ്രതാപ്ഗഢ്",
       "code": "DISTRICT_193",
       "id": 193,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1535,6 +1917,8 @@
       "namelocal": "കൗശമ്പി",
       "code": "DISTRICT_194",
       "id": 194,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1543,6 +1927,8 @@
       "namelocal": "അലഹബാദ്",
       "code": "DISTRICT_195",
       "id": 195,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1551,6 +1937,8 @@
       "namelocal": "ബാറാബാങ്കി",
       "code": "DISTRICT_196",
       "id": 196,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1559,6 +1947,8 @@
       "namelocal": "ഫയ്സാബാദ്",
       "code": "DISTRICT_197",
       "id": 197,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1567,6 +1957,8 @@
       "namelocal": "അംബേദ്കര്‍ നഗര്‍",
       "code": "DISTRICT_198",
       "id": 198,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1575,6 +1967,8 @@
       "namelocal": "സുല്‍ത്താന്‍പുര്‍",
       "code": "DISTRICT_199",
       "id": 199,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1583,6 +1977,8 @@
       "namelocal": "ബഹറായിച്ച്",
       "code": "DISTRICT_200",
       "id": 200,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1591,6 +1987,8 @@
       "namelocal": "ശ്രാവസ്തി",
       "code": "DISTRICT_201",
       "id": 201,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1599,6 +1997,8 @@
       "namelocal": "ബല്‍റാംപുര്‍",
       "code": "DISTRICT_202",
       "id": 202,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1607,6 +2007,8 @@
       "namelocal": "ഗോണ്ഡ",
       "code": "DISTRICT_203",
       "id": 203,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1615,6 +2017,8 @@
       "namelocal": "സിദ്ധാര്‍ഥ് നഗര്‍",
       "code": "DISTRICT_204",
       "id": 204,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1623,6 +2027,8 @@
       "namelocal": "ബസ്തി",
       "code": "DISTRICT_205",
       "id": 205,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1631,6 +2037,8 @@
       "namelocal": "സന്ത് കബീര്‍ നഗര്‍",
       "code": "DISTRICT_206",
       "id": 206,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1639,6 +2047,8 @@
       "namelocal": "മഹാരാജ്ഗഞ്ച്",
       "code": "DISTRICT_207",
       "id": 207,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1647,6 +2057,8 @@
       "namelocal": "ഗോരഖ്പുര്‍",
       "code": "DISTRICT_208",
       "id": 208,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1655,6 +2067,8 @@
       "namelocal": "ഖുശി നഗര്‍",
       "code": "DISTRICT_209",
       "id": 209,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1663,6 +2077,8 @@
       "namelocal": "ദേവറിയ",
       "code": "DISTRICT_210",
       "id": 210,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1671,6 +2087,8 @@
       "namelocal": "ആസാംഗഢ്",
       "code": "DISTRICT_211",
       "id": 211,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1679,6 +2097,8 @@
       "namelocal": "മൗ",
       "code": "DISTRICT_212",
       "id": 212,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1687,6 +2107,8 @@
       "namelocal": "ബലിയ",
       "code": "DISTRICT_213",
       "id": 213,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1695,6 +2117,8 @@
       "namelocal": "ജോപൂര്‍",
       "code": "DISTRICT_214",
       "id": 214,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1703,6 +2127,8 @@
       "namelocal": "ഘാസിപ്പൂര്‍",
       "code": "DISTRICT_215",
       "id": 215,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1711,6 +2137,8 @@
       "namelocal": "ചന്ദൗളി",
       "code": "DISTRICT_216",
       "id": 216,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1719,6 +2147,8 @@
       "namelocal": "വാരാണസി",
       "code": "DISTRICT_217",
       "id": 217,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1727,6 +2157,8 @@
       "namelocal": "സന്ത് രവിദാസ്‍നഗര്‍",
       "code": "DISTRICT_218",
       "id": 218,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1735,6 +2167,8 @@
       "namelocal": "മിര്‍സാപ്പുര്‍",
       "code": "DISTRICT_219",
       "id": 219,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1743,6 +2177,8 @@
       "namelocal": "സോണ്‍ഭദ്ര",
       "code": "DISTRICT_220",
       "id": 220,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1751,6 +2187,8 @@
       "namelocal": "അമേതി",
       "code": "DISTRICT_221",
       "id": 221,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1759,6 +2197,8 @@
       "namelocal": "ഹാപൂര്‍",
       "code": "DISTRICT_222",
       "id": 222,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1767,6 +2207,8 @@
       "namelocal": "കസ്ഗഞ്ച്",
       "code": "DISTRICT_223",
       "id": 223,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1775,6 +2217,8 @@
       "namelocal": "സാംബാള്‍",
       "code": "DISTRICT_224",
       "id": 224,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1783,6 +2227,8 @@
       "namelocal": "ഷാമ്‍ലി ",
       "code": "DISTRICT_225",
       "id": 225,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -1791,6 +2237,8 @@
       "namelocal": "പശ്ചിം ചമ്പാരന്‍",
       "code": "DISTRICT_226",
       "id": 226,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1799,6 +2247,8 @@
       "namelocal": "പൂര്‍ബി ചമ്പാരന്‍",
       "code": "DISTRICT_227",
       "id": 227,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1807,6 +2257,8 @@
       "namelocal": "ഷ്യോഹര്‍",
       "code": "DISTRICT_228",
       "id": 228,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1815,6 +2267,8 @@
       "namelocal": "സീതാമര്‍ഹി",
       "code": "DISTRICT_229",
       "id": 229,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1823,6 +2277,8 @@
       "namelocal": "മധുബനി",
       "code": "DISTRICT_230",
       "id": 230,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1831,6 +2287,8 @@
       "namelocal": "സുപോള്‍",
       "code": "DISTRICT_231",
       "id": 231,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1839,6 +2297,8 @@
       "namelocal": "അരാരിയ",
       "code": "DISTRICT_232",
       "id": 232,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1847,6 +2307,8 @@
       "namelocal": "കിഷന്‍ഗഞ്ച്",
       "code": "DISTRICT_233",
       "id": 233,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1855,6 +2317,8 @@
       "namelocal": "പൂര്‍ണിയ",
       "code": "DISTRICT_234",
       "id": 234,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1863,6 +2327,8 @@
       "namelocal": "കാത്തിഹാര്‍",
       "code": "DISTRICT_235",
       "id": 235,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1871,6 +2337,8 @@
       "namelocal": "മാധേപുര",
       "code": "DISTRICT_236",
       "id": 236,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1879,6 +2347,8 @@
       "namelocal": "സഹര്‍സ",
       "code": "DISTRICT_237",
       "id": 237,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1887,6 +2357,8 @@
       "namelocal": "ധര്‍ഭംഗാ",
       "code": "DISTRICT_238",
       "id": 238,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1895,6 +2367,8 @@
       "namelocal": "മുസാഫര്‍പൂര്‍",
       "code": "DISTRICT_239",
       "id": 239,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1903,6 +2377,8 @@
       "namelocal": "ഗോപാല്‍ഗഞ്ച്",
       "code": "DISTRICT_240",
       "id": 240,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1911,6 +2387,8 @@
       "namelocal": "സിവന്‍",
       "code": "DISTRICT_241",
       "id": 241,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1919,6 +2397,8 @@
       "namelocal": "സര",
       "code": "DISTRICT_242",
       "id": 242,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1927,6 +2407,8 @@
       "namelocal": "വൈശാലി",
       "code": "DISTRICT_243",
       "id": 243,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1935,6 +2417,8 @@
       "namelocal": "സമസ്തിപുര്‍",
       "code": "DISTRICT_244",
       "id": 244,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1943,6 +2427,8 @@
       "namelocal": "ബഗുസരായി",
       "code": "DISTRICT_245",
       "id": 245,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1951,6 +2437,8 @@
       "namelocal": "കഖറിയ",
       "code": "DISTRICT_246",
       "id": 246,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1959,6 +2447,8 @@
       "namelocal": "ഭാഗല്‍പൂര്‍",
       "code": "DISTRICT_247",
       "id": 247,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1967,6 +2457,8 @@
       "namelocal": "ബങ്ക",
       "code": "DISTRICT_248",
       "id": 248,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1975,6 +2467,8 @@
       "namelocal": "മുംഗര്‍",
       "code": "DISTRICT_249",
       "id": 249,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1983,6 +2477,8 @@
       "namelocal": "ലക്കിസരായ്",
       "code": "DISTRICT_250",
       "id": 250,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1991,6 +2487,8 @@
       "namelocal": "ഷേയ്ക്ക്പുര",
       "code": "DISTRICT_251",
       "id": 251,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -1999,6 +2497,8 @@
       "namelocal": "നളന്ദ",
       "code": "DISTRICT_252",
       "id": 252,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2007,6 +2507,8 @@
       "namelocal": "പാറ്റ്ന",
       "code": "DISTRICT_253",
       "id": 253,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2015,6 +2517,8 @@
       "namelocal": "ഭോജ്പൂര്‍",
       "code": "DISTRICT_254",
       "id": 254,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2023,6 +2527,8 @@
       "namelocal": "ഭക്സര്‍",
       "code": "DISTRICT_255",
       "id": 255,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2031,6 +2537,8 @@
       "namelocal": "കയ്മുര്‍ (ബഹബുവ)",
       "code": "DISTRICT_256",
       "id": 256,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2039,6 +2547,8 @@
       "namelocal": "റോഹ്താസ്",
       "code": "DISTRICT_257",
       "id": 257,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2047,6 +2557,8 @@
       "namelocal": "അര്‍വല്‍",
       "code": "DISTRICT_258",
       "id": 258,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2055,6 +2567,8 @@
       "namelocal": "ജഹനാബാദ്",
       "code": "DISTRICT_259",
       "id": 259,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2063,6 +2577,8 @@
       "namelocal": "ഔറംഗാബാദ്",
       "code": "DISTRICT_260",
       "id": 260,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2071,6 +2587,8 @@
       "namelocal": "ഗയാ",
       "code": "DISTRICT_261",
       "id": 261,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2079,6 +2597,8 @@
       "namelocal": "നവാഡ",
       "code": "DISTRICT_262",
       "id": 262,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2087,6 +2607,8 @@
       "namelocal": "ജമുയി",
       "code": "DISTRICT_263",
       "id": 263,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
       "active": true,
       "type": "COMMON"
     },
@@ -2095,6 +2617,8 @@
       "namelocal": "നോര്‍ത്ത് ജില്ല (സിക്കിം)",
       "code": "DISTRICT_264",
       "id": 264,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
       "active": true,
       "type": "COMMON"
     },
@@ -2103,6 +2627,8 @@
       "namelocal": "വെസ്റ്റ് ജില്ല (സിക്കിം)",
       "code": "DISTRICT_265",
       "id": 265,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
       "active": true,
       "type": "COMMON"
     },
@@ -2111,6 +2637,8 @@
       "namelocal": "സൗത്ത് ജില്ല (സിക്കിം)",
       "code": "DISTRICT_266",
       "id": 266,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
       "active": true,
       "type": "COMMON"
     },
@@ -2119,6 +2647,8 @@
       "namelocal": "ഈസ്റ്റ് ജില്ല (സിക്കിം)",
       "code": "DISTRICT_267",
       "id": 267,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
       "active": true,
       "type": "COMMON"
     },
@@ -2127,6 +2657,8 @@
       "namelocal": "തവങ്",
       "code": "DISTRICT_268",
       "id": 268,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2135,6 +2667,8 @@
       "namelocal": "വെസ്റ്റ് കാമെംഗ്",
       "code": "DISTRICT_269",
       "id": 269,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2143,6 +2677,8 @@
       "namelocal": "ഈസ്റ്റ് കാമെംഗ്",
       "code": "DISTRICT_270",
       "id": 270,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2151,6 +2687,8 @@
       "namelocal": "പവും പാറേ",
       "code": "DISTRICT_271",
       "id": 271,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2159,6 +2697,8 @@
       "namelocal": "ലലോവര്‍ സുബാന്‍സിരി",
       "code": "DISTRICT_272",
       "id": 272,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2167,6 +2707,8 @@
       "namelocal": "അപ്പര്‍ സുബാന്‍സിരി",
       "code": "DISTRICT_273",
       "id": 273,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2175,6 +2717,8 @@
       "namelocal": "വെസ്റ്റ് സിയാങ്",
       "code": "DISTRICT_274",
       "id": 274,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2183,6 +2727,8 @@
       "namelocal": "ഈസ്റ്റ് സിയാങ്",
       "code": "DISTRICT_275",
       "id": 275,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2191,6 +2737,8 @@
       "namelocal": "അപ്പര്‍ സിയാങ്",
       "code": "DISTRICT_276",
       "id": 276,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2199,6 +2747,8 @@
       "namelocal": "ദിബങ്‍വാലി",
       "code": "DISTRICT_277",
       "id": 277,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2207,6 +2757,8 @@
       "namelocal": "ലോഹിത്",
       "code": "DISTRICT_278",
       "id": 278,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2215,6 +2767,8 @@
       "namelocal": "ചങ്‍ലങ്",
       "code": "DISTRICT_279",
       "id": 279,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2223,6 +2777,8 @@
       "namelocal": "തിറപ്",
       "code": "DISTRICT_280",
       "id": 280,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2231,6 +2787,8 @@
       "namelocal": "കൂരങ്‍കൂമെ",
       "code": "DISTRICT_281",
       "id": 281,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2239,6 +2797,8 @@
       "namelocal": "ലോവര്‍ ദിബങ്‍വാലി",
       "code": "DISTRICT_282",
       "id": 282,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2247,6 +2807,8 @@
       "namelocal": "ആന്‍ജാ",
       "code": "DISTRICT_283",
       "id": 283,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2255,6 +2817,8 @@
       "namelocal": "ക്രാ ഡാഡി",
       "code": "DISTRICT_284",
       "id": 284,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2263,6 +2827,8 @@
       "namelocal": "ലോങ്ഡിംഗ്",
       "code": "DISTRICT_285",
       "id": 285,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2271,6 +2837,8 @@
       "namelocal": "നംസായി",
       "code": "DISTRICT_286",
       "id": 286,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2279,6 +2847,8 @@
       "namelocal": "സിയാംഗ്",
       "code": "DISTRICT_287",
       "id": 287,
+      "stateid": 12,
+      "statecode": "STATE_ARUNACHAL_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -2287,6 +2857,8 @@
       "namelocal": "മോ",
       "code": "DISTRICT_288",
       "id": 288,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2295,6 +2867,8 @@
       "namelocal": "കിഫൈര്‍",
       "code": "DISTRICT_289",
       "id": 289,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2303,6 +2877,8 @@
       "namelocal": "ലോങ്‍ലെങ്",
       "code": "DISTRICT_290",
       "id": 290,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2311,6 +2887,8 @@
       "namelocal": "ട്വിന്‍സങ്",
       "code": "DISTRICT_291",
       "id": 291,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2319,6 +2897,8 @@
       "namelocal": "മൊകോക്ചങ്",
       "code": "DISTRICT_292",
       "id": 292,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2327,6 +2907,8 @@
       "namelocal": "സുന്‍ഹെബൊട്ടോ",
       "code": "DISTRICT_293",
       "id": 293,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2335,6 +2917,8 @@
       "namelocal": "വൊഖ",
       "code": "DISTRICT_294",
       "id": 294,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2343,6 +2927,8 @@
       "namelocal": "ദിമാപൂര്‍",
       "code": "DISTRICT_295",
       "id": 295,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2351,6 +2937,8 @@
       "namelocal": "കൊഹിമ",
       "code": "DISTRICT_296",
       "id": 296,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2359,6 +2947,8 @@
       "namelocal": "പരെണ്‍",
       "code": "DISTRICT_297",
       "id": 297,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2367,6 +2957,8 @@
       "namelocal": "ഫെക്",
       "code": "DISTRICT_298",
       "id": 298,
+      "stateid": 13,
+      "statecode": "STATE_NAGALAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2375,6 +2967,8 @@
       "namelocal": "സേനാപതി",
       "code": "DISTRICT_299",
       "id": 299,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2383,6 +2977,8 @@
       "namelocal": "തമെങ്‍ലോങ്",
       "code": "DISTRICT_300",
       "id": 300,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2391,6 +2987,8 @@
       "namelocal": "ചുരചന്ദ്പുര്‍",
       "code": "DISTRICT_301",
       "id": 301,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2399,6 +2997,8 @@
       "namelocal": "ബിഷ്ണുപൂര്‍",
       "code": "DISTRICT_302",
       "id": 302,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2407,6 +3007,8 @@
       "namelocal": "തൗബാല്‍",
       "code": "DISTRICT_303",
       "id": 303,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2415,6 +3017,8 @@
       "namelocal": "ഇംഫാല്‍ വെസ്റ്റ്",
       "code": "DISTRICT_304",
       "id": 304,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2423,6 +3027,8 @@
       "namelocal": "ഇംഫാല്‍ ഈസ്റ്റ്",
       "code": "DISTRICT_305",
       "id": 305,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2431,6 +3037,8 @@
       "namelocal": "ഉക്രൂല്‍",
       "code": "DISTRICT_306",
       "id": 306,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2439,6 +3047,8 @@
       "namelocal": "ചണ്ടേല്‍",
       "code": "DISTRICT_307",
       "id": 307,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2447,6 +3057,8 @@
       "namelocal": "ജിരിബം",
       "code": "DISTRICT_308",
       "id": 308,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2455,6 +3067,8 @@
       "namelocal": "കാക്ചിംഗ്",
       "code": "DISTRICT_309",
       "id": 309,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2463,6 +3077,8 @@
       "namelocal": "കാംജോങ്",
       "code": "DISTRICT_310",
       "id": 310,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2471,6 +3087,8 @@
       "namelocal": "കാങ്പോക്പി",
       "code": "DISTRICT_311",
       "id": 311,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2479,6 +3097,8 @@
       "namelocal": "നോനൈ",
       "code": "DISTRICT_312",
       "id": 312,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2487,6 +3107,8 @@
       "namelocal": "ഫെര്‍സാവല്‍",
       "code": "DISTRICT_313",
       "id": 313,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2495,6 +3117,8 @@
       "namelocal": "തെങ്നോപല്‍",
       "code": "DISTRICT_314",
       "id": 314,
+      "stateid": 14,
+      "statecode": "STATE_MANIPUR",
       "active": true,
       "type": "COMMON"
     },
@@ -2503,6 +3127,8 @@
       "namelocal": "മാമിത്",
       "code": "DISTRICT_315",
       "id": 315,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2511,6 +3137,8 @@
       "namelocal": "കോലാസിബ്",
       "code": "DISTRICT_316",
       "id": 316,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2519,6 +3147,8 @@
       "namelocal": "ഐസോള്‍",
       "code": "DISTRICT_317",
       "id": 317,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2527,6 +3157,8 @@
       "namelocal": "ചംഫായ്",
       "code": "DISTRICT_318",
       "id": 318,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2535,6 +3167,8 @@
       "namelocal": "സെര്‍ചിപ്",
       "code": "DISTRICT_319",
       "id": 319,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2543,6 +3177,8 @@
       "namelocal": "ലുംഗ്‍ലേയ്",
       "code": "DISTRICT_320",
       "id": 320,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2551,6 +3187,8 @@
       "namelocal": "ലോങ്ത്‍ലായ്",
       "code": "DISTRICT_321",
       "id": 321,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2559,6 +3197,8 @@
       "namelocal": "സെയ്ഹ",
       "code": "DISTRICT_322",
       "id": 322,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2567,6 +3207,8 @@
       "namelocal": "വെസ്റ്റ് ത്രിപുര",
       "code": "DISTRICT_323",
       "id": 323,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2575,6 +3217,8 @@
       "namelocal": "സൗത്ത് ത്രിപുര",
       "code": "DISTRICT_324",
       "id": 324,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2583,6 +3227,8 @@
       "namelocal": "ധലായി",
       "code": "DISTRICT_325",
       "id": 325,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2591,6 +3237,8 @@
       "namelocal": "നോര്‍ത്ത് ത്രിപുര",
       "code": "DISTRICT_326",
       "id": 326,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2599,6 +3247,8 @@
       "namelocal": "ഗോമതി",
       "code": "DISTRICT_327",
       "id": 327,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2607,6 +3257,8 @@
       "namelocal": "ഖോവായി",
       "code": "DISTRICT_328",
       "id": 328,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2615,6 +3267,8 @@
       "namelocal": "സെപാഹിജല",
       "code": "DISTRICT_329",
       "id": 329,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2623,6 +3277,8 @@
       "namelocal": "ഉനകൊട്ടി",
       "code": "DISTRICT_330",
       "id": 330,
+      "stateid": 16,
+      "statecode": "STATE_TRIPURA",
       "active": true,
       "type": "COMMON"
     },
@@ -2631,6 +3287,8 @@
       "namelocal": "വെസ്റ്റ് ഗാരോ ഹില്‍സ്",
       "code": "DISTRICT_331",
       "id": 331,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2639,6 +3297,8 @@
       "namelocal": "ഈസ്റ്റ് ഗാരോ ഹില്‍സ്",
       "code": "DISTRICT_332",
       "id": 332,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2647,6 +3307,8 @@
       "namelocal": "സൗത്ത് ഗാരോ ഹില്‍സ്",
       "code": "DISTRICT_333",
       "id": 333,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2655,14 +3317,18 @@
       "namelocal": "വെസ്റ്റ് ഘാസി ഹില്‍സ്",
       "code": "DISTRICT_334",
       "id": 334,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Ri Bhoi",
-      "namelocal": "റി  ബോയ്",
+      "namelocal": "റി ബോയ്",
       "code": "DISTRICT_335",
       "id": 335,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2671,6 +3337,8 @@
       "namelocal": "ഈസ്റ്റ് ഘാസി ഹില്‍സ്",
       "code": "DISTRICT_336",
       "id": 336,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2679,6 +3347,8 @@
       "namelocal": "വെസ്റ്റ് ജയിന്‍തിയ ഹില്‍സ്",
       "code": "DISTRICT_337",
       "id": 337,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2687,6 +3357,8 @@
       "namelocal": "ഈസ്റ്റ് ജയിന്‍തിയ ഹില്‍സ്",
       "code": "DISTRICT_338",
       "id": 338,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2695,6 +3367,8 @@
       "namelocal": "ജംതാര",
       "code": "DISTRICT_420",
       "id": 420,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -2703,6 +3377,8 @@
       "namelocal": "നോര്‍ത്ത് ഗാരോ ഹില്‍സ്",
       "code": "DISTRICT_339",
       "id": 339,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2711,6 +3387,8 @@
       "namelocal": "സൗത്ത് വെസ്റ്റ് ഗാരോ ഹില്‍സ്",
       "code": "DISTRICT_340",
       "id": 340,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2719,6 +3397,8 @@
       "namelocal": "സൗത്ത് വെസ്റ്റ് ഘാസി ഹില്‍സ്",
       "code": "DISTRICT_341",
       "id": 341,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
       "active": true,
       "type": "COMMON"
     },
@@ -2727,6 +3407,8 @@
       "namelocal": "കൊക്രാജാര്‍",
       "code": "DISTRICT_342",
       "id": 342,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2735,6 +3417,8 @@
       "namelocal": "ധുബ്രി",
       "code": "DISTRICT_343",
       "id": 343,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2743,6 +3427,8 @@
       "namelocal": "ഗോല്‍പാറ",
       "code": "DISTRICT_344",
       "id": 344,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2751,6 +3437,8 @@
       "namelocal": "ബോഗയ്ഗാവ്",
       "code": "DISTRICT_345",
       "id": 345,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2759,6 +3447,8 @@
       "namelocal": "ബാര്‍പെറ്റ",
       "code": "DISTRICT_346",
       "id": 346,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2767,6 +3457,8 @@
       "namelocal": "കാംരൂപ്",
       "code": "DISTRICT_347",
       "id": 347,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2775,6 +3467,8 @@
       "namelocal": "നല്‍ബറി",
       "code": "DISTRICT_348",
       "id": 348,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2783,6 +3477,8 @@
       "namelocal": "ധറാംഗ്",
       "code": "DISTRICT_349",
       "id": 349,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2791,6 +3487,8 @@
       "namelocal": "മെറിഗാവ്",
       "code": "DISTRICT_350",
       "id": 350,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2799,6 +3497,8 @@
       "namelocal": "നാഗാവ്",
       "code": "DISTRICT_351",
       "id": 351,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2807,6 +3507,8 @@
       "namelocal": "സോണിറ്റ്പൂര്‍",
       "code": "DISTRICT_352",
       "id": 352,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2815,6 +3517,8 @@
       "namelocal": "ലഖിംപൂര്‍",
       "code": "DISTRICT_353",
       "id": 353,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2823,6 +3527,8 @@
       "namelocal": "ധമാജി",
       "code": "DISTRICT_354",
       "id": 354,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2831,6 +3537,8 @@
       "namelocal": "തിന്‍സുകിയ",
       "code": "DISTRICT_355",
       "id": 355,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2839,6 +3547,8 @@
       "namelocal": "ദിബ്രുഗഢ്",
       "code": "DISTRICT_356",
       "id": 356,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2847,6 +3557,8 @@
       "namelocal": "ശിവ്സാഗര്‍",
       "code": "DISTRICT_357",
       "id": 357,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2855,6 +3567,8 @@
       "namelocal": "ജോര്‍ഹട്ട്",
       "code": "DISTRICT_358",
       "id": 358,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2863,6 +3577,8 @@
       "namelocal": "ഗോലഘട്ട്",
       "code": "DISTRICT_359",
       "id": 359,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2871,14 +3587,18 @@
       "namelocal": "കര്‍ബി അംഗ്‍ലോഗ്",
       "code": "DISTRICT_360",
       "id": 360,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Dima Hasao",
-      "namelocal": "ദിമ ഹസാവോ (നോര്‍ത്ത്  കച്ചാര്‍ ഹില്‍സ് )",
+      "namelocal": "ദിമ ഹസാവോ (നോര്‍ത്ത് കച്ചാര്‍ ഹില്‍സ് )",
       "code": "DISTRICT_361",
       "id": 361,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2887,6 +3607,8 @@
       "namelocal": "കഛാര്‍",
       "code": "DISTRICT_362",
       "id": 362,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2895,6 +3617,8 @@
       "namelocal": "കരിംഗഞ്ച്",
       "code": "DISTRICT_363",
       "id": 363,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2903,6 +3627,8 @@
       "namelocal": "ഹയ്‍ലകണ്ടി",
       "code": "DISTRICT_364",
       "id": 364,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2911,6 +3637,8 @@
       "namelocal": "ബക്സ",
       "code": "DISTRICT_365",
       "id": 365,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2919,6 +3647,8 @@
       "namelocal": "ബിസ്വനാഥ്",
       "code": "DISTRICT_366",
       "id": 366,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2927,6 +3657,8 @@
       "namelocal": "ചരൈഡിയോ",
       "code": "DISTRICT_367",
       "id": 367,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2935,6 +3667,8 @@
       "namelocal": "ചിരാംഗ്",
       "code": "DISTRICT_368",
       "id": 368,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2943,6 +3677,8 @@
       "namelocal": "ഹോജയ്",
       "code": "DISTRICT_369",
       "id": 369,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2951,6 +3687,8 @@
       "namelocal": "കാംരൂപ് മെട്രോ പൊളിറ്റന്‍",
       "code": "DISTRICT_370",
       "id": 370,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2959,14 +3697,18 @@
       "namelocal": "മാജുലി",
       "code": "DISTRICT_371",
       "id": 371,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "South Salmara Mancachar",
-      "namelocal": "സൌത്ത് സല്‍മാര  മന്‍കാചാര്‍",
+      "namelocal": "സൌത്ത് സല്‍മാര മന്‍കാചാര്‍",
       "code": "DISTRICT_372",
       "id": 372,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2975,6 +3717,8 @@
       "namelocal": "ഉദല്‍ഗുരി",
       "code": "DISTRICT_373",
       "id": 373,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2983,6 +3727,8 @@
       "namelocal": "വെസ്റ്റ് കര്‍ബി ആംഗലോഗ്",
       "code": "DISTRICT_374",
       "id": 374,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
       "active": true,
       "type": "COMMON"
     },
@@ -2991,6 +3737,8 @@
       "namelocal": "ഡാര്‍ജിലിംഗ്",
       "code": "DISTRICT_375",
       "id": 375,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -2999,6 +3747,8 @@
       "namelocal": "ജല്‍പായ്ഗൂരി",
       "code": "DISTRICT_376",
       "id": 376,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3007,6 +3757,8 @@
       "namelocal": "കുച്ച് ബീഹാര്‍",
       "code": "DISTRICT_377",
       "id": 377,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3015,6 +3767,8 @@
       "namelocal": "ദിനജ്പൂര്‍ ഉത്തര്‍",
       "code": "DISTRICT_378",
       "id": 378,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3023,6 +3777,8 @@
       "namelocal": "ദിനജ്പൂര്‍ ദക്ഷിണ്‍",
       "code": "DISTRICT_379",
       "id": 379,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3031,6 +3787,8 @@
       "namelocal": "മാല്‍ഡ",
       "code": "DISTRICT_380",
       "id": 380,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3039,6 +3797,8 @@
       "namelocal": "മൂര്‍ഷിദാബാദ്",
       "code": "DISTRICT_381",
       "id": 381,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3047,6 +3807,8 @@
       "namelocal": "ബിര്‍ഭും",
       "code": "DISTRICT_382",
       "id": 382,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3055,6 +3817,8 @@
       "namelocal": "ബര്‍ധമാന്‍",
       "code": "DISTRICT_383",
       "id": 383,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3063,6 +3827,8 @@
       "namelocal": "നാദിയ",
       "code": "DISTRICT_384",
       "id": 384,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3071,6 +3837,8 @@
       "namelocal": "24 പര്‍ഗാനസ് നോര്‍ത്ത് ",
       "code": "DISTRICT_385",
       "id": 385,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3079,6 +3847,8 @@
       "namelocal": "ഹൂഗ്ളി",
       "code": "DISTRICT_386",
       "id": 386,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3087,6 +3857,8 @@
       "namelocal": "ബാങ്കുര",
       "code": "DISTRICT_387",
       "id": 387,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3095,22 +3867,28 @@
       "namelocal": "പുരുലിയ",
       "code": "DISTRICT_388",
       "id": 388,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Medinipur East",
-      "namelocal": " മേദിനിപുര്‍ ഈസ്റ്റ്",
+      "namelocal": "മേദിനിപുര്‍ ഈസ്റ്റ്",
       "code": "DISTRICT_389",
       "id": 389,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Medinipur West",
-      "namelocal": " മേദിനിപുര്‍ വെസ്റ്റ്",
+      "namelocal": "മേദിനിപുര്‍ വെസ്റ്റ്",
       "code": "DISTRICT_390",
       "id": 390,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3119,6 +3897,8 @@
       "namelocal": "ഹൗറ",
       "code": "DISTRICT_391",
       "id": 391,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3127,14 +3907,18 @@
       "namelocal": "കല്‍ക്കട്ട",
       "code": "DISTRICT_392",
       "id": 392,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "24 Paraganas South",
-      "namelocal": " 24 പര്‍ഗാനസ്  സൗത്ത്",
+      "namelocal": "24 പര്‍ഗാനസ് സൗത്ത്",
       "code": "DISTRICT_393",
       "id": 393,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3143,14 +3927,18 @@
       "namelocal": "അലിപൂര്‍ദ്വാര്‍ ",
       "code": "DISTRICT_394",
       "id": 394,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Jhargram",
-      "namelocal": " ഝര്‍ഗ്രം",
+      "namelocal": "ഝര്‍ഗ്രം",
       "code": "DISTRICT_395",
       "id": 395,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3159,6 +3947,8 @@
       "namelocal": "കാലിംപോങ്",
       "code": "DISTRICT_396",
       "id": 396,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3167,6 +3957,8 @@
       "namelocal": "പശ്ചിം ബര്‍ധമന്‍",
       "code": "DISTRICT_397",
       "id": 397,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
       "active": true,
       "type": "COMMON"
     },
@@ -3175,6 +3967,8 @@
       "namelocal": "ഗഢ്‍വ",
       "code": "DISTRICT_398",
       "id": 398,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3183,6 +3977,8 @@
       "namelocal": "ലതേഹര്‍",
       "code": "DISTRICT_399",
       "id": 399,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3191,6 +3987,8 @@
       "namelocal": "പലാമു",
       "code": "DISTRICT_400",
       "id": 400,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3199,6 +3997,8 @@
       "namelocal": "ഛത്ര",
       "code": "DISTRICT_401",
       "id": 401,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3207,6 +4007,8 @@
       "namelocal": "ഹസാരിബാഗ്",
       "code": "DISTRICT_402",
       "id": 402,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3215,6 +4017,8 @@
       "namelocal": null,
       "code": "DISTRICT_403",
       "id": 403,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3223,6 +4027,8 @@
       "namelocal": "കോടര്‍മ",
       "code": "DISTRICT_404",
       "id": 404,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3231,6 +4037,8 @@
       "namelocal": "ഗിരിദി",
       "code": "DISTRICT_405",
       "id": 405,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3239,6 +4047,8 @@
       "namelocal": "ഷ്യോഹര്‍",
       "code": "DISTRICT_406",
       "id": 406,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3247,6 +4057,8 @@
       "namelocal": "ഗോഡ",
       "code": "DISTRICT_407",
       "id": 407,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3255,6 +4067,8 @@
       "namelocal": "സാഹേബ്‍ഗഞ്ച്",
       "code": "DISTRICT_408",
       "id": 408,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3263,6 +4077,8 @@
       "namelocal": "പകുര്‍",
       "code": "DISTRICT_409",
       "id": 409,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3271,6 +4087,8 @@
       "namelocal": "ഡുംക",
       "code": "DISTRICT_410",
       "id": 410,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3279,6 +4097,8 @@
       "namelocal": "ധന്‍ബാദ്",
       "code": "DISTRICT_411",
       "id": 411,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3287,6 +4107,8 @@
       "namelocal": "ബോക്കാറോ",
       "code": "DISTRICT_412",
       "id": 412,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3295,6 +4117,8 @@
       "namelocal": "ഘുന്തി",
       "code": "DISTRICT_413",
       "id": 413,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3303,6 +4127,8 @@
       "namelocal": "റാഞ്ചി",
       "code": "DISTRICT_414",
       "id": 414,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3311,6 +4137,8 @@
       "namelocal": "ലോഹര്‍ഡാഗ",
       "code": "DISTRICT_415",
       "id": 415,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3319,6 +4147,8 @@
       "namelocal": "ഗുംല",
       "code": "DISTRICT_416",
       "id": 416,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3327,6 +4157,8 @@
       "namelocal": "സെരായികേല ഘര്‍സാവന്‍",
       "code": "DISTRICT_417",
       "id": 417,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3335,6 +4167,8 @@
       "namelocal": "വെസ്റ്റ് സിങ്ഭും",
       "code": "DISTRICT_418",
       "id": 418,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3343,6 +4177,8 @@
       "namelocal": "ഈസ്റ്റ് സിങ്ഭും",
       "code": "DISTRICT_419",
       "id": 419,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3351,6 +4187,8 @@
       "namelocal": "സിംദേഗ",
       "code": "DISTRICT_421",
       "id": 421,
+      "stateid": 20,
+      "statecode": "STATE_JHARKHAND",
       "active": true,
       "type": "COMMON"
     },
@@ -3359,6 +4197,8 @@
       "namelocal": "ബാര്‍ഗഢ്",
       "code": "DISTRICT_422",
       "id": 422,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3367,6 +4207,8 @@
       "namelocal": "ജാര്‍സുഗുഡ",
       "code": "DISTRICT_423",
       "id": 423,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3375,6 +4217,8 @@
       "namelocal": "സാംബല്‍പുര്‍",
       "code": "DISTRICT_424",
       "id": 424,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3383,6 +4227,8 @@
       "namelocal": "ദേവ്ഗഢ്",
       "code": "DISTRICT_425",
       "id": 425,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3391,6 +4237,8 @@
       "namelocal": "സുന്ദര്‍ഗഢ്",
       "code": "DISTRICT_426",
       "id": 426,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3399,6 +4247,8 @@
       "namelocal": "കേന്‍ധുഝര്‍",
       "code": "DISTRICT_427",
       "id": 427,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3407,6 +4257,8 @@
       "namelocal": "മയൂര്‍ഭഞ്ച്",
       "code": "DISTRICT_428",
       "id": 428,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3415,6 +4267,8 @@
       "namelocal": "ബാലേശ്വര്‍",
       "code": "DISTRICT_429",
       "id": 429,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3423,6 +4277,8 @@
       "namelocal": "ഭദ്രക്",
       "code": "DISTRICT_430",
       "id": 430,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3431,6 +4287,8 @@
       "namelocal": "കേന്ദ്രപാറ",
       "code": "DISTRICT_431",
       "id": 431,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3439,6 +4297,8 @@
       "namelocal": "ജഗത്സിംഗ്പുര്‍",
       "code": "DISTRICT_432",
       "id": 432,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3447,6 +4307,8 @@
       "namelocal": "കട്ടക്ക്",
       "code": "DISTRICT_433",
       "id": 433,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3455,6 +4317,8 @@
       "namelocal": "ജാജ്പുര്‍",
       "code": "DISTRICT_434",
       "id": 434,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3463,6 +4327,8 @@
       "namelocal": "ധെന്‍കനാല്‍",
       "code": "DISTRICT_435",
       "id": 435,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3471,6 +4337,8 @@
       "namelocal": "അങ്കുല്‍",
       "code": "DISTRICT_436",
       "id": 436,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3479,6 +4347,8 @@
       "namelocal": "നയാഗഢ്",
       "code": "DISTRICT_437",
       "id": 437,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3487,6 +4357,8 @@
       "namelocal": "കോര്‍ഡാ",
       "code": "DISTRICT_438",
       "id": 438,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3495,6 +4367,8 @@
       "namelocal": "പുരി",
       "code": "DISTRICT_439",
       "id": 439,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3503,6 +4377,8 @@
       "namelocal": "ഗഞ്ചം",
       "code": "DISTRICT_440",
       "id": 440,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3511,6 +4387,8 @@
       "namelocal": "ഗജപതി",
       "code": "DISTRICT_441",
       "id": 441,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3519,6 +4397,8 @@
       "namelocal": "കാന്തമല്‍",
       "code": "DISTRICT_442",
       "id": 442,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3527,6 +4407,8 @@
       "namelocal": "ബൗധ്",
       "code": "DISTRICT_443",
       "id": 443,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3535,6 +4417,8 @@
       "namelocal": "സോനെപൂര്‍",
       "code": "DISTRICT_444",
       "id": 444,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3543,6 +4427,8 @@
       "namelocal": "ബലന്‍ഗീര്‍",
       "code": "DISTRICT_445",
       "id": 445,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3551,6 +4437,8 @@
       "namelocal": "നുവാപാഡ",
       "code": "DISTRICT_446",
       "id": 446,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3559,6 +4447,8 @@
       "namelocal": "കലഹന്ദി",
       "code": "DISTRICT_447",
       "id": 447,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3567,6 +4457,8 @@
       "namelocal": "റായ്ഗുഡാ",
       "code": "DISTRICT_448",
       "id": 448,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3575,6 +4467,8 @@
       "namelocal": "നബരങ്പുര്‍",
       "code": "DISTRICT_449",
       "id": 449,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3583,6 +4477,8 @@
       "namelocal": "കോരാപുട്",
       "code": "DISTRICT_450",
       "id": 450,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3591,6 +4487,8 @@
       "namelocal": "മല്‍കാനഗിരി",
       "code": "DISTRICT_451",
       "id": 451,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
       "active": true,
       "type": "COMMON"
     },
@@ -3599,6 +4497,8 @@
       "namelocal": "കൊറിയ",
       "code": "DISTRICT_452",
       "id": 452,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3607,6 +4507,8 @@
       "namelocal": "സര്‍ഗുജ",
       "code": "DISTRICT_453",
       "id": 453,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3615,6 +4517,8 @@
       "namelocal": "ജാഷ്പൂര്‍",
       "code": "DISTRICT_454",
       "id": 454,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3623,6 +4527,8 @@
       "namelocal": "റായ്ഗഢ്",
       "code": "DISTRICT_455",
       "id": 455,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3631,6 +4537,8 @@
       "namelocal": "കോര്‍ബാ",
       "code": "DISTRICT_456",
       "id": 456,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3639,6 +4547,8 @@
       "namelocal": "ജന്‍ജ്ഗീര്‍-ചംബ",
       "code": "DISTRICT_457",
       "id": 457,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3647,6 +4557,8 @@
       "namelocal": "ബിലാസ്പൂര്‍",
       "code": "DISTRICT_458",
       "id": 458,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3655,6 +4567,8 @@
       "namelocal": "കാബിര്‍ധം",
       "code": "DISTRICT_459",
       "id": 459,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3663,6 +4577,8 @@
       "namelocal": "രാജ്നന്ദഗാവ്",
       "code": "DISTRICT_460",
       "id": 460,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3671,6 +4587,8 @@
       "namelocal": "ദുര്‍ഗ്",
       "code": "DISTRICT_461",
       "id": 461,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3679,6 +4597,8 @@
       "namelocal": "റായ്പൂര്‍",
       "code": "DISTRICT_462",
       "id": 462,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3687,6 +4607,8 @@
       "namelocal": "മഹാസമുന്ദ്",
       "code": "DISTRICT_463",
       "id": 463,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3695,6 +4617,8 @@
       "namelocal": "ധംതരി",
       "code": "DISTRICT_464",
       "id": 464,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3703,6 +4627,8 @@
       "namelocal": "കാന്‍കര്‍",
       "code": "DISTRICT_465",
       "id": 465,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3711,6 +4637,8 @@
       "namelocal": "ബാസ്താര്‍",
       "code": "DISTRICT_466",
       "id": 466,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3719,6 +4647,8 @@
       "namelocal": "ബിജാപൂര്‍",
       "code": "DISTRICT_467",
       "id": 467,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3727,6 +4657,8 @@
       "namelocal": "ദന്‍തേവാഡ",
       "code": "DISTRICT_468",
       "id": 468,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3735,6 +4667,8 @@
       "namelocal": "ബലോഡ്",
       "code": "DISTRICT_469",
       "id": 469,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3743,6 +4677,8 @@
       "namelocal": "ബലോഡ ബസാര്‍",
       "code": "DISTRICT_470",
       "id": 470,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3751,6 +4687,8 @@
       "namelocal": "ബാല്‍രാംപൂര്‍",
       "code": "DISTRICT_471",
       "id": 471,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3759,6 +4697,8 @@
       "namelocal": "ബെമെത്തര",
       "code": "DISTRICT_472",
       "id": 472,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3767,6 +4707,8 @@
       "namelocal": "ഗാരിയബന്ധ്‌",
       "code": "DISTRICT_473",
       "id": 473,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3775,6 +4717,8 @@
       "namelocal": "കൊണ്ടാഗാവ്‌",
       "code": "DISTRICT_474",
       "id": 474,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3783,6 +4727,8 @@
       "namelocal": "മുംഗേലി",
       "code": "DISTRICT_475",
       "id": 475,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3791,6 +4737,8 @@
       "namelocal": "നാരായണ്‍പൂര്‍",
       "code": "DISTRICT_476",
       "id": 476,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3799,6 +4747,8 @@
       "namelocal": "സുക്മ",
       "code": "DISTRICT_477",
       "id": 477,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3807,6 +4757,8 @@
       "namelocal": "സുരജ്പൂര്‍",
       "code": "DISTRICT_478",
       "id": 478,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
       "active": true,
       "type": "COMMON"
     },
@@ -3815,6 +4767,8 @@
       "namelocal": "ശ്യോപുര്‍",
       "code": "DISTRICT_479",
       "id": 479,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3823,6 +4777,8 @@
       "namelocal": "മൊറേന",
       "code": "DISTRICT_480",
       "id": 480,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3831,6 +4787,8 @@
       "namelocal": "ഭിന്‍ഡ്",
       "code": "DISTRICT_481",
       "id": 481,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3839,6 +4797,8 @@
       "namelocal": "ഗ്വാളിയര്‍",
       "code": "DISTRICT_482",
       "id": 482,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3847,6 +4807,8 @@
       "namelocal": "ദടിയ",
       "code": "DISTRICT_483",
       "id": 483,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3855,6 +4817,8 @@
       "namelocal": "ശിവപുരി",
       "code": "DISTRICT_484",
       "id": 484,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3863,6 +4827,8 @@
       "namelocal": "ഗുണ",
       "code": "DISTRICT_485",
       "id": 485,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3871,6 +4837,8 @@
       "namelocal": "തിക്കംഗഢ്",
       "code": "DISTRICT_486",
       "id": 486,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3879,6 +4847,8 @@
       "namelocal": "ഛത്രപുര്‍",
       "code": "DISTRICT_487",
       "id": 487,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3887,6 +4857,8 @@
       "namelocal": "പന്ന",
       "code": "DISTRICT_488",
       "id": 488,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3895,6 +4867,8 @@
       "namelocal": "സാഗര്‍",
       "code": "DISTRICT_489",
       "id": 489,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3903,6 +4877,8 @@
       "namelocal": "ദാമോഹ്",
       "code": "DISTRICT_490",
       "id": 490,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3911,6 +4887,8 @@
       "namelocal": "സത്‍ന",
       "code": "DISTRICT_491",
       "id": 491,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3919,6 +4897,8 @@
       "namelocal": "റെവ",
       "code": "DISTRICT_492",
       "id": 492,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3927,6 +4907,8 @@
       "namelocal": "ഉമറിയ",
       "code": "DISTRICT_493",
       "id": 493,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3935,6 +4917,8 @@
       "namelocal": "അനുപ്പൂര്‍",
       "code": "DISTRICT_494",
       "id": 494,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3943,6 +4927,8 @@
       "namelocal": "ഷഹ്ഡോല്‍",
       "code": "DISTRICT_495",
       "id": 495,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3951,6 +4937,8 @@
       "namelocal": "സീധി",
       "code": "DISTRICT_496",
       "id": 496,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3959,6 +4947,8 @@
       "namelocal": "നീമച്ച്",
       "code": "DISTRICT_497",
       "id": 497,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3967,6 +4957,8 @@
       "namelocal": "മന്‍ഡ്സവര്‍",
       "code": "DISTRICT_498",
       "id": 498,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3975,6 +4967,8 @@
       "namelocal": "റത്‍ലം",
       "code": "DISTRICT_499",
       "id": 499,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3983,6 +4977,8 @@
       "namelocal": "ഉജ്ജയിന്‍",
       "code": "DISTRICT_500",
       "id": 500,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3991,6 +4987,8 @@
       "namelocal": "ഷാജാപുര്‍",
       "code": "DISTRICT_501",
       "id": 501,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -3999,6 +4997,8 @@
       "namelocal": "ദിവാസ്",
       "code": "DISTRICT_502",
       "id": 502,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4007,6 +5007,8 @@
       "namelocal": "അലിരാജ്പൂര്‍",
       "code": "DISTRICT_503",
       "id": 503,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4015,6 +5017,8 @@
       "namelocal": "ജബുവ",
       "code": "DISTRICT_504",
       "id": 504,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4023,6 +5027,8 @@
       "namelocal": "ധര്‍",
       "code": "DISTRICT_505",
       "id": 505,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4031,6 +5037,8 @@
       "namelocal": "ഇന്തോര്‍",
       "code": "DISTRICT_506",
       "id": 506,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4039,6 +5047,8 @@
       "namelocal": "ഖര്‍ഗോന്‍",
       "code": "DISTRICT_507",
       "id": 507,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4047,6 +5057,8 @@
       "namelocal": "ബര്‍വാനി",
       "code": "DISTRICT_508",
       "id": 508,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4055,6 +5067,8 @@
       "namelocal": "ബുര്‍ഹാന്‍പൂര്‍",
       "code": "DISTRICT_509",
       "id": 509,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4063,6 +5077,8 @@
       "namelocal": "ഈസ്റ്റ് നിമര്‍",
       "code": "DISTRICT_510",
       "id": 510,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4071,6 +5087,8 @@
       "namelocal": "റാജ്ഗഢ്",
       "code": "DISTRICT_511",
       "id": 511,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4079,6 +5097,8 @@
       "namelocal": "വിദിഷ",
       "code": "DISTRICT_512",
       "id": 512,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4087,6 +5107,8 @@
       "namelocal": "ഭോപ്പാല്‍",
       "code": "DISTRICT_513",
       "id": 513,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4095,6 +5117,8 @@
       "namelocal": "സെഹോര്‍",
       "code": "DISTRICT_514",
       "id": 514,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4103,6 +5127,8 @@
       "namelocal": "റയ്സ",
       "code": "DISTRICT_515",
       "id": 515,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4111,6 +5137,8 @@
       "namelocal": "ബേതുല്‍",
       "code": "DISTRICT_516",
       "id": 516,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4119,6 +5147,8 @@
       "namelocal": "ഹര്‍ദാ",
       "code": "DISTRICT_517",
       "id": 517,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4127,6 +5157,8 @@
       "namelocal": "ഹോഷന്‍ഗബാദ്",
       "code": "DISTRICT_518",
       "id": 518,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4135,6 +5167,8 @@
       "namelocal": "കട്നി",
       "code": "DISTRICT_519",
       "id": 519,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4143,6 +5177,8 @@
       "namelocal": "ജബല്‍പൂര്‍",
       "code": "DISTRICT_520",
       "id": 520,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4151,6 +5187,8 @@
       "namelocal": "നര്‍സിംഗ്പുര്‍",
       "code": "DISTRICT_521",
       "id": 521,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4159,6 +5197,8 @@
       "namelocal": "ഡിന്‍ഡോറി",
       "code": "DISTRICT_522",
       "id": 522,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4167,6 +5207,8 @@
       "namelocal": "മണ്ട്‍ല",
       "code": "DISTRICT_523",
       "id": 523,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4175,6 +5217,8 @@
       "namelocal": "ചിന്ദ്‍വാര",
       "code": "DISTRICT_524",
       "id": 524,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4183,6 +5227,8 @@
       "namelocal": "സിയോനി",
       "code": "DISTRICT_525",
       "id": 525,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4191,6 +5237,8 @@
       "namelocal": "ബലാഘട്ട്",
       "code": "DISTRICT_526",
       "id": 526,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4199,6 +5247,8 @@
       "namelocal": "അശോക് നഗര്‍",
       "code": "DISTRICT_527",
       "id": 527,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4207,6 +5257,8 @@
       "namelocal": "ആഗര്‍ മല്‍വ",
       "code": "DISTRICT_528",
       "id": 528,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4215,6 +5267,8 @@
       "namelocal": "സിങ്ക്രൌളി",
       "code": "DISTRICT_529",
       "id": 529,
+      "stateid": 23,
+      "statecode": "STATE_MADHYA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4223,6 +5277,8 @@
       "namelocal": "കഛ്",
       "code": "DISTRICT_530",
       "id": 530,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4231,6 +5287,8 @@
       "namelocal": "ബനാസ് ‍കന്ത",
       "code": "DISTRICT_531",
       "id": 531,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4239,6 +5297,8 @@
       "namelocal": "പഠാന്‍",
       "code": "DISTRICT_532",
       "id": 532,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4247,6 +5307,8 @@
       "namelocal": "മെഹ്സാന",
       "code": "DISTRICT_533",
       "id": 533,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4255,6 +5317,8 @@
       "namelocal": "സബര്‍കന്ത",
       "code": "DISTRICT_534",
       "id": 534,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4263,6 +5327,8 @@
       "namelocal": "ഗാന്ധിനഗര്‍",
       "code": "DISTRICT_535",
       "id": 535,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4271,6 +5337,8 @@
       "namelocal": "അഹമ്മദാബാദ്",
       "code": "DISTRICT_536",
       "id": 536,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4279,6 +5347,8 @@
       "namelocal": "സുരേന്ദ്ര നഗര്‍",
       "code": "DISTRICT_537",
       "id": 537,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4287,6 +5357,8 @@
       "namelocal": "രാജ്കോട്ട്",
       "code": "DISTRICT_538",
       "id": 538,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4295,6 +5367,8 @@
       "namelocal": "ജാംനഗര്‍",
       "code": "DISTRICT_539",
       "id": 539,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4303,6 +5377,8 @@
       "namelocal": "പോര്‍ബന്ദര്‍",
       "code": "DISTRICT_540",
       "id": 540,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4311,6 +5387,8 @@
       "namelocal": "ജുനഗഢ്",
       "code": "DISTRICT_541",
       "id": 541,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4319,6 +5397,8 @@
       "namelocal": "അമ്റേലി",
       "code": "DISTRICT_542",
       "id": 542,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4327,6 +5407,8 @@
       "namelocal": "ഭാവ്നഗര്‍",
       "code": "DISTRICT_543",
       "id": 543,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4335,6 +5417,8 @@
       "namelocal": "ആനന്ദ്",
       "code": "DISTRICT_544",
       "id": 544,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4343,6 +5427,8 @@
       "namelocal": "ഖേദ്ദ",
       "code": "DISTRICT_545",
       "id": 545,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4351,6 +5437,8 @@
       "namelocal": "പഞ്ച് മഹല്‍സ്",
       "code": "DISTRICT_546",
       "id": 546,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4359,6 +5447,8 @@
       "namelocal": "ദാഹോദ്",
       "code": "DISTRICT_547",
       "id": 547,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4367,6 +5457,8 @@
       "namelocal": "വഡോദ്ര",
       "code": "DISTRICT_548",
       "id": 548,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4375,6 +5467,8 @@
       "namelocal": "നര്‍മ്മദ",
       "code": "DISTRICT_549",
       "id": 549,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4383,6 +5477,8 @@
       "namelocal": "ഭരുച്ച്",
       "code": "DISTRICT_550",
       "id": 550,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4391,6 +5487,8 @@
       "namelocal": "സൂറത്ത്",
       "code": "DISTRICT_551",
       "id": 551,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4399,6 +5497,8 @@
       "namelocal": "ഡാംഗ്സ്",
       "code": "DISTRICT_552",
       "id": 552,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4407,6 +5507,8 @@
       "namelocal": "നവസാരി",
       "code": "DISTRICT_553",
       "id": 553,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4415,6 +5517,8 @@
       "namelocal": "വല്‍സാദ്",
       "code": "DISTRICT_554",
       "id": 554,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4423,6 +5527,8 @@
       "namelocal": "അര്‍വല്ലി",
       "code": "DISTRICT_555",
       "id": 555,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4431,6 +5537,8 @@
       "namelocal": "ബൊറ്റാഡ്",
       "code": "DISTRICT_556",
       "id": 556,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4439,6 +5547,8 @@
       "namelocal": "ഝോത്ത്വദേപൂര്‍",
       "code": "DISTRICT_557",
       "id": 557,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4447,6 +5557,8 @@
       "namelocal": "ദേവ്ഭുമി ദ്വാര്‍ക",
       "code": "DISTRICT_558",
       "id": 558,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4455,6 +5567,8 @@
       "namelocal": "ഗിര്‍ സോമനഥ്",
       "code": "DISTRICT_559",
       "id": 559,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4463,6 +5577,8 @@
       "namelocal": "മഹിസാഗര്‍",
       "code": "DISTRICT_560",
       "id": 560,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4471,6 +5587,8 @@
       "namelocal": "മോര്‍ബി",
       "code": "DISTRICT_561",
       "id": 561,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4479,6 +5597,8 @@
       "namelocal": "തപി",
       "code": "DISTRICT_562",
       "id": 562,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
       "active": true,
       "type": "COMMON"
     },
@@ -4487,6 +5607,8 @@
       "namelocal": "ഡ്യൂ",
       "code": "DISTRICT_563",
       "id": 563,
+      "stateid": 25,
+      "statecode": "STATE_DAMAN_AND_DIU",
       "active": true,
       "type": "COMMON"
     },
@@ -4495,6 +5617,8 @@
       "namelocal": "ഡാമന്‍ ",
       "code": "DISTRICT_564",
       "id": 564,
+      "stateid": 25,
+      "statecode": "STATE_DAMAN_AND_DIU",
       "active": true,
       "type": "COMMON"
     },
@@ -4503,6 +5627,8 @@
       "namelocal": "ദാദ്ര ആന്റ് നാഗര്‍ ഹവേലി",
       "code": "DISTRICT_565",
       "id": 565,
+      "stateid": 26,
+      "statecode": "STATE_DADRA_AND_NAGAR_HAVELI",
       "active": true,
       "type": "COMMON"
     },
@@ -4511,6 +5637,8 @@
       "namelocal": "നന്ദുര്‍ബാര്‍",
       "code": "DISTRICT_566",
       "id": 566,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4519,6 +5647,8 @@
       "namelocal": "ധുലെ",
       "code": "DISTRICT_567",
       "id": 567,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4527,6 +5657,8 @@
       "namelocal": "ജല്‍ഗാവ്",
       "code": "DISTRICT_568",
       "id": 568,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4535,6 +5667,8 @@
       "namelocal": "ബുല്‍ദാന",
       "code": "DISTRICT_569",
       "id": 569,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4543,6 +5677,8 @@
       "namelocal": "അകോല",
       "code": "DISTRICT_570",
       "id": 570,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4551,6 +5687,8 @@
       "namelocal": "വാഷിം",
       "code": "DISTRICT_571",
       "id": 571,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4559,6 +5697,8 @@
       "namelocal": "അംരാവതി",
       "code": "DISTRICT_572",
       "id": 572,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4567,6 +5707,8 @@
       "namelocal": "വാര്‍ധ",
       "code": "DISTRICT_573",
       "id": 573,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4575,6 +5717,8 @@
       "namelocal": "നാഗ്പുര്‍",
       "code": "DISTRICT_574",
       "id": 574,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4583,6 +5727,8 @@
       "namelocal": "ഭണ്ഡാര",
       "code": "DISTRICT_575",
       "id": 575,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4591,6 +5737,8 @@
       "namelocal": "ഗോണ്ടിയ",
       "code": "DISTRICT_576",
       "id": 576,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4599,6 +5747,8 @@
       "namelocal": "ഗഡ്ചിരോലി",
       "code": "DISTRICT_577",
       "id": 577,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4607,6 +5757,8 @@
       "namelocal": "ചന്ദ്രപ്പുര്‍",
       "code": "DISTRICT_578",
       "id": 578,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4615,6 +5767,8 @@
       "namelocal": "യവത്മാല്‍",
       "code": "DISTRICT_579",
       "id": 579,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4623,6 +5777,8 @@
       "namelocal": "നന്ദേഢ്",
       "code": "DISTRICT_580",
       "id": 580,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4631,6 +5787,8 @@
       "namelocal": "ഹിംഗോലി",
       "code": "DISTRICT_581",
       "id": 581,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4639,6 +5797,8 @@
       "namelocal": "പര്‍ഭനി",
       "code": "DISTRICT_582",
       "id": 582,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4647,6 +5807,8 @@
       "namelocal": "ജാല്‍ന",
       "code": "DISTRICT_583",
       "id": 583,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4655,6 +5817,8 @@
       "namelocal": "ഔറംഗാബാദ്",
       "code": "DISTRICT_584",
       "id": 584,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4663,6 +5827,8 @@
       "namelocal": "നാസിക്",
       "code": "DISTRICT_585",
       "id": 585,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4671,6 +5837,8 @@
       "namelocal": "ഠാനെ",
       "code": "DISTRICT_586",
       "id": 586,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4679,6 +5847,8 @@
       "namelocal": "മുംബൈ സുബര്‍ബന്‍",
       "code": "DISTRICT_587",
       "id": 587,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4687,6 +5857,8 @@
       "namelocal": "മുംബൈ ",
       "code": "DISTRICT_588",
       "id": 588,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4695,6 +5867,8 @@
       "namelocal": "റായ്ഗഢ്",
       "code": "DISTRICT_589",
       "id": 589,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4703,6 +5877,8 @@
       "namelocal": "പൂണെ",
       "code": "DISTRICT_590",
       "id": 590,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4711,6 +5887,8 @@
       "namelocal": "അഹമ്മദ്നഗര്‍",
       "code": "DISTRICT_591",
       "id": 591,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4719,6 +5897,8 @@
       "namelocal": "ബിഢ്",
       "code": "DISTRICT_592",
       "id": 592,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4727,6 +5907,8 @@
       "namelocal": "ലത്തൂര്‍",
       "code": "DISTRICT_593",
       "id": 593,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4735,6 +5917,8 @@
       "namelocal": "ഒസ്‍മാനാബാദ്",
       "code": "DISTRICT_594",
       "id": 594,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4743,6 +5927,8 @@
       "namelocal": "സോളാപ്പൂര്‍",
       "code": "DISTRICT_595",
       "id": 595,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4751,6 +5937,8 @@
       "namelocal": "സത്താറ",
       "code": "DISTRICT_596",
       "id": 596,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4759,6 +5947,8 @@
       "namelocal": "രത്നഗിരി",
       "code": "DISTRICT_597",
       "id": 597,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4767,6 +5957,8 @@
       "namelocal": "സിന്ധുദുര്‍ഗ്",
       "code": "DISTRICT_598",
       "id": 598,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4775,6 +5967,8 @@
       "namelocal": "കോല്‍ഹാപ്പുര്‍",
       "code": "DISTRICT_599",
       "id": 599,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4783,6 +5977,8 @@
       "namelocal": "സാംഗ്ളി",
       "code": "DISTRICT_600",
       "id": 600,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4791,6 +5987,8 @@
       "namelocal": "പാല്‍ഘര്‍",
       "code": "DISTRICT_601",
       "id": 601,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
       "active": true,
       "type": "COMMON"
     },
@@ -4799,6 +5997,8 @@
       "namelocal": "ശ്രീകാകുളം",
       "code": "DISTRICT_602",
       "id": 602,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4807,6 +6007,8 @@
       "namelocal": "വിജയനഗരം",
       "code": "DISTRICT_603",
       "id": 603,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4815,6 +6017,8 @@
       "namelocal": "വിശാഖപട്ടണം",
       "code": "DISTRICT_604",
       "id": 604,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4823,6 +6027,8 @@
       "namelocal": "ഈസ്റ്റ് ഗോദാവരി",
       "code": "DISTRICT_605",
       "id": 605,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4831,6 +6037,8 @@
       "namelocal": "വെസ്റ്റ് ഗോദാവരി",
       "code": "DISTRICT_606",
       "id": 606,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4839,6 +6047,8 @@
       "namelocal": "കൃഷ്ണ",
       "code": "DISTRICT_607",
       "id": 607,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4847,6 +6057,8 @@
       "namelocal": "ഗുണ്ടൂര്‍",
       "code": "DISTRICT_608",
       "id": 608,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4855,6 +6067,8 @@
       "namelocal": "പ്രകാശം",
       "code": "DISTRICT_609",
       "id": 609,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4863,6 +6077,8 @@
       "namelocal": "എസ് പി എസ് ആര്‍ നെല്ലൂര്‍",
       "code": "DISTRICT_610",
       "id": 610,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4871,6 +6087,8 @@
       "namelocal": "വൈ എസ്സ് ആര്‍",
       "code": "DISTRICT_611",
       "id": 611,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4879,6 +6097,8 @@
       "namelocal": "കുര്‍ണൂല്‍",
       "code": "DISTRICT_612",
       "id": 612,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4887,6 +6107,8 @@
       "namelocal": "അനന്തപൂര്‍",
       "code": "DISTRICT_613",
       "id": 613,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4895,6 +6117,8 @@
       "namelocal": "ചിറ്റൂര്‍",
       "code": "DISTRICT_614",
       "id": 614,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     },
@@ -4903,6 +6127,8 @@
       "namelocal": "ബെല്‍ഗാം",
       "code": "DISTRICT_615",
       "id": 615,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4911,6 +6137,8 @@
       "namelocal": "ബഗല്‍കോട്ട്",
       "code": "DISTRICT_616",
       "id": 616,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4919,6 +6147,8 @@
       "namelocal": "വിജയപുര",
       "code": "DISTRICT_617",
       "id": 617,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4927,6 +6157,8 @@
       "namelocal": "കാലബുറഗി",
       "code": "DISTRICT_618",
       "id": 618,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4935,6 +6167,8 @@
       "namelocal": "യാദ് ഗിര്‍",
       "code": "DISTRICT_619",
       "id": 619,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4943,6 +6177,8 @@
       "namelocal": "ബിദാര്‍",
       "code": "DISTRICT_620",
       "id": 620,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4951,6 +6187,8 @@
       "namelocal": "റെയിഞ്ചൂര്‍",
       "code": "DISTRICT_621",
       "id": 621,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4959,6 +6197,8 @@
       "namelocal": "കൊപ്പല്‍",
       "code": "DISTRICT_622",
       "id": 622,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4967,6 +6207,8 @@
       "namelocal": "ഗാഡഗ്",
       "code": "DISTRICT_623",
       "id": 623,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4975,6 +6217,8 @@
       "namelocal": "ധാര്‍വാഡ്",
       "code": "DISTRICT_624",
       "id": 624,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4983,6 +6227,8 @@
       "namelocal": "ഉത്തര കന്നഡ",
       "code": "DISTRICT_625",
       "id": 625,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4991,6 +6237,8 @@
       "namelocal": "ഹവേരി",
       "code": "DISTRICT_626",
       "id": 626,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -4999,6 +6247,8 @@
       "namelocal": "ബെല്ലാരി",
       "code": "DISTRICT_627",
       "id": 627,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5007,6 +6257,8 @@
       "namelocal": "ചിത്രദുര്‍ഗ",
       "code": "DISTRICT_628",
       "id": 628,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5015,6 +6267,8 @@
       "namelocal": "ദാവന്‍ഗ്രെ",
       "code": "DISTRICT_629",
       "id": 629,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5023,6 +6277,8 @@
       "namelocal": "ഷിമോഗ",
       "code": "DISTRICT_630",
       "id": 630,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5031,6 +6287,8 @@
       "namelocal": "ഉഡുപ്പി",
       "code": "DISTRICT_631",
       "id": 631,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5039,6 +6297,8 @@
       "namelocal": "ചിക് മഗ്ലൂര്‍",
       "code": "DISTRICT_632",
       "id": 632,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5047,6 +6307,8 @@
       "namelocal": "തുമകുരു‍",
       "code": "DISTRICT_633",
       "id": 633,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5055,6 +6317,8 @@
       "namelocal": "ചിക്കബല്ലാപൂര്‍",
       "code": "DISTRICT_634",
       "id": 634,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5063,6 +6327,8 @@
       "namelocal": "കോളാര്‍",
       "code": "DISTRICT_635",
       "id": 635,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5071,14 +6337,18 @@
       "namelocal": "ബംഗളുരു അര്‍ബന്‍",
       "code": "DISTRICT_636",
       "id": 636,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Bengaluru Rural",
-      "namelocal": "ബംഗളുരു  റൂറല്‍",
+      "namelocal": "ബംഗളുരു റൂറല്‍",
       "code": "DISTRICT_637",
       "id": 637,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5087,6 +6357,8 @@
       "namelocal": "റാംനഗര്‍",
       "code": "DISTRICT_638",
       "id": 638,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5095,6 +6367,8 @@
       "namelocal": "മാണ്ഡ്യ",
       "code": "DISTRICT_639",
       "id": 639,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5103,6 +6377,8 @@
       "namelocal": "ഹസന്‍",
       "code": "DISTRICT_640",
       "id": 640,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5111,6 +6387,8 @@
       "namelocal": "ദക്ഷിണ കന്നഡ",
       "code": "DISTRICT_641",
       "id": 641,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5119,6 +6397,8 @@
       "namelocal": "കൊഡക്",
       "code": "DISTRICT_642",
       "id": 642,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5127,6 +6407,8 @@
       "namelocal": "മൈസൂര്‍",
       "code": "DISTRICT_643",
       "id": 643,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5135,6 +6417,8 @@
       "namelocal": "ചമരഞ്ചനഗര്‍",
       "code": "DISTRICT_644",
       "id": 644,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
       "active": true,
       "type": "COMMON"
     },
@@ -5143,6 +6427,8 @@
       "namelocal": "നോര്‍ത്ത് ഗോവ",
       "code": "DISTRICT_645",
       "id": 645,
+      "stateid": 30,
+      "statecode": "STATE_GOA",
       "active": true,
       "type": "COMMON"
     },
@@ -5151,6 +6437,8 @@
       "namelocal": "സൗത്ത് ഗോവ",
       "code": "DISTRICT_646",
       "id": 646,
+      "stateid": 30,
+      "statecode": "STATE_GOA",
       "active": true,
       "type": "COMMON"
     },
@@ -5159,6 +6447,8 @@
       "namelocal": "ലക്ഷദ്വീപ് ജില്ല",
       "code": "DISTRICT_647",
       "id": 647,
+      "stateid": 31,
+      "statecode": "STATE_LAKSHADWEEP",
       "active": true,
       "type": "COMMON"
     },
@@ -5167,6 +6457,8 @@
       "namelocal": "തിരുവള്ളൂര്‍",
       "code": "DISTRICT_648",
       "id": 648,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5175,6 +6467,8 @@
       "namelocal": "ചെന്നൈ",
       "code": "DISTRICT_649",
       "id": 649,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5183,6 +6477,8 @@
       "namelocal": "കാഞ്ചീപുരം",
       "code": "DISTRICT_650",
       "id": 650,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5191,6 +6487,8 @@
       "namelocal": "വെല്ലൂര്‍",
       "code": "DISTRICT_651",
       "id": 651,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5199,6 +6497,8 @@
       "namelocal": "ധര്‍മ്മപുരി",
       "code": "DISTRICT_652",
       "id": 652,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5207,6 +6507,8 @@
       "namelocal": "കൃഷ്ണഗിരി",
       "code": "DISTRICT_653",
       "id": 653,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5215,6 +6517,8 @@
       "namelocal": "തിരുവണ്ണാമല",
       "code": "DISTRICT_654",
       "id": 654,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5223,6 +6527,8 @@
       "namelocal": "വില്ലുപുരം",
       "code": "DISTRICT_655",
       "id": 655,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5231,6 +6537,8 @@
       "namelocal": "സേലം",
       "code": "DISTRICT_656",
       "id": 656,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5239,6 +6547,8 @@
       "namelocal": "നാമക്കല്‍",
       "code": "DISTRICT_657",
       "id": 657,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5247,6 +6557,8 @@
       "namelocal": "ഈറോഡ്",
       "code": "DISTRICT_658",
       "id": 658,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5255,6 +6567,8 @@
       "namelocal": "നീലഗിരി",
       "code": "DISTRICT_659",
       "id": 659,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5263,6 +6577,8 @@
       "namelocal": "കോയമ്പത്തൂര്‍",
       "code": "DISTRICT_660",
       "id": 660,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5271,6 +6587,8 @@
       "namelocal": "ഡിണ്ടിഗല്‍",
       "code": "DISTRICT_661",
       "id": 661,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5279,6 +6597,8 @@
       "namelocal": "കരൂര്‍",
       "code": "DISTRICT_662",
       "id": 662,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5287,6 +6607,8 @@
       "namelocal": "തിരുച്ചിറപ്പള്ളി",
       "code": "DISTRICT_663",
       "id": 663,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5295,6 +6617,8 @@
       "namelocal": "പെരമ്പലൂര്‍",
       "code": "DISTRICT_664",
       "id": 664,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5303,6 +6627,8 @@
       "namelocal": "അരിയാലൂര്‍",
       "code": "DISTRICT_665",
       "id": 665,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5311,6 +6637,8 @@
       "namelocal": "കടലൂര്‍",
       "code": "DISTRICT_666",
       "id": 666,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5319,6 +6647,8 @@
       "namelocal": "നാഗപട്ടണം",
       "code": "DISTRICT_667",
       "id": 667,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5327,6 +6657,8 @@
       "namelocal": "തിരുവാരൂര്‍",
       "code": "DISTRICT_668",
       "id": 668,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5335,6 +6667,8 @@
       "namelocal": "തഞ്ചാവൂര്‍",
       "code": "DISTRICT_669",
       "id": 669,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5343,6 +6677,8 @@
       "namelocal": "പുതുക്കോട്ട",
       "code": "DISTRICT_670",
       "id": 670,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5351,6 +6687,8 @@
       "namelocal": "ശിവഗംഗ",
       "code": "DISTRICT_671",
       "id": 671,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5359,6 +6697,8 @@
       "namelocal": "മധുര",
       "code": "DISTRICT_672",
       "id": 672,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5367,6 +6707,8 @@
       "namelocal": "തേനി",
       "code": "DISTRICT_673",
       "id": 673,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5375,6 +6717,8 @@
       "namelocal": "വിരുദുനഗര്‍",
       "code": "DISTRICT_674",
       "id": 674,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5383,6 +6727,8 @@
       "namelocal": "രാമനാഥപുരം",
       "code": "DISTRICT_675",
       "id": 675,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5391,6 +6737,8 @@
       "namelocal": "തൂത്തുക്കുടി",
       "code": "DISTRICT_676",
       "id": 676,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5399,6 +6747,8 @@
       "namelocal": "തിരുനെല്‍വേലി",
       "code": "DISTRICT_677",
       "id": 677,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5407,6 +6757,8 @@
       "namelocal": "കന്യാകുമാരി",
       "code": "DISTRICT_678",
       "id": 678,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5415,6 +6767,8 @@
       "namelocal": "തിരുപ്പൂര്‍",
       "code": "DISTRICT_679",
       "id": 679,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
       "active": true,
       "type": "COMMON"
     },
@@ -5423,6 +6777,8 @@
       "namelocal": "യാനം",
       "code": "DISTRICT_680",
       "id": 680,
+      "stateid": 34,
+      "statecode": "STATE_PUDUCHERRY",
       "active": true,
       "type": "COMMON"
     },
@@ -5431,6 +6787,8 @@
       "namelocal": "പുതുച്ചേരി",
       "code": "DISTRICT_681",
       "id": 681,
+      "stateid": 34,
+      "statecode": "STATE_PUDUCHERRY",
       "active": true,
       "type": "COMMON"
     },
@@ -5439,6 +6797,8 @@
       "namelocal": "മാഹി",
       "code": "DISTRICT_682",
       "id": 682,
+      "stateid": 34,
+      "statecode": "STATE_PUDUCHERRY",
       "active": true,
       "type": "COMMON"
     },
@@ -5447,6 +6807,8 @@
       "namelocal": "കാരയ്ക്കല്‍",
       "code": "DISTRICT_683",
       "id": 683,
+      "stateid": 34,
+      "statecode": "STATE_PUDUCHERRY",
       "active": true,
       "type": "COMMON"
     },
@@ -5455,6 +6817,8 @@
       "namelocal": "സൌത്ത് ആന്‍ഡമാന്‍",
       "code": "DISTRICT_684",
       "id": 684,
+      "stateid": 35,
+      "statecode": "STATE_ANDAMAN_AND_NICOBARISLANDS",
       "active": true,
       "type": "COMMON"
     },
@@ -5463,6 +6827,8 @@
       "namelocal": "നിക്കോബര്‍",
       "code": "DISTRICT_685",
       "id": 685,
+      "stateid": 35,
+      "statecode": "STATE_ANDAMAN_AND_NICOBARISLANDS",
       "active": true,
       "type": "COMMON"
     },
@@ -5471,6 +6837,8 @@
       "namelocal": "നോര്‍ത്ത് ആന്റ് മ്ഡ്ഡില്‍ ആന്‍ഡമാന്‍",
       "code": "DISTRICT_686",
       "id": 686,
+      "stateid": 35,
+      "statecode": "STATE_ANDAMAN_AND_NICOBARISLANDS",
       "active": true,
       "type": "COMMON"
     },
@@ -5479,6 +6847,8 @@
       "namelocal": "അഡിലാബാദ്",
       "code": "DISTRICT_687",
       "id": 687,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5487,6 +6857,8 @@
       "namelocal": "നിസാമബാദ്",
       "code": "DISTRICT_688",
       "id": 688,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5495,6 +6867,8 @@
       "namelocal": "കരീംനഗര്‍",
       "code": "DISTRICT_689",
       "id": 689,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5503,6 +6877,8 @@
       "namelocal": "മേദക്",
       "code": "DISTRICT_690",
       "id": 690,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5511,6 +6887,8 @@
       "namelocal": "ഹൈദരാബാദ്",
       "code": "DISTRICT_691",
       "id": 691,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5519,6 +6897,8 @@
       "namelocal": "രങ്കറെഡ്ഡി",
       "code": "DISTRICT_692",
       "id": 692,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5527,6 +6907,8 @@
       "namelocal": "മെഹ്ബൂബ്‍നഗര്‍",
       "code": "DISTRICT_693",
       "id": 693,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5535,6 +6917,8 @@
       "namelocal": "നല്‍ഗൊണ്ട",
       "code": "DISTRICT_694",
       "id": 694,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5543,6 +6927,8 @@
       "namelocal": "വാറംഗല്‍ റൂറല്‍",
       "code": "DISTRICT_695",
       "id": 695,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5551,6 +6937,8 @@
       "namelocal": "ഖമ്മം",
       "code": "DISTRICT_696",
       "id": 696,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5559,6 +6947,8 @@
       "namelocal": "ഭദ്രഗിരി കൊത്തഗുഡം",
       "code": "DISTRICT_697",
       "id": 697,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5567,6 +6957,8 @@
       "namelocal": "ജഗിതിയല്‍",
       "code": "DISTRICT_698",
       "id": 698,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5575,6 +6967,8 @@
       "namelocal": "ജാങ്കോന്‍",
       "code": "DISTRICT_699",
       "id": 699,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5583,6 +6977,8 @@
       "namelocal": "ജയശങ്കര്‍ ഭുപലപള്ളി",
       "code": "DISTRICT_700",
       "id": 700,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5591,6 +6987,8 @@
       "namelocal": "ജോഗുലമ്പ ഗഡ്വല്‍",
       "code": "DISTRICT_701",
       "id": 701,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5599,6 +6997,8 @@
       "namelocal": "കാമറെഡ്ഡി",
       "code": "DISTRICT_702",
       "id": 702,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5607,6 +7007,8 @@
       "namelocal": "കുമുരം ഭീം ആസിഫാബാദ്",
       "code": "DISTRICT_703",
       "id": 703,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5615,6 +7017,8 @@
       "namelocal": "മഹാബുബാബാദ്",
       "code": "DISTRICT_704",
       "id": 704,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5623,6 +7027,8 @@
       "namelocal": "മന്‍ചെരിയല്‍",
       "code": "DISTRICT_705",
       "id": 705,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5631,6 +7037,8 @@
       "namelocal": "മെട്ചല്‍ മല്‍കജ്ഗിരി",
       "code": "DISTRICT_706",
       "id": 706,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5639,6 +7047,8 @@
       "namelocal": "നാഗര്‍കുര്‍നൂല്‍",
       "code": "DISTRICT_707",
       "id": 707,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5647,6 +7057,8 @@
       "namelocal": "നിര്‍മല്‍",
       "code": "DISTRICT_708",
       "id": 708,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5655,6 +7067,8 @@
       "namelocal": "പെഡ്ഡപള്ളി",
       "code": "DISTRICT_709",
       "id": 709,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5663,6 +7077,8 @@
       "namelocal": "രാജണ്ണാ സിര്‍സില്ലാ",
       "code": "DISTRICT_710",
       "id": 710,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5671,6 +7087,8 @@
       "namelocal": "സങ്കറെഡ്ഡി",
       "code": "DISTRICT_711",
       "id": 711,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5679,6 +7097,8 @@
       "namelocal": "സിഡ്ഡിപെട്ട്",
       "code": "DISTRICT_712",
       "id": 712,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5687,6 +7107,8 @@
       "namelocal": "സൂര്യാപെട്ട്",
       "code": "DISTRICT_713",
       "id": 713,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5695,6 +7117,8 @@
       "namelocal": "വികാരബാദ്",
       "code": "DISTRICT_714",
       "id": 714,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5703,6 +7127,8 @@
       "namelocal": "വനപാര്‍ത്തി",
       "code": "DISTRICT_715",
       "id": 715,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5711,6 +7137,8 @@
       "namelocal": "വാറംഗല്‍ അര്‍ബന്‍",
       "code": "DISTRICT_716",
       "id": 716,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5719,6 +7147,8 @@
       "namelocal": "യദാദ്രി ഭുവനഗിരി",
       "code": "DISTRICT_717",
       "id": 717,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
       "active": true,
       "type": "COMMON"
     },
@@ -5727,6 +7157,8 @@
       "namelocal": "ലഡാക്ക് (ലേ )",
       "code": "DISTRICT_21",
       "id": 21,
+      "stateid": 37,
+      "statecode": "STATE_LADAKH",
       "active": true,
       "type": "COMMON"
     },
@@ -5735,6 +7167,658 @@
       "namelocal": "കര്‍ഗില്‍",
       "code": "DISTRICT_22",
       "id": 22,
+      "stateid": 37,
+      "statecode": "STATE_LADAKH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "GONDIYA",
+      "namelocal": "ഗോണ്ടിയ",
+      "code": "DISTRICT_1000",
+      "id": 1000,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "JAINTIA HILLS",
+      "namelocal": "ജയന്തിയാ ഹിൽസ്",
+      "code": "DISTRICT_1001",
+      "id": 1001,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "NAWAN SHEHAR",
+      "namelocal": "നവൻ ഷെഹർ",
+      "code": "DISTRICT_1002",
+      "id": 1002,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SIAHA",
+      "namelocal": "സിയാഹ",
+      "code": "DISTRICT_1003",
+      "id": 1003,
+      "stateid": 15,
+      "statecode": "STATE_MIZORAM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "EAST SIKKIM",
+      "namelocal": "കിഴക്കൻ സിക്കിം",
+      "code": "DISTRICT_1004",
+      "id": 1004,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "NORTH SIKKIM",
+      "namelocal": "നോർത്ത് സിക്കിം",
+      "code": "DISTRICT_1005",
+      "id": 1005,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SOUTH SIKKIM",
+      "namelocal": "സൗത്ത് സിക്കിം",
+      "code": "DISTRICT_1006",
+      "id": 1006,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "WEST SIKKIM",
+      "namelocal": "വെസ്റ്റ് സിക്കിം",
+      "code": "DISTRICT_1007",
+      "id": 1007,
+      "stateid": 11,
+      "statecode": "STATE_SIKKIM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "KANYAKUMARI",
+      "namelocal": "കന്യാകുമാരി",
+      "code": "DISTRICT_1008",
+      "id": 1008,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "NORTH CACHAR HILLS",
+      "namelocal": "നോർത്ത് കച്ചാർ ഹിൽസ് ",
+      "code": "DISTRICT_1009",
+      "id": 1009,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SIBSAGAR",
+      "namelocal": "സിബ്സാഗർ",
+      "code": "DISTRICT_1010",
+      "id": 1010,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "DEBAGARH",
+      "namelocal": "ദേബാഗർ",
+      "code": "DISTRICT_1011",
+      "id": 1011,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "ANGUL",
+      "namelocal": "അംഗുൽ",
+      "code": "DISTRICT_1012",
+      "id": 1012,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SUBARNAPUR",
+      "namelocal": "സുബർണാപൂർ",
+      "code": "DISTRICT_1013",
+      "id": 1013,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "DAHOD",
+      "namelocal": "ദാഹോദ്",
+      "code": "DISTRICT_1014",
+      "id": 1014,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "KUTCH",
+      "namelocal": "കച്ച്",
+      "code": "DISTRICT_1015",
+      "id": 1015,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "MEHSANA",
+      "namelocal": "മെഹ്സാന",
+      "code": "DISTRICT_1016",
+      "id": 1016,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "GURGAON",
+      "namelocal": "ഗുർഗാവ്",
+      "code": "DISTRICT_1017",
+      "id": 1017,
+      "stateid": 6,
+      "statecode": "STATE_HARYANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BELGAUM",
+      "namelocal": "ബെൽഗാം",
+      "code": "DISTRICT_1018",
+      "id": 1018,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BELLARY",
+      "namelocal": "ബെല്ലാരി",
+      "code": "DISTRICT_1019",
+      "id": 1019,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "CHIKMAGALUR",
+      "namelocal": "ചിക്കമഗളൂർ",
+      "code": "DISTRICT_1020",
+      "id": 1020,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "GULBARGA",
+      "namelocal": "ഗുൽബർഗ",
+      "code": "DISTRICT_1021",
+      "id": 1021,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SHIMOGA",
+      "namelocal": "ഷിമോഗ",
+      "code": "DISTRICT_1022",
+      "id": 1022,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "TUMKUR",
+      "namelocal": "തുംകൂർ",
+      "code": "DISTRICT_1023",
+      "id": 1023,
+      "stateid": 29,
+      "statecode": "STATE_KARNATAKA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "AURANGABAD",
+      "namelocal": "ഔറംഗബാദ്",
+      "code": "DISTRICT_1024",
+      "id": 1024,
+      "stateid": 27,
+      "statecode": "STATE_MAHARASHTRA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "THOOTHUKUDI",
+      "namelocal": "തൂത്തുക്കുടി",
+      "code": "DISTRICT_1025",
+      "id": 1025,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BADAUN",
+      "namelocal": "ബദൗൺ",
+      "code": "DISTRICT_1026",
+      "id": 1026,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "MAHAMAYA NAGAR",
+      "namelocal": "മഹാമായ നഗർ",
+      "code": "DISTRICT_1027",
+      "id": 1027,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "JYOTIBA PHULE NAGAR",
+      "namelocal": "ജ്യോതിബ ഫൂലെ നഗർ",
+      "code": "DISTRICT_1028",
+      "id": 1028,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "PRATAPGARH",
+      "namelocal": "പ്രതാപ്ഗഡ്",
+      "code": "DISTRICT_1029",
+      "id": 1029,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SANT RAVIDAS NAGAR",
+      "namelocal": "സന്ത് രവിദാസ് നഗർ",
+      "code": "DISTRICT_1030",
+      "id": 1030,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "MIDNAPORE",
+      "namelocal": "മിഡ്നാപൂർ",
+      "code": "DISTRICT_1031",
+      "id": 1031,
+      "stateid": 19,
+      "statecode": "STATE_WESTBENGAL",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "VISHAKHAPATNAM",
+      "namelocal": "വിശാഖപട്ടണം",
+      "code": "DISTRICT_1032",
+      "id": 1032,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SOUTH ANDAMAN",
+      "namelocal": "സൗത്ത് ആൻഡമാൻ",
+      "code": "DISTRICT_1033",
+      "id": 1033,
+      "stateid": 35,
+      "statecode": "STATE_ANDAMAN_AND_NICOBARISLANDS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "HAMIRPUR",
+      "namelocal": "ഹമീർപൂർ",
+      "code": "DISTRICT_1034",
+      "id": 1034,
+      "stateid": 2,
+      "statecode": "STATE_HIMACHAL_PRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "MAHBUBNAGAR",
+      "namelocal": "മഹ്ബൂബനഗർ",
+      "code": "DISTRICT_1035",
+      "id": 1035,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BIJAPUR",
+      "namelocal": "ബിജാപൂർ",
+      "code": "DISTRICT_1036",
+      "id": 1036,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BILASPUR",
+      "namelocal": "ബിലാസ്പൂർ",
+      "code": "DISTRICT_1037",
+      "id": 1037,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "LEH",
+      "namelocal": "ലേഹ്",
+      "code": "DISTRICT_1038",
+      "id": 1038,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "JKBD BADGAM",
+      "namelocal": "JKBD ബദ്ഗാം",
+      "code": "DISTRICT_1039",
+      "id": 1039,
+      "stateid": 1,
+      "statecode": "STATE_JAMMU_AND_KASHMIR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "MOHALI",
+      "namelocal": "മൊഹാലി",
+      "code": "DISTRICT_1040",
+      "id": 1040,
+      "stateid": 3,
+      "statecode": "STATE_PUNJAB",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BALASORE",
+      "namelocal": "ബാലസോർ",
+      "code": "DISTRICT_1041",
+      "id": 1041,
+      "stateid": 21,
+      "statecode": "STATE_ODISHA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "ARA",
+      "namelocal": "എ ആർ എ",
+      "code": "DISTRICT_1042",
+      "id": 1042,
+      "stateid": 10,
+      "statecode": "STATE_BIHAR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "ADILABAD",
+      "namelocal": "അദിലാബാദ്",
+      "code": "DISTRICT_1043",
+      "id": 1043,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "HYDERABAD",
+      "namelocal": "ഹൈദരാബാദ്",
+      "code": "DISTRICT_1044",
+      "id": 1044,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "KHAMMAM",
+      "namelocal": "ഖമ്മം",
+      "code": "DISTRICT_1045",
+      "id": 1045,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "MAHBOOBNAGAR",
+      "namelocal": "മഹ്ബൂബ്‌നഗർ",
+      "code": "DISTRICT_1046",
+      "id": 1046,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "MEDAK",
+      "namelocal": "മേഡക്ക്",
+      "code": "DISTRICT_1047",
+      "id": 1047,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "NALGONDA",
+      "namelocal": "നൽഗൊണ്ട",
+      "code": "DISTRICT_1048",
+      "id": 1048,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "NIZAMABAD",
+      "namelocal": "നിസാമാബാദ്",
+      "code": "DISTRICT_1049",
+      "id": 1049,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "RANGA REDDY",
+      "namelocal": "രംഗ റെഡ്ഡി",
+      "code": "DISTRICT_1050",
+      "id": 1050,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "KARIMNAGAR",
+      "namelocal": "കരിംനഗർ",
+      "code": "DISTRICT_1051",
+      "id": 1051,
+      "stateid": 36,
+      "statecode": "STATE_TELANGANA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "NILGIRIS",
+      "namelocal": "നീലഗിരി",
+      "code": "DISTRICT_1052",
+      "id": 1052,
+      "stateid": 33,
+      "statecode": "STATE_TAMIL_NADU",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "DHEMAJI",
+      "namelocal": "ധേമാജി",
+      "code": "DISTRICT_1053",
+      "id": 1053,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "UDALGUR",
+      "namelocal": "ഉദൽഗുർ",
+      "code": "DISTRICT_1054",
+      "id": 1054,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BISHWANATH",
+      "namelocal": "ബിശ്വനാഥ്",
+      "code": "DISTRICT_1055",
+      "id": 1055,
+      "stateid": 18,
+      "statecode": "STATE_ASSAM",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "ARAVALLI",
+      "namelocal": "ആരവല്ലി",
+      "code": "DISTRICT_1056",
+      "id": 1056,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "CHHOTA UDAIPUR",
+      "namelocal": "ഛോട്ട ഉദയ്പൂർ",
+      "code": "DISTRICT_1057",
+      "id": 1057,
+      "stateid": 24,
+      "statecode": "STATE_GUJARAT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SOUTH EAST KHASI HILLS",
+      "namelocal": "സൗത്ത് ഈസ്റ്റ് ഖാസി ഹിൽസ്",
+      "code": "DISTRICT_1058",
+      "id": 1058,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "NORTH GHARO HILLS",
+      "namelocal": "നോർത്ത് ഗാരോ ഹിൽസ്",
+      "code": "DISTRICT_1059",
+      "id": 1059,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "SOUTH WEST GHARO HILLS",
+      "namelocal": "സൗത്ത് വെസ്റ്റ് ഗാരോ ഹിൽസ്",
+      "code": "DISTRICT_1060",
+      "id": 1060,
+      "stateid": 17,
+      "statecode": "STATE_MEGHALAYA",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "HARDOR",
+      "namelocal": "ഹാർഡർ",
+      "code": "DISTRICT_1061",
+      "id": 1061,
+      "stateid": 9,
+      "statecode": "STATE_UTTARPRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "KADAPA",
+      "namelocal": "കടപ്പ",
+      "code": "DISTRICT_1062",
+      "id": 1062,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "BALRAMPUR",
+      "namelocal": "ബൽറാംപൂർ",
+      "code": "DISTRICT_1063",
+      "id": 1063,
+      "stateid": 22,
+      "statecode": "STATE_CHHATTISGARH",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "WARANGAL",
+      "namelocal": "വാറങ്കൽ",
+      "code": "DISTRICT_1064",
+      "id": 1064,
+      "stateid": 28,
+      "statecode": "STATE_ANDHRA_PRADESH",
       "active": true,
       "type": "COMMON"
     }
