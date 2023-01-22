@@ -25468,6 +25468,66 @@
       "tenantId": "kl"
     },
     {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 2453,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 2454,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 2455,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 2456,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 2453,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 2454,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 2455,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 2456,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2453,
       "actioncode": "",
@@ -25482,6 +25542,36 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2455,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2456,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEOPERATOR",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_PDEAPPROVER",
+      "actionid": 1752,
       "actioncode": "",
       "tenantId": "kl"
     }

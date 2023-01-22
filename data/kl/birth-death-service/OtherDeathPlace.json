@@ -1,0 +1,97 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "OtherDeathPlace": [
+    {
+      "code": "OTHER_DEATH_PLACE_DAM",
+      "name": "Dam",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_FOREST_AREA",
+      "name": "Forest Area",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_HIGHWAY",
+      "name": "Highway",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_LAKE",
+      "name": "Lake",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_OTHER_PUBLIC_PLACES",
+      "name": "Other Public Places",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_POND",
+      "name": "Pond",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_RAILWAY_TRACK",
+      "name": "Railway Track",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_RIVER",
+      "name": "River",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_ROAD",
+      "name": "Road",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_SHIP",
+      "name": "Ship",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_TRIBAL_COLONY",
+      "name": "Tribal Colony",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_OTHERS",
+      "name": "Others",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_DEATH_PLACE_OUTSIDE_JURISDICTION",
+      "name": "Outside Jurisdiction",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

@@ -725,6 +725,10 @@
         {            
             "format": "BR-REGY-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
             "idname": "registrationno"
+        },
+        {
+            "format": "KL-TL-PDE-[cy:yyyy-MM-dd]-[SEQ_EG_TL_PDEAPL]",
+            "idname": "tl.pdeaplnumber"
         }
     ]
 }

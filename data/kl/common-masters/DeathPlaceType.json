@@ -1,6 +1,6 @@
 {
   "tenantId": "kl",
-  "moduleName": "death-services",
+  "moduleName": "common-masters",
   "PlaceMaster": [
     {
       "name": "Hospital",
@@ -31,17 +31,10 @@
       "type": "BND"
     },
     {
-      "name": "Public Places",
+      "name": "Other Places",
       "namelocal": "",
       "code": "PUBLIC_PLACES",
       "active": true,
-      "type": "BND"
-    },
-    {
-      "name": "Others Country",
-      "namelocal": "",
-      "code": "OTHERS_COUNTRY",
-      "active": false,
       "type": "BND"
     }
   ]

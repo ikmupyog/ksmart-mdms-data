@@ -1,0 +1,48 @@
+{
+  "tenantId": "kl.anthoor",
+  "moduleName": "egov-location",
+  "hospitalList": [
+    {
+      "code": "HOSPITAL_8544",
+      "hospitalName": "Jyothis Sky Speciality Hospital",
+      "hospitalNamelocal": "ജ്യോതിസ് സ്കൈ സ്പെഷ്യാലിറ്റി ഹോസ്പിറ്റല്‍",
+      "hoId": 8544,
+      "stateId": 32,
+      "distId": 13,
+      "lbId": 1287,
+      "slNo": 2,
+      "street": "Bakkalam",
+      "place": "Bakkalam",
+      "wardId": 29,
+      "poId": 3,
+      "streetLocal": "ബക്കളം",
+      "placeLocal": "ബക്കളം",
+      "buildingNo": "686 A",
+      "buildingName": "NULL",
+      "buildingNameLocal": null,
+      "phoneNo": 7034400772,
+      "phoneDesig": "NULL",
+      "mainPlace": "Bakkalam",
+      "mainPlaceLocal": "ബക്കളം",
+      "registar": [
+        {
+          "hospitalRegistar": "K K Dinesh (MBBS DGO)",
+          "registrationNo": "NULL",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": null
+        }
+      ],
+      "talukCode": "ജ്യോതിസ് സ്കൈ സ്പെഷ്യാലിറ്റി ഹോസ്പിറ്റല്‍ബക്കളംബക്കളം",
+      "stateCode": "Jyothis Sky Speciality HospitalBakkalamBakkalam",
+      "distCode": "DESIGNATION_GYNAECOLOGIST",
+      "lbTypeCode": null,
+      "active": null,
+      "address": "Jyothis Sky Speciality HospitalBakkalamBakkalam",
+      "addressLocal": "ജ്യോതിസ് സ്കൈ സ്പെഷ്യാലിറ്റി ഹോസ്പിറ്റല്‍ബക്കളംബക്കളം",
+      "designationCode": "DESIGNATION_GYNAECOLOGIST",
+      "tenentCode": "kl.anthoor",
+      "migrationKochiCode": null
+    }
+  ]
+}
