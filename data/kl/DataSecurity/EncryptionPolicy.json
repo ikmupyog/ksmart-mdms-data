@@ -120,6 +120,23 @@
             "type" : "Normal"
           }
         ]
+      },
+        {
+        "key" : "FMDetail",
+        "attributeList" : [
+          {
+            "jsonPath" : "aadhaarNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "mobileNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "emailId",
+            "type" : "Normal"
+          }
+        ]
       }
     ]
 }

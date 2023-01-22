@@ -1,0 +1,670 @@
+{
+  "tenantId": "kl",
+  "moduleName": "common-masters",
+  "InstitutionDesignation": [
+    {
+      "name": "Medical Officer",
+      "namelocal": "മെഡിക്കല്‍ ഓഫീസര്‍",
+      "id": 1,
+      "code": "DESIGNATION_MEDICAL_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chief Medical Officer",
+      "namelocal": "ചീഫ് മെഡിക്കല്‍ ആഫീസര്‍",
+      "id": 2,
+      "code": "DESIGNATION_CHIEF_MEDICAL_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Resident Medical Officer",
+      "namelocal": "റസിഡന്റ് മെഡിക്കല്‍ ആഫീസര്‍",
+      "id": 3,
+      "code": "DESIGNATION_RESIDENT_MEDICAL_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Medical Superintendent",
+      "namelocal": "മെഡിക്കല്‍ സൂപ്രണ്ട്",
+      "id": 4,
+      "code": "DESIGNATION_MEDICAL_SUPERINTENDENT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Assistant Surgoen",
+      "namelocal": "അസിസ്റ്റന്റ് സര്‍ജന്‍",
+      "id": 5,
+      "code": "DESIGNATION_ASSISTANT_SURGOEN",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Civil Surgoen",
+      "namelocal": "സിവില്‍ സര്‍ജന്‍",
+      "id": 6,
+      "code": "DESIGNATION_CIVIL_SURGOEN",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gynaecologist",
+      "namelocal": "ഗൈനക്കോളജിസ്റ്റ്",
+      "id": 7,
+      "code": "DESIGNATION_GYNAECOLOGIST",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Gynaecologist And Obstetrician",
+      "namelocal": "ഗൈനക്കോളജിസ്റ്റ് ആന്റ് ഒബ്സ്റ്റട്രീഷൃന്‍",
+      "id": 8,
+      "code": "DESIGNATION_GYNAECOLOGIST_AND_OBSTETRICIAN",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Consultant Gynaecologist",
+      "namelocal": "കണ്‍സല്‍ട്ടന്റ് ഗൈനക്കോളജിസ്റ്റ്",
+      "id": 9,
+      "code": "DESIGNATION_CONSULTANT_GYNAECOLOGIST",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Cardiologist",
+      "namelocal": "കാര്‍ഡിയോളജിസ്റ്റ്",
+      "id": 10,
+      "code": "DESIGNATION_CARDIOLOGIST",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Casuality Doctor",
+      "namelocal": "കാഷ്വാലിറ്റി ഡോക്ടര്‍",
+      "id": 11,
+      "code": "DESIGNATION_CASUALITY_DOCTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Temporary Medical Officer",
+      "namelocal": "റ്റെമ്പറ്റി മെഡിക്കല്‍ ഓഫീസര്‍",
+      "id": 12,
+      "code": "DESIGNATION_TEMPORARY_MEDICAL_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Physician",
+      "namelocal": "ഫിസിഷ്യന്‍",
+      "id": 13,
+      "code": "DESIGNATION_PHYSICIAN",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chief Physician",
+      "namelocal": "ചീഫ് ഫിസിഷ്യന്‍",
+      "id": 14,
+      "code": "DESIGNATION_CHIEF_PHYSICIAN",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Medical Officer (i/c)",
+      "namelocal": "മെഡിക്കല്‍ ആഫീസര്‍ (ഇന്‍ ചാര്‍ജ്ജ്)",
+      "id": 15,
+      "code": "DESIGNATION_MEDICAL_OFFICER_(I/C)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Person Authorised by Medical Officer",
+      "namelocal": "മെഡിക്കല്‍ ആഫീസര്‍ ചുമതലപ്പെടുത്തിയ വ്യക്തി",
+      "id": 16,
+      "code": "DESIGNATION_PERSON_AUTHORISED_BY_MEDICAL_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Midwife",
+      "namelocal": "മിഡ് വൈഫ്",
+      "id": 17,
+      "code": "DESIGNATION_MIDWIFE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Health Attendant",
+      "namelocal": "ഹെല്‍ത്ത് അറ്റന്‍ഡന്റ്",
+      "id": 18,
+      "code": "DESIGNATION_HEALTH_ATTENDANT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Auxillary Midwife Nurse",
+      "namelocal": "ആക്സിലറി മിഡ് വൈഫ് നഴ്സ്",
+      "id": 19,
+      "code": "DESIGNATION_AUXILLARY_MIDWIFE_NURSE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Superintendent",
+      "namelocal": "സൂപ്രണ്ട്",
+      "id": 20,
+      "code": "DESIGNATION_SUPERINTENDENT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Manager",
+      "namelocal": "മാനേജര്‍",
+      "id": 21,
+      "code": "DESIGNATION_MANAGER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Proprietor",
+      "namelocal": "പ്രൊപ്രൈറ്റര്‍",
+      "id": 22,
+      "code": "DESIGNATION_PROPRIETOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Managing Director",
+      "namelocal": "മാനേജിംഗ് ഡയറക്ടര്‍",
+      "id": 23,
+      "code": "DESIGNATION_MANAGING_DIRECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Managing Partner",
+      "namelocal": "മാനേജിംഗ് പാര്‍ട്ട്ണര്‍",
+      "id": 24,
+      "code": "DESIGNATION_MANAGING_PARTNER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Shanthi",
+      "namelocal": "ശാന്തി",
+      "id": 25,
+      "code": "DESIGNATION_SHANTHI",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chief Executive Officer",
+      "namelocal": "ചീഫ് എക്സിക്യൂട്ടീവ് ഓഫീസര്‍",
+      "id": 26,
+      "code": "DESIGNATION_CHIEF_EXECUTIVE_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Director",
+      "namelocal": "ഡയറക്ടര്‍",
+      "id": 27,
+      "code": "DESIGNATION_DIRECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Joint Director",
+      "namelocal": "ജോയിന്റ് ഡയറക്ടര്‍",
+      "id": 28,
+      "code": "DESIGNATION_JOINT_DIRECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Additional Director",
+      "namelocal": "അഡീഷണല്‍ ഡയറക്ടര്‍",
+      "id": 29,
+      "code": "DESIGNATION_ADDITIONAL_DIRECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Assistant Director",
+      "namelocal": "അസിസ്റ്റന്റ് ഡയറക്ടര്‍",
+      "id": 30,
+      "code": "DESIGNATION_ASSISTANT_DIRECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Deputy Director",
+      "namelocal": "ഡെപ്യൂട്ടി ഡയറക്ടര്‍",
+      "id": 31,
+      "code": "DESIGNATION_DEPUTY_DIRECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Head of Insitution",
+      "namelocal": "ഹെഡ് ഓഫ് ഇന്‍സ്റ്റിറ്റ്യൂഷന്‍",
+      "id": 32,
+      "code": "DESIGNATION_HEAD_OF_INSITUTION",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrative Officer",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റീവ് ആഫീസര്‍",
+      "id": 33,
+      "code": "DESIGNATION_ADMINISTRATIVE_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Administrator",
+      "namelocal": "അഡ്മിനിസ്ട്രേറ്റര്‍",
+      "id": 34,
+      "code": "DESIGNATION_ADMINISTRATOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Officer In Charge",
+      "namelocal": "ഉത്തരവാദപ്പെട്ട ആഫീസര്‍",
+      "id": 35,
+      "code": "DESIGNATION_OFFICER_IN_CHARGE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sub Inspector of Police",
+      "namelocal": "സബ് ഇന്‍സ്പെക്ടര്‍ ഓഫ് പോലീസ്",
+      "id": 36,
+      "code": "DESIGNATION_SUB_INSPECTOR_OF_POLICE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Assistant Sub Inspector of Police",
+      "namelocal": "അസിസ്റ്റന്റ് സബ് ഇന്‍സ്പെക്ടര്‍ ഓഫ് പോലീസ്",
+      "id": 37,
+      "code": "DESIGNATION_ASSISTANT_SUB_INSPECTOR_OF_POLICE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Head Constable",
+      "namelocal": "ഹെഡ് കോണ്‍സ്റ്റബിള്‍",
+      "id": 38,
+      "code": "DESIGNATION_HEAD_CONSTABLE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Police Constable",
+      "namelocal": "പോലീസ് കോണ്‍സ്റ്റബിള്‍",
+      "id": 39,
+      "code": "DESIGNATION_POLICE_CONSTABLE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Circle Inspector of Police",
+      "namelocal": "സര്‍ക്കിള്‍ ഇന്‍സ്പെക്ടര്‍ ഓഫ് പോലീസ്",
+      "id": 40,
+      "code": "DESIGNATION_CIRCLE_INSPECTOR_OF_POLICE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Assistant Superintendent of Police",
+      "namelocal": "അസിസ്റ്റന്റ് സൂപ്രണ്ട് ഓഫ് പോലീസ്",
+      "id": 41,
+      "code": "DESIGNATION_ASSISTANT_SUPERINTENDENT_OF_POLICE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Deputy Superintendent of Police",
+      "namelocal": "ഡെപ്യൂട്ടി സൂപ്രണ്ട് ഓഫ് പോലീസ്",
+      "id": 42,
+      "code": "DESIGNATION_DEPUTY_SUPERINTENDENT_OF_POLICE",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Station Officer",
+      "namelocal": "സ്റ്റേഷന്‍ ആഫീസര്‍",
+      "id": 43,
+      "code": "DESIGNATION_STATION_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Station Officer (i/c)",
+      "namelocal": "സ്റ്റേഷന്‍ ആഫീസര്‍ ഇന്‍ ചാര്‍ജ്",
+      "id": 44,
+      "code": "DESIGNATION_STATION_OFFICER_(I/C)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Police Officer",
+      "namelocal": "പോലീസ് ആഫീസര്‍",
+      "id": 45,
+      "code": "DESIGNATION_POLICE_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Police Officer (i/c)",
+      "namelocal": "ഉത്തരവാദപ്പെട്ട പോലീസ് ആഫീസര്‍",
+      "id": 46,
+      "code": "DESIGNATION_POLICE_OFFICER_(I/C)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Superintendent (i/c)",
+      "namelocal": "സൂപ്രണ്ട് ഇന്‍ ചാര്‍ജ്",
+      "id": 47,
+      "code": "DESIGNATION_SUPERINTENDENT_(I/C)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jailor",
+      "namelocal": "ജയിലര്‍",
+      "id": 48,
+      "code": "DESIGNATION_JAILOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jailor (i/c)",
+      "namelocal": "ജയിലര്‍ ഇന്‍ ചാര്‍ജ്ജ്",
+      "id": 49,
+      "code": "DESIGNATION_JAILOR_(I/C)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Head Warden",
+      "namelocal": "ഹെഡ് വാര്‍ഡന്‍",
+      "id": 50,
+      "code": "DESIGNATION_HEAD_WARDEN",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Head Warden (i/c)",
+      "namelocal": "ഹെഡ് വാര്‍ഡന്‍ ഇന്‍ ചാര്‍ജ്",
+      "id": 51,
+      "code": "DESIGNATION_HEAD_WARDEN_(I/C)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Assistant Jailer Grade -1",
+      "namelocal": "അസിസ്റ്റന്റ് ജയിലര്‍ ഗ്രേഡ്-1",
+      "id": 52,
+      "code": "DESIGNATION_ASSISTANT_JAILER_GRADE_-1",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Assistant Jailer Grade - 2",
+      "namelocal": "അസിസ്റ്റന്റ് ജയിലര്‍ ഗ്രേഡ്-2",
+      "id": 53,
+      "code": "DESIGNATION_ASSISTANT_JAILER_GRADE_-_2",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Registrar",
+      "namelocal": "രജിസ്ട്രാര്‍",
+      "id": 54,
+      "code": "DESIGNATION_REGISTRAR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Sub Registrar",
+      "namelocal": "സബ് രജിസ്ട്രാര്‍",
+      "id": 55,
+      "code": "DESIGNATION_SUB_REGISTRAR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Health Inspector",
+      "namelocal": "ഹെല്‍ത്ത് ഇന്‍സ്പെക്ടര്‍",
+      "id": 56,
+      "code": "DESIGNATION_HEALTH_INSPECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Health Inspector Grade I",
+      "namelocal": "ഹെല്‍ത്ത് ഇന്‍സ്പെക്ടര്‍ ഗ്രേഡ്- 1",
+      "id": 57,
+      "code": "DESIGNATION_HEALTH_INSPECTOR_GRADE_I",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Health Inspector Grade II",
+      "namelocal": "ഹെല്‍ത്ത് ഇന്‍സ്പെക്ടര്‍ ഗ്രേഡ്- 2",
+      "id": 58,
+      "code": "DESIGNATION_HEALTH_INSPECTOR_GRADE_II",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Officer in charge of Health Inspector",
+      "namelocal": "ഹെല്‍ത്ത് ഇന്‍സ്പെക്ടര്‍ ഇന്‍ ചാര്‍ജ്ജ്",
+      "id": 59,
+      "code": "DESIGNATION_OFFICER_IN_CHARGE_OF_HEALTH_INSPECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Health Superviser",
+      "namelocal": "ഹെല്‍ത്ത് സൂപ്പര്‍വൈസര്‍",
+      "id": 60,
+      "code": "DESIGNATION_HEALTH_SUPERVISER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Health Officer",
+      "namelocal": "ഹെല്‍ത്ത് ആഫീസര്‍",
+      "id": 61,
+      "code": "DESIGNATION_HEALTH_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Officer in Charge of Health Officer",
+      "namelocal": "ഓഫീസര്‍ ഇന്‍ ചാര്‍ജ്ജ് ഓഫ് ഹെല്‍ത്ത് ആഫീസര്‍",
+      "id": 62,
+      "code": "DESIGNATION_OFFICER_IN_CHARGE_OF_HEALTH_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Secretary",
+      "namelocal": "സെക്രട്ടറി",
+      "id": 63,
+      "code": "DESIGNATION_SECRETARY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Officer in charge of Secretary",
+      "namelocal": "ആഫീസര്‍ ഇന്‍ ചാര്‍ജ്ജ് ഓഫ് സെക്രട്ടറി",
+      "id": 64,
+      "code": "DESIGNATION_OFFICER_IN_CHARGE_OF_SECRETARY",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Municipal Commissioner",
+      "namelocal": "മുനിസിപ്പല്‍ കമ്മീഷണര്‍",
+      "id": 65,
+      "code": "DESIGNATION_MUNICIPAL_COMMISSIONER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Officer in Charge of Municipal Commissioner",
+      "namelocal": "മുിസിപ്പല്‍ കമ്മീഷണര്‍ ഇന്‍ ചാര്‍ജ്ജ്",
+      "id": 66,
+      "code": "DESIGNATION_OFFICER_IN_CHARGE_OF_MUNICIPAL_COMMISSIONER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Executive Officer",
+      "namelocal": "എക്സിക്യുട്ടീവ് ആഫീസര്‍",
+      "id": 67,
+      "code": "DESIGNATION_EXECUTIVE_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Officer in Charge of Executive Officer",
+      "namelocal": "ആഫീസര്‍ ഇന്‍ ചാര്‍ജ്ജ് ഓഫ് എക്സിക്യുട്ടീവ് ആഫീസര്‍",
+      "id": 68,
+      "code": "DESIGNATION_OFFICER_IN_CHARGE_OF_EXECUTIVE_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Person (i/c)",
+      "namelocal": "ഉത്തരവാദപ്പെട്ട വ്യക്തി",
+      "id": 69,
+      "code": "DESIGNATION_PERSON_(I/C)",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Special Officer",
+      "namelocal": "സ്പെഷ്യല്‍ ആഫീസര്‍",
+      "id": 70,
+      "code": "DESIGNATION_SPECIAL_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Village Officer",
+      "namelocal": "വില്ലേജ് ആഫീസര്‍",
+      "id": 71,
+      "code": "DESIGNATION_VILLAGE_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Keeper/Owner burning/Burial ground",
+      "namelocal": "ശ്മശാന ഭൂമിയുടെ ഉടമ/കാവല്‍ക്കാരന്‍",
+      "id": 72,
+      "code": "DESIGNATION_KEEPER/OWNER_BURNING/BURIAL_GROUND",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Others",
+      "namelocal": "മറ്റുള്ളവ",
+      "id": 73,
+      "code": "DESIGNATION_OTHERS",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Junior Health Inspector Grade-I",
+      "namelocal": "ജൂനിയര്‍ ഹെല്‍ത്ത് ഇന്‍സ്പെക്ടര്‍ ഗ്രേഡ്- I",
+      "id": 74,
+      "code": "DESIGNATION_JUNIOR_HEALTH_INSPECTOR_GRADE-I",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Junior Health Inspector Grade-II",
+      "namelocal": "ജൂനിയര്‍ ഹെല്‍ത്ത് ഇന്‍സ്പെക്ടര്‍ ഗ്രേഡ്-II",
+      "id": 75,
+      "code": "DESIGNATION_JUNIOR_HEALTH_INSPECTOR_GRADE-II",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Officer In-Charge of Junior Health Inspector",
+      "namelocal": "ആഫീസര്‍ ഇന്‍-ചാര്‍ജ്ജ് ഓഫ് ജൂനിയര്‍ ഹെല്‍ത്ത് ഇന്‍സ്പെക്ടര്‍",
+      "id": 76,
+      "code": "DESIGNATION_OFFICER_IN-CHARGE_OF_JUNIOR_HEALTH_INSPECTOR",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Jail Superintendent",
+      "namelocal": "ജയില്‍ സൂപ്രണ്ട്",
+      "id": 77,
+      "code": "DESIGNATION_JAIL_SUPERINTENDENT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Station Superintendent",
+      "namelocal": "സ്റ്റേഷന്‍ സൂപ്രണ്ട്",
+      "id": 78,
+      "code": "DESIGNATION_STATION_SUPERINTENDENT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nursing Superintendent",
+      "namelocal": "നഴ്സിംഗ് സൂപ്രണ്ട്",
+      "id": 79,
+      "code": "DESIGNATION_NURSING_SUPERINTENDENT",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Casuality Medical Officer",
+      "namelocal": "കാഷ്വാലിറ്റി മെഡിക്കല്‍ ആഫീസര്‍",
+      "id": 80,
+      "code": "DESIGNATION_CASUALITY_MEDICAL_OFFICER",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Consultant Surgeon",
+      "namelocal": "കണ്‍സള്‍ട്ടന്റ് സര്‍ജന്‍",
+      "id": 81,
+      "code": "DESIGNATION_CONSULTANT_SURGEON",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Warden",
+      "namelocal": "വാര്‍ഡന്‍",
+      "id": 82,
+      "code": "DESIGNATION_WARDEN",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Police Superintendent",
+      "namelocal": "പോലീസ് സൂപ്രണ്ട്",
+      "id": 83,
+      "code": "DESIGNATION_POLICE_SUPERINTENDENT",
+      "active": true,
+      "type": "COMMON"
+    }
+  ]
+}
