@@ -1,0 +1,117 @@
+{
+  "tenantId": "kl.chittur",
+  "moduleName": "egov-location",
+  "institutionList": [
+    {
+      "code": "INSTITUTION_264",
+      "institutionName": "Sathya Sai Kripa",
+      "institutionNamelocal": "സത്യ സായി കൃപ",
+      "instId": 264,
+      "instTypeId": 9,
+      "stateId": 32,
+      "distId": 9,
+      "lbId": 207,
+      "slNo": 2,
+      "street": "Near Chittur Post Office ",
+      "place": "Chittur",
+      "wardId": 1,
+      "poId": 6,
+      "streetLocal": "ചിറ്റൂര്‍ പോസ്റ്റ് ആഫീസിനു സമീപം",
+      "placeLocal": "ചിറ്റൂര്‍",
+      "buildingNo": 0,
+      "buildingName": "Sathya Sai Kripa",
+      "buildingNameLocal": "സത്യ സായി കൃപ",
+      "phoneNo": "NULL",
+      "phoneDesig": 32,
+      "mainPlace": "Chittur",
+      "mainPlaceLocal": "ചിറ്റൂര്‍",
+      "registar": [
+        {
+          "institutionRegistar": "Dr Nambiar K K ",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_HEAD_OF_INSITUTION"
+        }
+      ],
+      "active": null,
+      "address": "Sathya Sai Kripa,Near Chittur Post Office ,Chittur",
+      "addressLocal": "സത്യ സായി കൃപ,ചിറ്റൂര്‍ പോസ്റ്റ് ആഫീസിനു സമീപം,ചിറ്റൂര്‍",
+      "lbCode": "kl.chittur",
+      "migrationKochiCode": null
+    },
+    {
+      "code": "INSTITUTION_265",
+      "institutionName": "Vijayamatha Convent Higher Secondary Girls High School",
+      "institutionNamelocal": "വിജയമാത കോണ്‍വെന്‍റ് ഹയര്‍ സെക്കന്‍ഡറി ഗേള്‍സ് ഹൈസ്കൂള്‍",
+      "instId": 265,
+      "instTypeId": 10,
+      "stateId": 32,
+      "distId": 9,
+      "lbId": 207,
+      "slNo": 3,
+      "street": null,
+      "place": null,
+      "wardId": 1,
+      "poId": 6,
+      "streetLocal": null,
+      "placeLocal": null,
+      "buildingNo": "NULL",
+      "buildingName": "Vijayamatha Convent Higher Secondary Girls High School",
+      "buildingNameLocal": "വിജയമാത കോണ്‍വെന്‍റ് ഹയര്‍ സെക്കന്‍ഡറി ഗേള്‍സ് ഹൈസ്കൂള്‍",
+      "phoneNo": "NULL",
+      "phoneDesig": 32,
+      "mainPlace": "Chittur",
+      "mainPlaceLocal": "ചിറ്റൂര്‍",
+      "registar": [
+        {
+          "institutionRegistar": "Molly Jose",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_HEAD_OF_INSITUTION"
+        }
+      ],
+      "active": null,
+      "address": "Vijayamatha Convent Higher Secondary Girls High School",
+      "addressLocal": "വിജയമാത കോണ്‍വെന്‍റ് ഹയര്‍ സെക്കന്‍ഡറി ഗേള്‍സ് ഹൈസ്കൂള്‍",
+      "lbCode": "kl.chittur",
+      "migrationKochiCode": null
+    },
+    {
+      "code": "INSTITUTION_263",
+      "institutionName": "Police Station, Chittur",
+      "institutionNamelocal": "പോലീസ് സ്റ്റേഷന്‍, ചിറ്റൂര്‍",
+      "instId": 263,
+      "instTypeId": 29,
+      "stateId": 32,
+      "distId": 9,
+      "lbId": 207,
+      "slNo": 1,
+      "street": "Police Station Road",
+      "place": "Chittur",
+      "wardId": 5,
+      "poId": 6,
+      "streetLocal": "പോലീസ് സ്റ്റേഷന്‍ റോഡ്",
+      "placeLocal": "ചിറ്റൂര്‍",
+      "buildingNo": 269,
+      "buildingName": "Police Station, Chittur ",
+      "buildingNameLocal": "പോലീസ് സ്റ്റേഷന്‍, ചിറ്റൂര്‍",
+      "phoneNo": 4923222338,
+      "phoneDesig": 36,
+      "mainPlace": "Chittur",
+      "mainPlaceLocal": "ചിറ്റൂര്‍",
+      "registar": [
+        {
+          "institutionRegistar": "Hari Vidyadharan",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
+        }
+      ],
+      "active": null,
+      "address": "Police Station, Chittur,Police Station Road,Chittur",
+      "addressLocal": "പോലീസ് സ്റ്റേഷന്‍, ചിറ്റൂര്‍,പോലീസ് സ്റ്റേഷന്‍ റോഡ്,ചിറ്റൂര്‍",
+      "lbCode": "kl.chittur",
+      "migrationKochiCode": null
+    }
+  ]
+}
