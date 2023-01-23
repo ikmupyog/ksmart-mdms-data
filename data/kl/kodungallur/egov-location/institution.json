@@ -1,0 +1,78 @@
+{
+  "tenantId": "kl.kodungallur",
+  "moduleName": "egov-location",
+  "institutionList": [
+    {
+      "code": "INSTITUTION_222",
+      "institutionName": "Kodungallur Police Station",
+      "institutionNamelocal": "കൊടുങ്ങല്ലൂര്‍ പോലീസ് സ്റ്റേഷന്‍",
+      "instId": 222,
+      "instTypeId": 29,
+      "stateId": 32,
+      "distId": 8,
+      "lbId": 201,
+      "slNo": 1,
+      "street": "Police Station Road",
+      "place": "Lokamaleswaram",
+      "wardId": 12,
+      "poId": 1,
+      "streetLocal": "പോലീസ് സ്റ്റേഷന്‍ റോഡ്",
+      "placeLocal": "ലോകമലേശ്വരം",
+      "buildingNo": 334,
+      "buildingName": "Police Station Building",
+      "buildingNameLocal": "പോലീസ് സ്റ്റേഷന്‍ ബില്‍ഡിംഗ്",
+      "phoneDesig": 36,
+      "mainPlace": "Kodungallur",
+      "mainPlaceLocal": "കൊടുങ്ങല്ലൂര്‍",
+      "registar": [
+        {
+          "institutionRegistar": "Sajan Koyickal",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
+        }
+      ],
+      "active": null,
+      "address": "Kodungallur Police Station,Police Station Road,Lokamaleswaram",
+      "addressLocal": "കൊടുങ്ങല്ലൂര്‍ പോലീസ് സ്റ്റേഷന്‍,പോലീസ് സ്റ്റേഷന്‍ റോഡ്,ലോകമലേശ്വരം",
+      "lbCode": "kl.kodungallur",
+      "migrationKochiCode": null
+    },
+    {
+      "code": "INSTITUTION_1682",
+      "institutionName": "Dhaya Charitable Trust",
+      "institutionNamelocal": "ദയ ചാരിറ്റബിള്‍ ട്രസ്റ്റ്",
+      "instId": 1682,
+      "instTypeId": 20,
+      "stateId": 32,
+      "distId": 8,
+      "lbId": 201,
+      "slNo": 2,
+      "street": "Kodungallur",
+      "place": "Kodungallur",
+      "wardId": 21,
+      "poId": 1,
+      "streetLocal": "കൊടുങ്ങല്ലൂര്‍",
+      "placeLocal": "കൊടുങ്ങല്ലൂര്‍",
+      "buildingNo": "Soufa-34",
+      "buildingName": "Soufa",
+      "buildingNameLocal": "സൗഫ",
+      "phoneDesig": 63,
+      "mainPlace": "Kodungallur",
+      "mainPlaceLocal": "കൊടുങ്ങല്ലൂര്‍",
+      "registar": [
+        {
+          "institutionRegistar": "Naseema Jaleel",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_SECRETARY"
+        }
+      ],
+      "active": null,
+      "address": "Dhaya Charitable Trust,Kodungallur,Kodungallur",
+      "addressLocal": "ദയ ചാരിറ്റബിള്‍ ട്രസ്റ്റ്,കൊടുങ്ങല്ലൂര്‍,കൊടുങ്ങല്ലൂര്‍",
+      "lbCode": "kl.kodungallur",
+      "migrationKochiCode": null
+    }
+  ]
+}
