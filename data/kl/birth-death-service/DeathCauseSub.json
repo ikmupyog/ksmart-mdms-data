@@ -3,410 +3,402 @@
   "moduleName": "birth-death-service",
   "DeathCauseSub": [
     {
+      "code": "CAUSE_AIDS",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "AIDS",
       "namelocal": "എയ്ഡ്സ്",
-      "code": "DEATHCAUSESUB_AIDS",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_CHOLERA",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Cholera",
       "namelocal": "കോളറ",
-      "code": "DEATHCAUSESUB_CHOLERA",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_DIPHTHERIA",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Diphtheria",
       "namelocal": "ഡിഫ്തീരിയ",
-      "code": "DEATHCAUSESUB_DIPHTHERIA",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_DYSENTERY",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Dysentery & Diarrhoea, Gastroenteritis",
       "namelocal": "വയറുകടി & അതിസാരം, ഗാസ്ട്രോയെന്‍റെറിറ്റിസ്",
-      "code": "DEATHCAUSESUB_DYSENTERY&DIARRHOEA_GASTROENTERITIS",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_INFLUENZA",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Influenza",
       "namelocal": "ഇന്‍ഫ്ളുവന്‍സ",
-      "code": "DEATHCAUSESUB_INFLUENZA",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_LEPROSY",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Leprosy",
       "namelocal": "കുഷ്ഠം",
-      "code": "DEATHCAUSESUB_LEPROSY",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_MALARIA",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Malaria",
       "namelocal": "മലമ്പനി",
-      "code": "DEATHCAUSESUB_MALARIA",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_MEASLES",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Measles",
       "namelocal": "അഞ്ചാംപനി",
-      "code": "DEATHCAUSESUB_MEASLES",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_MENINGITIS",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Meningitis",
       "namelocal": "മെനന്‍ജൈറ്റിസ്",
-      "code": "DEATHCAUSESUB_MENINGITIS",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_PNEUMONIA",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Pneumonia",
       "namelocal": "ന്യൂമോണിയ",
-      "code": "DEATHCAUSESUB_PNEUMONIA",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_POLIOMYELITIS",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Poliomyelitis",
       "namelocal": "പോളിയോ",
-      "code": "DEATHCAUSESUB_POLIOMYELITIS",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_RABIES",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Rabies",
       "namelocal": "പേവിഷബാധ",
-      "code": "DEATHCAUSESUB_RABIES",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_TETANUS",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Tetanus",
       "namelocal": "ടെറ്റനസ്",
-      "code": "DEATHCAUSESUB_TETANUS",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_TUBERCULOSIS",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Tuberculosis",
       "namelocal": "ക്ഷയം",
-      "code": "DEATHCAUSESUB_TUBERCULOSIS",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_TYPHOID",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Typhoid and Paratyphoid",
       "namelocal": "ടൈഫോയിഡ്/പാരാടൈഫോയ്ഡ് (സന്നിപാത ജ്വരം)",
-      "code": "DEATHCAUSESUB_TYPHOID AND PARATYPHOID",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_WHOOPING COUGH",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "Whooping cough",
       "namelocal": "വില്ലന്‍ ചുമ",
-      "code": "DEATHCAUSESUB_WHOOPING COUGH",
-      "id": 1,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_ABORTION",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Abortion",
       "namelocal": "ഗര്‍ഭച്ഛിദ്രം",
-      "code": "DEATHCAUSESUB_ABORTION",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_APPENDICITIS",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Appendicitis",
       "namelocal": "അപ്പെന്‍ഡിസൈറ്റിസ്",
-      "code": "DEATHCAUSESUB_APPENDICITIS",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_BRONCHITIS",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Bronchitis & Asthma (Respiratory diseases)",
       "namelocal": "ബ്രോന്‍കൈറ്റിസ് & ആസ്മ (ശ്വാസകോശ രോഗങ്ങള്‍)",
-      "code": "DEATHCAUSESUB_BRONCHITIS_ASTHMA_(RESPIRATORY_DISEASES)",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_CEREBRO VASCULAR",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Cerebro Vascular (Paralysis)",
       "namelocal": "പക്ഷാഘാതം",
-      "code": "DEATHCAUSESUB_CEREBRO_VASCULAR_(PARALYSIS)",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_CHRONIC LIVER",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Chronic Liver diseases & Cirrhosis",
       "namelocal": "പഴകിയ കരള്‍ രോഗങ്ങള്‍ & കരള്‍വീക്കം",
-      "code": "DEATHCAUSESUB_CHRONICLI_VER DISEASES_CIRRHOSIS",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_HEART DISEASES",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Heart diseases & Heart attack",
       "namelocal": "ഹൃദ്രോഗം & ഹൃദയാഘാതം",
-      "code": "DEATHCAUSESUB_HEART_DISEASES_HEART ATTACK",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_JAUNDICE",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Jaundice",
       "namelocal": "മഞ്ഞപ്പിത്തം",
-      "code": "DEATHCAUSESUB_JAUNDICE",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_KIDNEY DISEASES",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Kidney disease",
       "namelocal": "വൃക്കരോഗം",
-      "code": "DEATHCAUSESUB_KIDNEY DISEASE",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_SYPHILIS",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Syphilis & Other Diseases of Genitourinary system",
       "namelocal": "സിഫിലിസ് & ജനനേന്ദ്രിയ മൂത്ര വ്യവസ്ഥകളുമായി ബന്ധപ്പെട്ട മറ്റു രോഗങ്ങള്‍",
-      "code": "DEATHCAUSESUB_SYPHILIS_OTHER_DISEASES_OF_GENITOURINARY SYSTEM",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_ULCER",
+      "maincode": "DEATHCAUSE_MAIN_AFFECTORGANS",
       "name": "Ulcer of stomach & Duodenum (Stomach complaint)",
       "namelocal": "ആമാശയത്തിലെയും ഡ്യുയോഡിനത്തിലെയും അള്‍സര്‍ (ആമാശയ രോഗങ്ങള്‍)",
-      "code": "DEATHCAUSESUB_ULCER_OF_STOMACH_DUODENUM (STOMACH_COMPLAINT)",
-      "id": 2,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_ANAEMIA",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Anaemia",
       "namelocal": "വിളര്‍ച്ച",
-      "code": "DEATHCAUSESUB_ANAEMIA",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_BIRTH INJURIES",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Birth Injuries",
       "namelocal": "ജനന സമയത്തെ മുറിവുകള്‍",
-      "code": "DEATHCAUSESUB_BIRTH_INJURIES",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_BLOOD PRESSURE",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Blood Pressure",
       "namelocal": "രക്തസമ്മര്‍ദ്ദം",
-      "code": "DEATHCAUSESUB_BLOOD_PRESSURE",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_CANCER",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Cancer",
       "namelocal": "അര്‍ബ്ബുദം",
-      "code": "DEATHCAUSESUB_CANCER",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_COMPLICATION",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Complication related to Pregnancy , Child birth and Puerperium",
       "namelocal": "ഗര്‍ഭം, പ്രസവം, പ്രസവസമയത്തും തൊട്ടുപിമ്പുമ്മുള്ള സങ്കീര്‍ണ്ണതകള്‍",
-      "code": "DEATHCAUSESUB_COMPLICATION_RELATED_TO_PREGNANCY_CHILD_BIRTH_AND_PUERPERIUM",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_DIABETES",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Diabetes Mellitus",
       "namelocal": "പ്രമേഹം",
-      "code": "DEATHCAUSESUB_DIABETES_MELLITUS",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_FOOD POISONING",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Food poisoning",
       "namelocal": "ഭക്ഷ്യ വിഷബാധ",
-      "code": "DEATHCAUSESUB_FOOD_POISONING",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_HYSTERIA",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Hysteria",
       "namelocal": "ഹിസ്റ്റീരിയ",
-      "code": "DEATHCAUSESUB_HYSTERIA",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_PREMATURELY ORIGINATING IN PERINATE PERIOD",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Prematurely originating in Perinate period",
       "namelocal": "പ്രായപൂര്‍ത്തിയാകാതെയുള്ള പ്രസവം",
-      "code": "DEATHCAUSESUB_PREMATURELY_ORIGINATING_IN_PERINATE_PERIOD",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_SENILITY",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Senility",
       "namelocal": "വാര്‍ദ്ധക്യം",
-      "code": "DEATHCAUSESUB_SENILITY",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_SLOW-GROWTH",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Slow-growth of Foetus",
       "namelocal": "മെല്ലെയുള്ള ഭ്രൂണ വളര്‍ച്ച",
-      "code": "DEATHCAUSESUB_SLOW-GROWTH_OF_FOETUS",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_OTHER INTERNAL CAUSES",
+      "maincode": "DEATHCAUSE_MAIN_INTERNALCAUSE",
       "name": "Other internal Causes / Diseases not Elsewhere Classified",
       "namelocal": "തരംതിരിച്ചിട്ടില്ലാത്ത മറ്റു ആന്തരിക കാരണങ്ങള്‍ / രോഗങ്ങള്‍",
-      "code": "DEATHCAUSESUB_OTHER_INTERNAL_CAUSES_DISEASES_NOT_ELSEWHERE_CLASSIFIED",
-      "id": 3,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_ACCIDENTAL BURNS",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Accidental burns",
       "namelocal": "പൊള്ളല്‍",
-      "code": "DEATHCAUSESUB_ACCIDENTAL_BURNS",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_FALLS DROWNING",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Falls, Drowning",
       "namelocal": "വീഴ്ച, മുങ്ങിമരണം",
-      "code": "DEATHCAUSESUB_FALLS_DROWNING",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_ACCIDENTAL POISONING",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Accidental poisoning",
       "namelocal": "ആകസ്മികമായ വിഷബാധ",
-      "code": "DEATHCAUSESUB_ACCIDENTAL_POISONING",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_RAIL ACCIDENT",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Rail Accident",
       "namelocal": "റെയില്‍ അപകടം",
-      "code": "DEATHCAUSESUB_RAIL_ACCIDENT",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_ROAD ACCIDENT",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Road Accident",
       "namelocal": "റോഡപകടം",
-      "code": "DEATHCAUSESUB_ROAD_ACCIDENT",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_AIRCRAFT ACCIDENT",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Aircraft Accident",
       "namelocal": "വിമാന അപകടം",
-      "code": "DEATHCAUSESUB_AIRCRAFT_ACCIDENT",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_OTHER ACCIDENT",
+      "maincode": "DEATHCAUSE_MAIN_ACCIDENTS",
       "name": "Other Accidents not elsewhere classified",
       "namelocal": "തരം തിരിക്കാത്ത മറ്റു അപകടങ്ങള്‍",
-      "code": "DEATHCAUSESUB_OTHER_ACCIDENTS_NOT_ELSEWHERE_CLASSIFIED",
-      "id": 4,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_SUICIDE",
+      "maincode": "DEATHCAUSE_MAIN_EXTERNALCAUSE",
       "name": "Suicide",
       "namelocal": "ആത്മഹത്യ",
-      "code": "DEATHCAUSESUB_SUICIDE",
-      "id": 5,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_HOMICIDE",
+      "maincode": "DEATHCAUSE_MAIN_EXTERNALCAUSE",
       "name": "Homicide",
       "namelocal": "കൊലപാതകം",
-      "code": "DEATHCAUSESUB_HOMICIDE",
-      "id": 5,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_BITES",
+      "maincode": "DEATHCAUSE_MAIN_EXTERNALCAUSE",
       "name": "Bites / Stings of Venomous animals",
       "namelocal": "വിഷജന്തുക്കളുടെ കടി / കുത്ത്",
-      "code": "DEATHCAUSESUB_BITES_STINGS_OF_VENOMOUS_ANIMALS",
-      "id": 5,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_OTHERS",
+      "maincode": "DEATHCAUSE_MAIN_EXTERNALCAUSEOTHER",
       "name": "Others",
       "namelocal": "മറ്റുള്ളവ",
-      "code": "DEATHCAUSESUB_OTHERS",
-      "id": 6,
       "active": true,
       "type": "BND"
     },
     {
+      "code": "CAUSE_COVID-19",
+      "maincode": "DEATHCAUSE_MAIN_COMMUNITYDISEASE",
       "name": "COVID-19",
       "namelocal": "കോവിഡ്-19",
-      "code": "DEATHCAUSESUB_COVID-19",
-      "id": 1,
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "name": "COVID-19",
-      "namelocal": "കോവിഡ്-19",
-      "code": "DEATHCAUSESUB_COVID-19",
-      "id": 1,
       "active": true,
       "type": "BND"
     }
