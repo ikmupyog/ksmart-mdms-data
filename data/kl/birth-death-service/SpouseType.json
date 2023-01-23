@@ -1,0 +1,23 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "SpouseType": [
+    {
+      "name": "Wife",
+      "namelocal": "ഭാര്യ",
+      "code": "SPOUSE_TYPE_WIFE",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Husband",
+      "namelocal": "ഭർത്താവ്",
+      "code": "SPOUSE_TYPE_HUSBAND",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
+Footer
