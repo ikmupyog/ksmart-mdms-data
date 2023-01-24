@@ -3,91 +3,119 @@
   "moduleName": "birth-death-service",
   "OtherDeathPlace": [
     {
-      "code": "OTHER_DEATH_PLACE_DAM",
-      "name": "Dam",
-      "namelocal": "ഡാം",
+      "code": "OTHER_PLACE_ROAD_STREET",
+      "name": "Road/Street",
+      "namelocal": "റോഡ്/തെരുവ്",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_FOREST_AREA",
-      "name": "Forest Area",
-      "namelocal": "വനമേഖല",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_HIGHWAY",
-      "name": "Highway",
-      "namelocal": "ഹൈവേ",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_LAKE",
-      "name": "Lake",
-      "namelocal": "തടാകം",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_OTHER_PUBLIC_PLACES",
-      "name": "Other Public Places",
-      "namelocal": "മറ്റ് പൊതു സ്ഥലങ്ങൾ",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_POND",
-      "name": "Pond",
-      "namelocal": "പൊയ്ക",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_RAILWAY_TRACK",
+      "code": "OTHER_PLACE_RAILWAY_RACK",
       "name": "Railway Track",
       "namelocal": "റെയിൽവേ ട്രാക്ക്",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_RIVER",
+      "code": "OTHER_PLACE_BUS_STATION",
+      "name": "Bus Station",
+      "namelocal": "ബസ് സ്റ്റേഷന്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_RAILWAY_STATION",
+      "name": "Railway Station",
+      "namelocal": "റെയിൽവേ സ്റ്റേഷൻ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_AIRPORT",
+      "name": "Airport",
+      "namelocal": "വിമാനത്താവളം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_BOAT_JETTY",
+      "name": "Boat Jetty",
+      "namelocal": "ബോട്ട് ജെട്ടി",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_SEA_PORT",
+      "name": "Sea Port",
+      "namelocal": "കടൽ തുറമുഖം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_STADIUM",
+      "name": "Stadium",
+      "namelocal": "സ്റ്റേഡിയം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_PARK",
+      "name": "Park",
+      "namelocal": "പാർക്ക്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_COMMERCIAL PLACES_SHOPS",
+      "name": "Commercial Places/Shops",
+      "namelocal": "വാണിജ്യ സ്ഥലങ്ങൾ/കടകൾ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_CINEMA_THEATRE",
+      "name": "Cinema Theatre",
+      "namelocal": "സിനിമാ തിയേറ്റർ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_FOREST_AREA",
+      "name": "Forest Area",
+      "namelocal": "ഫോറസ്റ്റ് ഏരിയ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_RIVER",
       "name": "River",
       "namelocal": "നദി",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_ROAD",
-      "name": "Road",
-      "namelocal": "റോഡ്",
+      "code": "OTHER_PLACE_LAKE",
+      "name": "Lake",
+      "namelocal": "തടാകം",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_SHIP",
-      "name": "Ship",
-      "namelocal": "കപ്പൽ",
+      "code": "OTHER_PLACE_DAM",
+      "name": "Dam",
+      "namelocal": "അണക്കെട്ട്",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_TRIBAL_COLONY",
-      "name": "Tribal Colony",
-      "namelocal": "ട്രൈബൽ കോളനി",
+      "code": "OTHER_PLACE_OTHERS",
+      "name": "Other Public Places",
+      "namelocal": "മറ്റ് പൊതു സ്ഥലങ്ങൾ",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_OTHERS",
-      "name": "Others",
-      "namelocal": "മറ്റുള്ളവ",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_OUTSIDE_JURISDICTION",
+      "code": "DEATH_PLACE_OTH_OUTSIDE_JURISDICTION",
       "name": "Outside Jurisdiction",
       "namelocal": "അധികാരപരിധിക്ക് പുറത്ത്",
       "active": true,
