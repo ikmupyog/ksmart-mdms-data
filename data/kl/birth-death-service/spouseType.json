@@ -3,18 +3,18 @@
   "moduleName": "birth-death-service",
   "spouseType": [
     {
-	  "code": "WIFE",
-	  "name": "Wife",
-	  "namelocal": "ഭാര്യ",
-	  "active": true,
-	  "type": "BND"
-	},
+      "code": "WIFE",
+      "name": "Wife",
+      "namelocal": "ഭാര്യ",
+      "active": true,
+      "type": "BND"
+    },
     {
-	  "code": "HUSBAND",
-	  "name": "Husband",
-	  "namelocal": "ഭർത്താവ്",
-	  "active": true,
-	  "type": "BND"
-	}
+      "code": "HUSBAND",
+      "name": "Husband",
+      "namelocal": "ഭർത്താവ്",
+      "active": true,
+      "type": "BND"
+    }
   ]
 }
