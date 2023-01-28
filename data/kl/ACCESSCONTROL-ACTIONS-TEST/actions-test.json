@@ -14133,6 +14133,18 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 2458,
+      "name": "search death certificate",
+      "url": "/death-services/v1/crdeathregistry/_search",
+      "parentModule": "",
+      "displayName": "Search death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
     }
    ]
 }
