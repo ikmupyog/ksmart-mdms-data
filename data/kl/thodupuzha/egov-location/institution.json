@@ -33,10 +33,11 @@
           "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Thodupuzha Police Station,Kanjiramattam ByePass Road,Thodupuzha",
       "addressLocal": "തൊടുപുഴ പോലീസ് സ്റ്റേഷന്‍,കാഞ്ഞിരമറ്റം ബൈപാസ് റോഡ്,തൊടുപുഴ",
       "lbCode": "kl.thodupuzha",
+      "placeofEventCodeNew": "INST_TYPE_POLICE_STATION",
       "migrationKochiCode": null
     },
     {
@@ -70,10 +71,11 @@
           "registarDesig": "DESIGNATION_DIRECTOR"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Snehalayam Trust,Muthalakodam-Perumpillichira Road,Pazheri",
       "addressLocal": "സ്നേഹാലയം ട്രസ്റ്റ്,മുതലക്കോടം-പെരുമ്പിള്ളിച്ചിറ റോഡ്,പഴയരി",
       "lbCode": "kl.thodupuzha",
+      "placeofEventCodeNew": "INST_TYPE_ORPHANAGE",
       "migrationKochiCode": null
     },
     {
@@ -107,10 +109,11 @@
           "registarDesig": "DESIGNATION_DIRECTOR"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Pratheeksha Bhavan,Muthalkodam-Undaplavu Road,Muthalkodam",
       "addressLocal": "പ്രതീക്ഷാ ഭവന്‍,മുതലക്കോടം-ഉണ്ടപ്ലാവു റോഡ്,മുതലക്കോടം",
       "lbCode": "kl.thodupuzha",
+      "placeofEventCodeNew": "INST_TYPE_DESTITUTE_HOME",
       "migrationKochiCode": null
     },
     {
@@ -144,10 +147,11 @@
           "registarDesig": "DESIGNATION_SUPERINTENDENT"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Physicaly Handicaped For The Aged ,Madathikandam-Muthalakodam Road,Madathikandam",
       "addressLocal": "വൃദ്ധ വികലാംഗ സദനം,മഠത്തിക്കണ്ടം-മുതലക്കോടം റോഡ്,മഠത്തിക്കണ്ടം",
       "lbCode": "kl.thodupuzha",
+      "placeofEventCodeNew": "INST_TYPE_OLD_AGE_HOME",
       "migrationKochiCode": null
     },
     {
@@ -181,10 +185,11 @@
           "registarDesig": "DESIGNATION_DIRECTOR"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Santhy Bhavan Convent ,kolali,Thodupuzha",
       "addressLocal": "ശാന്തി ഭവന്‍ കോണ്‍വന്‍റ്,കോലാനി,തൊടുപുഴ",
       "lbCode": "kl.thodupuzha",
+      "placeofEventCodeNew": "INST_TYPE_RELIGIOUS_INSTITUTIONS",
       "migrationKochiCode": null
     },
     {
@@ -218,10 +223,11 @@
           "registarDesig": "DESIGNATION_DIRECTOR"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Vicilain Convent,Chunkam,Thodupuzha",
       "addressLocal": "വിസിലൈന്‍ കോണ്‍വന്‍റ്,ചുങ്കം,തൊടുപുഴ",
       "lbCode": "kl.thodupuzha",
+      "placeofEventCodeNew": "INST_TYPE_RELIGIOUS_INSTITUTIONS",
       "migrationKochiCode": null
     },
     {
@@ -255,10 +261,11 @@
           "registarDesig": "DESIGNATION_SUPERINTENDENT"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Elder Garden Elderly Care Home ,Muthalakodam,Muthalakodam",
       "addressLocal": "എള്‍ഡര്‍ ഗാര്‍ഡന്‍ എള്‍ഡേര്‍ളി കെയര്‍ ഹോം,മുതലക്കോടം,മുതലക്കോടം",
       "lbCode": "kl.thodupuzha",
+      "placeofEventCodeNew": "INST_TYPE_OLD_AGE_HOME",
       "migrationKochiCode": null
     }
   ]

@@ -33,10 +33,11 @@
           "registarDesig": "DESIGNATION_HEAD_OF_INSITUTION"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Sathya Sai Kripa,Near Chittur Post Office ,Chittur",
       "addressLocal": "സത്യ സായി കൃപ,ചിറ്റൂര്‍ പോസ്റ്റ് ആഫീസിനു സമീപം,ചിറ്റൂര്‍",
       "lbCode": "kl.chittur",
+      "placeofEventCodeNew": "INST_TYPE_DESTITUTE_HOME",
       "migrationKochiCode": null
     },
     {
@@ -70,10 +71,11 @@
           "registarDesig": "DESIGNATION_HEAD_OF_INSITUTION"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Vijayamatha Convent Higher Secondary Girls High School",
       "addressLocal": "വിജയമാത കോണ്‍വെന്‍റ് ഹയര്‍ സെക്കന്‍ഡറി ഗേള്‍സ് ഹൈസ്കൂള്‍",
       "lbCode": "kl.chittur",
+      "placeofEventCodeNew": "INST_TYPE_EDUCATIONAL_INSTITUTIONS",
       "migrationKochiCode": null
     },
     {
@@ -107,10 +109,11 @@
           "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Police Station, Chittur,Police Station Road,Chittur",
       "addressLocal": "പോലീസ് സ്റ്റേഷന്‍, ചിറ്റൂര്‍,പോലീസ് സ്റ്റേഷന്‍ റോഡ്,ചിറ്റൂര്‍",
       "lbCode": "kl.chittur",
+      "placeofEventCodeNew": "INST_TYPE_POLICE_STATION",
       "migrationKochiCode": null
     }
   ]
