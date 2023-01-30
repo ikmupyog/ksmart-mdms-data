@@ -14145,6 +14145,18 @@
       "serviceCode": "death-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2459,
+      "name": "Download death certificate",
+      "url": "/death-services/v1/crdeathregistry/_download",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
     }
    ]
 }
