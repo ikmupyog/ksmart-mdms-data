@@ -4,413 +4,413 @@
   "Designation": [
     {
       "name": "CORPORATION SECRETARY",
-      "namelocal": "?????????? ?????????? ",
+      "namelocal": "കോർപ്പറേഷൻ സെക്രട്ടറി ",
       "code": "CORPSEC",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "CORPORATION ADDITIONAL SECRETARY",
-      "namelocal": "?????????? ??????  ?????????? ",
+      "namelocal": "കോർപ്പറേഷൻ അഡിഷണൽ  സെക്രട്ടറി ",
       "code": "CORPADDSEC",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "MUNICIPAL SECRETARY - I",
-      "namelocal": "?????????? ?????????? ?????? l ",
+      "namelocal": "മുനിസിപ്പൽ സെക്രട്ടറി ഗ്രേഡ് l ",
       "code": "MUNSECI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "MUNICIPAL SECRETARY - II",
-      "namelocal": "?????????? ?????????? ?????? l l ",
+      "namelocal": "മുനിസിപ്പൽ സെക്രട്ടറി ഗ്രേഡ് l l ",
       "code": "MUNSECII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "MUNICIPAL SECRETARY - III",
-      "namelocal": "?????????? ?????????? ?????? lll ",
+      "namelocal": "മുനിസിപ്പൽ സെക്രട്ടറി ഗ്രേഡ് lll ",
       "code": "MUNSECIII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "DEPUTY SECRETARY",
-      "namelocal": "?????????? ?????????? ",
+      "namelocal": "ഡെപ്യൂട്ടി സെക്രട്ടറി ",
       "code": "DEPSECH",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "P A TO SECRETARY ",
-      "namelocal": "?? ? ?? ?????????? ",
+      "namelocal": "പി എ ടു സെക്രട്ടറി ",
       "code": "PATS",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "COUNCIL SECRETARY",
-      "namelocal": "?????? ??????????",
+      "namelocal": "കൌൺസിൽ സെക്രട്ടറി",
       "code": "CNLSEC",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "REVENUE OFFICER GRADE I",
-      "namelocal": "?????? ?????  ?????? -l",
+      "namelocal": "റവന്യൂ ഓഫീസർ  ഗ്രേഡ് -l",
       "code": "ROGRI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "ACCOUNTS OFFICER",
-      "namelocal": "??????????? ????? ",
+      "namelocal": "അക്കൌണ്ട്സ് ഓഫീസർ ",
       "code": "ACCOF",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "REVENUE OFFICER GRADE-II",
-      "namelocal": "?????? ?????  ?????? -ll",
+      "namelocal": "റവന്യൂ ഓഫീസർ  ഗ്രേഡ് -ll",
       "code": "ROGRII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "SUPERINTENDENT",
-      "namelocal": "????????? ",
+      "namelocal": "സൂപ്രണ്ട് ",
       "code": "SUP",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HEAD CLERK / REVENUE INSPECTOR",
-      "namelocal": "???? ???????? /?????? ????? ",
+      "namelocal": "ഹെഡ് ക്ലർക്ക് /റവന്യൂ ഓഫീസർ ",
       "code": "HC/RO",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "ACCOUNTS ASSISTANT ",
-      "namelocal": "??????????? ????????????? ",
+      "namelocal": "അക്കൌണ്ട്സ് അസ്സിസ്റ്റൻസ് ",
       "code": "ACCAST",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "SENIOR CLERK",
-      "namelocal": "?????? ???????? ",
+      "namelocal": "സീനിയർ ക്ലർക്ക് ",
       "code": "SC",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "CLERK / BILL COLLECTOR",
-      "namelocal": "????????/??? ?????? ",
+      "namelocal": "ക്ലർക്ക്/ബിൽ കളക്ടർ ",
       "code": "CL/BC",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "FAIR COPY SUPERINTENDENT",
-      "namelocal": "???? ?????? ????????? ",
+      "namelocal": "ഫെയർ കോപ്പി സൂപ്രണ്ട് ",
       "code": "FCSUP",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "TYPIST SELECTION GRADE",
-      "namelocal": "???????  ?????? ???????????? ",
+      "namelocal": "സെലക്ഷൻ  ഗ്രേഡ് ടൈപ്പിസ്റ്റ് ",
       "code": "TYPSELGR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "TYPIST SENIOR GRADE",
-      "namelocal": "?????? ?????? ???????????? ",
+      "namelocal": "സീനിയർ ഗ്രേഡ് ടൈപ്പിസ്റ്റ് ",
       "code": "TYPSENGR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "UPPER DIVISION TYPIST",
-      "namelocal": "????? ??????  ???????????? ",
+      "namelocal": "അപ്പർ ഡിവിഷൻ  ടൈപ്പിസ്റ്റ് ",
       "code": "UDTYP",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LOWER DIVISION TYPIST",
-      "namelocal": "???? ?????? ???????????? ",
+      "namelocal": "ലോവർ ഡിവിഷൻ ടൈപ്പിസ്റ്റ് ",
       "code": "LDTYP",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "C.A. GRADE - II / STENO TYPIST - II",
-      "namelocal": "?? ? ?????? -ll /???????? ???????????? -ll ",
+      "namelocal": "സി എ ഗ്രേഡ് -ll /സ്റ്റെനോ ടൈപ്പിസ്റ്റ് -ll ",
       "code": "CAGRII/STTYPII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "C.A. GRADE - I / STENO TYPIST - I",
-      "namelocal": "?? ? ?????? -l/???????? ???????????? -l",
+      "namelocal": "സി എ ഗ്രേഡ് -l/സ്റ്റെനോ ടൈപ്പിസ്റ്റ് -l",
       "code": "CAGRI/STTYPI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "C.A. SENIOR. GRADE ",
-      "namelocal": "?????? ?????? ?? ? ",
+      "namelocal": "സീനിയർ ഗ്രേഡ് സി എ ",
       "code": "CASENGR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "C.A. SELECTION GRADE",
-      "namelocal": "??????? ?  ?????? ?? ? ",
+      "namelocal": "സെലെക്ഷ ൻ  ഗ്രേഡ് സി എ ",
       "code": "CASELGR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "OFFICE ATTENDANT",
-      "namelocal": "????? ???????????? ",
+      "namelocal": "ഓഫീസ് അറ്റെണ്ടന്റ് ",
       "code": "OA",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "JUNIOR HEALTH INSPECTOR - II",
-      "namelocal": "?????? ??????? ?????????? -ll ",
+      "namelocal": "ജൂനിയർ ഹെൽത്ത് ഇൻസ്പെക്ടർ -ll ",
       "code": "JHIGRII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "JUNIOR HEALTH INSPECTOR - I",
-      "namelocal": "?????? ??????? ?????????? -l",
+      "namelocal": "ജൂനിയർ ഹെൽത്ത് ഇൻസ്പെക്ടർ -l",
       "code": "JHIGRI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HEALTH INSPECTOR - II",
-      "namelocal": "??????? ?????????? -ll ",
+      "namelocal": "ഹെൽത്ത് ഇൻസ്പെക്ടർ -ll ",
       "code": "HIGRII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HEALTH INSPECTOR - I",
-      "namelocal": "??????? ?????????? -l",
+      "namelocal": "ഹെൽത്ത് ഇൻസ്പെക്ടർ -l",
       "code": "HIGRI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HEALTH SUPERVISOR",
-      "namelocal": "??????? ?????????? ",
+      "namelocal": "ഹെൽത്ത് സൂപ്പർവൈസർ ",
       "code": "HSUP",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "JUNIOR PUBLIC HEALTH NURSE  HIGHER GRADE",
-      "namelocal": "?????? ??????? ???????  ?????? ???? ??????",
+      "namelocal": "ജൂനിയർ പബ്ളിക് ഹെൽത്ത്  നേഴ്സ് ഹൈയർ ഗ്രേഡ്",
       "code": "JPHNHG",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "JUNIOR PUBLIC HEALTH NURSE  GRADE I",
-      "namelocal": "?????? ??????? ???????  ?????? ?????? -l",
+      "namelocal": "ജൂനിയർ പബ്ളിക് ഹെൽത്ത്  നേഴ്സ് ഗ്രേഡ് -l",
       "code": "JPHNGRI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "JUNIOR PUBLIC HEALTH NURSE  GRADE II",
-      "namelocal": "?????? ??????? ???????  ?????? ?????? -lI",
+      "namelocal": "ജൂനിയർ പബ്ളിക് ഹെൽത്ത്  നേഴ്സ് ഗ്രേഡ് -lI",
       "code": "JPHNGRII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "JPHN GRADE  ",
-      "namelocal": "?? ?? ????? ?? ?????? ",
+      "namelocal": "ജെ പി എച്ച് എൻ ഗ്രേഡ് ",
       "code": "JPHN",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "PHARMACIST  (ALLOPATHY)",
-      "namelocal": "???????????? ( ???????? )",
+      "namelocal": "ഫാർമസിസ്റ്റ് ( അലോപ്പതി )",
       "code": "PHAL",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "PHARMACIST  (HOMOEO)",
-      "namelocal": "???????????? ( ??????  )",
+      "namelocal": "ഫാർമസിസ്റ്റ് ( ഹോമിയോ  )",
       "code": "PHH",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "PHARMACIST  (AYURVEDA)",
-      "namelocal": "???????????? (??????? )",
+      "namelocal": "ഫാർമസിസ്റ്റ് (ആയൂർവേദ )",
       "code": "PHAYR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "DATA ENTRY OPERATOR",
-      "namelocal": "??????  ?????? ?????????? ",
+      "namelocal": "ഡാറ്റാ  എൻട്രി ഓപ്പറേറ്റർ ",
       "code": "DEO",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "PABX OPERATOR / TELEPHONE ATTENDER",
-      "namelocal": "??  ?  ?? ????? ?????????? / ???????? ????? ???? ",
+      "namelocal": "പി  എ  ബി എക്സ് ഓപ്പറേറ്റർ / ടെലിഫോണ് അറ്റെ ണ്ടർ ",
       "code": "PXOP/TELATT",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "DUFFEDAR ",
-      "namelocal": "?????? ",
+      "namelocal": "ഡഫെദാർ ",
       "code": "DUFF",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LAND TENURE CO-ORDINATOR ",
-      "namelocal": "?????  ??????? ?? ?????????? ",
+      "namelocal": "ലാൻട്  ടെന്യൂർ കോ ഓർഡിനേറ്റർ ",
       "code": "LDTYP",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "ASST. PROJECT OFFICER",
-      "namelocal": "??????????? ??????????? ????? ",
+      "namelocal": "അസിസ്റ്റൻറ് പ്രോജക്റ്റ് ഓഫീസർ ",
       "code": "APROO",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "ASST. CURATOR ",
-      "namelocal": "??????????? ?????????? ",
+      "namelocal": "അസിസ്റ്റൻറ് ക്യൂറെറ്റർ ",
       "code": "ASTCUR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LEGAL ASSISTANT",
-      "namelocal": "???? ??????????? ",
+      "namelocal": "ലീഗൽ അസിസ്റ്റൻറ് ",
       "code": "LEGASS",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LIBRARIAN GR-IV",
-      "namelocal": "?????????? ?????? lV ",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് lV ",
       "code": "LIBGRIV",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LIBRARIAN GR-III",
-      "namelocal": "?????????? ?????? lll ",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് lll ",
       "code": "LIBGRIII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LIBRARIAN GR-II",
-      "namelocal": "?????????? ?????? ll ",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് ll ",
       "code": "LIBGRII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LIBRARIAN GR-I",
-      "namelocal": "?????????? ?????? l ",
+      "namelocal": "ലൈബ്രേറിയൻ ഗ്രേഡ് l ",
       "code": "LIBGRI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HEALTH OFFICER GR-I",
-      "namelocal": "??????? ????? ?????? l ",
+      "namelocal": "ഹെൽത്ത് ഓഫീസർ ഗ്രേഡ് l ",
       "code": "HOGRI",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HEALTH OFFICER GR-II",
-      "namelocal": "??????? ????? ?????? l l ",
+      "namelocal": "ഹെൽത്ത് ഓഫീസർ ഗ്രേഡ് l l ",
       "code": "HOGRII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HEALTH OFFICER GR-III ",
-      "namelocal": "??????? ????? ?????? l ll ",
+      "namelocal": "ഹെൽത്ത് ഓഫീസർ ഗ്രേഡ് l ll ",
       "code": "HOGRIII",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "ASST. HEALTH OFFICER ( CORPORATION)",
-      "namelocal": "?????????????? ??????? ????? (??????????)",
+      "namelocal": "അസ്സിസ്റ്റന്റ് ഹെൽത്ത് ഓഫീസർ (കോർപ്പറേഷൻ)",
       "code": "ASSTHO",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "T B SPECIALIST ",
-      "namelocal": "?? ?? ??????????????? ",
+      "namelocal": "ടി ബി സ്പെഷ്യലിസ്റ്റ് ",
       "code": "TBSPCL",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "LADY MEDICAL OFFICER",
-      "namelocal": "???? ???????? ????? ",
+      "namelocal": "ലേഡീ മെഡിക്കൽ ഓഫീസർ ",
       "code": "LMO",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "VETERINERY SURGEON",
-      "namelocal": "?????????  ???? ",
+      "namelocal": "വെറ്റിനറി  സർജൻ ",
       "code": "VTSUR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "HOMEO MEDICAL OFFICER",
-      "namelocal": "?????? ???????? ????? ",
+      "namelocal": "ഹോമിയോ മെഡിക്കൽ ഓഫീസർ ",
       "code": "HMO",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "MEDICAL OFFICER - AYURVEDA",
-      "namelocal": "???????? ????? -??????? ",
+      "namelocal": "മെഡിക്കൽ ഓഫീസർ -ആയൂർവേദ ",
       "code": "MOAYUR",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "FULL TIME LIBRARIAN",
-      "namelocal": "???  ???  ?????????? ",
+      "namelocal": "ഫുൾ  ടൈം  ലൈബ്രേറിയൻ ",
       "code": "FTLIB",
       "active": true,
       "type": "hrms"
