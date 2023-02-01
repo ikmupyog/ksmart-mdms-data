@@ -33,10 +33,11 @@
           "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Police Station,Akshaya,A",
       "addressLocal": "പോലീസ് സ്റ്റേഷന്‍,അക്ഷയ,എ",
       "lbCode": "kl.attingal",
+      "placeofEventCodeNew": "INST_TYPE_POLICE_STATION",
       "migrationKochiCode": null
     }
   ]

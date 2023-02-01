@@ -14121,6 +14121,55 @@
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+      "id": 2457,
+      "name": "search birth certificate",
+      "url": "/birth-services/cr/registry/_search",
+      "parentModule": "",
+      "displayName": "Search death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2458,
+      "name": "search death certificate",
+      "url": "/death-services/v1/crdeathregistry/_search",
+      "parentModule": "",
+      "displayName": "Search death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2459,
+      "name": "Download death certificate",
+      "url": "/death-services/v1/crdeathregistry/_download",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2460,
+      "name": "Download birth certificate",
+      "url": "/birth-services/cr/registry/_download",
+      "parentModule": "",
+      "displayName": "Create File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    }
+
    ]
 }

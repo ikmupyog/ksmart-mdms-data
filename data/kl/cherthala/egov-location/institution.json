@@ -21,6 +21,7 @@
       "buildingNo": "25/01/22",
       "buildingName": "Cherthala Railway Station",
       "buildingNameLocal": "ചേര്‍ത്തല റെയില്‍വേ സ്റ്റേഷന്‍",
+      "phoneNo": 2812500,
       "phoneDesig": 43,
       "mainPlace": "Cherthala",
       "mainPlaceLocal": "ചേര്‍ത്തല",
@@ -32,10 +33,11 @@
           "registarDesig": "DESIGNATION_STATION_OFFICER"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Railway Station,Cherthala,Cherthala",
       "addressLocal": "റെയില്‍വേ സ്റ്റേഷന്‍,ചേര്‍ത്തല,ചേര്‍ത്തല",
       "lbCode": "kl.cherthala",
+      "placeofEventCodeNew": "INST_TYPE_OTHER_INSTITUTIONS_SPECIFY",
       "migrationKochiCode": null
     },
     {
@@ -57,6 +59,7 @@
       "buildingNo": 562,
       "buildingName": "Cherthala Police Station",
       "buildingNameLocal": "ചേര്‍ത്തല പോലീസ് സ്റ്റേഷന്‍",
+      "phoneNo": 2813205,
       "phoneDesig": 36,
       "mainPlace": "Cherthala",
       "mainPlaceLocal": "ചേര്‍ത്തല",
@@ -68,10 +71,11 @@
           "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
         }
       ],
-      "active": null,
+      "active": true,
       "address": "Police Station,Cherthala,Cherthala",
       "addressLocal": "പോലീസ് സ്റ്റേഷന്‍,ചേര്‍ത്തല,ചേര്‍ത്തല",
       "lbCode": "kl.cherthala",
+      "placeofEventCodeNew": "INST_TYPE_POLICE_STATION",
       "migrationKochiCode": null
     }
   ]
