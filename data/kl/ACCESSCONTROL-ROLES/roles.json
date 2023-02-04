@@ -696,6 +696,11 @@
       "code": "TL_PDEAPPROVER",
       "name": "License PDE Approver",
       "description": "Approver who verifies and approves the TL PDE application"
+    },
+    {
+      "code": "HOSPITAL_KIOSK",
+      "name": "Birth and Death User",
+      "description": "Birth and Death User"
     }
   ]
 }
