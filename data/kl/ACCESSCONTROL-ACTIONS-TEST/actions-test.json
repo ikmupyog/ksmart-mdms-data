@@ -14169,7 +14169,20 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2461,
+      "name": "Create death certificate",
+      "url": "/death-services/v1/crdeathregistry/_create",
+      "parentModule": "",
+      "displayName": "Create death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
     }
+
 
    ]
 }
