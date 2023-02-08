@@ -36,6 +36,13 @@
       "code": "PUBLIC_PLACES",
       "active": true,
       "type": "COMMON"
+    },
+    {
+      "name": "Outside Jurisdiction",
+      "namelocal": "",
+      "code": "OUTSIDE_JURISDICTION",
+      "active": true,
+      "type": "COMMON"
     }
   ]
 }
