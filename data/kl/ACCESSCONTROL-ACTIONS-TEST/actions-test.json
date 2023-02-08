@@ -13534,7 +13534,7 @@
       {
          "id": 2413,
          "name": "Create File",
-         "url": "/filemgmnt/v1/applicantpersonals/_create",
+         "url": "/filemgmnt/v1/applicantservices/_create",
          "parentModule": "",
          "displayName": "Create File",
          "orderNumber": 0,
@@ -13546,7 +13546,7 @@
       {
          "id": 2414,
          "name": "Update File",
-         "url": "/filemgmnt/v1/applicantpersonals/_update",
+         "url": "/filemgmnt/v1/applicantservices/_update",
          "parentModule": "",
          "displayName": "Update File",
          "orderNumber": 0,
@@ -13558,7 +13558,7 @@
       {
          "id": 2415,
          "name": "Search File",
-         "url": "/filemgmnt/v1/applicantpersonals/_search",
+         "url": "/filemgmnt/v1/applicantservices/_search",
          "parentModule": "",
          "displayName": "Search File",
          "orderNumber": 0,
