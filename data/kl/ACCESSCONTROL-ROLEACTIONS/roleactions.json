@@ -25604,6 +25604,30 @@
       "actionid": 2461,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2086,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "FMOPERATOR",
+      "actionid": 2086,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "FMVERIFIER",
+      "actionid": 2086,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "FMAPPROVER",
+      "actionid": 2086,
+      "actioncode": "",
+      "tenantId": "kl"
     }
   ]
 }
