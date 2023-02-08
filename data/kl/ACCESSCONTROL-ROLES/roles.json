@@ -697,10 +697,26 @@
       "name": "License PDE Approver",
       "description": "Approver who verifies and approves the TL PDE application"
     },
+   
+     {
+      "code": "HOSPITAL_OPERATOR",
+      "name": "Hospital Operator",
+      "description": "Hospital Operator"
+    },
+     {
+      "code": "HOSPITAL_APPROVER",
+      "name": "Hospital Approver",
+      "description": "Hospital Approver"
+    },
+     {
+      "code": "INSTITUTION_OPERATOR",
+      "name": "Institution Operator",
+      "description": "Institution Operator"
+    },
     {
-      "code": "HOSPITAL_KIOSK",
-      "name": "Hospital Kiosk",
-      "description": "Hospital Kiosk"
+      "code": "INSTITUTION_APPROVER",
+      "name": "Institution Approver",
+      "description": "Institution Approver"
     }
   ]
 }
