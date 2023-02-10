@@ -13703,7 +13703,7 @@
        {
       "id": 2417,
       "name": "Create new death application",
-      "url": "/death-services/v1/crdeathdetails/_create",
+      "url": "/death-services/v1/deathdetails/_createdeath",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
@@ -13716,7 +13716,7 @@
  {
       "id": 2418,
       "name": "Update death application",
-      "url": "/death-services/v1/crdeathdetails/_update",
+      "url": "/death-services/v1/deathdetails/_updatedeath",
       "parentModule": "",
       "displayName": "Update File",
       "orderNumber": 0,
