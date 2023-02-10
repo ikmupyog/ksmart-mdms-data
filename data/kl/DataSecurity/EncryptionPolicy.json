@@ -100,23 +100,23 @@
             "type" : "Normal"
           },
           {
-            "jsonPath" : "deceasedAadharNumber",
+            "jsonPath" : "DeceasedAadharNumber",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "informantAadharNo",
+            "jsonPath" : "InformantAadharNo",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "maleDependentAadharNo",
+            "jsonPath" : "MotherAadharNo",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "femaleDependentAadharNo",
+            "jsonPath" : "FatherAadharNo",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "applicantAadhar",
+            "jsonPath" : "SpouseAadhaar",
             "type" : "Normal"
           }
         ]
