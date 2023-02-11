@@ -1,30 +1,30 @@
 {"tenantId": "kl","moduleName": "TradeLicense","EnterpriseType": [{
     "sectorName": "Manufacturing sector",
-    "code": "MANUFACTORING.MICRO",
+    "code": "MANUFACTURING.MICRO",
     "typeName": "Micro enterprise",
     "investmentFrom": 0,
     "investmentTo": 2500000
 },{
     "sectorName": "Manufacturing sector",
-    "code": "MANUFACTORING.MINI",
+    "code": "MANUFACTURING.MINI",
     "typeName": "Mini enterprise",
     "investmentFrom": 2500001,
     "investmentTo": 10000000
 },{
     "sectorName": "Manufacturing sector",
-    "code": "MANUFACTORING.SMALL",
+    "code": "MANUFACTURING.SMALL",
     "typeName": "Small enterprise",
     "investmentFrom": 10000001,
     "investmentTo": 50000000
 },{
     "sectorName": "Manufacturing sector",
-    "code": "MANUFACTORING.MEDIUM",
+    "code": "MANUFACTURING.MEDIUM",
     "typeName": "Medium enterprise",
     "investmentFrom": 50000001,
     "investmentTo": 100000000
 },{
     "sectorName": "Manufacturing sector",
-    "code": "MANUFACTORING.LARGE",
+    "code": "MANUFACTURING.LARGE",
     "typeName": "Large enterprise",
     "investmentFrom": 100000001,
     "investmentTo": 100000000000
