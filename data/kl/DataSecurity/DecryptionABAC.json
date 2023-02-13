@@ -1465,7 +1465,7 @@
                 },
                 "accessType" : "PLAIN"
               },
-		    	     {
+	     {
                 "attribute" : {
                   "jsonPath" : "*/DeceasedAadharNumber"
                 },
@@ -1519,7 +1519,7 @@
                 },
                 "accessType" : "PLAIN"
               },
-		    	     {
+	     {
                 "attribute" : {
                   "jsonPath" : "*/DeceasedAadharNumber"
                 },
