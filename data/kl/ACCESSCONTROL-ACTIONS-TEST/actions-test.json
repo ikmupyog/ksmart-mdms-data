@@ -13729,7 +13729,7 @@
  {
       "id": 2419,
       "name": "Search death application",
-      "url": "/death-services/v1/crdeathdetails/_search",
+      "url": "/death-services/v1/deathdetails/_searchdeath",
       "parentModule": "",
       "displayName": "Search File",
       "orderNumber": 0,
