@@ -1,0 +1,34 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "PregnantDeceased": [
+    {
+      "code": "PREGNANT_ABOVE_43",
+      "name": "Pregnant 43 days to 1 year before death",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "PREGNANT_BELOW_43",
+      "name": "Pregnant within 42 days of death",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "PREGNANT_AT_TIMEOFDEATH",
+      "name": "Pregnant at time of death",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "PREGNANT_UNKNOWN",
+      "name": "Unknown if pregnant within the past year",
+      "namelocal": "",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
