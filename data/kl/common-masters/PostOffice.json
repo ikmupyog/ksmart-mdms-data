@@ -2,8 +2,7 @@
   "tenantId": "kl",
   "moduleName": "common-masters",
   "mpostoffice": [
-    
-{
+    {
       "name": "Kochi",
       "namelocal": "കൊച്ചി",
       "migrationpostofficeid": 2525,
@@ -483,5 +482,6 @@
       "distcode": "DISTRICT_7",
       "active": true,
       "type": "COMMON"
-    }]
+    }
+  ]
 }
