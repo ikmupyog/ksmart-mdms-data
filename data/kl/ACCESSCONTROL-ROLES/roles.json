@@ -624,18 +624,23 @@
     },
     {
       "code": "BND_SUB_REGISTRAR",
-      "name": "Birth and Death Enquiry officer",
-      "description": "Birth and Death Enquiry officer"
+      "name": "Birth and Death Sub Registrar",
+      "description": "Birth and Death Sub Registrar"
     },
     {
       "code": "BND_LOCAL_REGISTRAR",
-      "name": "Birth and Death Approver",
-      "description": "Birth and Death Approver"
+      "name": "Birth and Death Local Registrar",
+      "description": "Birth and Death Local Registrar"
     },
     {
       "code": "BND_DISTRICT_REGISTRAR",
-      "name": "Birth and Death Approver",
-      "description": "Birth and Death Approver after one year"
+      "name": "Birth and Death District Registrar",
+      "description": "Birth and Death District Registrar"
+    },
+    {
+      "code": "JHI",
+      "name": "Birth and Death JHI",
+      "description": "Birth and Death JHI"
     },
     {
       "code": "DASHBOARD_REPORT_VIEWER",
