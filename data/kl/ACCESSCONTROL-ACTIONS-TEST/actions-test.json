@@ -13570,7 +13570,7 @@
       {
       "id": 2424,
       "name": "Create new birth application",
-      "url": "/birth-services/cr/birth/_create",
+      "url": "/birth-services/ksmart/birth/createbirth",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
@@ -13583,7 +13583,7 @@
  {
       "id": 2425,
       "name": "Update birth application",
-      "url": "/birth-services/cr/birth/_update",
+      "url": "/birth-services/ksmart/birth/updatebirth",
       "parentModule": "",
       "displayName": "Update File",
       "orderNumber": 0,
@@ -13596,7 +13596,7 @@
  {
       "id": 2426,
       "name": "Search birth application",
-      "url": "/birth-services/cr/birth/_search",
+      "url": "/birth-services/ksmart/birth/searchbirth",
       "parentModule": "",
       "displayName": "Search File",
       "orderNumber": 0,
