@@ -13768,7 +13768,7 @@
  {
       "id": 2422,
       "name": "search death certificate",
-      "url": "/death-services/v1/crdeathregistry/_search",
+      "url": "/death-services/v1/deathregistry/_searchdeath",
       "parentModule": "",
       "displayName": "Search death certificate",
       "orderNumber": 0,
