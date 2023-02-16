@@ -13781,7 +13781,7 @@
  {
       "id": 2423,
       "name": "Download death certificate",
-      "url": "/death-services/v1/crdeathregistry/_download",
+      "url": "/death-services/v1/deathregistry/_downloaddeath",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
