@@ -722,6 +722,37 @@
       "code": "INSTITUTION_APPROVER",
       "name": "Institution Approver",
       "description": "Institution Approver"
+    },
+        {
+      "code": "WARD_OVERSEER",
+      "name": "Ward Overseer",
+      "description": "Ward Overseer"
+    },
+    {
+      "code": "OVERSEER_HIGHER",
+      "name": "Overseer Higher",
+      "description": "Overseer Higher"
+    },
+    {
+      "code": "AE",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer"
+    },
+    {
+      "code": "WARD_JHI",
+      "name": "Junior Health Inspector",
+      "description": "Junior Health Inspector"
+    },
+    {
+      "code": "PGR_JHI",
+      "name": "Junior Health Inspector I/Health Inspector II/I",
+      "description": "Junior Health Inspector I/Health Inspector II/I"
+    },
+    {
+      "code": "HIHS",
+      "name": "Health Inspector/Health Supervisor",
+      "description": "Health Inspector/Health Supervisor"
     }
+    
   ]
 }
