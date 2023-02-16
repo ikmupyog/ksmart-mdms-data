@@ -12715,7 +12715,7 @@
     {
       "id": 2361,
       "name": "Birth-Death : Birth Save Report",
-      "url": "/birth-services/cr/birth/_create",
+      "url": "/birth-services/ksmart/birth/createbirth",
       "displayName": "Birth Save",
       "orderNumber": 0,
       "parentModule": "",
