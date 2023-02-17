@@ -3,44 +3,44 @@
   "moduleName": "birth-death-service",
   "Qualification": [
     {
-      "name": "Illiterate",
-      "namelocal": "",
       "code": "QUALIFICATION_ILLITERATE",
+      "name": "Illiterate",
+      "namelocal": "??????????",
       "active": true,
       "type": "BND"
     },
     {
-      "name": "Non Formally Educated",
-      "namelocal": "",
       "code": "QUALIFICATION_NON_FORMALLY",
+      "name": "Non Formally Educated",
+      "namelocal": "??????????? ???????????? ?????????????",
       "active": true,
       "type": "BND"
     },
     {
-      "name": "Qualification below Matriculation",
-      "namelocal": "",
-      "code": "QUALIFICATION_BELOW_MATRICULATION",
+      "code": "QUALIFICATION_PRIMARY",
+      "name": "Below Primary",
+      "namelocal": "??????? ????????????????? ????",
       "active": true,
       "type": "BND"
     },
     {
-      "name": "Matriculation 10th Std",
-      "namelocal": "",
-      "code": "QUALIFICATION_10STD",
+      "code": "QUALIFICATION_BELOW_METRIC",
+      "name": "Primary but below Metric",
+      "namelocal": "??????? ???????????? ????? ??????????????? ????",
       "active": true,
       "type": "BND"
     },
     {
-      "name": "Pre-Degree/12th Std",
-      "namelocal": "",
-      "code": "QUALIFICATION_12STD",
+      "code": "QUALIFICATION_BELOW_GRADUATE",
+      "name": "Metric but below Graduate",
+      "namelocal": "???????????????? ????? ??????????? ????",
       "active": true,
       "type": "BND"
     },
     {
-      "name": "Graduation and Above",
-      "namelocal": "",
       "code": "QUALIFICATION_GRADUATION_AND_ABOVE",
+      "name": "Graduate and Above",
+      "namelocal": "???????? ????? ????????",
       "active": true,
       "type": "BND"
     }

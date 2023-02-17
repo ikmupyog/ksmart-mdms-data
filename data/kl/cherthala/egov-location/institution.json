@@ -1,0 +1,82 @@
+{
+  "tenantId": "kl.cherthala",
+  "moduleName": "egov-location",
+  "institutionList": [
+    {
+      "code": "INSTITUTION_59",
+      "institutionName": "Railway Station",
+      "institutionNamelocal": "റെയില്‍വേ സ്റ്റേഷന്‍",
+      "instId": 59,
+      "instTypeId": 32,
+      "stateId": 32,
+      "distId": 4,
+      "lbId": 183,
+      "slNo": 1,
+      "street": "Cherthala",
+      "place": "Cherthala",
+      "wardId": 6,
+      "poId": 2,
+      "streetLocal": "ചേര്‍ത്തല",
+      "placeLocal": "ചേര്‍ത്തല",
+      "buildingNo": "25/01/22",
+      "buildingName": "Cherthala Railway Station",
+      "buildingNameLocal": "ചേര്‍ത്തല റെയില്‍വേ സ്റ്റേഷന്‍",
+      "phoneNo": 2812500,
+      "phoneDesig": 43,
+      "mainPlace": "Cherthala",
+      "mainPlaceLocal": "ചേര്‍ത്തല",
+      "registar": [
+        {
+          "institutionRegistar": "Rubinson John",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_STATION_OFFICER"
+        }
+      ],
+      "active": true,
+      "address": "Railway Station,Cherthala,Cherthala",
+      "addressLocal": "റെയില്‍വേ സ്റ്റേഷന്‍,ചേര്‍ത്തല,ചേര്‍ത്തല",
+      "lbCode": "kl.cherthala",
+      "placeofEventCodeNew": "INST_TYPE_OTHER_INSTITUTIONS_SPECIFY",
+      "migrationKochiCode": null
+    },
+    {
+      "code": "INSTITUTION_60",
+      "institutionName": "Police Station",
+      "institutionNamelocal": "പോലീസ് സ്റ്റേഷന്‍",
+      "instId": 60,
+      "instTypeId": 29,
+      "stateId": 32,
+      "distId": 4,
+      "lbId": 183,
+      "slNo": 2,
+      "street": "Cherthala",
+      "place": "Cherthala",
+      "wardId": 2,
+      "poId": 2,
+      "streetLocal": "ചേര്‍ത്തല",
+      "placeLocal": "ചേര്‍ത്തല",
+      "buildingNo": 562,
+      "buildingName": "Cherthala Police Station",
+      "buildingNameLocal": "ചേര്‍ത്തല പോലീസ് സ്റ്റേഷന്‍",
+      "phoneNo": 2813205,
+      "phoneDesig": 36,
+      "mainPlace": "Cherthala",
+      "mainPlaceLocal": "ചേര്‍ത്തല",
+      "registar": [
+        {
+          "institutionRegistar": "Sivarajan P K",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
+        }
+      ],
+      "active": true,
+      "address": "Police Station,Cherthala,Cherthala",
+      "addressLocal": "പോലീസ് സ്റ്റേഷന്‍,ചേര്‍ത്തല,ചേര്‍ത്തല",
+      "lbCode": "kl.cherthala",
+      "placeofEventCodeNew": "INST_TYPE_POLICE_STATION",
+      "migrationKochiCode": null
+    }
+  ]
+}

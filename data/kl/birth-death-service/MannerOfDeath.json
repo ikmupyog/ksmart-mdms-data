@@ -1,0 +1,48 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "MannerOfDeath": [
+    {
+      "code": "NATURAL_DEATH",
+      "name": "Natural",
+      "namelocal": "സ്വാഭാവികം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "ACCIDENT",
+      "name": "Accident",
+      "namelocal": "അപകടം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "HOMICIDE",
+      "name": "Homicide",
+      "namelocal": "നരഹത്യ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "SUICIDE",
+      "name": "Suicide",
+      "namelocal": "ആത്മഹത്യ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "DEATH_NOT_DETERMINED",
+      "name": "Couldn’t be Determined",
+      "namelocal": "നിർണ്ണയിക്കാൻ കഴിഞ്ഞില്ല",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "DEATH_PENDING_INVESTIGATION",
+      "name": "Pending Investigation",
+      "namelocal": "ശേഷിക്കുന്ന അന്വേഷണം",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

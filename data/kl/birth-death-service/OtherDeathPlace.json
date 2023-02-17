@@ -3,93 +3,114 @@
   "moduleName": "birth-death-service",
   "OtherDeathPlace": [
     {
-      "code": "OTHER_DEATH_PLACE_DAM",
-      "name": "Dam",
-      "namelocal": "",
+      "code": "OTHER_PLACE_ROAD_STREET",
+      "name": "Road/Street",
+      "namelocal": "????/??????",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_FOREST_AREA",
-      "name": "Forest Area",
-      "namelocal": "",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_HIGHWAY",
-      "name": "Highway",
-      "namelocal": "",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_LAKE",
-      "name": "Lake",
-      "namelocal": "",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_OTHER_PUBLIC_PLACES",
-      "name": "Other Public Places",
-      "namelocal": "",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_POND",
-      "name": "Pond",
-      "namelocal": "",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_RAILWAY_TRACK",
+      "code": "OTHER_PLACE_RAILWAY_RACK",
       "name": "Railway Track",
-      "namelocal": "",
+      "namelocal": "??????? ????????",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_RIVER",
+      "code": "OTHER_PLACE_BUS_STATION",
+      "name": "Bus Station",
+      "namelocal": "??? ?????????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_RAILWAY_STATION",
+      "name": "Railway Station",
+      "namelocal": "??????? ????????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_AIRPORT",
+      "name": "Airport",
+      "namelocal": "????????????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_BOAT_JETTY",
+      "name": "Boat Jetty",
+      "namelocal": "?????? ??????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_SEA_PORT",
+      "name": "Sea Port",
+      "namelocal": "??? ???????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_STADIUM",
+      "name": "Stadium",
+      "namelocal": "??????????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_PARK",
+      "name": "Park",
+      "namelocal": "???????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_COMMERCIAL PLACES_SHOPS",
+      "name": "Commercial Places/Shops",
+      "namelocal": "??????? ????????/????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_CINEMA_THEATRE",
+      "name": "Cinema Theatre",
+      "namelocal": "?????? ????????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_FOREST_AREA",
+      "name": "Forest Area",
+      "namelocal": "????????? ????",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OTHER_PLACE_RIVER",
       "name": "River",
-      "namelocal": "",
+      "namelocal": "???",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_ROAD",
-      "name": "Road",
-      "namelocal": "",
+      "code": "OTHER_PLACE_LAKE",
+      "name": "Lake",
+      "namelocal": "?????",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_SHIP",
-      "name": "Ship",
-      "namelocal": "",
+      "code": "OTHER_PLACE_DAM",
+      "name": "Dam",
+      "namelocal": "??????????",
       "active": true,
       "type": "BND"
     },
     {
-      "code": "OTHER_DEATH_PLACE_TRIBAL_COLONY",
-      "name": "Tribal Colony",
-      "namelocal": "",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_OTHERS",
-      "name": "Others",
-      "namelocal": "",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "code": "OTHER_DEATH_PLACE_OUTSIDE_JURISDICTION",
-      "name": "Outside Jurisdiction",
-      "namelocal": "",
+      "code": "OTHER_PLACE_OTHERS",
+      "name": "Other Public Places",
+      "namelocal": "????? ???? ????????",
       "active": true,
       "type": "BND"
     }

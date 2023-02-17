@@ -1,0 +1,44 @@
+{
+  "tenantId": "kl.attingal",
+  "moduleName": "egov-location",
+  "institutionList": [
+    {
+      "code": "INSTITUTION_3",
+      "institutionName": "Police Station",
+      "institutionNamelocal": "പോലീസ് സ്റ്റേഷന്‍",
+      "instId": 3,
+      "instTypeId": 29,
+      "stateId": 32,
+      "distId": 1,
+      "lbId": 173,
+      "slNo": 1,
+      "street": "Akshaya",
+      "place": "A",
+      "wardId": 1,
+      "poId": 1,
+      "streetLocal": "അക്ഷയ",
+      "placeLocal": "എ",
+      "buildingNo": 231,
+      "buildingName": "A",
+      "buildingNameLocal": "എ",
+      "phoneNo": null,
+      "phoneDesig": 36,
+      "mainPlace": "M",
+      "mainPlaceLocal": "എം",
+      "registar": [
+        {
+          "institutionRegistar": "k",
+          "registrationAadhaar": null,
+          "registrationMobile": null,
+          "registarDesig": "DESIGNATION_SUB_INSPECTOR_OF_POLICE"
+        }
+      ],
+      "active": true,
+      "address": "Police Station,Akshaya,A",
+      "addressLocal": "പോലീസ് സ്റ്റേഷന്‍,അക്ഷയ,എ",
+      "lbCode": "kl.attingal",
+      "placeofEventCodeNew": "INST_TYPE_POLICE_STATION",
+      "migrationKochiCode": null
+    }
+  ]
+}

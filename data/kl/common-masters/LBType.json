@@ -7,42 +7,42 @@
       "namelocal": "?????? ??????????",
       "code": "LB_TYPE_DIST_PANCHAYAT",
       "active": false,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Block Panchayat",
       "namelocal": "???????? ??????????",
       "code": "LB_TYPE_BLOCK_PANCHAYAT",
       "active": false,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Municipality",
       "namelocal": "????????????????",
       "code": "LB_TYPE_MUNICIPALITY",
       "active": true,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Corporation",
       "namelocal": "??????????",
       "code": "LB_TYPE_CORPORATION",
       "active": true,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Grama Panchayath",
       "namelocal": "???????????????",
       "code": "LB_TYPE_GRAMA_PANCHAYAT",
       "active": true,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "State Level",
       "namelocal": "??????? ???",
       "code": "LB_TYPE_STATE_LEVEL",
       "active": false,
-      "type": "BND"
+      "type": "COMMON"
     }
   ]
 }

@@ -6,7 +6,7 @@
       "code": "HOSPITAL_8376",
       "hospitalName": "Akshaya Hospital",
       "hospitalNamelocal": "അക്ഷയ ഹോസ്പിറ്റല്‍",
-      "hoId": 8376,
+      "hoId": "H94",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -28,18 +28,14 @@
         {
           "hospitalRegistar": "Dr Sasikala V Prabhu",
           "registrationNo": "MOH - 12",
-          "registrationAadhaar": "H94",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "അക്ഷയ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Akshaya HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Akshaya HospitalNULLNULL",
-      "addressLocal": "അക്ഷയ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Akshaya Hospital, Ernakulam",
+      "addressLocal": "അക്ഷയ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H94"
@@ -48,7 +44,7 @@
       "code": "HOSPITAL_8377",
       "hospitalName": "M A J Hospital",
       "hospitalNamelocal": "എം എ ജെ ഹോസ്പിറ്റല്‍",
-      "hoId": 8377,
+      "hoId": "H96",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -70,18 +66,14 @@
         {
           "hospitalRegistar": "Dr Lenin John V George",
           "registrationNo": "15- 46/2001/dm04/EKM",
-          "registrationAadhaar": "H96",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "എം എ ജെ ഹോസ്പിറ്റല്‍",
-      "stateCode": "M A J HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "M A J HospitalNULLNULL",
-      "addressLocal": "എം എ ജെ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "M A J Hospital, Ernakulam",
+      "addressLocal": "എം എ ജെ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H96"
@@ -90,7 +82,7 @@
       "code": "HOSPITAL_8378",
       "hospitalName": "Ernakulam Medical Centre",
       "hospitalNamelocal": "എറണാകുളം മെഡിക്കല്‍ സെന്‍റര്‍",
-      "hoId": 8378,
+      "hoId": "H99",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -112,18 +104,14 @@
         {
           "hospitalRegistar": "Dr Remitha",
           "registrationNo": "NULL",
-          "registrationAadhaar": "H99",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "എറണാകുളം മെഡിക്കല്‍ സെന്‍റര്‍",
-      "stateCode": "Ernakulam Medical CentreNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Ernakulam Medical CentreNULLNULL",
-      "addressLocal": "എറണാകുളം മെഡിക്കല്‍ സെന്‍റര്‍",
+      "active": true,
+      "address": "Ernakulam Medical Centre, Ernakulam",
+      "addressLocal": "എറണാകുളം മെഡിക്കല്‍ സെന്‍റര്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H99"
@@ -132,7 +120,7 @@
       "code": "HOSPITAL_8379",
       "hospitalName": "Indira Gandhi Co- Operative Hospital",
       "hospitalNamelocal": "ഇന്ദിരാ ഗാന്ധി കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8379,
+      "hoId": "H78",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -154,18 +142,14 @@
         {
           "hospitalRegistar": "Dr Antony A J",
           "registrationNo": "E288",
-          "registrationAadhaar": "H78",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_RESIDENT_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഇന്ദിരാ ഗാന്ധി കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Indira Gandhi Co- Operative HospitalNULLNULL",
-      "distCode": "DESIGNATION_RESIDENT_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Indira Gandhi Co- Operative HospitalNULLNULL",
-      "addressLocal": "ഇന്ദിരാ ഗാന്ധി കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Indira Gandhi Co- Operative Hospital, Ernakulam",
+      "addressLocal": "ഇന്ദിരാ ഗാന്ധി കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_RESIDENT_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H78"
@@ -174,7 +158,7 @@
       "code": "HOSPITAL_8380",
       "hospitalName": "Lisie Hospital",
       "hospitalNamelocal": "ലിസ്സി ഹോസ്പിറ്റല്‍",
-      "hoId": 8380,
+      "hoId": "H84",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -196,18 +180,14 @@
         {
           "hospitalRegistar": "Dr Simon",
           "registrationNo": "327/IV/90",
-          "registrationAadhaar": "H84",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ലിസ്സി ഹോസ്പിറ്റല്‍",
-      "stateCode": "Lisie HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Lisie HospitalNULLNULL",
-      "addressLocal": "ലിസ്സി ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Lisie Hospital, Ernakulam",
+      "addressLocal": "ലിസ്സി ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H84"
@@ -216,7 +196,7 @@
       "code": "HOSPITAL_8381",
       "hospitalName": "Dr Joys Hospital For Women And Children",
       "hospitalNamelocal": "ഡോ ജോയിസ് ഹോസ്പിറ്റല്‍ ഫോര്‍ വിമണ്‍ ആന്‍റ് ചില്‍ഡ്രന്‍",
-      "hoId": 8381,
+      "hoId": "H95",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -238,18 +218,14 @@
         {
           "hospitalRegistar": "Dr Joy P J",
           "registrationNo": "MOH 13/ HR 04-05",
-          "registrationAadhaar": "H95",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഡോ ജോയിസ് ഹോസ്പിറ്റല്‍ ഫോര്‍ വിമണ്‍ ആന്‍റ് ചില്‍ഡ്രന്‍",
-      "stateCode": "Dr Joys Hospital For Women And ChildrenNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Dr Joys Hospital For Women And ChildrenNULLNULL",
-      "addressLocal": "ഡോ ജോയിസ് ഹോസ്പിറ്റല്‍ ഫോര്‍ വിമണ്‍ ആന്‍റ് ചില്‍ഡ്രന്‍",
+      "active": true,
+      "address": "Dr Joys Hospital For Women And Children, Ernakulam",
+      "addressLocal": "ഡോ ജോയിസ് ഹോസ്പിറ്റല്‍ ഫോര്‍ വിമണ്‍ ആന്‍റ് ചില്‍ഡ്രന്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H95"
@@ -258,7 +234,7 @@
       "code": "HOSPITAL_8382",
       "hospitalName": "City Hospital PVT Limited",
       "hospitalNamelocal": "സിറ്റി ഹോസ്പിറ്റല്‍ പ്രൈവറ്റ് ലിമിറ്റഡ്",
-      "hoId": 8382,
+      "hoId": "H72",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -280,18 +256,14 @@
         {
           "hospitalRegistar": "Dr James Mathew",
           "registrationNo": "NULL",
-          "registrationAadhaar": "H72",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_SUPERINTENDENT"
         }
       ],
-      "talukCode": "സിറ്റി ഹോസ്പിറ്റല്‍ പ്രൈവറ്റ് ലിമിറ്റഡ്",
-      "stateCode": "City Hospital PVT LimitedNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_SUPERINTENDENT",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "City Hospital PVT LimitedNULLNULL",
-      "addressLocal": "സിറ്റി ഹോസ്പിറ്റല്‍ പ്രൈവറ്റ് ലിമിറ്റഡ്",
+      "active": true,
+      "address": "City Hospital PVT Limited, Ernakulam",
+      "addressLocal": "സിറ്റി ഹോസ്പിറ്റല്‍ പ്രൈവറ്റ് ലിമിറ്റഡ്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_SUPERINTENDENT",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H72"
@@ -300,7 +272,7 @@
       "code": "HOSPITAL_8383",
       "hospitalName": "St Lukes Hospital",
       "hospitalNamelocal": "സെന്‍റ് ലൂയിസ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8383,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -324,16 +296,12 @@
           "registrationNo": "Nil",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സെന്‍റ് ലൂയിസ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "St Lukes HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "St Lukes HospitalNULLNULL",
-      "addressLocal": "സെന്‍റ് ലൂയിസ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "St Lukes Hospital, Chullikkal",
+      "addressLocal": "സെന്‍റ് ലൂയിസ് ഹോസ്പിറ്റല്‍, ചുള്ളിക്കല്‍",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -342,7 +310,7 @@
       "code": "HOSPITAL_8384",
       "hospitalName": "E S I Hospital",
       "hospitalNamelocal": "ഇ എസ്സ് ഐ ഹോസ്പിറ്റല്‍",
-      "hoId": 8384,
+      "hoId": "H55",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -364,18 +332,14 @@
         {
           "hospitalRegistar": "Dr Sainaba Beevi",
           "registrationNo": "N A",
-          "registrationAadhaar": "H55",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": "ഇ എസ്സ് ഐ ഹോസ്പിറ്റല്‍",
-      "stateCode": "E S I HospitalNULLNULL",
-      "distCode": "DESIGNATION_OTHERS",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "E S I HospitalNULLNULL",
-      "addressLocal": "ഇ എസ്സ് ഐ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "E S I Hospital, Ernakulam",
+      "addressLocal": "ഇ എസ്സ് ഐ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_OTHERS",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H55"
@@ -384,7 +348,7 @@
       "code": "HOSPITAL_8385",
       "hospitalName": "Pauls Hospital",
       "hospitalNamelocal": "പോള്‍സ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8385,
+      "hoId": "H132",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -406,18 +370,14 @@
         {
           "hospitalRegistar": "Mrs Marypaul",
           "registrationNo": "C/6/43 2004-05",
-          "registrationAadhaar": "H132",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പോള്‍സ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Pauls HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Pauls HospitalNULLNULL",
-      "addressLocal": "പോള്‍സ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Pauls Hospital, Ernakulam",
+      "addressLocal": "പോള്‍സ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H132"
@@ -426,7 +386,7 @@
       "code": "HOSPITAL_8386",
       "hospitalName": "District Ayurveda Hospital, Eranakulam",
       "hospitalNamelocal": "ജില്ലാ ആയുര്‍വ്വേദ ആശുപത്രി എറണാകുളം",
-      "hoId": 8386,
+      "hoId": "H117",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -448,18 +408,14 @@
         {
           "hospitalRegistar": "Dr Susheela R",
           "registrationNo": "N A",
-          "registrationAadhaar": "H117",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ജില്ലാ ആയുര്‍വ്വേദ ആശുപത്രി എറണാകുളം",
-      "stateCode": "District Ayurveda Hospital, EranakulamNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "District Ayurveda Hospital, EranakulamNULLNULL",
-      "addressLocal": "ജില്ലാ ആയുര്‍വ്വേദ ആശുപത്രി എറണാകുളം",
+      "active": true,
+      "address": "District Ayurveda Hospital, Eranakulam, Ernakulam",
+      "addressLocal": "ജില്ലാ ആയുര്‍വ്വേദ ആശുപത്രി എറണാകുളം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H117"
@@ -468,7 +424,7 @@
       "code": "HOSPITAL_8387",
       "hospitalName": "General Hospital",
       "hospitalNamelocal": "ജനറല്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8387,
+      "hoId": "H54",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -490,18 +446,14 @@
         {
           "hospitalRegistar": "Dr Syamala",
           "registrationNo": "N A",
-          "registrationAadhaar": "H54",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_GYNAECOLOGIST"
         }
       ],
-      "talukCode": "ജനറല്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "General HospitalNULLNULL",
-      "distCode": "DESIGNATION_GYNAECOLOGIST",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "General HospitalNULLNULL",
-      "addressLocal": "ജനറല്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "General Hospital, Ernakulam",
+      "addressLocal": "ജനറല്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_GYNAECOLOGIST",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H54"
@@ -510,7 +462,7 @@
       "code": "HOSPITAL_8388",
       "hospitalName": "Jesus Hospital",
       "hospitalNamelocal": "ജീസസ്സ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8388,
+      "hoId": "H46",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -532,18 +484,14 @@
         {
           "hospitalRegistar": "Dr Santhakumari",
           "registrationNo": "NULL",
-          "registrationAadhaar": "H46",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ജീസസ്സ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Jesus HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Jesus HospitalNULLNULL",
-      "addressLocal": "ജീസസ്സ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Jesus Hospital, Karuvelippady",
+      "addressLocal": "ജീസസ്സ് ഹോസ്പിറ്റല്‍, കരുവേലിപ്പടി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H46"
@@ -552,7 +500,7 @@
       "code": "HOSPITAL_8389",
       "hospitalName": "Anne Mary Joachim Hospital",
       "hospitalNamelocal": "ആന്‍ മേരി ജോചിം ഹോസ്പിറ്റല്‍",
-      "hoId": 8389,
+      "hoId": "H50",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -574,18 +522,14 @@
         {
           "hospitalRegistar": "Dr Paul P Noble",
           "registrationNo": "1/97- 98",
-          "registrationAadhaar": "H50",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ആന്‍ മേരി ജോചിം ഹോസ്പിറ്റല്‍",
-      "stateCode": "Anne Mary Joachim HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Anne Mary Joachim HospitalNULLNULL",
-      "addressLocal": "ആന്‍ മേരി ജോചിം ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Anne Mary Joachim Hospital, Palluruthy",
+      "addressLocal": "ആന്‍ മേരി ജോചിം ഹോസ്പിറ്റല്‍, പള്ളുരുത്തി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H50"
@@ -594,7 +538,7 @@
       "code": "HOSPITAL_8390",
       "hospitalName": "Krishna Hospital",
       "hospitalNamelocal": "കൃഷ്ണ ഹോസ്പിറ്റല്‍",
-      "hoId": 8390,
+      "hoId": "H73",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -616,18 +560,14 @@
         {
           "hospitalRegistar": "Dr Vijaykiran",
           "registrationNo": "4/97-98",
-          "registrationAadhaar": "H73",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "കൃഷ്ണ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Krishna HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Krishna HospitalNULLNULL",
-      "addressLocal": "കൃഷ്ണ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Krishna Hospital, Ernakulam",
+      "addressLocal": "കൃഷ്ണ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H73"
@@ -636,7 +576,7 @@
       "code": "HOSPITAL_8391",
       "hospitalName": "Vathakat Orthopaedic Hospital",
       "hospitalNamelocal": "വാതക്കാട്ട് ഓര്‍ത്തോ പീഡിക് ഹോസ്പിറ്റല്‍",
-      "hoId": 8391,
+      "hoId": "H109",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -658,18 +598,14 @@
         {
           "hospitalRegistar": "Dr Jacob Zacariah",
           "registrationNo": "C 1908/4/05",
-          "registrationAadhaar": "H109",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": "വാതക്കാട്ട് ഓര്‍ത്തോ പീഡിക് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Vathakat Orthopaedic HospitalNULLNULL",
-      "distCode": "DESIGNATION_OTHERS",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Vathakat Orthopaedic HospitalNULLNULL",
-      "addressLocal": "വാതക്കാട്ട് ഓര്‍ത്തോ പീഡിക് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Vathakat Orthopaedic Hospital, Ernakulam",
+      "addressLocal": "വാതക്കാട്ട് ഓര്‍ത്തോ പീഡിക് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_OTHERS",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H109"
@@ -678,7 +614,7 @@
       "code": "HOSPITAL_8392",
       "hospitalName": "Specialists Hospital",
       "hospitalNamelocal": "സ്പെഷലിസ്റ്റ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8392,
+      "hoId": "H75",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -700,18 +636,14 @@
         {
           "hospitalRegistar": "Dr Anie Vijayan",
           "registrationNo": "MOH 13/4820/2005",
-          "registrationAadhaar": "H75",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സ്പെഷലിസ്റ്റ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Specialists HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Specialists HospitalNULLNULL",
-      "addressLocal": "സ്പെഷലിസ്റ്റ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Specialists Hospital, Ernakulam",
+      "addressLocal": "സ്പെഷലിസ്റ്റ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H75"
@@ -720,7 +652,7 @@
       "code": "HOSPITAL_8393",
       "hospitalName": "Sree Sudheendra Medical Mission",
       "hospitalNamelocal": "ശ്രീ സുധീന്ദ്രാ മെഡിക്കല്‍ മിഷന്‍",
-      "hoId": 8393,
+      "hoId": "H98",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -742,18 +674,14 @@
         {
           "hospitalRegistar": "Dr Remani Philip",
           "registrationNo": "ER 820F1971",
-          "registrationAadhaar": "H98",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ശ്രീ സുധീന്ദ്രാ മെഡിക്കല്‍ മിഷന്‍",
-      "stateCode": "Sree Sudheendra Medical MissionNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Sree Sudheendra Medical MissionNULLNULL",
-      "addressLocal": "ശ്രീ സുധീന്ദ്രാ മെഡിക്കല്‍ മിഷന്‍",
+      "active": true,
+      "address": "Sree Sudheendra Medical Mission, Ernakulam",
+      "addressLocal": "ശ്രീ സുധീന്ദ്രാ മെഡിക്കല്‍ മിഷന്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H98"
@@ -762,7 +690,7 @@
       "code": "HOSPITAL_8394",
       "hospitalName": "P N V M Hospital",
       "hospitalNamelocal": "പി എന്‍ വി എം ഹോസ്പിറ്റല്‍",
-      "hoId": 8394,
+      "hoId": "H76",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -784,18 +712,14 @@
         {
           "hospitalRegistar": "Dr Babu Vasudevan",
           "registrationNo": "NULL",
-          "registrationAadhaar": "H76",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_DIRECTOR"
         }
       ],
-      "talukCode": "പി എന്‍ വി എം ഹോസ്പിറ്റല്‍",
-      "stateCode": "P N V M HospitalNULLNULL",
-      "distCode": "DESIGNATION_DIRECTOR",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "P N V M HospitalNULLNULL",
-      "addressLocal": "പി എന്‍ വി എം ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "P N V M Hospital, Ernakulam",
+      "addressLocal": "പി എന്‍ വി എം ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_DIRECTOR",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H76"
@@ -804,7 +728,7 @@
       "code": "HOSPITAL_8395",
       "hospitalName": "Vijaya Hospital",
       "hospitalNamelocal": "വിജയ ഹോസ്പിറ്റല്‍",
-      "hoId": 8395,
+      "hoId": "H125",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -826,18 +750,14 @@
         {
           "hospitalRegistar": "Dr Ramani N Rajan",
           "registrationNo": "690/88",
-          "registrationAadhaar": "H125",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വിജയ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Vijaya HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Vijaya HospitalNULLNULL",
-      "addressLocal": "വിജയ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Vijaya Hospital, Ernakulam",
+      "addressLocal": "വിജയ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H125"
@@ -846,7 +766,7 @@
       "code": "HOSPITAL_8396",
       "hospitalName": "Mother And Child Hospital",
       "hospitalNamelocal": "മദര്‍ ആന്‍റ് ചൈല്‍ഡ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8396,
+      "hoId": "H62",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -868,18 +788,14 @@
         {
           "hospitalRegistar": "Dr Sheela Mohan",
           "registrationNo": "31/694 H",
-          "registrationAadhaar": "H62",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "മദര്‍ ആന്‍റ് ചൈല്‍ഡ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Mother And Child HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Mother And Child HospitalNULLNULL",
-      "addressLocal": "മദര്‍ ആന്‍റ് ചൈല്‍ഡ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Mother And Child Hospital, Ernakulam",
+      "addressLocal": "മദര്‍ ആന്‍റ് ചൈല്‍ഡ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H62"
@@ -888,7 +804,7 @@
       "code": "HOSPITAL_8397",
       "hospitalName": "Welcare Hospital",
       "hospitalNamelocal": "വെല്‍കെയര്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8397,
+      "hoId": "H97",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -910,18 +826,14 @@
         {
           "hospitalRegistar": "Dr Mayadevi",
           "registrationNo": "C13290405",
-          "registrationAadhaar": "H97",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വെല്‍കെയര്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Welcare HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Welcare HospitalNULLNULL",
-      "addressLocal": "വെല്‍കെയര്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Welcare Hospital, Ernakulam",
+      "addressLocal": "വെല്‍കെയര്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H97"
@@ -930,7 +842,7 @@
       "code": "HOSPITAL_8398",
       "hospitalName": "Komaranchath Hospital & Urology Center",
       "hospitalNamelocal": "കോമരന്‍ ചന്ത് ഹോസ്പിറ്റല്‍ & യൂറോളജി സെന്‍റര്‍",
-      "hoId": 8398,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -954,16 +866,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "കോമരന്‍ ചന്ത് ഹോസ്പിറ്റല്‍ & യൂറോളജി സെന്‍റര്‍",
-      "stateCode": "Komaranchath Hospital & Urology CenterNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Komaranchath Hospital & Urology CenterNULLNULL",
-      "addressLocal": "കോമരന്‍ ചന്ത് ഹോസ്പിറ്റല്‍ & യൂറോളജി സെന്‍റര്‍",
+      "active": true,
+      "address": "Komaranchath Hospital & Urology Center, Ernakulam",
+      "addressLocal": "കോമരന്‍ ചന്ത് ഹോസ്പിറ്റല്‍ & യൂറോളജി സെന്‍റര്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -972,7 +880,7 @@
       "code": "HOSPITAL_8399",
       "hospitalName": "Dr Kunhalus Nursing Home",
       "hospitalNamelocal": "ഡോ കുഞ്ഞാലൂസ് നേഴ്സിംഗ് ഹോം",
-      "hoId": 8399,
+      "hoId": "H74",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -994,18 +902,14 @@
         {
           "hospitalRegistar": "Dr Rafiq Mohammed",
           "registrationNo": "201/1960",
-          "registrationAadhaar": "H74",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഡോ കുഞ്ഞാലൂസ് നേഴ്സിംഗ് ഹോം",
-      "stateCode": "Dr Kunhalus Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Dr Kunhalus Nursing HomeNULLNULL",
-      "addressLocal": "ഡോ കുഞ്ഞാലൂസ് നേഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Dr Kunhalus Nursing Home, Ernakulam",
+      "addressLocal": "ഡോ കുഞ്ഞാലൂസ് നേഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H74"
@@ -1014,7 +918,7 @@
       "code": "HOSPITAL_8400",
       "hospitalName": "Suburban Hospital",
       "hospitalNamelocal": "സബ്അര്‍ബന്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8400,
+      "hoId": "H121",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1036,18 +940,14 @@
         {
           "hospitalRegistar": "Dr Abdul Jaleel T A",
           "registrationNo": "311/93",
-          "registrationAadhaar": "H121",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സബ്അര്‍ബന്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Suburban HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Suburban HospitalNULLNULL",
-      "addressLocal": "സബ്അര്‍ബന്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Suburban Hospital, Ernakulam",
+      "addressLocal": "സബ്അര്‍ബന്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H121"
@@ -1056,7 +956,7 @@
       "code": "HOSPITAL_8401",
       "hospitalName": "Lakshmi Hospital",
       "hospitalNamelocal": "ലക്ഷ്മി ഹോസ്പിറ്റല്‍",
-      "hoId": 8401,
+      "hoId": "H86",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1078,18 +978,14 @@
         {
           "hospitalRegistar": "Dr Warrier K K R",
           "registrationNo": "13/HR21/2001",
-          "registrationAadhaar": "H86",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ലക്ഷ്മി ഹോസ്പിറ്റല്‍",
-      "stateCode": "Lakshmi HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Lakshmi HospitalNULLNULL",
-      "addressLocal": "ലക്ഷ്മി ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Lakshmi Hospital, Ernakulam",
+      "addressLocal": "ലക്ഷ്മി ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H86"
@@ -1098,7 +994,7 @@
       "code": "HOSPITAL_8402",
       "hospitalName": "Nature Life Hospital",
       "hospitalNamelocal": "നേച്ചര്‍ ലൈഫ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8402,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1122,16 +1018,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "നേച്ചര്‍ ലൈഫ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Nature Life HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Nature Life HospitalNULLNULL",
-      "addressLocal": "നേച്ചര്‍ ലൈഫ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Nature Life Hospital, Ernakulam",
+      "addressLocal": "നേച്ചര്‍ ലൈഫ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -1140,7 +1032,7 @@
       "code": "HOSPITAL_8403",
       "hospitalName": "I N H S Sanjivani",
       "hospitalNamelocal": "ഐ എന്‍ എച്ച് എസ്സ് സന്‍ജീവനി",
-      "hoId": 8403,
+      "hoId": "H77",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1162,18 +1054,14 @@
         {
           "hospitalRegistar": "Dr Anand W",
           "registrationNo": "Nil",
-          "registrationAadhaar": "H77",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഐ എന്‍ എച്ച് എസ്സ് സന്‍ജീവനി",
-      "stateCode": "I N H S SanjivaniNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "I N H S SanjivaniNULLNULL",
-      "addressLocal": "ഐ എന്‍ എച്ച് എസ്സ് സന്‍ജീവനി",
+      "active": true,
+      "address": "I N H S Sanjivani, Ernakulam",
+      "addressLocal": "ഐ എന്‍ എച്ച് എസ്സ് സന്‍ജീവനി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H77"
@@ -1182,7 +1070,7 @@
       "code": "HOSPITAL_8404",
       "hospitalName": "Amrita Institute of Medical Sciences",
       "hospitalNamelocal": "അമൃത ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്",
-      "hoId": 8404,
+      "hoId": "H92",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1204,18 +1092,14 @@
         {
           "hospitalRegistar": "Dr Aneesh George",
           "registrationNo": "IV-O/1988-KL/KPY",
-          "registrationAadhaar": "H92",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "അമൃത ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്",
-      "stateCode": "Amrita Institute of Medical SciencesNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Amrita Institute of Medical SciencesNULLNULL",
-      "addressLocal": "അമൃത ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്",
+      "active": true,
+      "address": "Amrita Institute of Medical Sciences, Ernakulam",
+      "addressLocal": "അമൃത ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H92"
@@ -1224,7 +1108,7 @@
       "code": "HOSPITAL_8405",
       "hospitalName": "Vijaya Institute Of Medical Science",
       "hospitalNamelocal": "വിജയ ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്",
-      "hoId": 8405,
+      "hoId": "H60",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1246,18 +1130,14 @@
         {
           "hospitalRegistar": "Dr Vijayalakshmi N P",
           "registrationNo": "MOH 13",
-          "registrationAadhaar": "H60",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വിജയ ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്",
-      "stateCode": "Vijaya Institute Of Medical ScienceNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Vijaya Institute Of Medical ScienceNULLNULL",
-      "addressLocal": "വിജയ ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്",
+      "active": true,
+      "address": "Vijaya Institute Of Medical Science, Ernakulam",
+      "addressLocal": "വിജയ ഇന്‍സ്റ്റിറ്റ്യൂട്ട് ഓഫ് മെഡിക്കല്‍ സയന്‍സ്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H60"
@@ -1266,7 +1146,7 @@
       "code": "HOSPITAL_8406",
       "hospitalName": "Cochin Port Trust Hospital",
       "hospitalNamelocal": "കൊച്ചിന്‍ പോര്‍ട്ട് ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8406,
+      "hoId": "H83",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1288,18 +1168,14 @@
         {
           "hospitalRegistar": "Dr Indu",
           "registrationNo": "MOH 13/HR/63/2005-06",
-          "registrationAadhaar": "H83",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "കൊച്ചിന്‍ പോര്‍ട്ട് ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Cochin Port Trust HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Cochin Port Trust HospitalNULLNULL",
-      "addressLocal": "കൊച്ചിന്‍ പോര്‍ട്ട് ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Cochin Port Trust Hospital, Ernakulam",
+      "addressLocal": "കൊച്ചിന്‍ പോര്‍ട്ട് ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H83"
@@ -1308,7 +1184,7 @@
       "code": "HOSPITAL_8407",
       "hospitalName": "Lourdes Hospital",
       "hospitalNamelocal": "ലൂര്‍ദ്ദസ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8407,
+      "hoId": "H90",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1330,18 +1206,14 @@
         {
           "hospitalRegistar": "Dr Asma Banu N K",
           "registrationNo": "Er/382/99",
-          "registrationAadhaar": "H90",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ലൂര്‍ദ്ദസ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Lourdes HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Lourdes HospitalNULLNULL",
-      "addressLocal": "ലൂര്‍ദ്ദസ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Lourdes Hospital, Ernakulam",
+      "addressLocal": "ലൂര്‍ദ്ദസ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H90"
@@ -1350,7 +1222,7 @@
       "code": "HOSPITAL_8408",
       "hospitalName": "Specialists Cancer Centre",
       "hospitalNamelocal": "സ്പെഷലിസ്റ്റ് കാന്‍സര്‍ സെന്‍റര്‍",
-      "hoId": 8408,
+      "hoId": "H111",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1372,18 +1244,14 @@
         {
           "hospitalRegistar": "Mohanan Nair C N",
           "registrationNo": "NULL",
-          "registrationAadhaar": "H111",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സ്പെഷലിസ്റ്റ് കാന്‍സര്‍ സെന്‍റര്‍",
-      "stateCode": "Specialists Cancer CentreNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Specialists Cancer CentreNULLNULL",
-      "addressLocal": "സ്പെഷലിസ്റ്റ് കാന്‍സര്‍ സെന്‍റര്‍",
+      "active": true,
+      "address": "Specialists Cancer Centre, Ernakulam",
+      "addressLocal": "സ്പെഷലിസ്റ്റ് കാന്‍സര്‍ സെന്‍റര്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H111"
@@ -1392,7 +1260,7 @@
       "code": "HOSPITAL_8409",
       "hospitalName": "P V S Memorial Hospital",
       "hospitalNamelocal": "പി വി എസ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8409,
+      "hoId": "H71",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1414,18 +1282,14 @@
         {
           "hospitalRegistar": "Dr George Mathew",
           "registrationNo": "NULL",
-          "registrationAadhaar": "H71",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പി വി എസ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "P V S Memorial HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "P V S Memorial HospitalNULLNULL",
-      "addressLocal": "പി വി എസ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "P V S Memorial Hospital, Ernakulam",
+      "addressLocal": "പി വി എസ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H71"
@@ -1434,7 +1298,7 @@
       "code": "HOSPITAL_8410",
       "hospitalName": "Holy Cross Hospital",
       "hospitalNamelocal": "ഹോളി ക്രോസ്സ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8410,
+      "hoId": "H51",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1456,18 +1320,14 @@
         {
           "hospitalRegistar": "Dr Thomas K J Maliyekkal",
           "registrationNo": "291/93",
-          "registrationAadhaar": "H51",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഹോളി ക്രോസ്സ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Holy Cross HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Holy Cross HospitalNULLNULL",
-      "addressLocal": "ഹോളി ക്രോസ്സ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Holy Cross Hospital, Perumpadappu",
+      "addressLocal": "ഹോളി ക്രോസ്സ് ഹോസ്പിറ്റല്‍, പെരുമ്പടപ്പ്",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H51"
@@ -1476,7 +1336,7 @@
       "code": "HOSPITAL_8411",
       "hospitalName": "Medical Trust Hospital",
       "hospitalNamelocal": "മെഡിക്കല്‍ ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8411,
+      "hoId": "H93",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1498,18 +1358,14 @@
         {
           "hospitalRegistar": "Dr Agnes P Antony",
           "registrationNo": "MOH-13/HR/63/2005-20",
-          "registrationAadhaar": "H93",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "മെഡിക്കല്‍ ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Medical Trust HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Medical Trust HospitalNULLNULL",
-      "addressLocal": "മെഡിക്കല്‍ ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Medical Trust Hospital, Ernakulam",
+      "addressLocal": "മെഡിക്കല്‍ ട്രസ്റ്റ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H93"
@@ -1518,7 +1374,7 @@
       "code": "HOSPITAL_8412",
       "hospitalName": "V G Saraf Memorial Hospital",
       "hospitalNamelocal": "വി ജി സറാഫ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8412,
+      "hoId": "H79",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1540,18 +1396,14 @@
         {
           "hospitalRegistar": "Dr Kurian",
           "registrationNo": "MOH-13/HR/7/2005",
-          "registrationAadhaar": "H79",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വി ജി സറാഫ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "V G Saraf Memorial HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "V G Saraf Memorial HospitalNULLNULL",
-      "addressLocal": "വി ജി സറാഫ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "V G Saraf Memorial Hospital, Ernakulam",
+      "addressLocal": "വി ജി സറാഫ് മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H79"
@@ -1560,7 +1412,7 @@
       "code": "HOSPITAL_8413",
       "hospitalName": "Cochin Hospital",
       "hospitalNamelocal": "കൊച്ചിന്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8413,
+      "hoId": "H91",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1582,18 +1434,14 @@
         {
           "hospitalRegistar": "Dr Lenin John",
           "registrationNo": "C/17/141/04 05",
-          "registrationAadhaar": "H91",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_GYNAECOLOGIST"
         }
       ],
-      "talukCode": "കൊച്ചിന്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Cochin HospitalNULLNULL",
-      "distCode": "DESIGNATION_GYNAECOLOGIST",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Cochin HospitalNULLNULL",
-      "addressLocal": "കൊച്ചിന്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Cochin Hospital, Ernakulam",
+      "addressLocal": "കൊച്ചിന്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_GYNAECOLOGIST",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H91"
@@ -1602,7 +1450,7 @@
       "code": "HOSPITAL_8414",
       "hospitalName": "Jishy Hospital",
       "hospitalNamelocal": "ജിഷി ഹോസ്പിറ്റല്‍",
-      "hoId": 8414,
+      "hoId": "H47",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1624,18 +1472,14 @@
         {
           "hospitalRegistar": "Dr George Joseph",
           "registrationNo": "WZH7-1/2003",
-          "registrationAadhaar": "H47",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ജിഷി ഹോസ്പിറ്റല്‍",
-      "stateCode": "Jishy HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Jishy HospitalNULLNULL",
-      "addressLocal": "ജിഷി ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Jishy Hospital, Mundamveli",
+      "addressLocal": "ജിഷി ഹോസ്പിറ്റല്‍, മുണ്ടംവേലി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H47"
@@ -1644,7 +1488,7 @@
       "code": "HOSPITAL_8415",
       "hospitalName": "Sangeeth Nursing Home",
       "hospitalNamelocal": "സംഗീത് നേഴ്സിംഗ് ഹോം",
-      "hoId": 8415,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1668,16 +1512,12 @@
           "registrationNo": "WZ 10/98 - 99",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സംഗീത് നേഴ്സിംഗ് ഹോം",
-      "stateCode": "Sangeeth Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Sangeeth Nursing HomeNULLNULL",
-      "addressLocal": "സംഗീത് നേഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Sangeeth Nursing Home, South Cherlai",
+      "addressLocal": "സംഗീത് നേഴ്സിംഗ് ഹോം, സൗത്ത് ചെര്‍ലായ്",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -1686,7 +1526,7 @@
       "code": "HOSPITAL_8416",
       "hospitalName": "Women & Children Hospital",
       "hospitalNamelocal": "വിമന്‍ & ചില്‍ഡ്രന്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8416,
+      "hoId": "H41",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1708,18 +1548,14 @@
         {
           "hospitalRegistar": "Dr Praveen Chandra Mallayya",
           "registrationNo": "N A",
-          "registrationAadhaar": "H41",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വിമന്‍ & ചില്‍ഡ്രന്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Women & Children HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Women & Children HospitalNULLNULL",
-      "addressLocal": "വിമന്‍ & ചില്‍ഡ്രന്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Women & Children Hospital, Mattanchery",
+      "addressLocal": "വിമന്‍ & ചില്‍ഡ്രന്‍ ഹോസ്പിറ്റല്‍, മട്ടാഞ്ചേരി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H41"
@@ -1728,7 +1564,7 @@
       "code": "HOSPITAL_8417",
       "hospitalName": "GovtMaharajas Hospital",
       "hospitalNamelocal": "ഗവ : മഹാരാജാസ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8417,
+      "hoId": "H40",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1750,18 +1586,14 @@
         {
           "hospitalRegistar": "Dr Sreedhara Kumar P",
           "registrationNo": "Nil",
-          "registrationAadhaar": "H40",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഗവ : മഹാരാജാസ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "GovtMaharajas HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "GovtMaharajas HospitalNULLNULL",
-      "addressLocal": "ഗവ : മഹാരാജാസ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "GovtMaharajas Hospital, Thoppumpady",
+      "addressLocal": "ഗവ : മഹാരാജാസ് ഹോസ്പിറ്റല്‍, തോപ്പുംപടി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H40"
@@ -1770,7 +1602,7 @@
       "code": "HOSPITAL_8418",
       "hospitalName": "Our Ladies Hospital",
       "hospitalNamelocal": "ഔവര്‍ ലേഡീസ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8418,
+      "hoId": "H53",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1792,18 +1624,14 @@
         {
           "hospitalRegistar": "Dr George L",
           "registrationNo": "WZ5 98/99",
-          "registrationAadhaar": "H53",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഔവര്‍ ലേഡീസ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Our Ladies HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Our Ladies HospitalNULLNULL",
-      "addressLocal": "ഔവര്‍ ലേഡീസ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Our Ladies Hospital, Palluruthy",
+      "addressLocal": "ഔവര്‍ ലേഡീസ് ഹോസ്പിറ്റല്‍, പള്ളുരുത്തി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H53"
@@ -1812,7 +1640,7 @@
       "code": "HOSPITAL_8419",
       "hospitalName": "Chandrassery Hospital",
       "hospitalNamelocal": "ചന്ദ്രശ്ശേരി ഹോസ്പിറ്റല്‍",
-      "hoId": 8419,
+      "hoId": "H49",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1834,18 +1662,14 @@
         {
           "hospitalRegistar": "Dr Jayankar",
           "registrationNo": "WZ- 4/97",
-          "registrationAadhaar": "H49",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ചന്ദ്രശ്ശേരി ഹോസ്പിറ്റല്‍",
-      "stateCode": "Chandrassery HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Chandrassery HospitalNULLNULL",
-      "addressLocal": "ചന്ദ്രശ്ശേരി ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Chandrassery Hospital, Palluruthy",
+      "addressLocal": "ചന്ദ്രശ്ശേരി ഹോസ്പിറ്റല്‍, പള്ളുരുത്തി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H49"
@@ -1854,7 +1678,7 @@
       "code": "HOSPITAL_8420",
       "hospitalName": "District T B Centre",
       "hospitalNamelocal": "ഡിസ്ട്രിക്ട് ടി ബി സെന്‍റര്‍",
-      "hoId": 8420,
+      "hoId": "H43",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1876,18 +1700,14 @@
         {
           "hospitalRegistar": "Dr Subrahmanyan V",
           "registrationNo": "N A",
-          "registrationAadhaar": "H43",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഡിസ്ട്രിക്ട് ടി ബി സെന്‍റര്‍",
-      "stateCode": "District T B CentreNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "District T B CentreNULLNULL",
-      "addressLocal": "ഡിസ്ട്രിക്ട് ടി ബി സെന്‍റര്‍",
+      "active": true,
+      "address": "District T B Centre, Thoppumpady",
+      "addressLocal": "ഡിസ്ട്രിക്ട് ടി ബി സെന്‍റര്‍, തോപ്പുംപടി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H43"
@@ -1896,7 +1716,7 @@
       "code": "HOSPITAL_8421",
       "hospitalName": "Govt Hospital, Fort Kochi",
       "hospitalNamelocal": "ഗവ ഹോസ്പിറ്റല്‍ ഫോര്‍ട്ട് കൊച്ചി",
-      "hoId": 8421,
+      "hoId": "H42",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1918,18 +1738,14 @@
         {
           "hospitalRegistar": "Dr Thomas Cheriyan",
           "registrationNo": "N A",
-          "registrationAadhaar": "H42",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഗവ ഹോസ്പിറ്റല്‍ ഫോര്‍ട്ട് കൊച്ചി",
-      "stateCode": "Govt Hospital, Fort KochiNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Govt Hospital, Fort KochiNULLNULL",
-      "addressLocal": "ഗവ ഹോസ്പിറ്റല്‍ ഫോര്‍ട്ട് കൊച്ചി",
+      "active": true,
+      "address": "Govt Hospital, Fort Kochi, Fort Kochi",
+      "addressLocal": "ഗവ ഹോസ്പിറ്റല്‍ ഫോര്‍ട്ട് കൊച്ചി, ഫോര്‍ട്ട് കൊച്ചി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H42"
@@ -1938,7 +1754,7 @@
       "code": "HOSPITAL_8422",
       "hospitalName": "Jacobs Nursing Home",
       "hospitalNamelocal": "ജേക്കബ്സ് നേഴ്സിംഗ് ഹോം",
-      "hoId": 8422,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -1962,16 +1778,12 @@
           "registrationNo": "530/81",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ജേക്കബ്സ് നേഴ്സിംഗ് ഹോം",
-      "stateCode": "Jacobs Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Jacobs Nursing HomeNULLNULL",
-      "addressLocal": "ജേക്കബ്സ് നേഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Jacobs Nursing Home, West Kochin",
+      "addressLocal": "ജേക്കബ്സ് നേഴ്സിംഗ് ഹോം, വെസ്റ്റ് കൊച്ചി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -1980,7 +1792,7 @@
       "code": "HOSPITAL_8423",
       "hospitalName": "Laxmi Hospital",
       "hospitalNamelocal": "ലക്ഷമി ഹോസ്പിറ്റല്‍",
-      "hoId": 8423,
+      "hoId": "H28",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2002,18 +1814,14 @@
         {
           "hospitalRegistar": "Dr Manjula",
           "registrationNo": "N A",
-          "registrationAadhaar": "H28",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_GYNAECOLOGIST"
         }
       ],
-      "talukCode": "ലക്ഷമി ഹോസ്പിറ്റല്‍",
-      "stateCode": "Laxmi HospitalNULLNULL",
-      "distCode": "DESIGNATION_GYNAECOLOGIST",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Laxmi HospitalNULLNULL",
-      "addressLocal": "ലക്ഷമി ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Laxmi Hospital, Panayapally",
+      "addressLocal": "ലക്ഷമി ഹോസ്പിറ്റല്‍, പനയപ്പള്ളി",
       "designationCode": "DESIGNATION_GYNAECOLOGIST",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H28"
@@ -2022,7 +1830,7 @@
       "code": "HOSPITAL_8424",
       "hospitalName": "West Side Hospital",
       "hospitalNamelocal": "വെസ്റ്റ് സൈഡ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8424,
+      "hoId": "H48",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2044,18 +1852,14 @@
         {
           "hospitalRegistar": "Dr Rajamani",
           "registrationNo": "N A",
-          "registrationAadhaar": "H48",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വെസ്റ്റ് സൈഡ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "West Side HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "West Side HospitalNULLNULL",
-      "addressLocal": "വെസ്റ്റ് സൈഡ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "West Side Hospital, Mattanchery",
+      "addressLocal": "വെസ്റ്റ് സൈഡ് ഹോസ്പിറ്റല്‍, മട്ടാഞ്ചേരി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H48"
@@ -2064,7 +1868,7 @@
       "code": "HOSPITAL_8425",
       "hospitalName": "Goutham Hospital",
       "hospitalNamelocal": "ഗൗതം ഹോസ്പിറ്റല്‍",
-      "hoId": 8425,
+      "hoId": "H45",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2086,18 +1890,14 @@
         {
           "hospitalRegistar": "Dr Jayachandran A K",
           "registrationNo": "WZ/2/97-98",
-          "registrationAadhaar": "H45",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_RESIDENT_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഗൗതം ഹോസ്പിറ്റല്‍",
-      "stateCode": "Goutham HospitalNULLNULL",
-      "distCode": "DESIGNATION_RESIDENT_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Goutham HospitalNULLNULL",
-      "addressLocal": "ഗൗതം ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Goutham Hospital, Panayapally",
+      "addressLocal": "ഗൗതം ഹോസ്പിറ്റല്‍, പനയപ്പള്ളി",
       "designationCode": "DESIGNATION_RESIDENT_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H45"
@@ -2106,7 +1906,7 @@
       "code": "HOSPITAL_8426",
       "hospitalName": "Evershine Hospital For Piles & Asthma",
       "hospitalNamelocal": "എവര്‍ഷൈന്‍ ഹോസ്പിറ്റല്‍ പള്‍സ് & ആസ്ത്മ",
-      "hoId": 8426,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2130,16 +1930,12 @@
           "registrationNo": "C 12/77/2005-2006",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": "എവര്‍ഷൈന്‍ ഹോസ്പിറ്റല്‍ പള്‍സ് & ആസ്ത്മ",
-      "stateCode": "Evershine Hospital For Piles & AsthmaNULLNULL",
-      "distCode": "DESIGNATION_OTHERS",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Evershine Hospital For Piles & AsthmaNULLNULL",
-      "addressLocal": "എവര്‍ഷൈന്‍ ഹോസ്പിറ്റല്‍ പള്‍സ് & ആസ്ത്മ",
+      "active": true,
+      "address": "Evershine Hospital For Piles & Asthma, Panampilly Nagar",
+      "addressLocal": "എവര്‍ഷൈന്‍ ഹോസ്പിറ്റല്‍ പള്‍സ് & ആസ്ത്മ, പനമ്പിള്ളി നഗര്‍",
       "designationCode": "DESIGNATION_OTHERS",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2148,7 +1944,7 @@
       "code": "HOSPITAL_8427",
       "hospitalName": "Thannickapilly Homeo Hospital",
       "hospitalNamelocal": "താന്നിക്കാപ്പിള്ളി ഹോമിയോ ഹോസ്പിറ്റല്‍",
-      "hoId": 8427,
+      "hoId": "H107",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2170,18 +1966,14 @@
         {
           "hospitalRegistar": "Dr Gimsy Devassy",
           "registrationNo": "NIL1",
-          "registrationAadhaar": "H107",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "താന്നിക്കാപ്പിള്ളി ഹോമിയോ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Thannickapilly Homeo HospitalNULLKadavanthra",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Thannickapilly Homeo HospitalNULLKadavanthra",
-      "addressLocal": "താന്നിക്കാപ്പിള്ളി ഹോമിയോ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Thannickapilly Homeo Hospital, Ernakulam",
+      "addressLocal": "താന്നിക്കാപ്പിള്ളി ഹോമിയോ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H107"
@@ -2190,7 +1982,7 @@
       "code": "HOSPITAL_8428",
       "hospitalName": "Susrusha Nursing Home",
       "hospitalNamelocal": "ശുശ്രൂഷനഴ്സിംഗ് ഹോം",
-      "hoId": 8428,
+      "hoId": "H110",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2212,18 +2004,14 @@
         {
           "hospitalRegistar": "Dr Mathews M C",
           "registrationNo": "NIL2",
-          "registrationAadhaar": "H110",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_SUPERINTENDENT"
         }
       ],
-      "talukCode": "ശുശ്രൂഷനഴ്സിംഗ് ഹോം",
-      "stateCode": "Susrusha Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_SUPERINTENDENT",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Susrusha Nursing HomeNULLNULL",
-      "addressLocal": "ശുശ്രൂഷനഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Susrusha Nursing Home, Ernakulam",
+      "addressLocal": "ശുശ്രൂഷനഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_SUPERINTENDENT",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H110"
@@ -2232,7 +2020,7 @@
       "code": "HOSPITAL_8429",
       "hospitalName": "Good Shepered Hospital",
       "hospitalNamelocal": "ഗുഡ്ഷെപ്പേര്‍ഡ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8429,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2256,16 +2044,12 @@
           "registrationNo": "NIL3",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഗുഡ്ഷെപ്പേര്‍ഡ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Good Shepered HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Good Shepered HospitalNULLNULL",
-      "addressLocal": "ഗുഡ്ഷെപ്പേര്‍ഡ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Good Shepered Hospital, Ernakulam",
+      "addressLocal": "ഗുഡ്ഷെപ്പേര്‍ഡ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2274,7 +2058,7 @@
       "code": "HOSPITAL_8430",
       "hospitalName": "Pulickal Nursing Home",
       "hospitalNamelocal": "പുളിക്കല്‍ നേഴ്സിംഗ് ഹോം",
-      "hoId": 8430,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2298,16 +2082,12 @@
           "registrationNo": "NIL5",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പുളിക്കല്‍ നേഴ്സിംഗ് ഹോം",
-      "stateCode": "Pulickal Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Pulickal Nursing HomeNULLNULL",
-      "addressLocal": "പുളിക്കല്‍ നേഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Pulickal Nursing Home, Ernakulam",
+      "addressLocal": "പുളിക്കല്‍ നേഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2316,7 +2096,7 @@
       "code": "HOSPITAL_8431",
       "hospitalName": "The Cochin Co-Operative Hospital",
       "hospitalNamelocal": "കൊച്ചിന്‍ കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8431,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2340,16 +2120,12 @@
           "registrationNo": "NIL6",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "കൊച്ചിന്‍ കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "The Cochin Co-Operative HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "The Cochin Co-Operative HospitalNULLNULL",
-      "addressLocal": "കൊച്ചിന്‍ കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "The Cochin Co-Operative Hospital, Ernakulam",
+      "addressLocal": "കൊച്ചിന്‍ കോ ഓപ്പറേറ്റീവ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2358,7 +2134,7 @@
       "code": "HOSPITAL_8432",
       "hospitalName": "Govt Dispencery, Edappally",
       "hospitalNamelocal": "ഗവണ്‍മെന്‍റ് ഡിസ്പെന്‍സറി ഇടപ്പള്ളി",
-      "hoId": 8432,
+      "hoId": "H123",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2380,18 +2156,14 @@
         {
           "hospitalRegistar": "Dr Muhammed V B",
           "registrationNo": "NIL8",
-          "registrationAadhaar": "H123",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഗവണ്‍മെന്‍റ് ഡിസ്പെന്‍സറി ഇടപ്പള്ളി",
-      "stateCode": "Govt Dispencery, EdappallyNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Govt Dispencery, EdappallyNULLNULL",
-      "addressLocal": "ഗവണ്‍മെന്‍റ് ഡിസ്പെന്‍സറി ഇടപ്പള്ളി",
+      "active": true,
+      "address": "Govt Dispencery, Edappally, Ernakulam",
+      "addressLocal": "ഗവണ്‍മെന്‍റ് ഡിസ്പെന്‍സറി ഇടപ്പള്ളി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H123"
@@ -2400,7 +2172,7 @@
       "code": "HOSPITAL_8433",
       "hospitalName": "Medi-care Hospital",
       "hospitalNamelocal": "മെഡികെയര്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8433,
+      "hoId": "H122",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2422,18 +2194,14 @@
         {
           "hospitalRegistar": "Dr Pingu V B",
           "registrationNo": "NIL9",
-          "registrationAadhaar": "H122",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "മെഡികെയര്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Medi-care HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Medi-care HospitalNULLNULL",
-      "addressLocal": "മെഡികെയര്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Medi-care Hospital, Ernakulam",
+      "addressLocal": "മെഡികെയര്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H122"
@@ -2442,7 +2210,7 @@
       "code": "HOSPITAL_8434",
       "hospitalName": "V K Bava Memmorial Hospital",
       "hospitalNamelocal": "വി കെ ബാവ മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8434,
+      "hoId": "H131",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2464,18 +2232,14 @@
         {
           "hospitalRegistar": "Dr Radhika Menon",
           "registrationNo": "NIL10",
-          "registrationAadhaar": "H131",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വി കെ ബാവ മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
-      "stateCode": "V K Bava Memmorial HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "V K Bava Memmorial HospitalNULLNULL",
-      "addressLocal": "വി കെ ബാവ മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "V K Bava Memmorial Hospital, Ernakulam",
+      "addressLocal": "വി കെ ബാവ മെമ്മോറിയല്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H131"
@@ -2484,7 +2248,7 @@
       "code": "HOSPITAL_8435",
       "hospitalName": "Co-Operative Medical College",
       "hospitalNamelocal": "കോ-ഓപ്പറേറ്റീവ് മെഡിക്കല്‍ കോളേജ്",
-      "hoId": 8435,
+      "hoId": "H124",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2506,18 +2270,14 @@
         {
           "hospitalRegistar": "Dr Goma Bai",
           "registrationNo": "NIL11",
-          "registrationAadhaar": "H124",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "കോ-ഓപ്പറേറ്റീവ് മെഡിക്കല്‍ കോളേജ്",
-      "stateCode": "Co-Operative Medical CollegeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Co-Operative Medical CollegeNULLNULL",
-      "addressLocal": "കോ-ഓപ്പറേറ്റീവ് മെഡിക്കല്‍ കോളേജ്",
+      "active": true,
+      "address": "Co-Operative Medical College, Ernakulam",
+      "addressLocal": "കോ-ഓപ്പറേറ്റീവ് മെഡിക്കല്‍ കോളേജ്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H124"
@@ -2526,7 +2286,7 @@
       "code": "HOSPITAL_8436",
       "hospitalName": "Dr Rebekka Nursing Home",
       "hospitalNamelocal": "ഡോ റബേക്ക നഴ്സിംഗ് ഹോം",
-      "hoId": 8436,
+      "hoId": "H105",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2548,18 +2308,14 @@
         {
           "hospitalRegistar": "Dr Rachel Antony",
           "registrationNo": "NIL12",
-          "registrationAadhaar": "H105",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഡോ റബേക്ക നഴ്സിംഗ് ഹോം",
-      "stateCode": "Dr Rebekka Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Dr Rebekka Nursing HomeNULLNULL",
-      "addressLocal": "ഡോ റബേക്ക നഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Dr Rebekka Nursing Home, Ernakulam",
+      "addressLocal": "ഡോ റബേക്ക നഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H105"
@@ -2568,7 +2324,7 @@
       "code": "HOSPITAL_8437",
       "hospitalName": "N S S Medical Mission",
       "hospitalNamelocal": "എൻഎസ്എസ് മെഡിക്കൽ മിഷൻ",
-      "hoId": 8437,
+      "hoId": "H100",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2590,18 +2346,14 @@
         {
           "hospitalRegistar": "Dr Rebecca Chandra",
           "registrationNo": "NIL13",
-          "registrationAadhaar": "H100",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "എൻഎസ്എസ് മെഡിക്കൽ മിഷൻ",
-      "stateCode": "N S S Medical MissionNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "N S S Medical MissionNULLNULL",
-      "addressLocal": "എൻഎസ്എസ് മെഡിക്കൽ മിഷൻ",
+      "active": true,
+      "address": "N S S Medical Mission, Ernakulam",
+      "addressLocal": "എൻഎസ്എസ് മെഡിക്കൽ മിഷൻ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H100"
@@ -2610,7 +2362,7 @@
       "code": "HOSPITAL_8438",
       "hospitalName": "StXaviers Medical Mission",
       "hospitalNamelocal": "സെന്റ് സേവ്യേഴ്സ് മെഡിക്കൽ മിഷൻ",
-      "hoId": 8438,
+      "hoId": "H113",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2632,18 +2384,14 @@
         {
           "hospitalRegistar": "Dr Paul V J",
           "registrationNo": "NIL14",
-          "registrationAadhaar": "H113",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സെന്റ് സേവ്യേഴ്സ് മെഡിക്കൽ മിഷൻ",
-      "stateCode": "StXaviers Medical MissionNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "StXaviers Medical MissionNULLNULL",
-      "addressLocal": "സെന്റ് സേവ്യേഴ്സ് മെഡിക്കൽ മിഷൻ",
+      "active": true,
+      "address": "StXaviers Medical Mission, Ernakulam",
+      "addressLocal": "സെന്റ് സേവ്യേഴ്സ് മെഡിക്കൽ മിഷൻ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H113"
@@ -2652,7 +2400,7 @@
       "code": "HOSPITAL_8439",
       "hospitalName": "Rebecca Chandrapilla Memmorial Hospital",
       "hospitalNamelocal": "റെബേക്ക ചന്ദ്രപ്പിള്ള മെമ്മോറിയൽ ഹോസ്പിറ്റൽ",
-      "hoId": 8439,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2676,16 +2424,12 @@
           "registrationNo": "NIL15",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "റെബേക്ക ചന്ദ്രപ്പിള്ള മെമ്മോറിയൽ ഹോസ്പിറ്റൽ",
-      "stateCode": "Rebecca Chandrapilla Memmorial HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Rebecca Chandrapilla Memmorial HospitalNULLNULL",
-      "addressLocal": "റെബേക്ക ചന്ദ്രപ്പിള്ള മെമ്മോറിയൽ ഹോസ്പിറ്റൽ",
+      "active": true,
+      "address": "Rebecca Chandrapilla Memmorial Hospital, Ernakulam",
+      "addressLocal": "റെബേക്ക ചന്ദ്രപ്പിള്ള മെമ്മോറിയൽ ഹോസ്പിറ്റൽ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2694,7 +2438,7 @@
       "code": "HOSPITAL_8440",
       "hospitalName": "Easter Medical Clinic",
       "hospitalNamelocal": "ഈസ്റ്റര്‍ മെഡിക്കല്‍ ക്ലിനിക്ക്",
-      "hoId": 8440,
+      "hoId": "H118",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2716,18 +2460,14 @@
         {
           "hospitalRegistar": "Dr Aleyamma Joseph",
           "registrationNo": "NIL16",
-          "registrationAadhaar": "H118",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഈസ്റ്റര്‍ മെഡിക്കല്‍ ക്ലിനിക്ക്",
-      "stateCode": "Easter Medical ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Easter Medical ClinicNULLNULL",
-      "addressLocal": "ഈസ്റ്റര്‍ മെഡിക്കല്‍ ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Easter Medical Clinic, Ernakulam",
+      "addressLocal": "ഈസ്റ്റര്‍ മെഡിക്കല്‍ ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H118"
@@ -2736,7 +2476,7 @@
       "code": "HOSPITAL_8441",
       "hospitalName": "D Jay Clinic",
       "hospitalNamelocal": "ഡി ജയ് ക്ലിനിക്ക്",
-      "hoId": 8441,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2760,16 +2500,12 @@
           "registrationNo": "NIL17",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഡി ജയ് ക്ലിനിക്ക്",
-      "stateCode": "D Jay ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "D Jay ClinicNULLNULL",
-      "addressLocal": "ഡി ജയ് ക്ലിനിക്ക്",
+      "active": true,
+      "address": "D Jay Clinic, Ernakulam",
+      "addressLocal": "ഡി ജയ് ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2778,7 +2514,7 @@
       "code": "HOSPITAL_8442",
       "hospitalName": "Ushas Clinic",
       "hospitalNamelocal": "ഉഷസ് ക്ലിനിക്ക്",
-      "hoId": 8442,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2802,16 +2538,12 @@
           "registrationNo": "NIL18",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഉഷസ് ക്ലിനിക്ക്",
-      "stateCode": "Ushas ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Ushas ClinicNULLNULL",
-      "addressLocal": "ഉഷസ് ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Ushas Clinic, Ernakulam",
+      "addressLocal": "ഉഷസ് ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2820,7 +2552,7 @@
       "code": "HOSPITAL_8443",
       "hospitalName": "Anna Chandi Memmorial Nursing Home",
       "hospitalNamelocal": "അന്ന ചാണ്ടി മെമ്മോറിയൽ നഴ്സിംഗ് ഹോം",
-      "hoId": 8443,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2844,16 +2576,12 @@
           "registrationNo": "NIL19",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "അന്ന ചാണ്ടി മെമ്മോറിയൽ നഴ്സിംഗ് ഹോം",
-      "stateCode": "Anna Chandi Memmorial Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Anna Chandi Memmorial Nursing HomeNULLNULL",
-      "addressLocal": "അന്ന ചാണ്ടി മെമ്മോറിയൽ നഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Anna Chandi Memmorial Nursing Home, Ernakulam",
+      "addressLocal": "അന്ന ചാണ്ടി മെമ്മോറിയൽ നഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2862,7 +2590,7 @@
       "code": "HOSPITAL_8444",
       "hospitalName": "K G X Hospital",
       "hospitalNamelocal": "കെ ജി എക്സ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8444,
+      "hoId": "H112",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2884,18 +2612,14 @@
         {
           "hospitalRegistar": "Dr Radhamma R K",
           "registrationNo": "NIL20",
-          "registrationAadhaar": "H112",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_GYNAECOLOGIST"
         }
       ],
-      "talukCode": "കെ ജി എക്സ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "K G X HospitalNULLNULL",
-      "distCode": "DESIGNATION_GYNAECOLOGIST",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "K G X HospitalNULLNULL",
-      "addressLocal": "കെ ജി എക്സ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "K G X Hospital, Ernakulam",
+      "addressLocal": "കെ ജി എക്സ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_GYNAECOLOGIST",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H112"
@@ -2904,7 +2628,7 @@
       "code": "HOSPITAL_8445",
       "hospitalName": "Ojus Clinic",
       "hospitalNamelocal": "ഓജസ് ക്ലിനിക്ക്",
-      "hoId": 8445,
+      "hoId": "H103",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2926,18 +2650,14 @@
         {
           "hospitalRegistar": "Dr Padmavathy P K",
           "registrationNo": "NIL21",
-          "registrationAadhaar": "H103",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഓജസ് ക്ലിനിക്ക്",
-      "stateCode": "Ojus ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Ojus ClinicNULLNULL",
-      "addressLocal": "ഓജസ് ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Ojus Clinic, Ernakulam",
+      "addressLocal": "ഓജസ് ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H103"
@@ -2946,7 +2666,7 @@
       "code": "HOSPITAL_8446",
       "hospitalName": "Primary Health Centre Edappally",
       "hospitalNamelocal": "പ്രാഥമികാരോഗ്യ കേന്ദ്രം ഇടപ്പള്ളി",
-      "hoId": 8446,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -2970,16 +2690,12 @@
           "registrationNo": "NIL22",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പ്രാഥമികാരോഗ്യ കേന്ദ്രം ഇടപ്പള്ളി",
-      "stateCode": "Primary Health Centre EdappallyNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Primary Health Centre EdappallyNULLNULL",
-      "addressLocal": "പ്രാഥമികാരോഗ്യ കേന്ദ്രം ഇടപ്പള്ളി",
+      "active": true,
+      "address": "Primary Health Centre Edappally, Ernakulam",
+      "addressLocal": "പ്രാഥമികാരോഗ്യ കേന്ദ്രം ഇടപ്പള്ളി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -2988,7 +2704,7 @@
       "code": "HOSPITAL_8447",
       "hospitalName": "Sree Narayana Mission Hospital",
       "hospitalNamelocal": "ശ്രീനാരായണ മിഷൻ ആശുപത്രി",
-      "hoId": 8447,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3012,16 +2728,12 @@
           "registrationNo": "NIL23",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ശ്രീനാരായണ മിഷൻ ആശുപത്രി",
-      "stateCode": "Sree Narayana Mission HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Sree Narayana Mission HospitalNULLNULL",
-      "addressLocal": "ശ്രീനാരായണ മിഷൻ ആശുപത്രി",
+      "active": true,
+      "address": "Sree Narayana Mission Hospital, Ernakulam",
+      "addressLocal": "ശ്രീനാരായണ മിഷൻ ആശുപത്രി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3030,7 +2742,7 @@
       "code": "HOSPITAL_8448",
       "hospitalName": "Modern Clinic",
       "hospitalNamelocal": "മോഡേണ്‍ ക്നിക്ക് ",
-      "hoId": 8448,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3054,16 +2766,12 @@
           "registrationNo": "NIL24",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "മോഡേണ്‍ ക്നിക്ക് ",
-      "stateCode": "Modern ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Modern ClinicNULLNULL",
-      "addressLocal": "മോഡേണ്‍ ക്നിക്ക് ",
+      "active": true,
+      "address": "Modern Clinic, Ernakulam",
+      "addressLocal": "മോഡേണ്‍ ക്നിക്ക് , എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3072,7 +2780,7 @@
       "code": "HOSPITAL_8449",
       "hospitalName": "Lavanya Nursing Home",
       "hospitalNamelocal": "ലാവണ്യ നഴ്സിംഗ് ഹോം",
-      "hoId": 8449,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3096,16 +2804,12 @@
           "registrationNo": "NIL25",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ലാവണ്യ നഴ്സിംഗ് ഹോം",
-      "stateCode": "Lavanya Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Lavanya Nursing HomeNULLNULL",
-      "addressLocal": "ലാവണ്യ നഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Lavanya Nursing Home, Ernakulam",
+      "addressLocal": "ലാവണ്യ നഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3114,7 +2818,7 @@
       "code": "HOSPITAL_8450",
       "hospitalName": "St Francies Xavier Hospital",
       "hospitalNamelocal": "സെന്റ് ഫ്രാൻസിസ് സേവ്യർ ഹോസ്പിറ്റൽ",
-      "hoId": 8450,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3138,16 +2842,12 @@
           "registrationNo": "NIL26",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സെന്റ് ഫ്രാൻസിസ് സേവ്യർ ഹോസ്പിറ്റൽ",
-      "stateCode": "St Francies Xavier HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "St Francies Xavier HospitalNULLNULL",
-      "addressLocal": "സെന്റ് ഫ്രാൻസിസ് സേവ്യർ ഹോസ്പിറ്റൽ",
+      "active": true,
+      "address": "St Francies Xavier Hospital, Ernakulam",
+      "addressLocal": "സെന്റ് ഫ്രാൻസിസ് സേവ്യർ ഹോസ്പിറ്റൽ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3156,7 +2856,7 @@
       "code": "HOSPITAL_8451",
       "hospitalName": "Family Clinic",
       "hospitalNamelocal": "ഫാമിലി ക്ലിനിക്",
-      "hoId": 8451,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3180,16 +2880,12 @@
           "registrationNo": "NIL27",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഫാമിലി ക്ലിനിക്",
-      "stateCode": "Family ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Family ClinicNULLNULL",
-      "addressLocal": "ഫാമിലി ക്ലിനിക്",
+      "active": true,
+      "address": "Family Clinic, Ernakulam",
+      "addressLocal": "ഫാമിലി ക്ലിനിക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3198,7 +2894,7 @@
       "code": "HOSPITAL_8452",
       "hospitalName": "St Joseph Hospital",
       "hospitalNamelocal": "സെന്‍റ് ജോസഫ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8452,
+      "hoId": "H115",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3220,18 +2916,14 @@
         {
           "hospitalRegistar": "Dr Gopinath N K",
           "registrationNo": "NIL7",
-          "registrationAadhaar": "H115",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സെന്‍റ് ജോസഫ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "St Joseph HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "St Joseph HospitalNULLNULL",
-      "addressLocal": "സെന്‍റ് ജോസഫ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "St Joseph Hospital, Ernakulam",
+      "addressLocal": "സെന്‍റ് ജോസഫ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H115"
@@ -3240,7 +2932,7 @@
       "code": "HOSPITAL_8453",
       "hospitalName": "Poonithura N S S Hospital",
       "hospitalNamelocal": "പൂണിത്തുറ എൻഎസ്എസ് ആശുപത്രി",
-      "hoId": 8453,
+      "hoId": "H108",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3262,18 +2954,14 @@
         {
           "hospitalRegistar": "Dr Santha G Kartha",
           "registrationNo": "NIL29",
-          "registrationAadhaar": "H108",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പൂണിത്തുറ എൻഎസ്എസ് ആശുപത്രി",
-      "stateCode": "Poonithura N S S HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Poonithura N S S HospitalNULLNULL",
-      "addressLocal": "പൂണിത്തുറ എൻഎസ്എസ് ആശുപത്രി",
+      "active": true,
+      "address": "Poonithura N S S Hospital, Ernakulam",
+      "addressLocal": "പൂണിത്തുറ എൻഎസ്എസ് ആശുപത്രി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H108"
@@ -3282,7 +2970,7 @@
       "code": "HOSPITAL_8454",
       "hospitalName": "Dhanya Nursing Home",
       "hospitalNamelocal": "ധന്യ നഴ്സിംഗ് ഹോം",
-      "hoId": 8454,
+      "hoId": "H106",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3304,18 +2992,14 @@
         {
           "hospitalRegistar": null,
           "registrationNo": "NIL30",
-          "registrationAadhaar": "H106",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ധന്യ നഴ്സിംഗ് ഹോം",
-      "stateCode": "Dhanya Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Dhanya Nursing HomeNULLNULL",
-      "addressLocal": "ധന്യ നഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Dhanya Nursing Home, Ernakulam",
+      "addressLocal": "ധന്യ നഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H106"
@@ -3324,7 +3008,7 @@
       "code": "HOSPITAL_8455",
       "hospitalName": "Government Homeo Hospital",
       "hospitalNamelocal": "ഗവ: ഹോമിയോ ഹോസ്പിറ്റല്‍",
-      "hoId": 8455,
+      "hoId": "H116",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3346,18 +3030,14 @@
         {
           "hospitalRegistar": "Jayamathy",
           "registrationNo": "NIL31",
-          "registrationAadhaar": "H116",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഗവ: ഹോമിയോ ഹോസ്പിറ്റല്‍",
-      "stateCode": "Government Homeo HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Government Homeo HospitalNULLNULL",
-      "addressLocal": "ഗവ: ഹോമിയോ ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Government Homeo Hospital, Ernakulam",
+      "addressLocal": "ഗവ: ഹോമിയോ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H116"
@@ -3366,7 +3046,7 @@
       "code": "HOSPITAL_8456",
       "hospitalName": "Thejus Clinic",
       "hospitalNamelocal": "തേജസ് ക്ലിനിക്ക്",
-      "hoId": 8456,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3390,16 +3070,12 @@
           "registrationNo": "NIL32",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "തേജസ് ക്ലിനിക്ക്",
-      "stateCode": "Thejus ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Thejus ClinicNULLNULL",
-      "addressLocal": "തേജസ് ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Thejus Clinic, Ernakulam",
+      "addressLocal": "തേജസ് ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3408,7 +3084,7 @@
       "code": "HOSPITAL_8457",
       "hospitalName": "University Hospital",
       "hospitalNamelocal": "യൂണിവേഴ്സിറ്റി ഹോസ്പിറ്റൽ",
-      "hoId": 8457,
+      "hoId": "H101",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3430,18 +3106,14 @@
         {
           "hospitalRegistar": null,
           "registrationNo": "NIL33",
-          "registrationAadhaar": "H101",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "യൂണിവേഴ്സിറ്റി ഹോസ്പിറ്റൽ",
-      "stateCode": "University HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "University HospitalNULLNULL",
-      "addressLocal": "യൂണിവേഴ്സിറ്റി ഹോസ്പിറ്റൽ",
+      "active": true,
+      "address": "University Hospital, Ernakulam",
+      "addressLocal": "യൂണിവേഴ്സിറ്റി ഹോസ്പിറ്റൽ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H101"
@@ -3450,7 +3122,7 @@
       "code": "HOSPITAL_8458",
       "hospitalName": "V P Gopinathans Clinic",
       "hospitalNamelocal": "വി പി ഗോപിനാഥൻസ് ക്ലിനിക്",
-      "hoId": 8458,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3474,16 +3146,12 @@
           "registrationNo": "NIL34",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വി പി ഗോപിനാഥൻസ് ക്ലിനിക്",
-      "stateCode": "V P Gopinathans ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "V P Gopinathans ClinicNULLNULL",
-      "addressLocal": "വി പി ഗോപിനാഥൻസ് ക്ലിനിക്",
+      "active": true,
+      "address": "V P Gopinathans Clinic, Ernakulam",
+      "addressLocal": "വി പി ഗോപിനാഥൻസ് ക്ലിനിക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3492,7 +3160,7 @@
       "code": "HOSPITAL_8459",
       "hospitalName": "Mampilly Clinic",
       "hospitalNamelocal": "മാമ്പിള്ളി ക്ലിനിക്ക്",
-      "hoId": 8459,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3516,16 +3184,12 @@
           "registrationNo": "NIL35",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "മാമ്പിള്ളി ക്ലിനിക്ക്",
-      "stateCode": "Mampilly ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Mampilly ClinicNULLNULL",
-      "addressLocal": "മാമ്പിള്ളി ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Mampilly Clinic, Ernakulam",
+      "addressLocal": "മാമ്പിള്ളി ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3534,7 +3198,7 @@
       "code": "HOSPITAL_8460",
       "hospitalName": "St Johns Hospital",
       "hospitalNamelocal": "സെന്റ് ജോൺസ് ഹോസ്പിറ്റൽ",
-      "hoId": 8460,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3558,16 +3222,12 @@
           "registrationNo": "NIL36",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സെന്റ് ജോൺസ് ഹോസ്പിറ്റൽ",
-      "stateCode": "St Johns HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "St Johns HospitalNULLNULL",
-      "addressLocal": "സെന്റ് ജോൺസ് ഹോസ്പിറ്റൽ",
+      "active": true,
+      "address": "St Johns Hospital, Ernakulam",
+      "addressLocal": "സെന്റ് ജോൺസ് ഹോസ്പിറ്റൽ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3576,7 +3236,7 @@
       "code": "HOSPITAL_8461",
       "hospitalName": "Govt Ayurveda Hospital",
       "hospitalNamelocal": "ആയുർവേദ ആശുപത്രി",
-      "hoId": 8461,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3600,16 +3260,12 @@
           "registrationNo": "NIL37",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ആയുർവേദ ആശുപത്രി",
-      "stateCode": "Govt Ayurveda HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Govt Ayurveda HospitalNULLNULL",
-      "addressLocal": "ആയുർവേദ ആശുപത്രി",
+      "active": true,
+      "address": "Govt Ayurveda Hospital, Ernakulam",
+      "addressLocal": "ആയുർവേദ ആശുപത്രി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3618,7 +3274,7 @@
       "code": "HOSPITAL_8462",
       "hospitalName": "Pavanathara Nursing Home",
       "hospitalNamelocal": "പാവനത്തറ നഴ്സിംഗ് ഹോം",
-      "hoId": 8462,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3642,16 +3298,12 @@
           "registrationNo": "NIL38",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പാവനത്തറ നഴ്സിംഗ് ഹോം",
-      "stateCode": "Pavanathara Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Pavanathara Nursing HomeNULLNULL",
-      "addressLocal": "പാവനത്തറ നഴ്സിംഗ് ഹോം",
+      "active": true,
+      "address": "Pavanathara Nursing Home, Ernakulam",
+      "addressLocal": "പാവനത്തറ നഴ്സിംഗ് ഹോം, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3660,7 +3312,7 @@
       "code": "HOSPITAL_8463",
       "hospitalName": "August Clinic",
       "hospitalNamelocal": "ഓഗസ്റ്റ് ക്ലിനിക്ക്",
-      "hoId": 8463,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3684,16 +3336,12 @@
           "registrationNo": "NIL39",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഓഗസ്റ്റ് ക്ലിനിക്ക്",
-      "stateCode": "August ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "August ClinicNULLNULL",
-      "addressLocal": "ഓഗസ്റ്റ് ക്ലിനിക്ക്",
+      "active": true,
+      "address": "August Clinic, Ernakulam",
+      "addressLocal": "ഓഗസ്റ്റ് ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3702,7 +3350,7 @@
       "code": "HOSPITAL_8464",
       "hospitalName": "Prakash Yogie Hospital",
       "hospitalNamelocal": "പ്രകാശ് യോഗി ഹോസ്പിറ്റൽ",
-      "hoId": 8464,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3726,16 +3374,12 @@
           "registrationNo": "NIL40",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പ്രകാശ് യോഗി ഹോസ്പിറ്റൽ",
-      "stateCode": "Prakash Yogie HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Prakash Yogie HospitalNULLNULL",
-      "addressLocal": "പ്രകാശ് യോഗി ഹോസ്പിറ്റൽ",
+      "active": true,
+      "address": "Prakash Yogie Hospital, Ernakulam",
+      "addressLocal": "പ്രകാശ് യോഗി ഹോസ്പിറ്റൽ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3744,7 +3388,7 @@
       "code": "HOSPITAL_8465",
       "hospitalName": "Hahueman Homeo Dispensary And Nursing Home",
       "hospitalNamelocal": "ഹായു മാന്‍ ഹോമിയോ ഡിസ്പെൻസറി ആൻഡ് നഴ്സിംഗ് ഹോം ",
-      "hoId": 8465,
+      "hoId": "H119",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3766,18 +3410,14 @@
         {
           "hospitalRegistar": "Dr Padmanabha Rao S",
           "registrationNo": "NIL41",
-          "registrationAadhaar": "H119",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഹായു മാന്‍ ഹോമിയോ ഡിസ്പെൻസറി ആൻഡ് നഴ്സിംഗ് ഹോം ",
-      "stateCode": "Hahueman Homeo Dispensary And Nursing HomeNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Hahueman Homeo Dispensary And Nursing HomeNULLNULL",
-      "addressLocal": "ഹായു മാന്‍ ഹോമിയോ ഡിസ്പെൻസറി ആൻഡ് നഴ്സിംഗ് ഹോം ",
+      "active": true,
+      "address": "Hahueman Homeo Dispensary And Nursing Home, Ernakulam",
+      "addressLocal": "ഹായു മാന്‍ ഹോമിയോ ഡിസ്പെൻസറി ആൻഡ് നഴ്സിംഗ് ഹോം , എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H119"
@@ -3786,7 +3426,7 @@
       "code": "HOSPITAL_8466",
       "hospitalName": "Ayurvedic Medical Research Laboratory",
       "hospitalNamelocal": "ആയുർവേദ മെഡിക്കൽ റിസർച്ച് ലബോറട്ടറി",
-      "hoId": 8466,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3810,16 +3450,12 @@
           "registrationNo": "NIL42",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ആയുർവേദ മെഡിക്കൽ റിസർച്ച് ലബോറട്ടറി",
-      "stateCode": "Ayurvedic Medical Research LaboratoryNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Ayurvedic Medical Research LaboratoryNULLNULL",
-      "addressLocal": "ആയുർവേദ മെഡിക്കൽ റിസർച്ച് ലബോറട്ടറി",
+      "active": true,
+      "address": "Ayurvedic Medical Research Laboratory, Ernakulam",
+      "addressLocal": "ആയുർവേദ മെഡിക്കൽ റിസർച്ച് ലബോറട്ടറി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3828,7 +3464,7 @@
       "code": "HOSPITAL_8467",
       "hospitalName": "Pathis Clinic And Laboratory",
       "hospitalNamelocal": "പാത്തിസ് ക്ലിനിക്കും ലബോറട്ടറിയും",
-      "hoId": 8467,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3852,16 +3488,12 @@
           "registrationNo": "NIL43",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "പാത്തിസ് ക്ലിനിക്കും ലബോറട്ടറിയും",
-      "stateCode": "Pathis Clinic And LaboratoryNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Pathis Clinic And LaboratoryNULLNULL",
-      "addressLocal": "പാത്തിസ് ക്ലിനിക്കും ലബോറട്ടറിയും",
+      "active": true,
+      "address": "Pathis Clinic And Laboratory, Ernakulam",
+      "addressLocal": "പാത്തിസ് ക്ലിനിക്കും ലബോറട്ടറിയും, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3870,7 +3502,7 @@
       "code": "HOSPITAL_8468",
       "hospitalName": "St Jude Hospital",
       "hospitalNamelocal": "സെന്റ് ജൂഡ് ഹോസ്പിറ്റൽ",
-      "hoId": 8468,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3894,16 +3526,12 @@
           "registrationNo": "NIL44",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സെന്റ് ജൂഡ് ഹോസ്പിറ്റൽ",
-      "stateCode": "St Jude HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "St Jude HospitalNULLNULL",
-      "addressLocal": "സെന്റ് ജൂഡ് ഹോസ്പിറ്റൽ",
+      "active": true,
+      "address": "St Jude Hospital, Ernakulam",
+      "addressLocal": "സെന്റ് ജൂഡ് ഹോസ്പിറ്റൽ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3912,7 +3540,7 @@
       "code": "HOSPITAL_8469",
       "hospitalName": "Thiruhridaya Hospital",
       "hospitalNamelocal": "തിരുഹൃദയ ഹോസ്പിറ്റൽ",
-      "hoId": 8469,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3936,16 +3564,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "തിരുഹൃദയ ഹോസ്പിറ്റൽ",
-      "stateCode": "Thiruhridaya HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Thiruhridaya HospitalNULLNULL",
-      "addressLocal": "തിരുഹൃദയ ഹോസ്പിറ്റൽ",
+      "active": true,
+      "address": "Thiruhridaya Hospital, Ernakulam",
+      "addressLocal": "തിരുഹൃദയ ഹോസ്പിറ്റൽ, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3954,7 +3578,7 @@
       "code": "HOSPITAL_8470",
       "hospitalName": "Avanthy Clinic",
       "hospitalNamelocal": "അവന്തി ക്ലിനിക്ക്",
-      "hoId": 8470,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -3978,16 +3602,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "അവന്തി ക്ലിനിക്ക്",
-      "stateCode": "Avanthy ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Avanthy ClinicNULLNULL",
-      "addressLocal": "അവന്തി ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Avanthy Clinic, Ernakulam",
+      "addressLocal": "അവന്തി ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -3996,7 +3616,7 @@
       "code": "HOSPITAL_8471",
       "hospitalName": "Cochin Poly Clinic",
       "hospitalNamelocal": "കൊച്ചിൻ പോളി ക്ലിനിക്ക്",
-      "hoId": 8471,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4020,16 +3640,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "കൊച്ചിൻ പോളി ക്ലിനിക്ക്",
-      "stateCode": "Cochin Poly ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Cochin Poly ClinicNULLNULL",
-      "addressLocal": "കൊച്ചിൻ പോളി ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Cochin Poly Clinic, Ernakulam",
+      "addressLocal": "കൊച്ചിൻ പോളി ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4038,7 +3654,7 @@
       "code": "HOSPITAL_8472",
       "hospitalName": "Samaraksha Hospital",
       "hospitalNamelocal": "സമരാക്ഷ ആശുപത്രി",
-      "hoId": 8472,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4062,16 +3678,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സമരാക്ഷ ആശുപത്രി",
-      "stateCode": "Samaraksha HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Samaraksha HospitalNULLNULL",
-      "addressLocal": "സമരാക്ഷ ആശുപത്രി",
+      "active": true,
+      "address": "Samaraksha Hospital, cochi",
+      "addressLocal": "സമരാക്ഷ ആശുപത്രി, കൊച്ചി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4080,7 +3692,7 @@
       "code": "HOSPITAL_8473",
       "hospitalName": "Krishna Ayurveda Hospital",
       "hospitalNamelocal": "കൃഷ്ണ ആയുർവേദ ആശുപത്രി",
-      "hoId": 8473,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4104,16 +3716,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "കൃഷ്ണ ആയുർവേദ ആശുപത്രി",
-      "stateCode": "Krishna Ayurveda HospitalNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Krishna Ayurveda HospitalNULLNULL",
-      "addressLocal": "കൃഷ്ണ ആയുർവേദ ആശുപത്രി",
+      "active": true,
+      "address": "Krishna Ayurveda Hospital, Ernakulam",
+      "addressLocal": "കൃഷ്ണ ആയുർവേദ ആശുപത്രി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4122,7 +3730,7 @@
       "code": "HOSPITAL_8474",
       "hospitalName": "Victadiagnostics",
       "hospitalNamelocal": "വിക്റ്റഡയഗ്നോസ്റ്റിക്സ്",
-      "hoId": 8474,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4146,16 +3754,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "വിക്റ്റഡയഗ്നോസ്റ്റിക്സ്",
-      "stateCode": "VictadiagnosticsNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "VictadiagnosticsNULLNULL",
-      "addressLocal": "വിക്റ്റഡയഗ്നോസ്റ്റിക്സ്",
+      "active": true,
+      "address": "Victadiagnostics, Kaloor",
+      "addressLocal": "വിക്റ്റഡയഗ്നോസ്റ്റിക്സ്, കലൂര്‍",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4164,7 +3768,7 @@
       "code": "HOSPITAL_8475",
       "hospitalName": "Bharathy Clinic",
       "hospitalNamelocal": "ഭാരതി ക്ലിനിക്ക്",
-      "hoId": 8475,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4188,16 +3792,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "ഭാരതി ക്ലിനിക്ക്",
-      "stateCode": "Bharathy ClinicNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Bharathy ClinicNULLNULL",
-      "addressLocal": "ഭാരതി ക്ലിനിക്ക്",
+      "active": true,
+      "address": "Bharathy Clinic, Ernakulam",
+      "addressLocal": "ഭാരതി ക്ലിനിക്ക്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4206,7 +3806,7 @@
       "code": "HOSPITAL_8476",
       "hospitalName": "Sunrise Hospital",
       "hospitalNamelocal": "സണ്‍റൈസ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8476,
+      "hoId": "H88",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4228,18 +3828,14 @@
         {
           "hospitalRegistar": "Sneha Elizabeth",
           "registrationNo": 124047,
-          "registrationAadhaar": "H88",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_ADMINISTRATOR"
         }
       ],
-      "talukCode": "സണ്‍റൈസ് ഹോസ്പിറ്റല്‍",
-      "stateCode": "Sunrise HospitalNULLNULL",
-      "distCode": "DESIGNATION_ADMINISTRATOR",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Sunrise HospitalNULLNULL",
-      "addressLocal": "സണ്‍റൈസ് ഹോസ്പിറ്റല്‍",
+      "active": true,
+      "address": "Sunrise Hospital, Ernakulam",
+      "addressLocal": "സണ്‍റൈസ് ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_ADMINISTRATOR",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H88"
@@ -4248,7 +3844,7 @@
       "code": "HOSPITAL_8477",
       "hospitalName": "AL-SHIFA SUPER SPECIALITY HOSPITAL FOR PILES",
       "hospitalNamelocal": "അല്‍ഷിഫ സൂപ്പര്‍ സ്പെഷ്യാലിറ്റി ഹോസ്പിറ്റല്‍ ഫോര്‍ പൈല്‍സ്",
-      "hoId": 8477,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4272,16 +3868,12 @@
           "registrationNo": "HR-87/09-10",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "അല്‍ഷിഫ സൂപ്പര്‍ സ്പെഷ്യാലിറ്റി ഹോസ്പിറ്റല്‍ ഫോര്‍ പൈല്‍സ്",
-      "stateCode": "AL-SHIFA SUPER SPECIALITY HOSPITAL FOR PILESNULLNULL",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "AL-SHIFA SUPER SPECIALITY HOSPITAL FOR PILESNULLNULL",
-      "addressLocal": "അല്‍ഷിഫ സൂപ്പര്‍ സ്പെഷ്യാലിറ്റി ഹോസ്പിറ്റല്‍ ഫോര്‍ പൈല്‍സ്",
+      "active": true,
+      "address": "AL-SHIFA SUPER SPECIALITY HOSPITAL FOR PILES, ERNAKULAM",
+      "addressLocal": "അല്‍ഷിഫ സൂപ്പര്‍ സ്പെഷ്യാലിറ്റി ഹോസ്പിറ്റല്‍ ഫോര്‍ പൈല്‍സ്, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4290,7 +3882,7 @@
       "code": "HOSPITAL_8478",
       "hospitalName": "Vijayalakshmi Medical Centre",
       "hospitalNamelocal": "വിജയലക്ഷ്മി മെഡിക്കല്‍ സെന്‍റര്‍",
-      "hoId": 8478,
+      "hoId": "H61",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4312,18 +3904,14 @@
         {
           "hospitalRegistar": "Dr VIJAYALAKSHMI G",
           "registrationNo": 13066,
-          "registrationAadhaar": "H61",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MANAGING_PARTNER"
         }
       ],
-      "talukCode": "വിജയലക്ഷ്മി മെഡിക്കല്‍ സെന്‍റര്‍ചക്കരപ്പറമ്പ്ചക്കരപറമ്പ്",
-      "stateCode": "Vijayalakshmi Medical CentreChakkaraparambuChakkaraparambu",
-      "distCode": "DESIGNATION_MANAGING_PARTNER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Vijayalakshmi Medical CentreChakkaraparambuChakkaraparambu",
-      "addressLocal": "വിജയലക്ഷ്മി മെഡിക്കല്‍ സെന്‍റര്‍ചക്കരപ്പറമ്പ്ചക്കരപറമ്പ്",
+      "active": true,
+      "address": "Vijayalakshmi Medical Centre, Ernakulam",
+      "addressLocal": "വിജയലക്ഷ്മി മെഡിക്കല്‍ സെന്‍റര്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_MANAGING_PARTNER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H61"
@@ -4332,7 +3920,7 @@
       "code": "HOSPITAL_8479",
       "hospitalName": "Birth Village",
       "hospitalNamelocal": "ബര്‍ത്ത് വില്ലേജ്",
-      "hoId": 8479,
+      "hoId": "H64",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4354,18 +3942,14 @@
         {
           "hospitalRegistar": "Dr Georgy Joy Eralil",
           "registrationNo": 31256,
-          "registrationAadhaar": "H64",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_GYNAECOLOGIST_AND_OBSTETRICIAN"
         }
       ],
-      "talukCode": "ബര്‍ത്ത് വില്ലേജ്മാപ്പിളശ്ശേരി റോഡ്വൈറ്റില",
-      "stateCode": "Birth VillageMappilashery RoadVyttila",
-      "distCode": "DESIGNATION_GYNAECOLOGIST_AND_OBSTETRICIAN",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Birth VillageMappilashery RoadVyttila",
-      "addressLocal": "ബര്‍ത്ത് വില്ലേജ്മാപ്പിളശ്ശേരി റോഡ്വൈറ്റില",
+      "active": true,
+      "address": "Birth Village, Ernakulam",
+      "addressLocal": "ബര്‍ത്ത് വില്ലേജ്, എറണാകുളം",
       "designationCode": "DESIGNATION_GYNAECOLOGIST_AND_OBSTETRICIAN",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H64"
@@ -4374,7 +3958,7 @@
       "code": "HOSPITAL_8480",
       "hospitalName": "Silverline Hospital",
       "hospitalNamelocal": "സില്‍വര്‍ലൈന്‍ ഹോസ്പിറ്റല്‍",
-      "hoId": 8480,
+      "hoId": "H65",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4396,18 +3980,14 @@
         {
           "hospitalRegistar": "Mathew Anto",
           "registrationNo": "HR-216/11-12",
-          "registrationAadhaar": "H65",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_ADMINISTRATOR"
         }
       ],
-      "talukCode": "സില്‍വര്‍ലൈന്‍ ഹോസ്പിറ്റല്‍കെ പി വള്ളോന്‍ റോഡ്കടവന്ത്ര",
-      "stateCode": "Silverline HospitalK P Vallon RoadKadavanthara",
-      "distCode": "DESIGNATION_ADMINISTRATOR",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Silverline HospitalK P Vallon RoadKadavanthara",
-      "addressLocal": "സില്‍വര്‍ലൈന്‍ ഹോസ്പിറ്റല്‍കെ പി വള്ളോന്‍ റോഡ്കടവന്ത്ര",
+      "active": true,
+      "address": "Silverline Hospital, Ernakulam",
+      "addressLocal": "സില്‍വര്‍ലൈന്‍ ഹോസ്പിറ്റല്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_ADMINISTRATOR",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H65"
@@ -4416,7 +3996,7 @@
       "code": "HOSPITAL_8481",
       "hospitalName": "Polakulath Narayanan Renai Medicity",
       "hospitalNamelocal": "പോളക്കുളത്ത് നാരായണന്‍ റിനൈ മെഡിസിറ്റി",
-      "hoId": 8481,
+      "hoId": "H66",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4438,18 +4018,14 @@
         {
           "hospitalRegistar": "Maneesh A M",
           "registrationNo": "MOH-16/12715/12",
-          "registrationAadhaar": "H66",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": "പോളക്കുളത്ത് നാരായണന്‍ റിനൈ മെഡിസിറ്റിമാമംഗലംമാമംഗലം",
-      "stateCode": "Polakulath Narayanan Renai MedicityMamangalamMamangalam",
-      "distCode": "DESIGNATION_OTHERS",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Polakulath Narayanan Renai MedicityMamangalamMamangalam",
-      "addressLocal": "പോളക്കുളത്ത് നാരായണന്‍ റിനൈ മെഡിസിറ്റിമാമംഗലംമാമംഗലം",
+      "active": true,
+      "address": "Polakulath Narayanan Renai Medicity, Palarivattom",
+      "addressLocal": "പോളക്കുളത്ത് നാരായണന്‍ റിനൈ മെഡിസിറ്റി, പാലാരിവട്ടം",
       "designationCode": "DESIGNATION_OTHERS",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H66"
@@ -4458,7 +4034,7 @@
       "code": "HOSPITAL_8482",
       "hospitalName": "Hestia Medicare",
       "hospitalNamelocal": "ഹെസ്റ്റിയ മെഡികെയര്‍",
-      "hoId": 8482,
+      "hoId": "H130",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4480,18 +4056,14 @@
         {
           "hospitalRegistar": "DrBiju Ravindran",
           "registrationNo": "HR-322/14-15",
-          "registrationAadhaar": "H130",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": "ഹെസ്റ്റിയ മെഡികെയര്‍തമ്മനം റോഡ്പാലാരിവട്ടം",
-      "stateCode": "Hestia MedicareThammanam RoadPalarivattom",
-      "distCode": "DESIGNATION_OTHERS",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Hestia MedicareThammanam RoadPalarivattom",
-      "addressLocal": "ഹെസ്റ്റിയ മെഡികെയര്‍തമ്മനം റോഡ്പാലാരിവട്ടം",
+      "active": true,
+      "address": "Hestia Medicare, Ernakulam",
+      "addressLocal": "ഹെസ്റ്റിയ മെഡികെയര്‍, എറണാകുളം",
       "designationCode": "DESIGNATION_OTHERS",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H130"
@@ -4500,7 +4072,7 @@
       "code": "HOSPITAL_8484",
       "hospitalName": "Fatima Hospital",
       "hospitalNamelocal": "ഫാറ്റിമ ഹോസ്പിറ്റല്‍",
-      "hoId": 8484,
+      "hoId": "H52",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4522,18 +4094,14 @@
         {
           "hospitalRegistar": "Mejo Faria",
           "registrationNo": "SH070760030122",
-          "registrationAadhaar": "H52",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": "ഫാറ്റിമ ഹോസ്പിറ്റല്‍കോണംപെരുമ്പടപ്പ്",
-      "stateCode": "Fatima HospitalKonamPerumpadappu",
-      "distCode": "DESIGNATION_OTHERS",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Fatima HospitalKonamPerumpadappu",
-      "addressLocal": "ഫാറ്റിമ ഹോസ്പിറ്റല്‍കോണംപെരുമ്പടപ്പ്",
+      "active": true,
+      "address": "Fatima Hospital, Perumpadappu, Kochi",
+      "addressLocal": "ഫാറ്റിമ ഹോസ്പിറ്റല്‍, പെരുമ്പടപ്പ്, കൊച്ചി",
       "designationCode": "DESIGNATION_OTHERS",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H52"
@@ -4542,7 +4110,7 @@
       "code": "HOSPITAL_8485",
       "hospitalName": "Taluk Hospital, Palluruthy",
       "hospitalNamelocal": "താലൂക്ക് ഹോസ്പിറ്റല്‍, പള്ളുരുത്തി",
-      "hoId": 8485,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4566,16 +4134,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_SUPERINTENDENT"
         }
       ],
-      "talukCode": "താലൂക്ക് ഹോസ്പിറ്റല്‍, പള്ളുരുത്തികച്ചേരിപ്പടിപള്ളുരുത്തി",
-      "stateCode": "Taluk Hospital, PalluruthyKacheripadyPalluruthy",
-      "distCode": "DESIGNATION_SUPERINTENDENT",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Taluk Hospital, PalluruthyKacheripadyPalluruthy",
-      "addressLocal": "താലൂക്ക് ഹോസ്പിറ്റല്‍, പള്ളുരുത്തികച്ചേരിപ്പടിപള്ളുരുത്തി",
+      "active": true,
+      "address": "Taluk Hospital, Palluruthy, Kochi",
+      "addressLocal": "താലൂക്ക് ഹോസ്പിറ്റല്‍, പള്ളുരുത്തി, കൊച്ചി",
       "designationCode": "DESIGNATION_SUPERINTENDENT",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4584,7 +4148,7 @@
       "code": "HOSPITAL_8486",
       "hospitalName": "Taluk Head Quarters Hospital, Fortkochi",
       "hospitalNamelocal": "താലൂക്ക് ഹെഡ് ക്വാര്‍ട്ടേഴ്സ് ഹോസ്പിറ്റല്‍, ഫോര്‍ട്ടുകൊച്ചി",
-      "hoId": 8486,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4608,16 +4172,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "താലൂക്ക് ഹെഡ് ക്വാര്‍ട്ടേഴ്സ് ഹോസ്പിറ്റല്‍, ഫോര്‍ട്ടുകൊച്ചിറ്റി എം മുഹമ്മദ് റോഡ്ഫോർട്ട്കൊച്ചി",
-      "stateCode": "Taluk Head Quarters Hospital, FortkochiT M Muhammed RoadFortkochi",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Taluk Head Quarters Hospital, FortkochiT M Muhammed RoadFortkochi",
-      "addressLocal": "താലൂക്ക് ഹെഡ് ക്വാര്‍ട്ടേഴ്സ് ഹോസ്പിറ്റല്‍, ഫോര്‍ട്ടുകൊച്ചിറ്റി എം മുഹമ്മദ് റോഡ്ഫോർട്ട്കൊച്ചി",
+      "active": true,
+      "address": "Taluk Head Quarters Hospital, Fortkochi, Ernakulam",
+      "addressLocal": "താലൂക്ക് ഹെഡ് ക്വാര്‍ട്ടേഴ്സ് ഹോസ്പിറ്റല്‍, ഫോര്‍ട്ടുകൊച്ചി, എറണാകുളം",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4626,7 +4186,7 @@
       "code": "HOSPITAL_8488",
       "hospitalName": "Sangeeth Hospital",
       "hospitalNamelocal": "സംഗീത് ഹോസ്പിറ്റല്‍",
-      "hoId": 8488,
+      "hoId": "H44",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4648,18 +4208,14 @@
         {
           "hospitalRegistar": "Dr Sasanka R Prabhu",
           "registrationNo": "63/21",
-          "registrationAadhaar": "H44",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_MEDICAL_OFFICER"
         }
       ],
-      "talukCode": "സംഗീത് ഹോസ്പിറ്റല്‍സൗത്ത് ചെറളായിമട്ടാഞ്ചേരി",
-      "stateCode": "Sangeeth HospitalSouth CherlaiMattanchery",
-      "distCode": "DESIGNATION_MEDICAL_OFFICER",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Sangeeth HospitalSouth CherlaiMattanchery",
-      "addressLocal": "സംഗീത് ഹോസ്പിറ്റല്‍സൗത്ത് ചെറളായിമട്ടാഞ്ചേരി",
+      "active": true,
+      "address": "Sangeeth Hospital, Kochi",
+      "addressLocal": "സംഗീത് ഹോസ്പിറ്റല്‍, കൊച്ചി",
       "designationCode": "DESIGNATION_MEDICAL_OFFICER",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H44"
@@ -4668,7 +4224,7 @@
       "code": "HOSPITAL_8489",
       "hospitalName": "Govt Maharajas Taluk Hospital, Karuvelippady",
       "hospitalNamelocal": "ഗവ മഹാരാജാസ് താലൂക്ക് ഹോസ്പിറ്റല്‍, കരുവേലിപ്പടി",
-      "hoId": 8489,
+      "hoId": null,
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4692,16 +4248,12 @@
           "registrationNo": "NULL",
           "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_SUPERINTENDENT"
         }
       ],
-      "talukCode": "ഗവ മഹാരാജാസ് താലൂക്ക് ഹോസ്പിറ്റല്‍, കരുവേലിപ്പടിതക്യാവ് റോഡ്കരുവേലിപ്പടി",
-      "stateCode": "Govt Maharajas Taluk Hospital, KaruvelippadyThakyavu RoadKaruvelippady",
-      "distCode": "DESIGNATION_SUPERINTENDENT",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Govt Maharajas Taluk Hospital, KaruvelippadyThakyavu RoadKaruvelippady",
-      "addressLocal": "ഗവ മഹാരാജാസ് താലൂക്ക് ഹോസ്പിറ്റല്‍, കരുവേലിപ്പടിതക്യാവ് റോഡ്കരുവേലിപ്പടി",
+      "active": true,
+      "address": "Govt Maharajas Taluk Hospital, Karuvelippady, Kochi",
+      "addressLocal": "ഗവ മഹാരാജാസ് താലൂക്ക് ഹോസ്പിറ്റല്‍, കരുവേലിപ്പടി, കൊച്ചി",
       "designationCode": "DESIGNATION_SUPERINTENDENT",
       "tenentCode": "klcochin",
       "migrationKochiCode": null
@@ -4710,7 +4262,7 @@
       "code": "HOSPITAL_8490",
       "hospitalName": "Jacobs Hospital",
       "hospitalNamelocal": "ജേക്കബ്സ് ഹോസ്പിറ്റല്‍",
-      "hoId": 8490,
+      "hoId": "H29",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4732,18 +4284,14 @@
         {
           "hospitalRegistar": "Dr K B JACOB",
           "registrationNo": "1/21",
-          "registrationAadhaar": "H29",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_DIRECTOR"
         }
       ],
-      "talukCode": "ജേക്കബ്സ് ഹോസ്പിറ്റല്‍ഫാമാത്യു കോതകത്ത് റോഡ്കഴുത്തുമുട്ട്, തോപ്പുംപടി",
-      "stateCode": "Jacobs HospitalFrMathew Kothakathu RoadKazhuthumuttu, Thoppumpady",
-      "distCode": "DESIGNATION_DIRECTOR",
-      "lbTypeCode": null,
-      "active": "=TRUE()",
-      "address": "Jacobs HospitalFrMathew Kothakathu RoadKazhuthumuttu, Thoppumpady",
-      "addressLocal": "ജേക്കബ്സ് ഹോസ്പിറ്റല്‍ഫാമാത്യു കോതകത്ത് റോഡ്കഴുത്തുമുട്ട്, തോപ്പുംപടി",
+      "active": false,
+      "address": "Jacobs Hospital, Kochi",
+      "addressLocal": "ജേക്കബ്സ് ഹോസ്പിറ്റല്‍, കൊച്ചി",
       "designationCode": "DESIGNATION_DIRECTOR",
       "tenentCode": "klcochin",
       "migrationKochiCode": "H29"
@@ -4752,7 +4300,7 @@
       "code": "HOSPITAL_KL_COCHIN_100000",
       "hospitalName": "Govt Hospital Kacheripaddy,Kochi",
       "hospitalNamelocal": "ഗവ ആശുപത്രി കച്ചേരിപ്പടി, കൊച്ചി",
-      "hoId": 100000,
+      "hoId": "H120",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4774,27 +4322,23 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H120",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "Govt Hospital Kacheripaddy,Kochi, ",
+      "addressLocal": "ഗവ ആശുപത്രി കച്ചേരിപ്പടി, കൊച്ചി, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H120"
     },
     {
       "code": "HOSPITAL_KL_COCHIN_100001",
       "hospitalName": "Kumar Centre for Stroke Rehabilitation,Ernakulam",
       "hospitalNamelocal": "കുമാർ സെന്റർ ഫോർ സ്‌ട്രോക്ക് റിഹാബിലിറ്റേഷൻ, എറണാകുളം",
-      "hoId": 100001,
+      "hoId": "H126",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4816,27 +4360,23 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H126",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "Kumar Centre for Stroke Rehabilitation,Ernakulam, ",
+      "addressLocal": "കുമാർ സെന്റർ ഫോർ സ്‌ട്രോക്ക് റിഹാബിലിറ്റേഷൻ, എറണാകുളം, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H126"
     },
     {
       "code": "HOSPITAL_KL_COCHIN_100002",
       "hospitalName": "Mini Hospital,Kochi",
       "hospitalNamelocal": "മിനി ഹോസ്പിറ്റൽ, കൊച്ചി",
-      "hoId": 100002,
+      "hoId": "H127",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4858,27 +4398,23 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H127",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "Mini Hospital,Kochi, ",
+      "addressLocal": "മിനി ഹോസ്പിറ്റൽ, കൊച്ചി, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H127"
     },
     {
       "code": "HOSPITAL_KL_COCHIN_100003",
       "hospitalName": "Cochin Nursing Home,Kochi",
       "hospitalNamelocal": "കൊച്ചിൻ നഴ്സിംഗ് ഹോം, കൊച്ചി",
-      "hoId": 100003,
+      "hoId": "H128",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4900,27 +4436,23 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H128",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "Cochin Nursing Home,Kochi, ",
+      "addressLocal": "കൊച്ചിൻ നഴ്സിംഗ് ഹോം, കൊച്ചി, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H128"
     },
     {
       "code": "HOSPITAL_KL_COCHIN_100004",
       "hospitalName": "Fathima Nursing Home,Kochi",
       "hospitalNamelocal": "ഫാത്തിമ നഴ്സിംഗ് ഹോം, കൊച്ചി",
-      "hoId": 100004,
+      "hoId": "H129",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4942,27 +4474,23 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H129",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "Fathima Nursing Home,Kochi, ",
+      "addressLocal": "ഫാത്തിമ നഴ്സിംഗ് ഹോം, കൊച്ചി, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H129"
     },
     {
       "code": "HOSPITAL_KL_COCHIN_100005",
       "hospitalName": "Roshan Eye Care",
       "hospitalNamelocal": "റോഷൻ ഐ കെയർ",
-      "hoId": 100005,
+      "hoId": "H81",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -4984,27 +4512,23 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H81",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "Roshan Eye Care, ",
+      "addressLocal": "റോഷൻ ഐ കെയർ, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H81"
     },
     {
       "code": "HOSPITAL_KL_COCHIN_100006",
       "hospitalName": "Ashwini Hospital",
       "hospitalNamelocal": "അശ്വിനി ഹോസ്പിറ്റൽ",
-      "hoId": 100006,
+      "hoId": "H82",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -5026,27 +4550,23 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H82",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "Ashwini Hospital, ",
+      "addressLocal": "അശ്വിനി ഹോസ്പിറ്റൽ, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H82"
     },
     {
       "code": "HOSPITAL_KL_COCHIN_100007",
       "hospitalName": "SPARS HOSPITAL",
       "hospitalNamelocal": "സ്പാർസ് ഹോസ്പിറ്റൽ",
-      "hoId": 100007,
+      "hoId": "H87",
       "stateId": 32,
       "distId": 7,
       "lbId": 169,
@@ -5068,20 +4588,16 @@
         {
           "hospitalRegistar": null,
           "registrationNo": null,
-          "registrationAadhaar": "H87",
+          "registrationAadhaar": null,
           "registrationMobile": null,
-          "registarDesig": null
+          "registarDesig": "DESIGNATION_OTHERS"
         }
       ],
-      "talukCode": null,
-      "stateCode": null,
-      "distCode": null,
-      "lbTypeCode": null,
-      "active": "=FALSE()",
-      "address": null,
-      "addressLocal": null,
-      "designationCode": null,
-      "tenentCode": null,
+      "active": false,
+      "address": "SPARS HOSPITAL, ",
+      "addressLocal": "സ്പാർസ് ഹോസ്പിറ്റൽ, ",
+      "designationCode": "DESIGNATION_OTHERS",
+      "tenentCode": "klcochin",
       "migrationKochiCode": "H87"
     }
   ]
