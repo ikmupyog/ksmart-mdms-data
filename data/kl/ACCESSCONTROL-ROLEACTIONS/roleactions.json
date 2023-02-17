@@ -25635,9 +25635,21 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+     {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2419,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 2424,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2419,
       "actioncode": "",
       "tenantId": "kl"
     },
@@ -25650,6 +25662,12 @@
     {
       "rolecode": "HOSPITAL_APPROVER",
       "actionid": 2425,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2419,
       "actioncode": "",
       "tenantId": "kl"
     },
