@@ -1464,7 +1464,31 @@
                   "jsonPath" : "*/icdcode"
                 },
                 "accessType" : "PLAIN"
-              }
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/DeceasedAadharNumber"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/SpouseAadhaar"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/FatherAadharNo"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/MotherAadharNo"
+                },
+                "accessType" : "PLAIN"
+              } 
             ]
           },
          {
@@ -1494,7 +1518,31 @@
                   "jsonPath" : "*/icdcode"
                 },
                 "accessType" : "PLAIN"
-              }
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/DeceasedAadharNumber"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/SpouseAadhaar"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/FatherAadharNo"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/MotherAadharNo"
+                },
+                "accessType" : "PLAIN"
+              } 
             ]
           }
         ]

@@ -1,0 +1,34 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "UnhealthyHabits": [
+    {
+      "code": "OPTION_YES",
+      "name": "Yes",
+      "namelocal": "അതെ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OPTION_NO",
+      "name": "No",
+      "namelocal": "ഇല്ല",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OPTION_PROBABLY",
+      "name": "Probably",
+      "namelocal": "ഒരുപക്ഷേ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "OPTION_UNKNOWN",
+      "name": "Unknown",
+      "namelocal": "അജ്ഞാതം",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

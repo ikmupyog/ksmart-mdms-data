@@ -2113,6 +2113,17 @@
       "type": "COMMON",
       "nationalityname": "Zimbabwean",
       "nationalitynamelocal": null
+    },
+    {
+      "name": "OTHERS",
+      "namelocal": "മറ്റുള്ളവ",
+      "countrycode": "OTHS",
+      "code": "COUNTRY_OTHERS",
+      "id": 1,
+      "active": false,
+      "type": "COMMON",
+      "nationalityname": "others",
+      "nationalitynamelocal": null
     }
   ]
 }

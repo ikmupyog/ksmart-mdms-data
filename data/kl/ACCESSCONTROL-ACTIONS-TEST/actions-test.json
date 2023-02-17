@@ -12715,7 +12715,7 @@
     {
       "id": 2361,
       "name": "Birth-Death : Birth Save Report",
-      "url": "/birth-services/cr/birth/_create",
+      "url": "/birth-services/ksmart/birth/createbirth",
       "displayName": "Birth Save",
       "orderNumber": 0,
       "parentModule": "",
@@ -13534,7 +13534,7 @@
       {
          "id": 2413,
          "name": "Create File",
-         "url": "/filemgmnt/v1/applicantpersonals/_create",
+         "url": "/filemgmnt/v1/applicantservices/_create",
          "parentModule": "",
          "displayName": "Create File",
          "orderNumber": 0,
@@ -13546,7 +13546,7 @@
       {
          "id": 2414,
          "name": "Update File",
-         "url": "/filemgmnt/v1/applicantpersonals/_update",
+         "url": "/filemgmnt/v1/applicantservices/_update",
          "parentModule": "",
          "displayName": "Update File",
          "orderNumber": 0,
@@ -13558,7 +13558,7 @@
       {
          "id": 2415,
          "name": "Search File",
-         "url": "/filemgmnt/v1/applicantpersonals/_search",
+         "url": "/filemgmnt/v1/applicantservices/_search",
          "parentModule": "",
          "displayName": "Search File",
          "orderNumber": 0,
@@ -13570,7 +13570,7 @@
       {
       "id": 2424,
       "name": "Create new birth application",
-      "url": "/birth-services/cr/birth/_create",
+      "url": "/birth-services/ksmart/birth/createbirth",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
@@ -13583,7 +13583,7 @@
  {
       "id": 2425,
       "name": "Update birth application",
-      "url": "/birth-services/cr/birth/_update",
+      "url": "/birth-services/ksmart/birth/updatebirth",
       "parentModule": "",
       "displayName": "Update File",
       "orderNumber": 0,
@@ -13596,7 +13596,7 @@
  {
       "id": 2426,
       "name": "Search birth application",
-      "url": "/birth-services/cr/birth/_search",
+      "url": "/birth-services/ksmart/birth/searchbirth",
       "parentModule": "",
       "displayName": "Search File",
       "orderNumber": 0,
@@ -13703,7 +13703,7 @@
        {
       "id": 2417,
       "name": "Create new death application",
-      "url": "/death-services/v1/crdeathdetails/_create",
+      "url": "/death-services/v1/deathdetails/_createdeath",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
@@ -13716,7 +13716,7 @@
  {
       "id": 2418,
       "name": "Update death application",
-      "url": "/death-services/v1/crdeathdetails/_update",
+      "url": "/death-services/v1/deathdetails/_updatedeath",
       "parentModule": "",
       "displayName": "Update File",
       "orderNumber": 0,
@@ -13729,7 +13729,7 @@
  {
       "id": 2419,
       "name": "Search death application",
-      "url": "/death-services/v1/crdeathdetails/_search",
+      "url": "/death-services/v1/deathdetails/_searchdeath",
       "parentModule": "",
       "displayName": "Search File",
       "orderNumber": 0,
@@ -13741,8 +13741,8 @@
 
  {
       "id": 2420,
-      "name": "Create death certificate",
-      "url": "/death-services/v1/crdeathregistry/_create",
+      "name": "Create death Registry for certificate",
+      "url": "/death-services/v1/crdeathregistry/_createdeath",
       "parentModule": "",
       "displayName": "Create death certificate",
       "orderNumber": 0,
@@ -13768,7 +13768,7 @@
  {
       "id": 2422,
       "name": "search death certificate",
-      "url": "/death-services/v1/crdeathregistry/_search",
+      "url": "/death-services/v1/deathregistry/_searchdeath",
       "parentModule": "",
       "displayName": "Search death certificate",
       "orderNumber": 0,
@@ -13781,7 +13781,7 @@
  {
       "id": 2423,
       "name": "Download death certificate",
-      "url": "/death-services/v1/crdeathregistry/_download",
+      "url": "/death-services/v1/deathregistry/_downloaddeath",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
@@ -14169,7 +14169,20 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2461,
+      "name": "Create death certificate",
+      "url": "/death-services/v1/crdeathregistry/_create",
+      "parentModule": "",
+      "displayName": "Create death certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
     }
+
 
    ]
 }

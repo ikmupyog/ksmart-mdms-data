@@ -3,307 +3,565 @@
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs": [
     {
-      "serviceCode": "NoStreetlight",
-      "name": "No streetlight",
-      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "DEPT_1",
-      "slaHours": 336,
-      "menuPath": "StreetLights",
-      "active": true
-    },
-    {
-      "serviceCode": "NonSweepingOfRoad",
-      "name": "Non sweeping of road",
-      "active": true,
-      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Garbage",
-      "order": 5
-    },
-    {
-      "serviceCode": "StreetLightNotWorking",
-      "name": "Streetlight not working",
-      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "DEPT_1",
-      "slaHours": 336,
-      "menuPath": "StreetLights",
-      "active": true,
-      "order": 1
-    },
-    {
-      "serviceCode": "GarbageNeedsTobeCleared",
-      "name": "Garbage needs to be cleared",
-      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Garbage",
-      "active": true,
-      "order": 4
-    },
-    {
-      "serviceCode": "DamagedGarbageBin",
-      "name": "Damaged garbage bin",
-      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Garbage",
-      "active": true
-    },
-    {
-      "serviceCode": "BurningOfGarbage",
-      "name": "Burning of garbage",
-      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Garbage",
-      "active": true
-    },
-    {
-      "serviceCode": "OverflowingOrBlockedDrain",
-      "name": "Overflowing/Blocked drain",
-      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "Drains",
-      "active": true
-    },
-    {
-      "serviceCode": "illegalDischargeOfSewage",
-      "name": "Illegal discharge of sewage",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true
-    },
-    {
-      "serviceCode": "BlockOrOverflowingSewage",
-      "name": "Block / Overflowing sewage",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true,
-      "order": 2
-    },
-    {
-      "serviceCode": "ShortageOfWater",
-      "name": "Shortage of water",
-      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true
-    },
-    {
-      "serviceCode": "NoWaterSupply",
-      "name": "No water supply",
-      "keywords": "water, supply, connection, drink, tap",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true
-    },
-    {
-      "serviceCode": "DirtyWaterSupply",
-      "name": "Dirty water supply",
-      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true
-    },
-    {
-      "serviceCode": "BrokenWaterPipeOrLeakage",
-      "name": "Broken water pipe / Leakage",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true,
-      "order": 3
-    },
-    {
-      "serviceCode": "WaterPressureisVeryLess",
-      "name": "Water pressure is very less",
-      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage",
-      "active": true
-    },
-    {
-      "serviceCode": "DamagedRoad",
+      "serviceCode": "GR_TYPE_ROAD_DAMAGED",
       "name": "Damaged road",
+      "localname": "?????? ????",
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "WaterLoggedRoad",
-      "name": "Water logged road",
-      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "ManholeCoverMissingOrDamaged",
-      "name": "Manhole cover is missing/damaged",
-      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "DamagedOrBlockedFootpath",
-      "name": "Damaged/blocked footpath",
-      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "ConstructionMaterialLyingOntheRoad",
-      "name": "Construction material lying on the road",
-      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
-      "department": "DEPT_4",
-      "slaHours": 336,
-      "menuPath": "RoadsAndFootpaths",
-      "active": true
-    },
-    {
-      "serviceCode": "RequestSprayingOrFoggingOperation",
-      "name": "Request spraying/ fogging operations",
-      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Mosquitos",
-      "active": true
-    },
-    {
-      "serviceCode": "StrayAnimals",
-      "name": "Stray animals",
-      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Animals",
-      "active": true
-    },
-    {
-      "serviceCode": "DeadAnimals",
-      "name": "Dead animals",
-      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "Animals",
-      "active": true
-    },
-    {
-      "serviceCode": "DirtyOrSmellyPublicToilets",
-      "name": "Dirty/smelly public toilet",
-      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "PublicToilets",
-      "active": true
-    },
-    {
-      "serviceCode": "PublicToiletIsDamaged",
-      "name": "Public toilet damaged",
-      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "PublicToilets",
-      "active": true
-    },
-    {
-      "serviceCode": "NoWaterOrElectricityinPublicToilet",
-      "name": "No water/electricity in public toilet",
-      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "PublicToilets",
-      "active": true
-    },
-    {
-      "serviceCode": "IllegalShopsOnFootPath",
-      "name": "Illegal shops on footpath",
-      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
-      "department": "DEPT_6",
-      "slaHours": 336,
-      "menuPath": "LandViolations",
-      "active": true
-    },
-    {
-      "serviceCode": "IllegalConstructions",
-      "name": "Illegal constructions",
-      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "DEPT_6",
-      "slaHours": 336,
-      "menuPath": "LandViolations",
-      "active": true
-    },
-    {
-      "serviceCode": "IllegalParking",
-      "name": "Illegal parking",
-      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
-      "department": "DEPT_6",
-      "slaHours": 336,
-      "menuPath": "LandViolations",
-      "active": true
-    },
-    {
-      "serviceCode": "IllegalCuttingOfTrees",
-      "name": "Illegal Cutting of trees",
-      "keywords": "tree, cut, illegal, unathourized, remove, plant",
-      "department": "DEPT_5",
-      "slaHours": 336,
-      "menuPath": "Trees",
-      "active": true
-    },
-    {
-      "serviceCode": "CuttingOrTrimmingOfTreeRequired",
-      "name": "Cutting/trimming of tree required",
-      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
-      "department": "DEPT_5",
-      "slaHours": 336,
-      "menuPath": "Trees",
-      "active": true
-    },
-    {
-      "serviceCode": "OpenDefecation",
-      "name": "Open Defecation",
-      "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "DEPT_3",
-      "slaHours": 336,
-      "menuPath": "OpenDefecation",
-      "active": true
-    },
-    {
-      "serviceCode": "ParkRequiresMaintenance",
-      "name": "Park requires maintenance",
-      "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "DEPT_5",
-      "slaHours": 336,
-      "menuPath": "Parks",
-      "active": true
-    },
-    {
-      "serviceCode": "Others",
-      "name": "Others",
-      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
-      "department": "DEPT_10",
-      "slaHours": 336,
-      "menuPath": "",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_ROAD",
       "active": true,
-      "order": 6
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ROAD_WATERLOGGED",
+      "name": "Waterlogged road",
+      "localname": "?????????????? ????",
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_ROAD",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ROAD_MANHOLE_COVER_MISSING",
+      "name": "Manhole cover missing or broken",
+      "localname": "?????? ??? ??????????? ?????????? ???????",
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_ROAD",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ROAD_OBSTRUCTION",
+      "name": "Obstruction in the Road ",
+      "localname": "????? ??????",
+      "keywords": "road, obstruction,  street, construction, fix",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_ROAD",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_FOOTPATHS_DAMAGED",
+      "name": "Damaged footpath",
+      "localname": "?????? ???????",
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_FOOTPATHS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_FOOTPATHS_BLOCKED",
+      "name": "Blocked footpath",
+      "localname": "????? ???????",
+      "keywords": "footpath, block, walk, path",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_FOOTPATHS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_FOOTPATHS_GRASS",
+      "name": "Clearing of Grass ",
+      "localname": "?????? ????????????",
+      "keywords": "footpath, Grass, block, walk, path",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_FOOTPATHS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_BRIDGES_DAMAGED",
+      "name": "Damage in the Bridge",
+      "localname": "???????? ??????????",
+      "keywords": null,
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_BRIDGES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_BRIDGES_BLOCKED",
+      "name": "Blockage in the Bridge ",
+      "localname": "???????? ??????",
+      "keywords": null,
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_BRIDGES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_STREETLIGHT_NOT_WORKING",
+      "name": "Streetlight not working",
+      "localname": "??????????????? ????????????????????",
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "department": "PWD",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_STREETLIGHTS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_STREET_LIGHT_WORKING_OUT_OF_TIME",
+      "name": "street light working out of time ",
+      "localname": "?????? ??????? ???? ??????????",
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "department": "PWD",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_STREETLIGHTS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_INSTALLATION_OF_NEW_STREET_LIGHT",
+      "name": "Installation of new street light",
+      "localname": "????? ?????? ??????? ??????????",
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "department": "PWD",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_STREETLIGHTS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_DIRTY_OR_SMELLY_PUBLIC_TOILETS",
+      "name": "Dirty or smelly public toilets",
+      "localname": "????????????? ???????? ???????????? ?? ???? ????????????",
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "department": "PWD",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_PUBLIC TOILETS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_PUBLIC_TOILET_DAMAGED",
+      "name": "Public toilet damaged",
+      "localname": "???? ??????? ???????",
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, Damaged, Not working",
+      "department": "PWD",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_PUBLIC TOILETS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_NO_WATER_OR_ELECTRICITY_IN_PUBLIC_TOILET",
+      "name": "No water or electricity in public toilet",
+      "localname": "???? ??????????? ??????? ?????????? ????",
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "department": "PWD",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_PUBLIC TOILETS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_PARKS_REQUIRE_MAINTENANCE",
+      "name": "Parks require maintenance",
+      "localname": "????????????? ?????????????? ?????????",
+      "keywords": null,
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_PARKS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_STADIUM_REQUIRE_MAINTENANCE",
+      "name": "Stadium require maintenance",
+      "localname": "??????????????? ?????????????? ?????????",
+      "keywords": null,
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_STADIUM",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ILLEGAL_OCCUPATION_",
+      "name": "Illegal Occupation ",
+      "localname": "?????????????? ?????",
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle, govt, land",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_LAND_ENCROACHMENTS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ILLEGAL_CONSTRUCTION",
+      "name": "Illegal Construction",
+      "localname": "??????? ???????",
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle, govt, land",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_LAND_ENCROACHMENTS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ILLEGAL_SHOPS_ON_ROAD_FOOTPATH",
+      "name": "Illegal Shops on Road/ footpath",
+      "localname": "??????/ ??????????? ??????? ????",
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_MISUSE_PUBLIC_PLACE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ILLEGAL_PARKING",
+      "name": "Illegal Parking",
+      "localname": "??????? ??????????",
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_MISUSE_PUBLIC_PLACE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_UNAUTHORISED_CONSTRUCTIONS",
+      "name": "Unauthorised Constructions",
+      "localname": "??????? ??????????",
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_UNLAWFULL_CONSTRUCTIONS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_CONSTRUCTIONS_VIOLATIVE_OF_BUILDING_RULES/PERMIT",
+      "name": "Constructions violative of Building Rules/Permit ",
+      "localname": "???????? ?????/????????? ??????????? ????????????",
+      "keywords": null,
+      "department": "PWD",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_UNLAWFULL_CONSTRUCTIONS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_GARBAGE/WASTE_NEEDS_TO_BE_CLEARED",
+      "name": "Garbage/Waste needs to be cleared",
+      "localname": "????????/??????????? ?????? ???????",
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw, plastic",
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_NON-SWEEPING_OF_ROAD",
+      "name": "Non-sweeping of road",
+      "localname": "???? ???????????????",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_BURNING_OF_GARBAGE_WASTE",
+      "name": "Burning of garbage/Waste",
+      "localname": "????????/??????????? ??????????????",
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_DAMAGED_GARBAGE_WASTE_BIN",
+      "name": "Damaged Garbage/Waste Bin",
+      "localname": "????? ????????/??????? ???",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_NEED_GARBAGE_WASTE_BIN",
+      "name": "Need Garbage/Waste Bin",
+      "localname": "????????/???????? ??? ????",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_DAMAGED_MCF",
+      "name": "Damaged MCF",
+      "localname": "????? ??.??.???",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_NEED_MCF",
+      "name": "Need MCF",
+      "localname": "??????? ????",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_GARBAGE_WASTE_LITTERING_AT_PUBLIC_PLACE",
+      "name": "Garbage/waste littering at public place",
+      "localname": "???????????? ????????/??????????? ?????",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_GARBAGE_WASTE_LITTERING_ON_WATER_SOURCES",
+      "name": "Garbage/waste littering on water sources",
+      "localname": "??????????????? ????????/??????????? ?????",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_GARBAGE_WASTE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_DRAIN_COVER_MISSING_OR_BROKEN",
+      "name": "Drain Cover Missing or Broken ",
+      "localname": "??????? ??? ??????????? ?????????? ???????",
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_DRAINS_SEWERAGE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_OVERFLOWING_BLOCKED_DRAIN",
+      "name": "Overflowing/Blocked drain",
+      "localname": "??????????????/????? ??????????",
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck, man, hole, cover",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_DRAINS_SEWERAGE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_CLEANING_OF_DRAINS",
+      "name": "Cleaning of drains",
+      "localname": "????????????? ????????????",
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck, man, hole, cover",
+      "department": "HTH",
+      "slaHours": 21,
+      "menuPath": "GR_TYPE_DRAINS_SEWERAGE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_WATER_ENTERED_HOUSE_RAINY_SEASON",
+      "name": "Water entered house rainy season",
+      "localname": "??????????? ??????????? ?????? ????",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_FLOODING_WATERLOGGING",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_REQUEST_SPRAYING_OR_FOGGING_OPERATION",
+      "name": "Request spraying or fogging operation",
+      "localname": "??????????? ?????????? ??????? ?????????? ??????????????",
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_MOSQITOES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_STRAY_DOG_MENACE",
+      "name": "Stray Dog Menace",
+      "localname": "?????? ??? ?????",
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_ANIMALS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_OTHER_STRAY_ANIMALS",
+      "name": "Other Stray animals",
+      "localname": "????? ?????????? ???????",
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_ANIMALS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_DEAD_ANIMALS",
+      "name": "Dead animals",
+      "localname": "???? ???????",
+      "keywords": null,
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_ANIMALS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_UNLICENSED",
+      "name": "Unlicensed",
+      "localname": "???????????????",
+      "keywords": "Unlicensed ",
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_BUSINESS_ECONOMIC_ACTIVITIES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ILLEGAL_ITEMS_BANNED_ITEMS",
+      "name": "Illegal Items/Banned Items ",
+      "localname": "?????????????? ??????/??????? ??????",
+      "keywords": "Illegal items, Banned, Narcotics, Weapons, Drugs, Poison",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_BUSINESS_ECONOMIC_ACTIVITIES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_UNHEALTHY_ITEMS",
+      "name": "Unhealthy Items ",
+      "localname": "????????????? ?????????",
+      "keywords": "Foul Food, Rotten Food, Adulterated ",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_BUSINESS_ECONOMIC_ACTIVITIES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_CUTTING_OR_TRIMMING_OF_TREE_REQUIRED",
+      "name": "Cutting or trimming of tree required",
+      "localname": "??? ??????????? ??????????? ??????????? ?????????",
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_TREES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_ILLEGAL_CUTTING_OF_TREES",
+      "name": "Illegal cutting of trees",
+      "localname": "?????? ??????????? ????????",
+      "keywords": "tree, remove, cut, plant, branch",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_TREES",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_AGAINST_HOUSEHOLDS",
+      "name": "Against Households",
+      "localname": "?????????????????",
+      "keywords": "Neigbhour Complaints, Nuissance, Sound, Disturbance, Toilet, Waste, Encroachment, Tree, Property ",
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_SAFETY_NUISSANCE_COMPLAINTS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_AGAINST_BUSINESS_UNITS",
+      "name": "Against Business Units",
+      "localname": "??????? ??????????????????",
+      "keywords": "Factory, Sound, Pollution, Waste, Encroachment ",
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_SAFETY_NUISSANCE_COMPLAINTS",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_FOOD",
+      "name": "Food",
+      "localname": "??????",
+      "keywords": "Food, Hungry, Nutrition, Lunch, Dinner, Breakfast, Poor, Poverty ",
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_MEDICINES",
+      "name": "Medicines",
+      "localname": "?????????",
+      "keywords": "Medicine, Poor, Poverty , Emergency, Ill, Sick ",
+      "department": "HTH",
+      "slaHours": 7,
+      "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_CLOTHING",
+      "name": "Clothing",
+      "localname": "???????",
+      "keywords": "Dress, Cloth, Poor, Poverty ",
+      "department": "HTH",
+      "slaHours": 14,
+      "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
+      "active": true,
+      "order": null
+    },
+    {
+      "serviceCode": "GR_TYPE_HOUSING",
+      "name": "Housing",
+      "localname": "????????",
+      "keywords": "House, Home, Rent, Poor, Poverty, Damaged, Leaking, Roof, Wall ",
+      "department": "HTH",
+      "slaHours": 49,
+      "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
+      "active": true,
+      "order": null
     }
   ]
 }

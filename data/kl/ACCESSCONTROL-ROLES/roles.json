@@ -624,18 +624,23 @@
     },
     {
       "code": "BND_SUB_REGISTRAR",
-      "name": "Birth and Death Enquiry officer",
-      "description": "Birth and Death Enquiry officer"
+      "name": "Birth and Death Sub Registrar",
+      "description": "Birth and Death Sub Registrar"
     },
     {
       "code": "BND_LOCAL_REGISTRAR",
-      "name": "Birth and Death Approver",
-      "description": "Birth and Death Approver"
+      "name": "Birth and Death Local Registrar",
+      "description": "Birth and Death Local Registrar"
     },
     {
       "code": "BND_DISTRICT_REGISTRAR",
-      "name": "Birth and Death Approver",
-      "description": "Birth and Death Approver after one year"
+      "name": "Birth and Death District Registrar",
+      "description": "Birth and Death District Registrar"
+    },
+    {
+      "code": "JHI",
+      "name": "Birth and Death JHI",
+      "description": "Birth and Death JHI"
     },
     {
       "code": "DASHBOARD_REPORT_VIEWER",
@@ -696,6 +701,58 @@
       "code": "TL_PDEAPPROVER",
       "name": "License PDE Approver",
       "description": "Approver who verifies and approves the TL PDE application"
+    },
+   
+     {
+      "code": "HOSPITAL_OPERATOR",
+      "name": "Hospital Operator",
+      "description": "Hospital Operator"
+    },
+     {
+      "code": "HOSPITAL_APPROVER",
+      "name": "Hospital Approver",
+      "description": "Hospital Approver"
+    },
+     {
+      "code": "INSTITUTION_OPERATOR",
+      "name": "Institution Operator",
+      "description": "Institution Operator"
+    },
+    {
+      "code": "INSTITUTION_APPROVER",
+      "name": "Institution Approver",
+      "description": "Institution Approver"
+    },
+        {
+      "code": "WARD_OVERSEER",
+      "name": "Ward Overseer",
+      "description": "Ward Overseer"
+    },
+    {
+      "code": "OVERSEER_HIGHER",
+      "name": "Overseer Higher",
+      "description": "Overseer Higher"
+    },
+    {
+      "code": "AE",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer"
+    },
+    {
+      "code": "WARD_JHI",
+      "name": "Junior Health Inspector",
+      "description": "Junior Health Inspector"
+    },
+    {
+      "code": "PGR_JHI",
+      "name": "Junior Health Inspector I/Health Inspector II/I",
+      "description": "Junior Health Inspector I/Health Inspector II/I"
+    },
+    {
+      "code": "HIHS",
+      "name": "Health Inspector/Health Supervisor",
+      "description": "Health Inspector/Health Supervisor"
     }
+    
   ]
 }

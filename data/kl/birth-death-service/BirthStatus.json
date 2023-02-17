@@ -1,0 +1,27 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "BirthStatus": [
+    {
+      "code": "OPTION_No",
+      "name": "No",
+      "namelocal": "ഇല്ല",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "STILL_BIRTH",
+      "name": "Still Birth",
+      "namelocal": "നിർജീവജനനം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "LIVE_BIRTH",
+      "name": "Live Birth",
+      "namelocal": "തത്സമയ ജനനം",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}
