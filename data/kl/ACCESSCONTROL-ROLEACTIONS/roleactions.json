@@ -25779,6 +25779,67 @@
       "actionid": 2417,
       "actioncode": "",
       "tenantId": "kl"
+    },
+     {
+      "rolecode": "WARD_OVERSEER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+      {
+      "rolecode": "OVERSEER_HIGHER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "AE",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "WARD_JHI",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_JHI",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "HIHS",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+
+  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
     }
   ]
 }
