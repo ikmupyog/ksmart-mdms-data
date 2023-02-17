@@ -25901,6 +25901,42 @@
       "actionid": 1729,
       "actioncode": "",
       "tenantId": "kl"
+    },
+     {
+      "rolecode": "WARD_OVERSEER",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+      {
+      "rolecode": "OVERSEER_HIGHER",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "AE",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "WARD_JHI",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_JHI",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "HIHS",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "kl"
     }
   ]
 }
