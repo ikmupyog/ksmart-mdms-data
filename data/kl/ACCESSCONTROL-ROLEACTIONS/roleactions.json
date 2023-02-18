@@ -5296,15 +5296,51 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2418,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2419,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
      {
       "rolecode": "BND_LOCAL_REGISTRAR",
       "actionid": 2411,
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2418,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2419,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
      {
       "rolecode": "BND_DISTRICT_REGISTRAR",
       "actionid": 2412,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2418,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2419,
       "actioncode": "",
       "tenantId": "kl"
     },
