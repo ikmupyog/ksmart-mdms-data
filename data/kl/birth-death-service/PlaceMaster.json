@@ -4,44 +4,46 @@
   "PlaceMaster": [
     {
       "name": "Hospital",
-      "namelocal": "",
+      "namelocal": "ആശുപത്രി",
       "code": "HOSPITAL",
       "active": true,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Institution",
-      "namelocal": "",
+      "namelocal": "സ്ഥാപനം",
       "code": "INSTITUTION",
       "active": true,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Home",
-      "namelocal": "",
+      "namelocal": "വീട്",
       "code": "HOME",
       "active": true,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Vehicle",
-      "namelocal": "",
+      "namelocal": "വാഹനം",
       "code": "VEHICLE",
       "active": true,
-      "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Public Places",
-      "namelocal": "",
+      "namelocal": "പൊതു സ്ഥലങ്ങൾ",
       "code": "PUBLIC_PLACES",
       "active": true,
       "type": "BND"
+      "type": "COMMON"
     },
     {
       "name": "Others Country",
-      "namelocal": "",
+      "namelocal": "മറ്റുള്ളവ രാജ്യം",
       "code": "OTHERS_COUNTRY",
-      "active": false
+      "active": false,
+      "type": "COMMON"
     }
   ]
 }
