@@ -6,43 +6,37 @@
       "name": "Hospital",
       "namelocal": "ആശുപത്രി",
       "code": "HOSPITAL",
-      "active": true,
-      "type": "COMMON"
+      "active": true
     },
     {
       "name": "Institution",
       "namelocal": "സ്ഥാപനം",
       "code": "INSTITUTION",
-      "active": true,
-      "type": "COMMON"
+      "active": true
     },
     {
       "name": "Home",
       "namelocal": "വീട്",
       "code": "HOME",
-      "active": true,
-      "type": "COMMON"
+      "active": true
     },
     {
       "name": "Vehicle",
       "namelocal": "വാഹനം",
       "code": "VEHICLE",
-      "active": true,
-      "type": "COMMON"
+      "active": true
     },
     {
       "name": "Public Places",
       "namelocal": "പൊതു സ്ഥലങ്ങൾ",
       "code": "PUBLIC_PLACES",
-      "active": true,
-      "type": "COMMON"
+      "active": true
     },
     {
       "name": "Others Country",
       "namelocal": "മറ്റുള്ളവ രാജ്യം",
       "code": "OTHERS_COUNTRY",
-      "active": false,
-      "type": "COMMON"
+      "active": false
     }
   ]
 }
