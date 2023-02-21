@@ -1,0 +1,20 @@
+{
+    "tenantId": "kl",
+    "moduleName": "TradeLicense",
+    "BusinessType": [
+    {
+		 "name": "Construction Materials",
+		 "localname" : "കെട്ടിട നിര്‍മ്മാണ സാമഗ്രികള്‍",
+         "code": "TC1.TT1",
+		 "categorytype":"MANUFACTURING",
+		 "parentcode":"TC1"
+    },
+	{
+		 "name": " Manufacturing of Building construction materials",
+		 "localname" : "കെട്ടിട നിര്‍മ്മാണ സാമഗ്രികളുടെ നിര്‍മ്മാണം",
+         "code": "TC2.TT7",
+		 "categorytype":"MANUFACTURING",
+		 "parentcode":"TC2"
+    }
+   ]
+}
