@@ -10,7 +10,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_ROAD",
-      "menuCode":"PGRCRD"
+      "menuCode":"PGRCRD",
       "active": true,
       "order": null
     },
@@ -22,7 +22,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_ROAD",
-      "menuCode":"PGRCRD"
+      "menuCode":"PGRCRD",
       "active": true,
       "order": null
     },
@@ -34,7 +34,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_ROAD",
-      "menuCode":"PGRCRD"
+      "menuCode":"PGRCRD",
       "active": true,
       "order": null
     },
@@ -46,7 +46,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_ROAD",
-      "menuCode":"PGRCRD"
+      "menuCode":"PGRCRD",
       "active": true,
       "order": null
     },
@@ -58,7 +58,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_FOOTPATHS",
-      "menuCode":"PGRCFP"
+      "menuCode":"PGRCFP",
       "active": true,
       "order": null
     },
@@ -70,7 +70,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_FOOTPATHS",
-      "menuCode":"PGRCFP"
+      "menuCode":"PGRCFP",
       "active": true,
       "order": null
     },
@@ -82,7 +82,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_FOOTPATHS",
-      "menuCode":"PGRCFP"
+      "menuCode":"PGRCFP",
       "active": true,
       "order": null
     },
@@ -94,7 +94,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_BRIDGES",
-      "menuCode":"PGRCBD"
+      "menuCode":"PGRCBD",
       "active": true,
       "order": null
     },
@@ -106,7 +106,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_BRIDGES",
-      "menuCode":"PGRCBD"
+      "menuCode":"PGRCBD",
       "active": true,
       "order": null
     },
@@ -118,7 +118,7 @@
       "department": "PWD",
       "slaHours": 21,
       "menuPath": "GR_TYPE_STREETLIGHTS",
-      "menuCode":"PGRCSL"
+      "menuCode":"PGRCSL",
       "active": true,
       "order": null
     },
@@ -130,7 +130,7 @@
       "department": "PWD",
       "slaHours": 21,
       "menuPath": "GR_TYPE_STREETLIGHTS",
-      "menuCode":"PGRCSL"
+      "menuCode":"PGRCSL",
       "active": true,
       "order": null
     },
@@ -142,7 +142,7 @@
       "department": "PWD",
       "slaHours": 21,
       "menuPath": "GR_TYPE_STREETLIGHTS",
-      "menuCode":"PGRCSL"
+      "menuCode":"PGRCSL",
       "active": true,
       "order": null
     },
@@ -154,7 +154,7 @@
       "department": "PWD",
       "slaHours": 21,
       "menuPath": "GR_TYPE_PUBLIC TOILETS",
-      "menuCode":"PGRCTL"
+      "menuCode":"PGRCTL",
       "active": true,
       "order": null
     },
@@ -166,7 +166,7 @@
       "department": "PWD",
       "slaHours": 21,
       "menuPath": "GR_TYPE_PUBLIC TOILETS",
-      "menuCode":"PGRCTL"
+      "menuCode":"PGRCTL",
       "active": true,
       "order": null
     },
@@ -178,7 +178,7 @@
       "department": "PWD",
       "slaHours": 21,
       "menuPath": "GR_TYPE_PUBLIC TOILETS",
-      "menuCode":"PGRCTL"
+      "menuCode":"PGRCTL",
       "active": true,
       "order": null
     },
@@ -190,7 +190,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_PARKS",
-      "menuCode":"PGRCPK"
+      "menuCode":"PGRCPK",
       "active": true,
       "order": null
     },
@@ -202,7 +202,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_STADIUM",
-      "menuCode":"PGRCSD"
+      "menuCode":"PGRCSD",
       "active": true,
       "order": null
     },
@@ -214,7 +214,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_LAND_ENCROACHMENTS",
-      "menuCode":"PGRCLE"
+      "menuCode":"PGRCLE",
       "active": true,
       "order": null
     },
@@ -226,7 +226,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_LAND_ENCROACHMENTS",
-      "menuCode":"PGRCLE"
+      "menuCode":"PGRCLE",
       "active": true,
       "order": null
     },
@@ -238,7 +238,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_MISUSE_PUBLIC_PLACE",
-      "menuCode":"PGRCPL"
+      "menuCode":"PGRCPL",
       "active": true,
       "order": null
     },
@@ -250,7 +250,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_MISUSE_PUBLIC_PLACE",
-      "menuCode":"PGRCPL"
+      "menuCode":"PGRCPL",
       "active": true,
       "order": null
     },
@@ -262,7 +262,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_UNLAWFULL_CONSTRUCTIONS",
-      "menuCode":"PGRCUC"
+      "menuCode":"PGRCUC",
       "active": true,
       "order": null
     },
@@ -274,7 +274,7 @@
       "department": "PWD",
       "slaHours": 49,
       "menuPath": "GR_TYPE_UNLAWFULL_CONSTRUCTIONS",
-      "menuCode":"PGRCUC"
+      "menuCode":"PGRCUC",
       "active": true,
       "order": null
     },
@@ -286,7 +286,7 @@
       "department": "HTH",
       "slaHours": 7,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -298,7 +298,7 @@
       "department": "HTH",
       "slaHours": 7,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -310,7 +310,7 @@
       "department": "HTH",
       "slaHours": 7,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -322,7 +322,7 @@
       "department": "HTH",
       "slaHours": 21,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -334,7 +334,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -346,7 +346,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -358,7 +358,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -370,7 +370,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -382,7 +382,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_GARBAGE_WASTE",
-      "menuCode":"PGRCWS"
+      "menuCode":"PGRCWS",
       "active": true,
       "order": null
     },
@@ -394,7 +394,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_DRAINS_SEWERAGE",
-      "menuCode":"PGRCDR"
+      "menuCode":"PGRCDR",
       "active": true,
       "order": null
     },
@@ -406,7 +406,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_DRAINS_SEWERAGE",
-      "menuCode":"PGRCDR"
+      "menuCode":"PGRCDR",
       "active": true,
       "order": null
     },
@@ -418,7 +418,7 @@
       "department": "HTH",
       "slaHours": 21,
       "menuPath": "GR_TYPE_DRAINS_SEWERAGE",
-      "menuCode":"PGRCDR"
+      "menuCode":"PGRCDR",
       "active": true,
       "order": null
     },
@@ -430,7 +430,7 @@
       "department": "HTH",
       "slaHours": 7,
       "menuPath": "GR_TYPE_FLOODING_WATERLOGGING",
-      "menuCode":"PGRCFL"
+      "menuCode":"PGRCFL",
       "active": true,
       "order": null
     },
@@ -454,7 +454,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_ANIMALS",
-      "menuCode":"PGRCAN"
+      "menuCode":"PGRCAN",
       "active": true,
       "order": null
     },
@@ -466,7 +466,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_ANIMALS",
-      "menuCode":"PGRCAN"
+      "menuCode":"PGRCAN",
       "active": true,
       "order": null
     },
@@ -478,7 +478,7 @@
       "department": "HTH",
       "slaHours": 7,
       "menuPath": "GR_TYPE_ANIMALS",
-      "menuCode":"PGRCAN"
+      "menuCode":"PGRCAN",
       "active": true,
       "order": null
     },
@@ -490,7 +490,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_BUSINESS_ECONOMIC_ACTIVITIES",
-      "menuCode":"PGRCBE"
+      "menuCode":"PGRCBE",
       "active": true,
       "order": null
     },
@@ -502,7 +502,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_BUSINESS_ECONOMIC_ACTIVITIES",
-      "menuCode":"PGRCBE"
+      "menuCode":"PGRCBE",
       "active": true,
       "order": null
     },
@@ -514,7 +514,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_BUSINESS_ECONOMIC_ACTIVITIES",
-      "menuCode":"PGRCBE"
+      "menuCode":"PGRCBE",
       "active": true,
       "order": null
     },
@@ -526,7 +526,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_TREES",
-      "menuCode":"PGRCRTR"
+      "menuCode":"PGRCRTR",
       "active": true,
       "order": null
     },
@@ -538,7 +538,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_TREES",
-      "menuCode":"PGRCRTR"
+      "menuCode":"PGRCRTR",
       "active": true,
       "order": null
     },
@@ -550,7 +550,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_SAFETY_NUISSANCE_COMPLAINTS",
-      "menuCode":"PGRCSN"
+      "menuCode":"PGRCSN",
       "active": true,
       "order": null
     },
@@ -562,7 +562,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_SAFETY_NUISSANCE_COMPLAINTS",
-      "menuCode":"PGRCSN"
+      "menuCode":"PGRCSN",
       "active": true,
       "order": null
     },
@@ -574,7 +574,7 @@
       "department": "HTH",
       "slaHours": 7,
       "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
-      "menuCode":"PGRCNL"
+      "menuCode":"PGRCNL",
       "active": true,
       "order": null
     },
@@ -586,7 +586,7 @@
       "department": "HTH",
       "slaHours": 7,
       "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
-      "menuCode":"PGRCNL"
+      "menuCode":"PGRCNL",
       "active": true,
       "order": null
     },
@@ -598,7 +598,7 @@
       "department": "HTH",
       "slaHours": 14,
       "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
-      "menuCode":"PGRCNL"
+      "menuCode":"PGRCNL",
       "active": true,
       "order": null
     },
@@ -610,7 +610,7 @@
       "department": "HTH",
       "slaHours": 49,
       "menuPath": "GR_TYPE_BASIC_NECESSITIES_OF_LIFE",
-      "menuCode":"PGRCNL"
+      "menuCode":"PGRCNL",
       "active": true,
       "order": null
     }
