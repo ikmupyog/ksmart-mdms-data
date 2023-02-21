@@ -4,42 +4,42 @@
   "LBType": [
     {
       "name": "District Panchayat",
-      "namelocal": "?????? ??????????",
+      "namelocal": "ജില്ലാ പഞ്ചായത്ത്",
       "code": "LB_TYPE_DIST_PANCHAYAT",
       "active": false,
       "type": "COMMON"
     },
     {
       "name": "Block Panchayat",
-      "namelocal": "???????? ??????????",
+      "namelocal": "ബ്ലോക്ക് പഞ്ചായത്ത്",
       "code": "LB_TYPE_BLOCK_PANCHAYAT",
       "active": false,
       "type": "COMMON"
     },
     {
       "name": "Municipality",
-      "namelocal": "????????????????",
+      "namelocal": "മുനിസിപ്പാലിറ്റി",
       "code": "LB_TYPE_MUNICIPALITY",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Corporation",
-      "namelocal": "??????????",
+      "namelocal": "കോർപ്പറേഷൻ",
       "code": "LB_TYPE_CORPORATION",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "Grama Panchayath",
-      "namelocal": "???????????????",
+      "namelocal": "ഗ്രാമപഞ്ചായത്ത്",
       "code": "LB_TYPE_GRAMA_PANCHAYAT",
       "active": true,
       "type": "COMMON"
     },
     {
       "name": "State Level",
-      "namelocal": "??????? ???",
+      "namelocal": "സംസ്ഥാന തലം",
       "code": "LB_TYPE_STATE_LEVEL",
       "active": false,
       "type": "COMMON"

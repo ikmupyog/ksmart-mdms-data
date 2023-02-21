@@ -26106,6 +26106,12 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+     {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
     {
       "rolecode": "HOSPITAL_APPROVER",
       "actionid": 1741,
@@ -26124,6 +26130,12 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
          {
       "rolecode": "HOSPITAL_APPROVER",
       "actionid": 1743,
@@ -26133,6 +26145,12 @@
     {
       "rolecode": "BND_SUB_REGISTRAR",
       "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "kl"
     },
@@ -26154,7 +26172,7 @@
       "actioncode": "",
       "tenantId": "kl"
     },
-         {
+      {
       "rolecode": "BND_SUB_REGISTRAR",
       "actionid": 1742,
       "actioncode": "",
@@ -26169,6 +26187,12 @@
     {
       "rolecode": "BND_LOCAL_REGISTRAR",
       "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2155,
       "actioncode": "",
       "tenantId": "kl"
     },
