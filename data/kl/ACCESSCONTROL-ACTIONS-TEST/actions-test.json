@@ -14181,8 +14181,18 @@
       "serviceCode": "death-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2462,
+      "name": "Search birth certificate",
+      "url": "/birth-services/cr/registry/searchcert",
+      "parentModule": "",
+      "displayName": "Search birth certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
     }
-
-
    ]
 }

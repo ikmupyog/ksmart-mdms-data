@@ -4,45 +4,33 @@
   "PlaceMaster": [
     {
       "name": "Hospital",
-      "namelocal": "",
+      "namelocal": "????????",
       "code": "HOSPITAL",
-      "active": true,
-      "type": "BND"
+      "active": true
     },
     {
       "name": "Institution",
-      "namelocal": "",
+      "namelocal": "???????",
       "code": "INSTITUTION",
-      "active": true,
-      "type": "BND"
+      "active": true
     },
     {
       "name": "Home",
-      "namelocal": "",
+      "namelocal": "????",
       "code": "HOME",
-      "active": true,
-      "type": "BND"
+      "active": true
     },
     {
       "name": "Vehicle",
-      "namelocal": "",
+      "namelocal": "?????",
       "code": "VEHICLE",
-      "active": true,
-      "type": "BND"
+      "active": true
     },
     {
       "name": "Public Places",
-      "namelocal": "",
+      "namelocal": "???? ????????",
       "code": "PUBLIC_PLACES",
-      "active": true,
-      "type": "BND"
-    },
-    {
-      "name": "Others Country",
-      "namelocal": "",
-      "code": "OTHERS_COUNTRY",
-      "active": false,
-      "type": "BND"
+      "active": true
     }
   ]
 }
