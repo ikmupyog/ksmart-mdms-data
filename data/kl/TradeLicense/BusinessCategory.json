@@ -1,0 +1,18 @@
+{
+    "tenantId": "kl",
+    "moduleName": "TradeLicense",
+    "BusinessCategory": [
+    {
+		 "name": "Quarrying, Mining & Extraction",
+		 "localname" : "ഖനനം, വേര്‍തിരിച്ചെടുക്കല്‍",
+         "code": "TC1",
+		 "categorytype":"MANUFACTURING"
+    },
+	{
+		 "name": "Industries, Factories, Boilers – Production, Manufacturing, Assembling, Processing",
+		 "localname" : "വ്യവസായങ്ങള്‍, ഫാക്ടറീസ്, ബൊയിലെര്‍സ് - നിര്‍മ്മാണം, ഉല്പാദനം, കൂട്ടി ചേര്‍ക്കല്‍, പ്രോസസ്സിംഗ്",
+         "code": "TC2",
+		 "categorytype":"MANUFACTURING"
+    }
+   ]
+}
