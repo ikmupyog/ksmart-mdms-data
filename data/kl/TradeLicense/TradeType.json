@@ -4,9 +4,10 @@
     "TradeType": [
     {
         "name": "Granite Quarrying",
-		 "localname" : "ഗ്രാനൈറ്റ് ഖനനം",
+"localname" : "ഗ്രാനൈറ്റ് ഖനനം",
         "code": "TC1.TT1.TST1",
-		"parentcode":"TC1.TT1",
+"parentcode":"TC1.TT1",
+"uom": null,
         "applicationDocument": {
             "applicationType": "NEW",
             "documentList": [
@@ -20,11 +21,12 @@
         "type": "TL",
         "validityPeriod": null
     },
-	 {
+{
         "name": "Manufacture of builders carpentry and joinery",
-		 "localname" : "കെട്ടിട നിർമ്മാതാക്കളുടെ മരപ്പണി, തച്ചുവേല എന്നിവയുടെ നിർമ്മാണം",
+"localname" : "കെട്ടിട നിർമ്മാതാക്കളുടെ മരപ്പണി, തച്ചുവേല എന്നിവയുടെ നിർമ്മാണം",
         "code": "TC2.TT7.TST16",
-		"parentcode":"TC2.TT7",
+"parentcode":"TC2.TT7",
+"uom": null,
         "applicationDocument": {
             "applicationType": "NEW",
             "documentList": [
@@ -38,5 +40,5 @@
         "type": "TL",
         "validityPeriod": null
     }
-	]
+]
 }
