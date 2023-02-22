@@ -8,7 +8,7 @@
         "name": "REVENUE"
       },
       "boundary": {
-        "id": "4964a1ef-611e-4384-b4bf-9fd816646692",
+        "id": "6e6960e5-8a54-4a8b-bc42-01bbbfb946c4",
         "boundaryNum": 1,
         "name": "Kannur",
         "localname": "കണ്ണൂര്‍ കോര്‍പ്പറേഷന്‍",
@@ -18,7 +18,7 @@
         "code": "kl.kannur",
         "children": [
           {
-            "id": "3fe17df0-3b7b-4464-be1e-5bc503ff83bf",
+            "id": "b18a29a3-4e3a-42f6-ab28-c0b9b7ab7f2f",
             "boundaryNum": 1,
             "name": "Main Office",
             "localname": "മുഖ്യ ഓഫീസ് ",
@@ -29,9 +29,9 @@
             "assesmentyear": "None",
             "children": [
               {
-                "id": "084e7c04-78c0-422e-8396-c6e0877a5696",
+                "id": "2ddced80-8d2c-4a97-846e-dc02aeca92b3",
                 "boundaryNum": 1,
-                "name": "Padanna",
+                "name": "PADANNA",
                 "localname": "പടന്ന",
                 "longitude": null,
                 "latitude": null,
@@ -41,9 +41,9 @@
                 "code": "1125901081",
                 "children": [
                   {
-                    "id": "08936011-b51a-4e6e-a75b-ec70bab4853c",
+                    "id": "26fd5ab7-f03d-4174-ac8e-c6023b285974",
                     "boundaryNum": 1,
-                    "name": "Padanna",
+                    "name": "PADANNA",
                     "localname": "പടന്ന",
                     "longitude": null,
                     "latitude": null,
@@ -59,9 +59,9 @@
                 ]
               },
               {
-                "id": "91365893-c0da-4767-a5d2-22d8360f81ad",
+                "id": "2d97b242-0faf-4992-a655-a5bcacf408b9",
                 "boundaryNum": 2,
-                "name": "Vethilapally",
+                "name": "VETHILAPALLY",
                 "localname": "വെത്തിലപ്പള്ളി",
                 "longitude": null,
                 "latitude": null,
@@ -71,9 +71,9 @@
                 "code": "1125901082",
                 "children": [
                   {
-                    "id": "febca44a-205f-44e5-b69f-e26a2da7ebe2",
+                    "id": "e468ee13-6e3e-411e-9752-a4f60b719c2d",
                     "boundaryNum": 2,
-                    "name": "Vethilapally",
+                    "name": "VETHILAPALLY",
                     "localname": "വെത്തിലപ്പള്ളി",
                     "longitude": null,
                     "latitude": null,
@@ -89,9 +89,9 @@
                 ]
               },
               {
-                "id": "1ddfb74f-f08a-486e-a3d6-7c87d1fc250d",
+                "id": "d1b2c2a1-2eec-4414-aa39-b7fdee362006",
                 "boundaryNum": 3,
-                "name": "Neerchal",
+                "name": "NEERCHAL",
                 "localname": "നീര്‍ച്ചാല്‍",
                 "longitude": null,
                 "latitude": null,
@@ -101,9 +101,9 @@
                 "code": "1125901083",
                 "children": [
                   {
-                    "id": "978c7c38-2af6-414d-bb7c-ca3ea1ac1985",
+                    "id": "256516ff-c1cc-4453-a618-a7a62cc5496b",
                     "boundaryNum": 3,
-                    "name": "Neerchal",
+                    "name": "NEERCHAL",
                     "localname": "നീര്‍ച്ചാല്‍",
                     "longitude": null,
                     "latitude": null,
@@ -119,9 +119,9 @@
                 ]
               },
               {
-                "id": "c8d70fca-ad30-483f-9211-a0d6f9e885ad",
+                "id": "f3a8a1ef-f751-4baf-bec3-e4f5bde1bf5f",
                 "boundaryNum": 4,
-                "name": "Arakkal",
+                "name": "ARAKKAL",
                 "localname": "അറക്കല്‍",
                 "longitude": null,
                 "latitude": null,
@@ -131,9 +131,9 @@
                 "code": "1125901084",
                 "children": [
                   {
-                    "id": "f475811a-3038-475c-82d1-3d9a4861d16e",
+                    "id": "c36f590b-28ca-4f68-b2b2-f5052f2a40b3",
                     "boundaryNum": 4,
-                    "name": "Arakkal",
+                    "name": "ARAKKAL",
                     "localname": "അറക്കല്‍",
                     "longitude": null,
                     "latitude": null,
@@ -149,9 +149,9 @@
                 ]
               },
               {
-                "id": "b43a87c9-5906-4bee-8fb7-1232b7752598",
+                "id": "193c24e1-96ff-48e9-8d32-a1d109034eb0",
                 "boundaryNum": 5,
-                "name": "Chovva",
+                "name": "CHOVVA",
                 "localname": "ചൊവ്വ",
                 "longitude": null,
                 "latitude": null,
@@ -161,9 +161,9 @@
                 "code": "1125901085",
                 "children": [
                   {
-                    "id": "e55eeede-13dc-41e0-b272-a4877be0a53a",
+                    "id": "d9cf9577-2f14-45e1-9eb5-37f081c9ad70",
                     "boundaryNum": 5,
-                    "name": "Chovva",
+                    "name": "CHOVVA",
                     "localname": "ചൊവ്വ",
                     "longitude": null,
                     "latitude": null,
@@ -179,9 +179,9 @@
                 ]
               },
               {
-                "id": "3490b45a-0118-4436-87e3-35923be92270",
+                "id": "919c6226-923c-49d1-8abb-773688a15b54",
                 "boundaryNum": 6,
-                "name": "Thana",
+                "name": "THANA",
                 "localname": "താണ",
                 "longitude": null,
                 "latitude": null,
@@ -191,9 +191,9 @@
                 "code": "1125901086",
                 "children": [
                   {
-                    "id": "342b7471-8a8e-48c6-86cf-3bdf953d08ff",
+                    "id": "da71acea-0b66-4b9e-81e2-a02dd609fa85",
                     "boundaryNum": 6,
-                    "name": "Thana",
+                    "name": "THANA",
                     "localname": "താണ",
                     "longitude": null,
                     "latitude": null,
@@ -209,9 +209,9 @@
                 ]
               },
               {
-                "id": "bf26955a-3c30-4ca6-adcf-590288751680",
+                "id": "f8af622c-c7a7-429d-b9fc-f00677816feb",
                 "boundaryNum": 7,
-                "name": "South bazar",
+                "name": "SOUTH BAZAR",
                 "localname": "സൗത്ത് ബസാര്‍",
                 "longitude": null,
                 "latitude": null,
@@ -221,9 +221,9 @@
                 "code": "1125901087",
                 "children": [
                   {
-                    "id": "2e9e335f-2e51-4dc4-ac66-2d4183d27ae6",
+                    "id": "d23fb238-24ea-4c46-8a01-3c5d09b3639f",
                     "boundaryNum": 7,
-                    "name": "South bazar",
+                    "name": "SOUTH BAZAR",
                     "localname": "സൗത്ത് ബസാര്‍",
                     "longitude": null,
                     "latitude": null,
@@ -239,9 +239,9 @@
                 ]
               },
               {
-                "id": "b7af6fc4-03ed-4fb1-9c63-53401f7490b9",
+                "id": "0f14df30-eecd-4752-b923-27679fdb45f3",
                 "boundaryNum": 8,
-                "name": "Temple",
+                "name": "TEMPLE",
                 "localname": "ടെമ്പിള്‍",
                 "longitude": null,
                 "latitude": null,
@@ -251,9 +251,9 @@
                 "code": "1125901088",
                 "children": [
                   {
-                    "id": "0aa175f7-95b7-4be4-aba4-557f0d24b7d4",
+                    "id": "02189569-841f-40ca-92af-aa3ffe1b1416",
                     "boundaryNum": 8,
-                    "name": "Temple",
+                    "name": "TEMPLE",
                     "localname": "ടെമ്പിള്‍",
                     "longitude": null,
                     "latitude": null,
@@ -269,9 +269,9 @@
                 ]
               },
               {
-                "id": "72b7c2a9-dc7e-4e6d-bf29-db56dc939fb3",
+                "id": "294e20b1-a625-4501-ac08-27243cf64596",
                 "boundaryNum": 9,
-                "name": "Thayatheru",
+                "name": "THAYATHERU",
                 "localname": "തായത്തെരു",
                 "longitude": null,
                 "latitude": null,
@@ -281,9 +281,9 @@
                 "code": "1125901089",
                 "children": [
                   {
-                    "id": "d7bad3bb-e1d3-4642-8640-59a555015b76",
+                    "id": "2baabed6-e218-4dc4-b2a8-09f171f4471b",
                     "boundaryNum": 9,
-                    "name": "Thayatheru",
+                    "name": "THAYATHERU",
                     "localname": "തായത്തെരു",
                     "longitude": null,
                     "latitude": null,
@@ -299,9 +299,9 @@
                 ]
               },
               {
-                "id": "cc0ae347-0c37-42c0-965d-874d22a002c4",
+                "id": "f24c2438-08fb-493a-ab8f-43abe449fee6",
                 "boundaryNum": 10,
-                "name": "Kazanakotta",
+                "name": "KAZANAKOTTA",
                 "localname": "കസാനക്കോട്ട",
                 "longitude": null,
                 "latitude": null,
@@ -311,9 +311,9 @@
                 "code": "1125901090",
                 "children": [
                   {
-                    "id": "2f925bc6-daf2-4791-99f8-cd88ea61f799",
+                    "id": "b8190307-a061-4fea-88b7-99943cf37297",
                     "boundaryNum": 10,
-                    "name": "Kazanakotta",
+                    "name": "KAZANAKOTTA",
                     "localname": "കസാനക്കോട്ട",
                     "longitude": null,
                     "latitude": null,
@@ -329,9 +329,9 @@
                 ]
               },
               {
-                "id": "7e57ffd3-6423-4172-ae6a-131ebc7bf970",
+                "id": "405ae55e-db3a-4df3-beb2-77e8b6a11006",
                 "boundaryNum": 11,
-                "name": "Ayikkara",
+                "name": "AYIKKARA",
                 "localname": "ആയിക്കര",
                 "longitude": null,
                 "latitude": null,
@@ -341,9 +341,9 @@
                 "code": "1125901091",
                 "children": [
                   {
-                    "id": "00ea9aac-97bd-4546-94b4-6481662e08f2",
+                    "id": "4a10be1b-fc15-4074-a443-d7b723e6526a",
                     "boundaryNum": 11,
-                    "name": "Ayikkara",
+                    "name": "AYIKKARA",
                     "localname": "ആയിക്കര",
                     "longitude": null,
                     "latitude": null,
@@ -359,9 +359,9 @@
                 ]
               },
               {
-                "id": "84fb9757-5613-4d01-b549-3113c648b615",
+                "id": "409b7b48-a9cc-4a13-b845-109bbedfe520",
                 "boundaryNum": 12,
-                "name": "Kanathur",
+                "name": "KANATHUR",
                 "localname": "കാനത്തൂര്‍",
                 "longitude": null,
                 "latitude": null,
@@ -371,9 +371,9 @@
                 "code": "1125901092",
                 "children": [
                   {
-                    "id": "1cb5f3b7-747a-40a6-975d-168db758c36c",
+                    "id": "2d2859d6-71bf-412e-b2e4-77901449d3d5",
                     "boundaryNum": 12,
-                    "name": "Kanathur",
+                    "name": "KANATHUR",
                     "localname": "കാനത്തൂര്‍",
                     "longitude": null,
                     "latitude": null,
@@ -389,9 +389,9 @@
                 ]
               },
               {
-                "id": "52099962-92fc-4ec1-8365-58d9de4451f3",
+                "id": "6107f430-b0b2-4442-9afc-fcd8ce87712a",
                 "boundaryNum": 13,
-                "name": "Thalikkavu",
+                "name": "THALIKKAVU",
                 "localname": "താളിക്കാവ്",
                 "longitude": null,
                 "latitude": null,
@@ -401,9 +401,9 @@
                 "code": "1125901093",
                 "children": [
                   {
-                    "id": "e350449e-bb75-4125-af5c-e5b0dd88658e",
+                    "id": "2732ef09-61ae-4b65-b958-507556d9f3ef",
                     "boundaryNum": 13,
-                    "name": "Thalikkavu",
+                    "name": "THALIKKAVU",
                     "localname": "താളിക്കാവ്",
                     "longitude": null,
                     "latitude": null,
@@ -419,9 +419,9 @@
                 ]
               },
               {
-                "id": "dd9f20be-8746-4a44-b848-3c07f2619992",
+                "id": "911521a4-c6c2-4640-8412-277226832237",
                 "boundaryNum": 14,
-                "name": "Payyambalam",
+                "name": "PAYYAMBALAM",
                 "localname": "പയ്യാമ്പലം",
                 "longitude": null,
                 "latitude": null,
@@ -431,9 +431,9 @@
                 "code": "1125901094",
                 "children": [
                   {
-                    "id": "8d6a5a77-5a0a-48d2-90b5-2dacd910fcb9",
+                    "id": "d69759b0-7a79-45fc-bf62-20c9f86c4ded",
                     "boundaryNum": 14,
-                    "name": "Payyambalam",
+                    "name": "PAYYAMBALAM",
                     "localname": "പയ്യാമ്പലം",
                     "longitude": null,
                     "latitude": null,
@@ -451,7 +451,7 @@
             ]
           },
           {
-            "id": "4fc21adb-e3c1-4d6d-9078-c8945ab42695",
+            "id": "d6955441-f15c-4ae7-8b7d-c7725d69c0ed",
             "boundaryNum": 2,
             "name": "Pallikkunnu",
             "localname": "പള്ളിക്കുന്ന്",
@@ -462,9 +462,9 @@
             "assesmentyear": "None",
             "children": [
               {
-                "id": "b67e3d05-dbdb-4052-81c0-d13921fa48dc",
+                "id": "7e6202d9-36a7-4142-a50f-7a1127c3ef13",
                 "boundaryNum": 15,
-                "name": "Palliyammoola",
+                "name": "PALLIYAMMOOLA",
                 "localname": "പള്ളിയാമ്മൂല",
                 "longitude": null,
                 "latitude": null,
@@ -474,9 +474,9 @@
                 "code": "1125902034",
                 "children": [
                   {
-                    "id": "87870cec-0f28-4139-b993-1c65c14439df",
+                    "id": "3fe4be60-bc62-4313-8709-a05959f8cefa",
                     "boundaryNum": 15,
-                    "name": "Palliyammoola",
+                    "name": "PALLIYAMMOOLA",
                     "localname": "പള്ളിയാമ്മൂല",
                     "longitude": null,
                     "latitude": null,
@@ -492,9 +492,9 @@
                 ]
               },
               {
-                "id": "f1a0e6bf-8b33-4d2b-a581-0650fcb5d718",
+                "id": "d734a26a-d16e-4012-9bc2-6b91fd485dcc",
                 "boundaryNum": 16,
-                "name": "Kunnav",
+                "name": "KUNNAV",
                 "localname": "കുന്നാവ്",
                 "longitude": null,
                 "latitude": null,
@@ -504,9 +504,9 @@
                 "code": "1125902035",
                 "children": [
                   {
-                    "id": "e4adbf83-275c-47cb-b9ae-2d09817c210a",
+                    "id": "29afc573-45eb-4576-ae78-436d67505a9b",
                     "boundaryNum": 16,
-                    "name": "Kunnav",
+                    "name": "KUNNAV",
                     "localname": "കുന്നാവ്",
                     "longitude": null,
                     "latitude": null,
@@ -522,9 +522,9 @@
                 ]
               },
               {
-                "id": "f198bf4b-02e2-4dd7-bf0f-40ad0cd58f86",
+                "id": "892e39b3-22af-4786-8536-26d3bc3ae039",
                 "boundaryNum": 17,
-                "name": "Kokkenpara",
+                "name": "KOKKENPARA",
                 "localname": "കൊക്കേന്‍പാറ",
                 "longitude": null,
                 "latitude": null,
@@ -534,9 +534,9 @@
                 "code": "1125902036",
                 "children": [
                   {
-                    "id": "458e7c58-cbf0-4f30-915e-be6a0d648aab",
+                    "id": "3718d53a-e2b8-4b9e-836c-1d43e6725b58",
                     "boundaryNum": 17,
-                    "name": "Kokkenpara",
+                    "name": "KOKKENPARA",
                     "localname": "കൊക്കേന്‍പാറ",
                     "longitude": null,
                     "latitude": null,
@@ -552,9 +552,9 @@
                 ]
               },
               {
-                "id": "8ba2c27e-7e95-42f8-a5cd-c9455b782f63",
+                "id": "492030d6-3e00-4022-b830-e64177b3f0c0",
                 "boundaryNum": 18,
-                "name": "Pallikunnu",
+                "name": "PALLIKUNNU",
                 "localname": "പള്ളിക്കുന്ന്",
                 "longitude": null,
                 "latitude": null,
@@ -564,9 +564,9 @@
                 "code": "1125902037",
                 "children": [
                   {
-                    "id": "8a6e0e84-e791-4b1b-8d3a-e8480d832782",
+                    "id": "920aefe4-9e0a-4ced-b48f-2c3ac5d6f69c",
                     "boundaryNum": 18,
-                    "name": "Pallikunnu",
+                    "name": "PALLIKUNNU",
                     "localname": "പള്ളിക്കുന്ന്",
                     "longitude": null,
                     "latitude": null,
@@ -582,9 +582,9 @@
                 ]
               },
               {
-                "id": "90ac06d5-21e0-4c1f-ac99-b088a13b8f62",
+                "id": "24210ba7-0fc3-4855-b101-44aba7f53819",
                 "boundaryNum": 19,
-                "name": "Talap",
+                "name": "TALAP",
                 "localname": "തളാപ്പ്",
                 "longitude": null,
                 "latitude": null,
@@ -594,9 +594,9 @@
                 "code": "1125902038",
                 "children": [
                   {
-                    "id": "1b43227d-0bb1-421d-b970-3878c367dce0",
+                    "id": "242cca5f-ccaf-4949-88dd-db68e13c3446",
                     "boundaryNum": 19,
-                    "name": "Talap",
+                    "name": "TALAP",
                     "localname": "തളാപ്പ്",
                     "longitude": null,
                     "latitude": null,
@@ -612,9 +612,9 @@
                 ]
               },
               {
-                "id": "200cd127-3a8f-4efc-aabb-84b4f8fca01f",
+                "id": "4139d938-fa4b-4cf3-b969-90486861c4f5",
                 "boundaryNum": 20,
-                "name": "Chalad",
+                "name": "CHALAD",
                 "localname": "ചാലാട്",
                 "longitude": null,
                 "latitude": null,
@@ -624,9 +624,9 @@
                 "code": "1125902039",
                 "children": [
                   {
-                    "id": "1a8cb029-6cfa-4855-93bf-c34194f15284",
+                    "id": "e4c30420-8dca-4c30-bcc7-a8ad7435923b",
                     "boundaryNum": 20,
-                    "name": "Chalad",
+                    "name": "CHALAD",
                     "localname": "ചാലാട്",
                     "longitude": null,
                     "latitude": null,
@@ -642,9 +642,9 @@
                 ]
               },
               {
-                "id": "fc6e5b02-b9fa-414a-b594-47afcb582760",
+                "id": "bbbf86ea-5017-4812-8f3c-8342c6d4eeb7",
                 "boundaryNum": 21,
-                "name": "Panhikkayil",
+                "name": "PANHIKKAYIL",
                 "localname": "പഞ്ഞിക്കയില്‍",
                 "longitude": null,
                 "latitude": null,
@@ -654,9 +654,9 @@
                 "code": "1125902040",
                 "children": [
                   {
-                    "id": "f4bfbf6b-d5d9-4c5f-a460-e58e767250c8",
+                    "id": "6f751ca8-b526-42fb-bbe3-e65779187276",
                     "boundaryNum": 21,
-                    "name": "Panhikkayil",
+                    "name": "PANHIKKAYIL",
                     "localname": "പഞ്ഞിക്കയില്‍",
                     "longitude": null,
                     "latitude": null,
@@ -674,7 +674,7 @@
             ]
           },
           {
-            "id": "8b1a3e82-6453-4e2f-acf0-c984d8edcd10",
+            "id": "525edf17-a344-4e36-aef4-a3b9fd56e6dc",
             "boundaryNum": 3,
             "name": "Puzhathi",
             "localname": "പുഴാതി",
@@ -685,9 +685,9 @@
             "assesmentyear": "None",
             "children": [
               {
-                "id": "8fbacf1a-d879-4093-bffe-f2f7c4866b58",
+                "id": "eab3b023-f9e7-4e85-9a5f-5199b6338665",
                 "boundaryNum": 22,
-                "name": "Udayamkunnu",
+                "name": "UDAYAMKUNNU",
                 "localname": "ഉദയംകുന്ന്",
                 "longitude": null,
                 "latitude": null,
@@ -697,9 +697,9 @@
                 "code": "1125903032",
                 "children": [
                   {
-                    "id": "60a8658f-1670-4921-8267-2eda5873a510",
+                    "id": "5666304e-9409-4857-8e69-e9f2d3de0783",
                     "boundaryNum": 22,
-                    "name": "Udayamkunnu",
+                    "name": "UDAYAMKUNNU",
                     "localname": "ഉദയംകുന്ന്",
                     "longitude": null,
                     "latitude": null,
@@ -715,9 +715,9 @@
                 ]
               },
               {
-                "id": "a97c7a55-8f64-4585-bb2c-05cf09ee86a8",
+                "id": "4c4732ae-6728-4ba4-92f5-cbae11b20343",
                 "boundaryNum": 23,
-                "name": "Podikundu",
+                "name": "PODIKUNDU",
                 "localname": "പൊടിക്കുണ്ട്",
                 "longitude": null,
                 "latitude": null,
@@ -727,9 +727,9 @@
                 "code": "1125903033",
                 "children": [
                   {
-                    "id": "292fbec1-0b0b-4271-b6d6-56f401653480",
+                    "id": "1343984c-441a-4184-b565-356ffe39f193",
                     "boundaryNum": 23,
-                    "name": "Podikundu",
+                    "name": "PODIKUNDU",
                     "localname": "പൊടിക്കുണ്ട്",
                     "longitude": null,
                     "latitude": null,
@@ -745,9 +745,9 @@
                 ]
               },
               {
-                "id": "f1b954cb-e55d-454f-b281-3b3352c12850",
+                "id": "d06076ca-2bc8-4e9e-b758-9de86df67100",
                 "boundaryNum": 24,
-                "name": "Kottali",
+                "name": "KOTTALI",
                 "localname": "കൊറ്റാളി",
                 "longitude": null,
                 "latitude": null,
@@ -757,9 +757,9 @@
                 "code": "1125903034",
                 "children": [
                   {
-                    "id": "b89fe3fc-3818-456c-9d45-80beec64b46d",
+                    "id": "3f6c7bba-0b01-4020-8611-bc4397a7ea37",
                     "boundaryNum": 24,
-                    "name": "Kottali",
+                    "name": "KOTTALI",
                     "localname": "കൊറ്റാളി",
                     "longitude": null,
                     "latitude": null,
@@ -775,9 +775,9 @@
                 ]
               },
               {
-                "id": "37a6899b-2a4d-4790-a3e3-5eb017dee9be",
+                "id": "8b84b15e-186b-459a-b00a-8da3c0fd4067",
                 "boundaryNum": 25,
-                "name": "Athazhakunnu",
+                "name": "ATHAZHAKUNNU",
                 "localname": "അത്താഴക്കുന്ന്",
                 "longitude": null,
                 "latitude": null,
@@ -787,9 +787,9 @@
                 "code": "1125903035",
                 "children": [
                   {
-                    "id": "08f87a7b-4f65-4460-a73a-fac286f0d32e",
+                    "id": "2ae44e2a-d1c3-46b2-9b2e-701942896854",
                     "boundaryNum": 25,
-                    "name": "Athazhakunnu",
+                    "name": "ATHAZHAKUNNU",
                     "localname": "അത്താഴക്കുന്ന്",
                     "longitude": null,
                     "latitude": null,
@@ -805,9 +805,9 @@
                 ]
               },
               {
-                "id": "d1d5d7bf-8009-46c7-988a-eed6cf689a58",
+                "id": "54355e55-7311-4fdf-ae69-0ce638d8b9d5",
                 "boundaryNum": 26,
-                "name": "Kakkad",
+                "name": "KAKKAD",
                 "localname": "കക്കാട്",
                 "longitude": null,
                 "latitude": null,
@@ -817,9 +817,9 @@
                 "code": "1125903036",
                 "children": [
                   {
-                    "id": "c3d1e025-4300-44e3-a892-42ace059d8b2",
+                    "id": "c411c748-dcd4-4d0c-b88f-5038a39a7445",
                     "boundaryNum": 26,
-                    "name": "Kakkad",
+                    "name": "KAKKAD",
                     "localname": "കക്കാട്",
                     "longitude": null,
                     "latitude": null,
@@ -835,9 +835,9 @@
                 ]
               },
               {
-                "id": "6265b78f-99b8-4efe-a857-6131cf213040",
+                "id": "3212cb30-5592-4233-be24-05c607a6a25b",
                 "boundaryNum": 27,
-                "name": "Thulichery",
+                "name": "THULICHERY",
                 "localname": "തുളിച്ചേരി",
                 "longitude": null,
                 "latitude": null,
@@ -847,9 +847,9 @@
                 "code": "1125903037",
                 "children": [
                   {
-                    "id": "cfdf9f75-865b-47df-b7f9-dd8353354196",
+                    "id": "1d9ce0cd-09d2-44e2-bdec-54df9d79cc3b",
                     "boundaryNum": 27,
-                    "name": "Thulichery",
+                    "name": "THULICHERY",
                     "localname": "തുളിച്ചേരി",
                     "longitude": null,
                     "latitude": null,
@@ -865,9 +865,9 @@
                 ]
               },
               {
-                "id": "98e4b4ef-6323-40d1-b624-99f6d565e86e",
+                "id": "50636a61-22cc-40ab-9d0e-159bc7861cbd",
                 "boundaryNum": 28,
-                "name": "Kakkad north",
+                "name": "KAKKAD NORTH",
                 "localname": "കക്കാട് നോര്‍ത്ത്",
                 "longitude": null,
                 "latitude": null,
@@ -877,9 +877,9 @@
                 "code": "1125903038",
                 "children": [
                   {
-                    "id": "3c5f20c1-8c11-4b73-a934-02fb90dd637d",
+                    "id": "6b1c25d8-0ba3-4977-929d-7f1e884cccfa",
                     "boundaryNum": 28,
-                    "name": "Kakkad north",
+                    "name": "KAKKAD NORTH",
                     "localname": "കക്കാട് നോര്‍ത്ത്",
                     "longitude": null,
                     "latitude": null,
@@ -895,9 +895,9 @@
                 ]
               },
               {
-                "id": "9b4931b6-9d5c-44f7-9eb8-70b778bf84ee",
+                "id": "ab03cc1e-78e6-44fe-a0b8-d2635bed7115",
                 "boundaryNum": 29,
-                "name": "Shadulipalli",
+                "name": "SHADULIPALLI",
                 "localname": "ശാദുലിപ്പള്ളി",
                 "longitude": null,
                 "latitude": null,
@@ -907,9 +907,9 @@
                 "code": "1125903039",
                 "children": [
                   {
-                    "id": "d1ba5e9e-3b54-4f0e-92db-e95ee1fe403e",
+                    "id": "3f87f81b-512d-4862-bd18-80d68d60db96",
                     "boundaryNum": 29,
-                    "name": "Shadulipalli",
+                    "name": "SHADULIPALLI",
                     "localname": "ശാദുലിപ്പള്ളി",
                     "longitude": null,
                     "latitude": null,
@@ -927,7 +927,7 @@
             ]
           },
           {
-            "id": "8be5c5d4-12fd-45a9-ad9d-38b53cb68706",
+            "id": "39b93c4a-8d2f-4253-8842-1faeb3319186",
             "boundaryNum": 4,
             "name": "Edakkad",
             "localname": "എടക്കാട്",
@@ -938,9 +938,9 @@
             "assesmentyear": "None",
             "children": [
               {
-                "id": "0df1a328-7e6e-44bb-9e9d-2753ad26aab2",
+                "id": "6d2f7994-10ae-463e-a120-ad2c55c6975b",
                 "boundaryNum": 30,
-                "name": "Attadappa",
+                "name": "ATTADAPPA",
                 "localname": "ആറ്റടപ്പ",
                 "longitude": null,
                 "latitude": null,
@@ -950,9 +950,9 @@
                 "code": "1125904034",
                 "children": [
                   {
-                    "id": "9f25e37b-ee58-4bde-bf5c-d6d34976d050",
+                    "id": "84e748b9-903f-4f2e-8eed-97bdcef8e411",
                     "boundaryNum": 30,
-                    "name": "Attadappa",
+                    "name": "ATTADAPPA",
                     "localname": "ആറ്റടപ്പ",
                     "longitude": null,
                     "latitude": null,
@@ -968,9 +968,9 @@
                 ]
               },
               {
-                "id": "f9e8d203-71f8-4c44-aeff-6f72eebd9f4b",
+                "id": "8405813e-0fa7-45af-a75c-2093d166c7b4",
                 "boundaryNum": 31,
-                "name": "Chala",
+                "name": "CHALA",
                 "localname": "ചാല",
                 "longitude": null,
                 "latitude": null,
@@ -980,9 +980,9 @@
                 "code": "1125904035",
                 "children": [
                   {
-                    "id": "35d43aac-f4c2-4424-930c-ebccfe8ec278",
+                    "id": "680df562-48b2-4c9d-975e-3ef43ca0334d",
                     "boundaryNum": 31,
-                    "name": "Chala",
+                    "name": "CHALA",
                     "localname": "ചാല",
                     "longitude": null,
                     "latitude": null,
@@ -998,9 +998,9 @@
                 ]
               },
               {
-                "id": "c3335fd6-7c06-49a9-82d8-614891ae6957",
+                "id": "3e2afd80-8743-45ae-96dd-96a625a2e525",
                 "boundaryNum": 32,
-                "name": "Edakkad",
+                "name": "EDAKKAD",
                 "localname": "എടക്കാട്",
                 "longitude": null,
                 "latitude": null,
@@ -1010,9 +1010,9 @@
                 "code": "1125904036",
                 "children": [
                   {
-                    "id": "31f92742-aef3-42b6-ae70-13f3515a8df2",
+                    "id": "0be84ba9-e68e-4ff6-b132-2ecce23b9109",
                     "boundaryNum": 32,
-                    "name": "Edakkad",
+                    "name": "EDAKKAD",
                     "localname": "എടക്കാട്",
                     "longitude": null,
                     "latitude": null,
@@ -1028,9 +1028,9 @@
                 ]
               },
               {
-                "id": "20ae11e9-69f9-48a4-92cd-998390bf9de5",
+                "id": "c11da8ab-ea07-4a84-8879-d761ee8af819",
                 "boundaryNum": 33,
-                "name": "Ezhara",
+                "name": "EZHARA",
                 "localname": "ഏഴര",
                 "longitude": null,
                 "latitude": null,
@@ -1040,9 +1040,9 @@
                 "code": "1125904037",
                 "children": [
                   {
-                    "id": "a9877aaa-ebdd-4db1-a4d0-2ee622f7ca23",
+                    "id": "1be3db32-2c9f-462b-bb4a-20d2e98160d4",
                     "boundaryNum": 33,
-                    "name": "Ezhara",
+                    "name": "EZHARA",
                     "localname": "ഏഴര",
                     "longitude": null,
                     "latitude": null,
@@ -1058,9 +1058,9 @@
                 ]
               },
               {
-                "id": "7c80499c-d156-4c8e-b3ee-add481155044",
+                "id": "a54208ab-6ab9-4a48-8efb-883365552a71",
                 "boundaryNum": 34,
-                "name": "Alinkeel",
+                "name": "ALINKEEL",
                 "localname": "ആലിങ്കീല്‍",
                 "longitude": null,
                 "latitude": null,
@@ -1070,9 +1070,9 @@
                 "code": "1125904038",
                 "children": [
                   {
-                    "id": "ddb597a9-c009-4f56-99c9-e21e882d76e1",
+                    "id": "250fe912-761e-40ca-b261-f4cb59e3e9cc",
                     "boundaryNum": 34,
-                    "name": "Alinkeel",
+                    "name": "ALINKEEL",
                     "localname": "ആലിങ്കീല്‍",
                     "longitude": null,
                     "latitude": null,
@@ -1088,9 +1088,9 @@
                 ]
               },
               {
-                "id": "cd70d5e6-e4c6-4df1-b631-a0e3c6e131df",
+                "id": "00209427-95a6-4268-90e2-4faa3e828520",
                 "boundaryNum": 35,
-                "name": "Kizhunna",
+                "name": "KIZHUNNA",
                 "localname": "കീഴുന്ന",
                 "longitude": null,
                 "latitude": null,
@@ -1100,9 +1100,9 @@
                 "code": "1125904039",
                 "children": [
                   {
-                    "id": "6f6ee2a6-533e-4f4d-a008-34d4db6887a4",
+                    "id": "a99c18bd-b21c-4c90-a57f-5dd0b4ca8291",
                     "boundaryNum": 35,
-                    "name": "Kizhunna",
+                    "name": "KIZHUNNA",
                     "localname": "കീഴുന്ന",
                     "longitude": null,
                     "latitude": null,
@@ -1118,9 +1118,9 @@
                 ]
               },
               {
-                "id": "a3003eba-749f-4dec-93fb-849e74e055b9",
+                "id": "554b12b5-d701-41a6-aa5f-2da6e3fe1417",
                 "boundaryNum": 36,
-                "name": "Thottada",
+                "name": "THOTTADA",
                 "localname": "തോട്ടട",
                 "longitude": null,
                 "latitude": null,
@@ -1130,9 +1130,9 @@
                 "code": "1125904040",
                 "children": [
                   {
-                    "id": "2bdf6831-af24-43b8-b42b-ccf3b688d094",
+                    "id": "80f3cd49-6c00-496e-8b03-cb24f211c18f",
                     "boundaryNum": 36,
-                    "name": "Thottada",
+                    "name": "THOTTADA",
                     "localname": "തോട്ടട",
                     "longitude": null,
                     "latitude": null,
@@ -1148,9 +1148,9 @@
                 ]
               },
               {
-                "id": "44507f8e-4292-46b1-970e-981211e88ccd",
+                "id": "967e846a-6520-4d0b-8259-f0fa0081c08c",
                 "boundaryNum": 37,
-                "name": "Adikadalayi",
+                "name": "ADIKADALAYI",
                 "localname": "ആദികടലായി",
                 "longitude": null,
                 "latitude": null,
@@ -1160,9 +1160,9 @@
                 "code": "1125904041",
                 "children": [
                   {
-                    "id": "28a6247a-a88b-411a-bd7b-41859c7d3bbc",
+                    "id": "b39b353e-2660-4db7-bb37-3a42ae77540c",
                     "boundaryNum": 37,
-                    "name": "Adikadalayi",
+                    "name": "ADIKADALAYI",
                     "localname": "ആദികടലായി",
                     "longitude": null,
                     "latitude": null,
@@ -1178,9 +1178,9 @@
                 ]
               },
               {
-                "id": "1faddb9c-456a-4402-935a-95b3ff6aec95",
+                "id": "ffedd09e-8d08-4f5e-aef8-7c1a0826212b",
                 "boundaryNum": 38,
-                "name": "Kuruva",
+                "name": "KURUVA",
                 "localname": "കുറുവ",
                 "longitude": null,
                 "latitude": null,
@@ -1190,9 +1190,9 @@
                 "code": "1125904042",
                 "children": [
                   {
-                    "id": "c8676630-33da-43ac-8f30-4383817a361a",
+                    "id": "8ff08748-ca6f-4202-965a-2811a460109d",
                     "boundaryNum": 38,
-                    "name": "Kuruva",
+                    "name": "KURUVA",
                     "localname": "കുറുവ",
                     "longitude": null,
                     "latitude": null,
@@ -1210,7 +1210,7 @@
             ]
           },
           {
-            "id": "c32d1e1a-4f13-4ba6-8bfe-587b34577690",
+            "id": "9a46ca35-a206-46a0-8ca7-c4da549a7357",
             "boundaryNum": 5,
             "name": "Elayavoor",
             "localname": "എളയാവൂർ",
@@ -1221,9 +1221,9 @@
             "assesmentyear": "None",
             "children": [
               {
-                "id": "25e3b194-653d-492e-9c37-867d27da0098",
+                "id": "ae92d29a-fcc0-481a-8101-e8e8f5e9bff9",
                 "boundaryNum": 39,
-                "name": "Eleyavur north",
+                "name": "ELEYAVUR NORTH",
                 "localname": "എളയാവൂര്‍ നോര്‍ത്ത്",
                 "longitude": null,
                 "latitude": null,
@@ -1233,9 +1233,9 @@
                 "code": "1125905035",
                 "children": [
                   {
-                    "id": "e20fb3a7-d27e-4e93-a4e4-0de0744acd54",
+                    "id": "12832c11-c03a-43cb-a7c8-6e09a2a84cb7",
                     "boundaryNum": 39,
-                    "name": "Eleyavur north",
+                    "name": "ELEYAVUR NORTH",
                     "localname": "എളയാവൂര്‍ നോര്‍ത്ത്",
                     "longitude": null,
                     "latitude": null,
@@ -1251,9 +1251,9 @@
                 ]
               },
               {
-                "id": "24476327-1817-4a3d-9d44-1fb190c4f488",
+                "id": "67e109e2-8390-4d44-8281-30a9f2861c7d",
                 "boundaryNum": 40,
-                "name": "Eleyavur south",
+                "name": "ELEYAVUR SOUTH",
                 "localname": "എളയാവൂര്‍ സൌത്ത്",
                 "longitude": null,
                 "latitude": null,
@@ -1263,9 +1263,9 @@
                 "code": "1125905036",
                 "children": [
                   {
-                    "id": "0a1744cf-a7ed-4d93-b69d-e9b63d2190db",
+                    "id": "2dc6e62e-f92f-4754-94c5-0a1b6e9e3a35",
                     "boundaryNum": 40,
-                    "name": "Eleyavur south",
+                    "name": "ELEYAVUR SOUTH",
                     "localname": "എളയാവൂര്‍ സൌത്ത്",
                     "longitude": null,
                     "latitude": null,
@@ -1281,9 +1281,9 @@
                 ]
               },
               {
-                "id": "fe3fe7ac-5cd5-4dcd-886f-2cf026b56723",
+                "id": "574a6499-8dbe-491a-8930-942551cdb710",
                 "boundaryNum": 41,
-                "name": "Mundayad",
+                "name": "MUNDAYAD",
                 "localname": "മുണ്ടയാട്",
                 "longitude": null,
                 "latitude": null,
@@ -1293,9 +1293,9 @@
                 "code": "1125905037",
                 "children": [
                   {
-                    "id": "f146d6f5-9956-4c82-81f1-01e01fac02b8",
+                    "id": "aa6c650f-516a-494c-bcf5-a82b10eeb308",
                     "boundaryNum": 41,
-                    "name": "Mundayad",
+                    "name": "MUNDAYAD",
                     "localname": "മുണ്ടയാട്",
                     "longitude": null,
                     "latitude": null,
@@ -1311,9 +1311,9 @@
                 ]
               },
               {
-                "id": "40d3e452-172e-490c-bbe3-b1cd54f5498e",
+                "id": "6ee2211e-b11a-450f-9d07-d3abbff546ff",
                 "boundaryNum": 42,
-                "name": "Edachovva",
+                "name": "EDACHOVVA",
                 "localname": "എടച്ചൊവ്വ",
                 "longitude": null,
                 "latitude": null,
@@ -1323,9 +1323,9 @@
                 "code": "1125905038",
                 "children": [
                   {
-                    "id": "03d6dda9-4bb9-4387-a5fc-6b83b6df3264",
+                    "id": "9787cd21-9edc-4c09-a42d-a92a49a47b80",
                     "boundaryNum": 42,
-                    "name": "Edachovva",
+                    "name": "EDACHOVVA",
                     "localname": "എടച്ചൊവ്വ",
                     "longitude": null,
                     "latitude": null,
@@ -1341,9 +1341,9 @@
                 ]
               },
               {
-                "id": "e79080f3-2b59-4f80-9179-343fc9cb2121",
+                "id": "1617b907-91d0-4ca8-8455-cadef33d6502",
                 "boundaryNum": 43,
-                "name": "Athirakam",
+                "name": "ATHIRAKAM",
                 "localname": "അതിരകം",
                 "longitude": null,
                 "latitude": null,
@@ -1353,9 +1353,9 @@
                 "code": "1125905039",
                 "children": [
                   {
-                    "id": "dad5c979-bd01-4a7b-bac5-450abb03d15c",
+                    "id": "88491623-d649-4505-9b67-807e7db65002",
                     "boundaryNum": 43,
-                    "name": "Athirakam",
+                    "name": "ATHIRAKAM",
                     "localname": "അതിരകം",
                     "longitude": null,
                     "latitude": null,
@@ -1371,9 +1371,9 @@
                 ]
               },
               {
-                "id": "1dad4866-6c7a-464b-a0b3-70d27399c0c4",
+                "id": "68480f48-af33-4e5a-a89a-69834e3791a5",
                 "boundaryNum": 44,
-                "name": "Kappichery",
+                "name": "KAPPICHERY",
                 "localname": "കാപ്പിച്ചേരി",
                 "longitude": null,
                 "latitude": null,
@@ -1383,9 +1383,9 @@
                 "code": "1125905040",
                 "children": [
                   {
-                    "id": "ae185e0f-1f98-4925-910b-6a1a53a301a9",
+                    "id": "ac3c803b-ae8b-4c83-93b3-bd369bae9d4f",
                     "boundaryNum": 44,
-                    "name": "Kappichery",
+                    "name": "KAPPICHERY",
                     "localname": "കാപ്പിച്ചേരി",
                     "longitude": null,
                     "latitude": null,
@@ -1401,9 +1401,9 @@
                 ]
               },
               {
-                "id": "bcf5ee57-5168-4b6b-9bd9-ef13530cd2b3",
+                "id": "2fbc887f-fe9b-4e91-82f2-5266476e13b7",
                 "boundaryNum": 45,
-                "name": "Mele chovva",
+                "name": "MELE CHOVVA",
                 "localname": "മേലെചൊവ്വ",
                 "longitude": null,
                 "latitude": null,
@@ -1413,9 +1413,9 @@
                 "code": "1125905041",
                 "children": [
                   {
-                    "id": "13f286aa-2710-4e9b-b6eb-d31ed7ce00b9",
+                    "id": "4f766a56-3007-4552-b532-ffbd14b829c8",
                     "boundaryNum": 45,
-                    "name": "Mele chovva",
+                    "name": "MELE CHOVVA",
                     "localname": "മേലെചൊവ്വ",
                     "longitude": null,
                     "latitude": null,
@@ -1431,9 +1431,9 @@
                 ]
               },
               {
-                "id": "941e4d4f-84c4-40d7-8c4e-bfd9fcb8d25a",
+                "id": "25abf13a-cde4-45ed-874d-71f4035d33b1",
                 "boundaryNum": 46,
-                "name": "Thazhe chovva",
+                "name": "THAZHE CHOVVA",
                 "localname": "താഴെ ചൊവ്വ",
                 "longitude": null,
                 "latitude": null,
@@ -1443,9 +1443,9 @@
                 "code": "1125905042",
                 "children": [
                   {
-                    "id": "2c934b93-cfa7-4541-b1fe-3d28870f2411",
+                    "id": "aea5b90d-89bf-4eda-b73e-2b8e2a41048c",
                     "boundaryNum": 46,
-                    "name": "Thazhe chovva",
+                    "name": "THAZHE CHOVVA",
                     "localname": "താഴെ ചൊവ്വ",
                     "longitude": null,
                     "latitude": null,
@@ -1461,9 +1461,9 @@
                 ]
               },
               {
-                "id": "902a37ed-9150-47cc-9ee4-649a5a98e12f",
+                "id": "81d57459-bc50-45bc-b821-0c97fe38c875",
                 "boundaryNum": 47,
-                "name": "Kizhuthally",
+                "name": "KIZHUTHALLY",
                 "localname": "കീഴുത്തള്ളി",
                 "longitude": null,
                 "latitude": null,
@@ -1473,9 +1473,9 @@
                 "code": "1125905043",
                 "children": [
                   {
-                    "id": "87727971-297a-4b7d-a6d2-7774fefbaef2",
+                    "id": "047006dd-d216-4fea-ae1a-26f5b5a5f44e",
                     "boundaryNum": 47,
-                    "name": "Kizhuthally",
+                    "name": "KIZHUTHALLY",
                     "localname": "കീഴുത്തള്ളി",
                     "longitude": null,
                     "latitude": null,
@@ -1493,7 +1493,7 @@
             ]
           },
           {
-            "id": "9835c6ed-7c13-4d4d-a2b0-18cb7a059057",
+            "id": "4b24861e-0187-4c0e-bc22-513d33732af0",
             "boundaryNum": 6,
             "name": "Chelora",
             "localname": "ചേലോറ",
@@ -1504,9 +1504,9 @@
             "assesmentyear": "None",
             "children": [
               {
-                "id": "670283ac-6616-4d18-830b-018de3a9abb9",
+                "id": "477e20b0-f247-4f42-86cc-31277163f2b7",
                 "boundaryNum": 48,
-                "name": "Pallipram",
+                "name": "PALLIPRAM",
                 "localname": "പള്ളിപ്രം",
                 "longitude": null,
                 "latitude": null,
@@ -1516,9 +1516,9 @@
                 "code": "1125906040",
                 "children": [
                   {
-                    "id": "edbf28f0-334e-4625-81a0-1dc96a5d53c4",
+                    "id": "59ab0ab2-dff6-45bf-816c-d3f66eb92f1d",
                     "boundaryNum": 48,
-                    "name": "Pallipram",
+                    "name": "PALLIPRAM",
                     "localname": "പള്ളിപ്രം",
                     "longitude": null,
                     "latitude": null,
@@ -1534,9 +1534,9 @@
                 ]
               },
               {
-                "id": "102215b6-fd64-479d-80c0-d848bc72d091",
+                "id": "a6145478-b832-40f5-8397-a55cb6a5c799",
                 "boundaryNum": 49,
-                "name": "Varam",
+                "name": "VARAM",
                 "localname": "വാരം",
                 "longitude": null,
                 "latitude": null,
@@ -1546,9 +1546,9 @@
                 "code": "1125906041",
                 "children": [
                   {
-                    "id": "d3738f74-c0af-4bc4-936d-7d169afb6884",
+                    "id": "80f87cab-b946-48dc-893e-15e275ae48bd",
                     "boundaryNum": 49,
-                    "name": "Varam",
+                    "name": "VARAM",
                     "localname": "വാരം",
                     "longitude": null,
                     "latitude": null,
@@ -1564,9 +1564,9 @@
                 ]
               },
               {
-                "id": "5c9e97a8-d709-4f89-a09d-6d8f9b4f3a4c",
+                "id": "64591b24-7bb0-4ca3-a42f-7dc0f22638e5",
                 "boundaryNum": 50,
-                "name": "Valiyannur",
+                "name": "VALIYANNUR",
                 "localname": "വലിയന്നൂര്‍",
                 "longitude": null,
                 "latitude": null,
@@ -1576,9 +1576,9 @@
                 "code": "1125906042",
                 "children": [
                   {
-                    "id": "6def14d0-cc3e-4f0c-b9a6-313b12eaadd0",
+                    "id": "51aeb6a6-e6c1-43ea-bdf8-b2dd6e1309cf",
                     "boundaryNum": 50,
-                    "name": "Valiyannur",
+                    "name": "VALIYANNUR",
                     "localname": "വലിയന്നൂര്‍",
                     "longitude": null,
                     "latitude": null,
@@ -1594,9 +1594,9 @@
                 ]
               },
               {
-                "id": "2de6d6a4-4c85-4f79-aaef-8cd15cd65354",
+                "id": "9471ea3d-71e9-4d08-b6d5-ab643fd9d0c7",
                 "boundaryNum": 51,
-                "name": "Chelora",
+                "name": "CHELORA",
                 "localname": "ചെലോറ",
                 "longitude": null,
                 "latitude": null,
@@ -1606,9 +1606,9 @@
                 "code": "1125906043",
                 "children": [
                   {
-                    "id": "486ff7ca-95b2-4f1e-a0b3-f68cc6f024f0",
+                    "id": "4a84cc88-9431-419a-b3c4-24fe46e60e26",
                     "boundaryNum": 51,
-                    "name": "Chelora",
+                    "name": "CHELORA",
                     "localname": "ചെലോറ",
                     "longitude": null,
                     "latitude": null,
@@ -1624,9 +1624,9 @@
                 ]
               },
               {
-                "id": "a641f945-850e-4fc6-847a-bfc480d565ee",
+                "id": "48a67873-2bb4-4c3a-a566-09f7d95642a1",
                 "boundaryNum": 52,
-                "name": "Macheri",
+                "name": "MACHERI",
                 "localname": "മാച്ചേരി",
                 "longitude": null,
                 "latitude": null,
@@ -1636,9 +1636,9 @@
                 "code": "1125906044",
                 "children": [
                   {
-                    "id": "f50b6e00-20a3-4db8-abdf-c28f51df58bf",
+                    "id": "830db8aa-014e-4665-a4e2-dde932e95d59",
                     "boundaryNum": 52,
-                    "name": "Macheri",
+                    "name": "MACHERI",
                     "localname": "മാച്ചേരി",
                     "longitude": null,
                     "latitude": null,
@@ -1654,9 +1654,9 @@
                 ]
               },
               {
-                "id": "912532e5-4b78-4e70-a745-1f9aee4d29f8",
+                "id": "f6923708-ae3f-4e5e-8ecd-1201e947ed47",
                 "boundaryNum": 53,
-                "name": "Pallipoyil",
+                "name": "PALLIPOYIL",
                 "localname": "പള്ളിപ്പൊയില്‍",
                 "longitude": null,
                 "latitude": null,
@@ -1666,9 +1666,9 @@
                 "code": "1125906045",
                 "children": [
                   {
-                    "id": "0b78f1c5-200f-4208-ac8b-e3a4a0b30ee5",
+                    "id": "4ec138ad-b82d-41af-b512-1088ced994bd",
                     "boundaryNum": 53,
-                    "name": "Pallipoyil",
+                    "name": "PALLIPOYIL",
                     "localname": "പള്ളിപ്പൊയില്‍",
                     "longitude": null,
                     "latitude": null,
@@ -1684,9 +1684,9 @@
                 ]
               },
               {
-                "id": "05814938-df29-4e9d-875e-c258ac2bfd14",
+                "id": "19c0021a-e8fa-43ca-95d3-9572f6496ace",
                 "boundaryNum": 54,
-                "name": "Kappad",
+                "name": "KAPPAD",
                 "localname": "കാപ്പാട്",
                 "longitude": null,
                 "latitude": null,
@@ -1696,9 +1696,9 @@
                 "code": "1125906046",
                 "children": [
                   {
-                    "id": "4d428d24-cc2e-4eaf-b776-7026b30b941c",
+                    "id": "f390fd70-e9c3-48cf-a295-5cb26b943225",
                     "boundaryNum": 54,
-                    "name": "Kappad",
+                    "name": "KAPPAD",
                     "localname": "കാപ്പാട്",
                     "longitude": null,
                     "latitude": null,
@@ -1714,9 +1714,9 @@
                 ]
               },
               {
-                "id": "a3a98678-4302-4cc4-a4c6-7775a6591b90",
+                "id": "7c7cf39e-0992-40c8-b2a4-2bd82e931887",
                 "boundaryNum": 55,
-                "name": "Thilanur",
+                "name": "THILANUR",
                 "localname": "തിലാന്നൂര്‍",
                 "longitude": null,
                 "latitude": null,
@@ -1726,9 +1726,9 @@
                 "code": "1125906047",
                 "children": [
                   {
-                    "id": "c720eca6-aeb7-4e60-b44b-d6e90e86787f",
+                    "id": "513597b7-b5ee-4728-bf09-888bcfa3766b",
                     "boundaryNum": 55,
-                    "name": "Thilanur",
+                    "name": "THILANUR",
                     "localname": "തിലാന്നൂര്‍",
                     "longitude": null,
                     "latitude": null,
