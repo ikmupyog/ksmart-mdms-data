@@ -163,7 +163,7 @@
               }
         },{
             "moduleName": "CR",
-            "BusinessService": "DEATHHOSP",
+            "BusinessService": "BIRTHHOSP21",
             "roles":["HOSPITAL_OPERATOR","HOSPITAL_APPROVER","INSTITUTION_OPERATOR","INSTITUTION_APPROVER","BND_SUB_REGISTRAR","BND_LOCAL_REGISTRAR"],
             "active": true,
             "locality":true,
