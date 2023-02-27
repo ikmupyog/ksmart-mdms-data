@@ -1,8 +1,6 @@
-{
-
-   "tenantId": "kssm",
-   "moduleName": "KSSM-DATA",
-  "gm_schooltype":[
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "api/gm_schooltype":[
     {
         "school_typeid": 1,
         "schooltype_mal": "ഗവര്‍ണ്‌മെന്‍റ്",
