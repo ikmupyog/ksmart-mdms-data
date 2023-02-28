@@ -1,0 +1,25 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_gm_stafftype":[
+    {
+        "inttypeid": 1,
+        "chvstafftype": "Govt.Staff"
+    },
+    {
+        "inttypeid": 2,
+        "chvstafftype": "Own Staff"
+    },
+    {
+        "inttypeid": 3,
+        "chvstafftype": "Contract Staff"
+    },
+    {
+        "inttypeid": 4,
+        "chvstafftype": "Temporary Staff"
+    },
+    {
+        "inttypeid": 5,
+        "chvstafftype": "Vayomitram Staff"
+    }
+]
+}

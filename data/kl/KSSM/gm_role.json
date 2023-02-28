@@ -1,0 +1,45 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_role":[
+    {
+        "role_id": 1,
+        "user_role": "Operator"
+    },
+    {
+        "role_id": 2,
+        "user_role": "Verifier"
+    },
+    {
+        "role_id": 3,
+        "user_role": "Approver"
+    },
+    {
+        "role_id": 4,
+        "user_role": "School User"
+    },
+    {
+        "role_id": 5,
+        "user_role": "Beneficiary"
+    },
+    {
+        "role_id": 6,
+        "user_role": "Administrator"
+    },
+    {
+        "role_id": 7,
+        "user_role": "Field Verifier"
+    },
+    {
+        "role_id": 8,
+        "user_role": "Field Approver"
+    },
+    {
+        "role_id": 9,
+        "user_role": "State Officer"
+    },
+    {
+        "role_id": 10,
+        "user_role": "District Child Development Officer"
+    }
+]
+}

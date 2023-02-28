@@ -1,0 +1,25 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_religion":[
+    {
+        "int_religionid": 1,
+        "chv_religioneng": "Hinduism",
+        "chv_religionmal": "ഹൈന്ദവം"
+    },
+    {
+        "int_religionid": 2,
+        "chv_religioneng": "Islam",
+        "chv_religionmal": "ഇസ്ലാം മതം"
+    },
+    {
+        "int_religionid": 3,
+        "chv_religioneng": "Christianity",
+        "chv_religionmal": "ക്രിസ്തുമതം"
+    },
+    {
+        "int_religionid": 9,
+        "chv_religioneng": "Others",
+        "chv_religionmal": "മറ്റുള്ളവ"
+    }
+]
+}

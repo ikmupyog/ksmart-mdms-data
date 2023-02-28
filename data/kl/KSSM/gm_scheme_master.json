@@ -1,0 +1,71 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_scheme_master":[
+    {
+        "scheme_id": 10,
+        "chv_schememal": "ആശ്വാസ കിരണം പദ്ധതി",
+        "chv_schemeeng": "Aaswasa Kiranam ",
+        "intactive": 2
+    },
+    {
+        "scheme_id": 11,
+        "chv_schememal": "സമാശ്വാസം പദ്ധതി",
+        "chv_schemeeng": "Samaswasam ",
+        "intactive": 2
+    },
+    {
+        "scheme_id": 12,
+        "chv_schememal": "സ്നേഹസ്പര്‍ശം പദ്ധതി",
+        "chv_schemeeng": "Snehasparsam",
+        "intactive": 2
+    },
+    {
+        "scheme_id": 13,
+        "chv_schememal": "സ്നേഹപൂര്‍വം പദ്ധതി",
+        "chv_schemeeng": "Snehapoorvam",
+        "intactive": 1
+    },
+    {
+        "scheme_id": 14,
+        "chv_schememal": "പ്രത്യാശ പദ്ധതി",
+        "chv_schemeeng": "Prathyasa",
+        "intactive": 2
+    },
+    {
+        "scheme_id": 15,
+        "chv_schememal": "ശ്രുതി തരംഗം",
+        "chv_schemeeng": "Sruthi Tharangam",
+        "intactive": 0
+    },
+    {
+        "scheme_id": 16,
+        "chv_schememal": "ഡിസെബിലിറ്റി കാര്‍ഡ്‌",
+        "chv_schemeeng": " Disability card",
+        "intactive": 0
+    },
+    {
+        "scheme_id": 17,
+        "chv_schememal": "സമാശ്വാസം പദ്ധതി 2",
+        "chv_schemeeng": "Samaswasam 2",
+        "intactive": 2
+    },
+    {
+        "scheme_id": 18,
+        "chv_schememal": "സമാശ്വാസം പദ്ധതി 3",
+        "chv_schemeeng": "Samaswasam 3",
+        "intactive": 2
+    },
+    {
+        "scheme_id": 19,
+        "chv_schememal": "സമാശ്വാസം പദ്ധതി 4",
+        "chv_schemeeng": "Samaswasam 4",
+        "intactive": 2
+    },
+    {
+        "scheme_id": 99,
+        "chv_schememal": "മറ്റു തപാലുകള്‍",
+        "chv_schemeeng": "Internal Letters",
+        "intactive": 0
+    }
+]
+}

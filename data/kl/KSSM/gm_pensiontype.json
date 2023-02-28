@@ -1,0 +1,45 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_pensiontype":[
+    {
+        "inttypeid": 1,
+        "chv_pensionnamemal": "കര്‍ഷക തൊഴിലാളി പെന്‍ഷന്‍",
+        "chv_pensionnameeng": "Agricultural Labour Pension"
+    },
+    {
+        "inttypeid": 2,
+        "chv_pensionnamemal": "ഇന്ദിരാ ഗാന്ധി ദേശീയ വാര്‍ദ്ധക്യകാല പെന്‍ഷന്‍",
+        "chv_pensionnameeng": "Indira Gandhi National Old Age Pension"
+    },
+    {
+        "inttypeid": 3,
+        "chv_pensionnamemal": "ശാരീരികമായി/മാനസികമായി വെല്ലുവിളി നേരിടുന്നവര്‍ക്കുള്ള പെന്‍ഷന്‍",
+        "chv_pensionnameeng": "Specially Disabled Pension"
+    },
+    {
+        "inttypeid": 4,
+        "chv_pensionnamemal": "50 വയസ് കഴിഞ്ഞ അവിവാഹിതരായ വനിതകള്‍ക്കുള്ള പെന്‍ഷന്‍",
+        "chv_pensionnameeng": "Pension for the  Unmarried Women above 50 years"
+    },
+    {
+        "inttypeid": 5,
+        "chv_pensionnamemal": "വിധവാപെന്‍ഷന്‍",
+        "chv_pensionnameeng": "Widow Pension"
+    },
+    {
+        "inttypeid": 6,
+        "chv_pensionnamemal": "തൊഴില്‍രഹിത വേതനം",
+        "chv_pensionnameeng": "Unemployment Wages"
+    },
+    {
+        "inttypeid": 7,
+        "chv_pensionnamemal": "സര്‍വീസ് പെന്‍ഷന്‍",
+        "chv_pensionnameeng": "Service Pension"
+    },
+    {
+        "inttypeid": 8,
+        "chv_pensionnamemal": "പി.എഫ്.പെന്‍ഷന്‍",
+        "chv_pensionnameeng": "P.F Pension"
+    }
+]
+}

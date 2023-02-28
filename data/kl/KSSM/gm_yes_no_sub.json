@@ -1,0 +1,20 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_yes_no_sub":[
+    {
+        "yesnoid": 1,
+        "chvyesno": "Yes",
+        "chvyesnomal": "അതെ"
+    },
+    {
+        "yesnoid": 2,
+        "chvyesno": "No",
+        "chvyesnomal": "അല്ല"
+    },
+    {
+        "yesnoid": 3,
+        "chvyesno": "Not Available",
+        "chvyesnomal": "ലഭ്യമല്ല"
+    }
+]
+}

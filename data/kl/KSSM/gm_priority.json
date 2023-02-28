@@ -1,0 +1,21 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_priority":[
+    {
+        "intpriority_id": 1,
+        "chvpriority_name": "Ordinary"
+    },
+    {
+        "intpriority_id": 2,
+        "chvpriority_name": "Urgent"
+    },
+    {
+        "intpriority_id": 3,
+        "chvpriority_name": "Very Urgent"
+    },
+    {
+        "intpriority_id": 4,
+        "chvpriority_name": "Action Today"
+    }
+]
+}

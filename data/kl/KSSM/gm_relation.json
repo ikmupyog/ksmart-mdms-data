@@ -1,0 +1,50 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_relation":[
+    {
+        "relation_id": 1,
+        "chv_relationeng": "Father",
+        "chv_relationmal": "അച്ഛന്‍"
+    },
+    {
+        "relation_id": 2,
+        "chv_relationeng": "Mother",
+        "chv_relationmal": "അമ്മ"
+    },
+    {
+        "relation_id": 3,
+        "chv_relationeng": "Brother",
+        "chv_relationmal": "സഹോദരന്‍"
+    },
+    {
+        "relation_id": 4,
+        "chv_relationeng": "Sister",
+        "chv_relationmal": "സഹോദരി"
+    },
+    {
+        "relation_id": 5,
+        "chv_relationeng": "Husband",
+        "chv_relationmal": "ഭര്‍ത്താവ്"
+    },
+    {
+        "relation_id": 6,
+        "chv_relationeng": "Wife",
+        "chv_relationmal": "ഭാര്യ"
+    },
+    {
+        "relation_id": 7,
+        "chv_relationeng": "Grand Father",
+        "chv_relationmal": "മുത്തച്ഛന്‍"
+    },
+    {
+        "relation_id": 8,
+        "chv_relationeng": "Grand Mother",
+        "chv_relationmal": "മുത്തശ്ശി"
+    },
+    {
+        "relation_id": 99,
+        "chv_relationeng": "Others",
+        "chv_relationmal": "മറ്റുള്ളവര്‍"
+    }
+]
+}

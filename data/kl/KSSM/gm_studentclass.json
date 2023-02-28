@@ -1,0 +1,29 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_studentclass":[
+    {
+        "intclassid": 1,
+        "chvclassname": "----"
+    },
+    {
+        "intclassid": 2,
+        "chvclassname": "Classes 1-5"
+    },
+    {
+        "intclassid": 3,
+        "chvclassname": "Classes 6-10"
+    },
+    {
+        "intclassid": 4,
+        "chvclassname": "Plus-1,Plus-2,ITI/ Polytechnic"
+    },
+    {
+        "intclassid": 5,
+        "chvclassname": "Degree"
+    },
+    {
+        "intclassid": 6,
+        "chvclassname": "Professional Graduation"
+    }
+]
+}

@@ -1,0 +1,33 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_verificationdocs":[
+    {
+        "verifdoc_id": 1,
+        "chv_verdocnameeng": "Ashraya Member",
+        "chv_verdocnamemal": "ആശ്രയ അംഗം",
+        "flagverdoc": true,
+        "schemetype": 1
+    },
+    {
+        "verifdoc_id": 2,
+        "chv_verdocnameeng": "BPL Member",
+        "chv_verdocnamemal": "ബിപിഎല്‍ അംഗം",
+        "flagverdoc": true,
+        "schemetype": 1
+    },
+    {
+        "verifdoc_id": 3,
+        "chv_verdocnameeng": "AswasaKiranam Scheme Member",
+        "chv_verdocnamemal": "വരുമാന പരിധിക്കുള്ളില്‍",
+        "flagverdoc": true,
+        "schemetype": 1
+    },
+    {
+        "verifdoc_id": 99,
+        "chv_verdocnameeng": "Others",
+        "chv_verdocnamemal": "മറ്റുള്ളവ",
+        "flagverdoc": true,
+        "schemetype": 1
+    }
+]
+}

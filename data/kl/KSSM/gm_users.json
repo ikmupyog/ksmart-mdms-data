@@ -1,0 +1,44 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_users":[
+    {
+        "user_id": 1,
+        "username": "Administartor",
+        "pwd": null,
+        "job_type": 1,
+        "officer_name": "DEO - 1",
+        "officer_designation": "Operator",
+        "user_status": 1,
+        "gender": null,
+        "email_id": null,
+        "login_created_date": null,
+        "login_created_time": null
+    },
+    {
+        "user_id": 2,
+        "username": "approver",
+        "pwd": "approver1",
+        "job_type": 2,
+        "officer_name": "Approver - 1",
+        "officer_designation": "Approver",
+        "user_status": 1,
+        "gender": null,
+        "email_id": null,
+        "login_created_date": null,
+        "login_created_time": null
+    },
+    {
+        "user_id": 3,
+        "username": "Clerk",
+        "pwd": null,
+        "job_type": null,
+        "officer_name": null,
+        "officer_designation": null,
+        "user_status": null,
+        "gender": null,
+        "email_id": null,
+        "login_created_date": null,
+        "login_created_time": null
+    }
+]
+}

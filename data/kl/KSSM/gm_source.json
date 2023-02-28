@@ -1,0 +1,17 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_source":[
+    {
+        "sourceid": 1,
+        "sourcename": "PDE"
+    },
+    {
+        "sourceid": 2,
+        "sourcename": "DIRECT"
+    },
+    {
+        "sourceid": 3,
+        "sourcename": "EFILE"
+    }
+]
+}

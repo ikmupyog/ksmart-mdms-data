@@ -1,0 +1,90 @@
+{"tenantId": "kssm",
+  "moduleName": "data",
+  "gm_studentclasstype":[
+    {
+        "intclassidtype": 1,
+        "intclassid": 1,
+        "chvclassnametype": "----"
+    },
+    {
+        "intclassidtype": 2,
+        "intclassid": 2,
+        "chvclassnametype": "Class-1"
+    },
+    {
+        "intclassidtype": 3,
+        "intclassid": 2,
+        "chvclassnametype": "Class-2"
+    },
+    {
+        "intclassidtype": 4,
+        "intclassid": 2,
+        "chvclassnametype": "Class-3"
+    },
+    {
+        "intclassidtype": 5,
+        "intclassid": 2,
+        "chvclassnametype": "Class-4"
+    },
+    {
+        "intclassidtype": 6,
+        "intclassid": 2,
+        "chvclassnametype": "Class-5"
+    },
+    {
+        "intclassidtype": 7,
+        "intclassid": 3,
+        "chvclassnametype": "Class-6"
+    },
+    {
+        "intclassidtype": 8,
+        "intclassid": 3,
+        "chvclassnametype": "Class-7"
+    },
+    {
+        "intclassidtype": 9,
+        "intclassid": 3,
+        "chvclassnametype": "Class-8"
+    },
+    {
+        "intclassidtype": 10,
+        "intclassid": 3,
+        "chvclassnametype": "Class-9"
+    },
+    {
+        "intclassidtype": 11,
+        "intclassid": 3,
+        "chvclassnametype": "Class-10"
+    },
+    {
+        "intclassidtype": 12,
+        "intclassid": 4,
+        "chvclassnametype": "Plus-1"
+    },
+    {
+        "intclassidtype": 13,
+        "intclassid": 4,
+        "chvclassnametype": "Plus-2"
+    },
+    {
+        "intclassidtype": 14,
+        "intclassid": 5,
+        "chvclassnametype": "Degree Course"
+    },
+    {
+        "intclassidtype": 15,
+        "intclassid": 6,
+        "chvclassnametype": "Professional Graduation Course"
+    },
+    {
+        "intclassidtype": 16,
+        "intclassid": 4,
+        "chvclassnametype": "ITI"
+    },
+    {
+        "intclassidtype": 17,
+        "intclassid": 4,
+        "chvclassnametype": "Polytechnic"
+    }
+]
+}
