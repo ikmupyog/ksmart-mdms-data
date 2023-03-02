@@ -14193,6 +14193,34 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
-    }
+    },
+      {
+      "id": 2463,
+      "name": "kssm-SnehapoorvamCreate",
+      "url": "/kssm-snehapoorvam/snehapoorvam/v1/Create",
+      "parentModule": "",
+      "displayName": "kssm-SnehapoorvamCreate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "kssm-snehapoorvam",
+      "code": "null",
+      "path": ""
+    },
+    
+    
+    {
+      "id": 2464,
+      "name": "kssm-SnehapoorvamUpdate",
+      "url": "/kssm-snehapoorvam/snehapoorvam/v1/Update",
+      "parentModule": "",
+      "displayName": "kssm-SnehapoorvamUpdate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "kssm-snehapoorvam",
+      "code": "null",
+      "path": ""
+    }
+
+
    ]
 }
