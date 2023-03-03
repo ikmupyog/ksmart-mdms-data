@@ -14217,6 +14217,42 @@
       "serviceCode": "kssm-snehapoorvam",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2465,
+      "name": "marriage-create",
+      "url": "/marriage-services/cr/marriage/_create",
+      "parentModule": "",
+      "displayName": "marriage-create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-create",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2466,
+      "name": "marriage-update",
+      "url": "/marriage-services/cr/marriage/_update",
+      "parentModule": "",
+      "displayName": "marriage-update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-update",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2467,
+      "name": "marriage-search",
+      "url": "/marriage-services/cr/marriage/_search",
+      "parentModule": "",
+      "displayName": "marriage-search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-search",
+      "code": "null",
+      "path": ""
     }
       
    ]
