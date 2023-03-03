@@ -8,7 +8,7 @@
       "id": 1,
       "code": "MIDPROOF_AADHAAR_CARD",
       "active": true,
-      "type": "COMMON"
+      "type": "BND"
     },
     {
       "name": "Passport",
@@ -16,7 +16,7 @@
       "id": 2,
       "code": "MIDPROOF_PASSPORT",
       "active": true,
-      "type": "COMMON"
+      "type": "BND"
     },
     {
       "name": "Driving License",
@@ -24,7 +24,7 @@
       "id": 4,
       "code": "MIDPROOF_DRIVING_LICENSE",
       "active": true,
-      "type": "COMMON"
+      "type": "BND"
     },
     {
       "name": "Election Commission ID Card",
@@ -32,7 +32,7 @@
       "id": 5,
       "code": "MIDPROOF_ELECTION_COMMISSION_ID_CARD",
       "active": true,
-      "type": "COMMON"
+      "type": "BND"
     },
     {
       "name": "Ration Card",
@@ -40,7 +40,7 @@
       "id": 6,
       "code": "MIDPROOF_RATION_CARD_",
       "active": true,
-      "type": "COMMON"
+      "type": "BND"
     }
   ]
 }
