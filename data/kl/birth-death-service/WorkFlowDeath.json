@@ -4,9 +4,9 @@
   "WorkFlowDeath": [
     {
       "tenantId": "kl",
-      "ApplicationType": "CRBRNR",
-      "BusinessService": "birth-services",
-      "WorkflowCode": "birth21days",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
+      "WorkflowCode": "death21days",
       "startdateperiod": 0,
       "enddateperiod": 1814400000,
       "payment": false,
@@ -15,8 +15,8 @@
     },
     {
       "tenantId": "kl",
-      "ApplicationType": "NEW_APPLICATION",
-      "BusinessService": "birth-services",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
       "WorkflowCode": "NewBirth21To30",
       "startdateperiod": 1814400001,
       "enddateperiod": 2592000000,
@@ -26,8 +26,8 @@
     },
     {
       "tenantId": "kl",
-      "ApplicationType": "NEW_APPLICATION",
-      "BusinessService": "birth-services",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
       "WorkflowCode": "NewBirth30ToOneYear",
       "startdateperiod": 2592000001,
       "enddateperiod": 31536000000,
@@ -37,8 +37,8 @@
     },
     {
       "tenantId": "kl",
-      "ApplicationType": "NEW_APPLICATION",
-      "BusinessService": "birth-services",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
       "WorkflowCode": "NewBirthAboveOneYearTo5Year",
       "startdateperiod": 31536000001,
       "enddateperiod": 157680000000,
