@@ -729,6 +729,10 @@
         {
             "format": "KL-TL-PDE-[cy:yyyy-MM-dd]-[SEQ_EG_TL_PDEAPL]",
             "idname": "tl.pdeaplnumber"
+        },
+        {
+            "format": "KL-[city]-[SEQ_DTH_APL]-[cy:yyyy-MM-dd]-[code]",
+            "idname": "fm.deathcode"
         }
     ]
 }
