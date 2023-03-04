@@ -76,7 +76,7 @@
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "fn.advance_provident_fund.receipt.id"
+            "idname": "fn.advance_pFrovident_fund.receipt.id"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
@@ -715,16 +715,20 @@
             "idname": "tl.aplnumber"
         },
         {            
-            "format": "BR-APLN-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
-            "idname": "applicationno"
+            "format": "KL-[city]-[lbtype]-[fntype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-AKNO",
+            "idname": "br.applicationno"
         },
         {            
-            "format": "BR-FM-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]_[TENANT_ID]",
-            "idname": "fm_fileno"
+            "format": "KL-[city]-[lbtype]-[fntype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-FILE",
+            "idname": "br.fileno"
         },
         {            
-            "format": "BR-REGY-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
-            "idname": "registrationno"
+            "format": "KL-[city]-[lbtype]-[fntype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-REGN",
+            "idname": "br.registrationno"
+        },
+        {            
+            "format": "KL-[city]-[lbtype]-[fntype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-CERT",
+            "idname": "br.certificateno"
         },
         {
             "format": "KL-TL-PDE-[cy:yyyy-MM-dd]-[SEQ_EG_TL_PDEAPL]",
