@@ -18738,6 +18738,7 @@
     "validityPeriod": null
 },{
     "name": "food, Home use products delivery service",
+    "code": "TC6.TT128.TST1042",
     "uom": null,
     "categoryType": "SERVICE",
     "applicationDocument": {
@@ -19746,24 +19747,6 @@
 },{
     "name": "Mechanical farming",
     "code": "TC6.TT141.TST1098",
-    "uom": null,
-    "categoryType": "SERVICE",
-    "applicationDocument": {
-        "applicationType": null,
-        "categoryType": "SERVICE",
-        "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-        ]
-    },
-    "verificationDocument": [],
-    "active": true,
-    "type": "TL",
-    "validityPeriod": null
-},{
-    "name": "Modern farming",
-    "code": "TC6.TT141.TST1099",
     "uom": null,
     "categoryType": "SERVICE",
     "applicationDocument": {
