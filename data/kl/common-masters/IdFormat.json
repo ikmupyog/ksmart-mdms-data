@@ -731,7 +731,7 @@
             "idname": "tl.pdeaplnumber"
         },
         {
-            "format": "KL-[city]-[SEQ_DR_APL]-[cy:yyyy-MM-dd]-[code]",
+            "format": "KL-[city]-[SEQ_DR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
             "idname": "dr.deathcode"
         }
     ]
