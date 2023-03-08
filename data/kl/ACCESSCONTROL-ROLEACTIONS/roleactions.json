@@ -26317,8 +26317,20 @@
       "tenantId": "kl"
     },
     {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2361,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
       "rolecode": "BND_SUB_REGISTRAR",
       "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },  
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2361,
       "actioncode": "",
       "tenantId": "kl"
     },   
