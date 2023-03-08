@@ -741,6 +741,10 @@
         {
             "format": "KL-[city]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
             "idname": "br.birthcode"
+        },
+        {
+            "format": "KL-[city]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
+            "idname": "br.marriagecode"
         }
     ]
 }
