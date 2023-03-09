@@ -744,7 +744,16 @@
         },
         {
             "format": "KL-[city]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
-            "idname": "mr.marriagecode"
+            "idname": "mr.applicationno"
+        },
+         {            
+            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "mr.fileno"
+        },
+        {            
+            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "mr.registrationno"
         }
+        
     ]
 }
