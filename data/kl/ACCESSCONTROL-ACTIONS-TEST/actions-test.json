@@ -14253,6 +14253,18 @@
       "serviceCode": "marriage-search",
       "code": "null",
       "path": ""
+    },
+      {
+      "id": 2468,
+      "name": "Search death application",
+      "url": "/death-services/v1/deathdetails/_updatedeathabandoned",
+      "parentModule": "",
+      "displayName": "Update Death Abandoned",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
     }
       
    ]
