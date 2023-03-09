@@ -715,19 +715,19 @@
             "idname": "tl.aplnumber"
         },
         {            
-            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.applicationno"
         },
         {            
-            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.fileno"
         },
         {            
-            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.registrationno"
         },
         {            
-            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.certificateno"
         },
         {
