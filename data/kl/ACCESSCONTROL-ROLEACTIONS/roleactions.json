@@ -26130,6 +26130,18 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2422,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2422,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
      {
       "rolecode": "HOSPITAL_APPROVER",
       "actionid": 1752,
