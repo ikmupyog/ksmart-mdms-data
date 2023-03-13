@@ -765,6 +765,18 @@
         {
             "format": "KL-[city]-[lbtype]-[SEQ_DT_CERT]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "dr.deathcertno"
+        },
+         {
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_AKNO]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.adoptionackno"
+        },
+        {
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_REGN]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.adoptionregno"
+        },
+        {
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_CERT]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.adptioncertno"
         }
        
     ]
