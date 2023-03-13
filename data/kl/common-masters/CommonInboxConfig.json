@@ -162,6 +162,17 @@
                 "DEFAULT": "/employee/wns/search-preview?applicationNumber=^WFBID^&tenantId=^WFTNID^&history=true&service=SEWERAGE&mode=MODIFY"
               }
         },{
+            "moduleName": "CR",
+            "BusinessService": "BIRTHHOSP21",
+            "roles":["HOSPITAL_OPERATOR","HOSPITAL_APPROVER","INSTITUTION_OPERATOR","INSTITUTION_APPROVER","BND_SUB_REGISTRAR","BND_LOCAL_REGISTRAR"],
+            "active": true,
+            "locality":true,
+            "localityModule":"birth-services",
+            "redirectConfig": {
+                "INITIATED": "/digit-ui/employee/cr/application-details/^WFBID^",
+                "DEFAULT": "/digit-ui/employee/cr/application-details/^WFBID^"
+              }
+        },{
             "moduleName": "PGR",
             "BusinessService": "PGR",
             "roles":["GRO","DGRO","PGR_LME","SUPERVISOR"],

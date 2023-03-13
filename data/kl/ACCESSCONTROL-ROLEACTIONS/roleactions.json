@@ -25761,6 +25761,18 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2424,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2424,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
 
   {
       "rolecode": "BND_DISTRICT_REGISTRAR",
@@ -26136,7 +26148,7 @@
       "actioncode": "",
       "tenantId": "kl"
     },
-         {
+    {
       "rolecode": "HOSPITAL_APPROVER",
       "actionid": 1743,
       "actioncode": "",
@@ -26243,6 +26255,127 @@
       "actionid": 2422,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2463,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2464,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2465,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2465,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2465,
+      "actioncode": "",
+      "tenantId": "kl"
+    },   
+     {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2465,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },   
+     {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2361,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },  
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2361,
+      "actioncode": "",
+      "tenantId": "kl"
+    },   
+     {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2465,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2468,
+      "actioncode": "",
+      "tenantId": "kl"
     }
+    
   ]
 }

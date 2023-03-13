@@ -1,0 +1,66 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "WorkFlowDeath": [
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
+      "DeathPlace": "HOSPITAL",
+      "WorkflowCode": "DEATHTHHOSP",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
+      "DeathPlace": "INSTITUTION",
+      "WorkflowCode": "DEATHTHHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
+      "DeathPlace": "HOME",
+      "WorkflowCode": "DEATHTHHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
+      "DeathPlace": "VEHICLE",
+      "WorkflowCode": "DEATHTHHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRDRNR",
+      "BusinessService": "death-services",
+      "DeathPlace": "PUBLIC_PLACES",
+      "WorkflowCode": "DEATHTHHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    }
+  ]
+}

@@ -14193,6 +14193,79 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2463,
+      "name": "kssm-SnehapoorvamCreate",
+      "url": "/kssm-snehapoorvam/snehapoorvam/v1/Create",
+      "parentModule": "",
+      "displayName": "kssm-SnehapoorvamCreate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "kssm-snehapoorvam",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2464,
+      "name": "kssm-SnehapoorvamUpdate",
+      "url": "/kssm-snehapoorvam/snehapoorvam/v1/Update",
+      "parentModule": "",
+      "displayName": "kssm-SnehapoorvamUpdate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "kssm-snehapoorvam",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2465,
+      "name": "marriage-create",
+      "url": "/marriage-services/cr/marriage/_create",
+      "parentModule": "",
+      "displayName": "marriage-create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-create",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2466,
+      "name": "marriage-update",
+      "url": "/marriage-services/cr/marriage/_update",
+      "parentModule": "",
+      "displayName": "marriage-update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-update",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2467,
+      "name": "marriage-search",
+      "url": "/marriage-services/cr/marriage/_search",
+      "parentModule": "",
+      "displayName": "marriage-search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-search",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2468,
+      "name": "Search death application",
+      "url": "/death-services/v1/deathdetails/_updatedeathabandoned",
+      "parentModule": "",
+      "displayName": "Update Death Abandoned",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
     }
+      
    ]
 }
