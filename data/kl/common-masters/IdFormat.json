@@ -707,7 +707,7 @@
             "idname": "tl.licensenumber"
         },
         {
-            "format": "KL-FM-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
+            "format": "KL-[city]-[lbtype]-[SEQ_FM_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "fm.filecode"
         },
         {
