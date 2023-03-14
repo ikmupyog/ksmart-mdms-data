@@ -26405,6 +26405,48 @@
       "actionid": 2469,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2470,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2470,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2470,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2470,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2470,
+      "actioncode": "",
+      "tenantId": "kl"
+    },   
+     {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2470,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2470,
+      "actioncode": "",
+      "tenantId": "kl"
     }
     
   ]
