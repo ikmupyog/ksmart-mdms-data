@@ -14277,6 +14277,18 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+      {
+      "id": 2470,
+      "name": "Update Still Birth application",
+      "url": "/birth-services/cr/updatestillbirth",
+      "parentModule": "",
+      "displayName": "Update Still birth",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
     }
       
    ]
