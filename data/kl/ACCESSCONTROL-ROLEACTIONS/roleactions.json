@@ -26387,6 +26387,24 @@
       "actionid": 2468,
       "actioncode": "",
       "tenantId": "kl"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2469,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2469,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2469,
+      "actioncode": "",
+      "tenantId": "kl"
     }
     
   ]
