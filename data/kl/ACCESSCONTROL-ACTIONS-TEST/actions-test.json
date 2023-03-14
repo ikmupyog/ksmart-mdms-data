@@ -12715,7 +12715,7 @@
     {
       "id": 2361,
       "name": "Birth-Death : Birth Save Report",
-      "url": "/birth-services/ksmart/birth/createbirth",
+      "url": "/birth-services/cr/createbirth",
       "displayName": "Birth Save",
       "orderNumber": 0,
       "parentModule": "",
@@ -13570,7 +13570,7 @@
       {
       "id": 2424,
       "name": "Create new birth application",
-      "url": "/birth-services/ksmart/birth/createbirth",
+      "url": "/birth-services/cr/createbirth",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
@@ -13583,7 +13583,7 @@
  {
       "id": 2425,
       "name": "Update birth application",
-      "url": "/birth-services/ksmart/birth/updatebirth",
+      "url": "/birth-services/cr/updatebirth",
       "parentModule": "",
       "displayName": "Update File",
       "orderNumber": 0,
@@ -13596,7 +13596,7 @@
  {
       "id": 2426,
       "name": "Search birth application",
-      "url": "/birth-services/ksmart/birth/searchbirth",
+      "url": "/birth-services/cr/searchbirth",
       "parentModule": "",
       "displayName": "Search File",
       "orderNumber": 0,
