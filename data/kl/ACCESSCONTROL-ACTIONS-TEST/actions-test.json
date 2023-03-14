@@ -14254,7 +14254,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 2468,
       "name": "Search death application",
       "url": "/death-services/v1/deathdetails/_updatedeathabandoned",
@@ -14263,6 +14263,18 @@
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2469,
+      "name": "Create Still Birth application",
+      "url": "/birth-services/cr/createstillbirth",
+      "parentModule": "",
+      "displayName": "Create Still birth",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
       "code": "null",
       "path": ""
     }
