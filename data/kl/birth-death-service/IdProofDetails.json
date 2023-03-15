@@ -3,14 +3,6 @@
   "moduleName": "birth-death-service",
   "IdProofDetails": [
     {
-      "name": "Aadhaar Card",
-      "namelocal": "ആധാര്‍ കാര്‍ഡ്",
-      "id": 1,
-      "code": "MIDPROOF_AADHAAR_CARD",
-      "active": true,
-      "type": "BND"
-    },
-    {
       "name": "Passport",
       "namelocal": "പാസ്പോര്‍ട്ട്",
       "id": 2,
