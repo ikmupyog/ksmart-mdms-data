@@ -1971,7 +1971,7 @@
       "type": "Adhoc"
     },
     {
-      "businessService": "BirthServices",
+      "businessService": "birth-services",
       "code": "CR",
       "collectionModesNotAllowed": [
         "DD",
