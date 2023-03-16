@@ -5767,6 +5767,16 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": 2
+    },
+    {
+      "category": "FEE",
+      "service": "birth-services",
+      "name": "Birth Registration Late Fee",
+      "code": "CRB_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
   ]
 }
