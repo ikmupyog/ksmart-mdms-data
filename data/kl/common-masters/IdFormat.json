@@ -779,7 +779,7 @@
             "idname": "br.adptioncertno"
         },
          {
-            "format": "KL-[city]-[lbtype]-[SEQ_AD_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
             "idname": "pg.txnid"
         }
        
