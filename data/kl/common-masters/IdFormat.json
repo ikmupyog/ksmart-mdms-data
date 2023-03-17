@@ -777,6 +777,10 @@
         {
             "format": "KL-[city]-[lbtype]-[SEQ_AD_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.adptioncertno"
+        },
+         {
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "pg.txnid"
         }
        
     ]
