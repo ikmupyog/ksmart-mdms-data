@@ -14289,6 +14289,42 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+       {
+      "id": 2471,
+      "name": "Create Adoption ",
+      "url": "/birth-services/cr/createadoption",
+      "parentModule": "",
+      "displayName": "Create Adoption",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2472,
+      "name": "Update Adoption",
+      "url": "/birth-services/cr/updateadoption",
+      "parentModule": "",
+      "displayName": "Update Adoption",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+       {
+      "id": 2473,
+      "name": "Search Adoption",
+      "url": "/birth-services/cr/searchadoption",
+      "parentModule": "",
+      "displayName": "Adoption-Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
     }
       
    ]
