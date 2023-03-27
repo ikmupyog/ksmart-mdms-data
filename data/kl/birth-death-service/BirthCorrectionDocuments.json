@@ -1,7 +1,7 @@
 {
   "tenantId": "kl",
   "moduleName": "birth-death-service",
-  "CorrectionDocuments": [
+  "BirthCorrectionDocuments": [
     {
       "BusinessService": "birth-services",
       "CorrectionField": "CHILD_DOB",
@@ -53,14 +53,14 @@
           ]
         },
         {
-          "DocumentId": 5,
+          "DocumentId": 4,
           "DocumentType": "Person two Declaration in Form 1 for child",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 6,
+          "DocumentId": 5,
           "DocumentType": "Person one Declaration in Form 1 for child",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "DocumentId": 7,
+          "DocumentId": 6,
           "DocumentType": "Disability Certificate or declaration",
           "DocumentList": [
             "DISABILITY_CERTIFICATE,DECLARATION_IN_FORM_3"
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "DocumentId": 9,
+          "DocumentId": 8,
           "DocumentType": "School certificate of child",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
@@ -176,14 +176,14 @@
           ]
         },
         {
-          "DocumentId": 9,
+          "DocumentId": 8,
           "DocumentType": "School certificate of child",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
           ]
         },
         {
-          "DocumentId": 10,
+          "DocumentId": 9,
           "DocumentType": "Declaration in form 4",
           "DocumentList": [
             "DECLARATION_IN_FORM_4"
@@ -209,14 +209,14 @@
           ]
         },
         {
-          "DocumentId": 9,
+          "DocumentId": 8,
           "DocumentType": "School certificate of child",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
           ]
         },
         {
-          "DocumentId": 11,
+          "DocumentId": 10,
           "DocumentType": "Declaration in form 6",
           "DocumentList": [
             "DECLARATION_IN_FORM_6"
@@ -235,14 +235,14 @@
       "active": true,
       "Documents": [
         {
-          "DocumentId": 9,
+          "DocumentId": 8,
           "DocumentType": "School certificate of child",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
           ]
         },
         {
-          "DocumentId": 15,
+          "DocumentId": 14,
           "DocumentType": "Child ID proof",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC"
@@ -261,21 +261,21 @@
       "active": true,
       "Documents": [
         {
-          "DocumentId": 9,
+          "DocumentId": 8,
           "DocumentType": "School certificate of child",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
           ]
         },
         {
-          "DocumentId": 15,
+          "DocumentId": 14,
           "DocumentType": "Child ID proof",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC"
           ]
         },
         {
-          "DocumentId": 12,
+          "DocumentId": 11,
           "DocumentType": "Declaration in form 5",
           "DocumentList": [
             "DECLARATION_IN_FORM_5"
@@ -341,7 +341,7 @@
           ]
         },
         {
-          "DocumentId": 13,
+          "DocumentId": 12,
           "DocumentType": "Certifiacte of sex reassignment",
           "DocumentList": [
             "CERTIFIACTE_OF_SEX_REASSIGNMENT"
@@ -367,7 +367,7 @@
           ]
         },
         {
-          "DocumentId": 14,
+          "DocumentId": 13,
           "DocumentType": "Medical Certificate stating the sex ",
           "DocumentList": [
             "MEDICAL_CERTIFICATE_STATING_THE_SEX"
@@ -393,14 +393,14 @@
           ]
         },
         {
-          "DocumentId": 5,
+          "DocumentId": 4,
           "DocumentType": "Person two Declaration in Form 1 for child",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 13,
+          "DocumentId": 12,
           "DocumentType": "Certifiacte of sex reassignment",
           "DocumentList": [
             "CERTIFIACTE_OF_SEX_REASSIGNMENT"
@@ -419,14 +419,14 @@
       "active": true,
       "Documents": [
         {
-          "DocumentId": 15,
+          "DocumentId": 14,
           "DocumentType": "Child ID proof",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC"
           ]
         },
         {
-          "DocumentId": 14,
+          "DocumentId": 13,
           "DocumentType": "Medical Certificate stating the sex ",
           "DocumentList": [
             "MEDICAL_CERTIFICATE_STATING_THE_SEX"
@@ -445,14 +445,14 @@
       "active": true,
       "Documents": [
         {
-          "DocumentId": 15,
+          "DocumentId": 14,
           "DocumentType": "Child ID proof",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC"
           ]
         },
         {
-          "DocumentId": 14,
+          "DocumentId": 13,
           "DocumentType": "Medical Certificate stating the sex ",
           "DocumentList": [
             "MEDICAL_CERTIFICATE_STATING_THE_SEX"
@@ -478,7 +478,7 @@
           ]
         },
         {
-          "DocumentId": 18,
+          "DocumentId": 17,
           "DocumentType": "School certificate of father",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
@@ -504,28 +504,28 @@
           ]
         },
         {
-          "DocumentId": 18,
+          "DocumentId": 17,
           "DocumentType": "School certificate of father",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
           ]
         },
         {
-          "DocumentId": 17,
+          "DocumentId": 16,
           "DocumentType": "Person Identifying Certificate of father",
           "DocumentList": [
             "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
           ]
         },
         {
-          "DocumentId": 19,
+          "DocumentId": 18,
           "DocumentType": "Person two Declaration in Form 1 for father",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 20,
+          "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
@@ -551,7 +551,7 @@
           ]
         },
         {
-          "DocumentId": 16,
+          "DocumentId": 15,
           "DocumentType": "ID proof of father",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
@@ -577,28 +577,28 @@
           ]
         },
         {
-          "DocumentId": 16,
+          "DocumentId": 15,
           "DocumentType": "ID proof of father",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
           ]
         },
         {
-          "DocumentId": 17,
+          "DocumentId": 16,
           "DocumentType": "Person Identifying Certificate of father",
           "DocumentList": [
             "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
           ]
         },
         {
-          "DocumentId": 19,
+          "DocumentId": 18,
           "DocumentType": "Person two Declaration in Form 1 for father",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 20,
+          "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
@@ -624,7 +624,7 @@
           ]
         },
         {
-          "DocumentId": 20,
+          "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
@@ -650,28 +650,28 @@
           ]
         },
         {
-          "DocumentId": 20,
+          "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 25,
+          "DocumentId": 24,
           "DocumentType": "Person Identifying Certificate of mother",
           "DocumentList": [
             "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
           ]
         },
         {
-          "DocumentId": 23,
+          "DocumentId": 22,
           "DocumentType": "Person two Declaration in Form 1 for mother",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 24,
+          "DocumentId": 23,
           "DocumentType": "Person one Declaration in Form 1 for mother",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
@@ -697,7 +697,7 @@
           ]
         },
         {
-          "DocumentId": 21,
+          "DocumentId": 20,
           "DocumentType": "ID proof of mother",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
@@ -723,28 +723,28 @@
           ]
         },
         {
-          "DocumentId": 21,
+          "DocumentId": 20,
           "DocumentType": "ID proof of mother",
           "DocumentList": [
             "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
           ]
         },
         {
-          "DocumentId": 25,
+          "DocumentId": 24,
           "DocumentType": "Person Identifying Certificate of mother",
           "DocumentList": [
             "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
           ]
         },
         {
-          "DocumentId": 23,
+          "DocumentId": 22,
           "DocumentType": "Person two Declaration in Form 1 for mother",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 24,
+          "DocumentId": 23,
           "DocumentType": "Person one Declaration in Form 1 for mother",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
@@ -770,21 +770,21 @@
           ]
         },
         {
-          "DocumentId": 9,
+          "DocumentId": 8,
           "DocumentType": "School certificate of child",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
           ]
         },
         {
-          "DocumentId": 26,
+          "DocumentId": 25,
           "DocumentType": "Govt approved ID card at the time of birth",
           "DocumentList": [
             "GOVT_ID_CARD"
           ]
         },
         {
-          "DocumentId": 27,
+          "DocumentId": 26,
           "DocumentType": "Registered deeds ",
           "DocumentList": [
             "REGISTERED DEEDS"
@@ -810,35 +810,35 @@
           ]
         },
         {
-          "DocumentId": 9,
+          "DocumentId": 8,
           "DocumentType": "School certificate of child",
           "DocumentList": [
             "SCHOOL_CERTIFICATE"
           ]
         },
         {
-          "DocumentId": 26,
+          "DocumentId": 25,
           "DocumentType": "Govt approved ID card at the time of birth",
           "DocumentList": [
             "GOVT_ID_CARD"
           ]
         },
         {
-          "DocumentId": 27,
+          "DocumentId": 26,
           "DocumentType": "Registered deeds ",
           "DocumentList": [
             "REGISTERED DEEDS"
           ]
         },
         {
-          "DocumentId": 23,
+          "DocumentId": 27,
           "DocumentType": "Person two Declaration in Form 1 for address",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
           ]
         },
         {
-          "DocumentId": 24,
+          "DocumentId": 28,
           "DocumentType": "Person one Declaration in Form 1 for address",
           "DocumentList": [
             "DECLARATION_IN_FORM_1"
