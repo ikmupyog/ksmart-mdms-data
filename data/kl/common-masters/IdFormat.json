@@ -784,7 +784,7 @@
         },
          {
             "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
-            "idname": "pg.receipt.id"
+            "idname": "receipt.id"
         }
        
     ]
