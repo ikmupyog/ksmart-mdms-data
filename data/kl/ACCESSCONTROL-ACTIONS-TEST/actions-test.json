@@ -14325,7 +14325,19 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
-    }
+    },
+      {
+         "id": 2474,
+         "name": "CR Payment search",
+         "url": "/collection-services/payments/CR/_search",
+         "displayName": "CR Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
       
    ]
 }
