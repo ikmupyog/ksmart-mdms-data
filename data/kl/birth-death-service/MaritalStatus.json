@@ -1,0 +1,46 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "MaritalStatus": [
+    {
+      "name": "Unmarried",
+      "namelocal": "അവിവാഹിതൻ/അവിവാഹിത",
+      "code": "UNMARRIED",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Married",
+      "namelocal": "വിവാഹിതൻ/വിവാഹിത",
+      "code": "MARRIED",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Widowed",
+      "namelocal": "വിധവ",
+      "code": "WIDOWED",
+      "id": 3,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Divorced",
+      "namelocal": "വിവാഹമോചനം നേടി",
+      "code": "DIVORCED",
+      "id": 4,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Annulled",
+      "namelocal": "അസാധുവാക്കി",
+      "code": "ANNULLED",
+      "id": 5,
+      "active": true,
+      "type": "BND"
+    },
+  ]
+}
