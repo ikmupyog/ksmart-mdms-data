@@ -1,0 +1,78 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "TypeOfMarriage": [
+    {
+      "name": "Hindu",
+      "namelocal": "ഹിന്ദു",
+      "code": "MARRIAGE_TYPE_HINDU",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Christian",
+      "namelocal": "ക്രിസ്ത്യൻ",
+      "code": "MARRIAGE_TYPE_CHRISTIAN",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Muslim",
+      "namelocal": "മുസ്ലീം",
+      "code": "MARRIAGE_TYPE_MUSLIM",
+      "id": 3,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Judaism",
+      "namelocal": "യഹൂദമതം",
+      "code": "MARRIAGE_TYPE_MUSLIM",
+      "id": 4,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Budhism",
+      "namelocal": "ബുദ്ധമതം",
+      "code": "MARRIAGE_TYPE_BUDHISM",
+      "id": 5,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Jainism",
+      "namelocal": "ജൈനമതം",
+      "code": "MARRIAGE_TYPE_JAINISM",
+      "id": 6,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Sikhism",
+      "namelocal": "സിഖ് മതം",
+      "code": "MARRIAGE_TYPE_SIKHISM",
+      "id": 7,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Zorastrianism",
+      "namelocal": "സൊരാസ്ട്രിയനിസം",
+      "code": "MARRIAGE_TYPE_ZORASTRIANISM",
+      "id": 8,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Special Marriage Act(auto)",
+      "namelocal": "പ്രത്യേക വിവാഹ നിയമം ",
+      "code": "MARRIAGE_TYPE_SPECIAL_ACT",
+      "id": 9,
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

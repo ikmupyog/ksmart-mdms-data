@@ -707,7 +707,7 @@
             "idname": "tl.licensenumber"
         },
         {
-            "format": "KL-FM-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
+            "format": "KL-[city]-[lbtype]-[SEQ_FM_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "fm.filecode"
         },
         {
@@ -747,36 +747,44 @@
             "idname": "mr.applicationno"
         },
          {            
-            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "mr.fileno"
         },
         {            
-            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "mr.registrationno"
         },
         {
-            "format": "KL-[city]-[lbtype]-[SEQ_DT_AKNO]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_DT_AKNO]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "dr.deathackno"
         },
         {
-            "format": "KL-[city]-[lbtype]-[SEQ_DT_REGN]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_DT_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "dr.deathregno"
         },
         {
-            "format": "KL-[city]-[lbtype]-[SEQ_DT_CERT]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_DT_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "dr.deathcertno"
         },
          {
-            "format": "KL-[city]-[lbtype]-[SEQ_AD_AKNO]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_AKNO]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.adoptionackno"
         },
         {
-            "format": "KL-[city]-[lbtype]-[SEQ_AD_REGN]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.adoptionregno"
         },
         {
-            "format": "KL-[city]-[lbtype]-[SEQ_AD_CERT]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "br.adptioncertno"
+        },
+         {
+            "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+            "idname": "pg.txnid"
+        },
+         {
+            "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+            "idname": "receipt.id"
         }
        
     ]

@@ -12715,7 +12715,7 @@
     {
       "id": 2361,
       "name": "Birth-Death : Birth Save Report",
-      "url": "/birth-services/ksmart/birth/createbirth",
+      "url": "/birth-services/cr/createbirth",
       "displayName": "Birth Save",
       "orderNumber": 0,
       "parentModule": "",
@@ -13570,7 +13570,7 @@
       {
       "id": 2424,
       "name": "Create new birth application",
-      "url": "/birth-services/ksmart/birth/createbirth",
+      "url": "/birth-services/cr/createbirth",
       "parentModule": "",
       "displayName": "Create File",
       "orderNumber": 0,
@@ -13583,7 +13583,7 @@
  {
       "id": 2425,
       "name": "Update birth application",
-      "url": "/birth-services/ksmart/birth/updatebirth",
+      "url": "/birth-services/cr/updatebirth",
       "parentModule": "",
       "displayName": "Update File",
       "orderNumber": 0,
@@ -13596,7 +13596,7 @@
  {
       "id": 2426,
       "name": "Search birth application",
-      "url": "/birth-services/ksmart/birth/searchbirth",
+      "url": "/birth-services/cr/searchbirth",
       "parentModule": "",
       "displayName": "Search File",
       "orderNumber": 0,
@@ -14254,7 +14254,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 2468,
       "name": "Search death application",
       "url": "/death-services/v1/deathdetails/_updatedeathabandoned",
@@ -14265,7 +14265,79 @@
       "serviceCode": "death-services",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2469,
+      "name": "Create Still Birth application",
+      "url": "/birth-services/cr/createstillbirth",
+      "parentModule": "",
+      "displayName": "Create Still birth",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2470,
+      "name": "Update Still Birth application",
+      "url": "/birth-services/cr/updatestillbirth",
+      "parentModule": "",
+      "displayName": "Update Still birth",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+       {
+      "id": 2471,
+      "name": "Create Adoption ",
+      "url": "/birth-services/cr/createadoption",
+      "parentModule": "",
+      "displayName": "Create Adoption",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2472,
+      "name": "Update Adoption",
+      "url": "/birth-services/cr/updateadoption",
+      "parentModule": "",
+      "displayName": "Update Adoption",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+       {
+      "id": 2473,
+      "name": "Search Adoption",
+      "url": "/birth-services/cr/searchadoption",
+      "parentModule": "",
+      "displayName": "Adoption-Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+         "id": 2474,
+         "name": "CR Payment search",
+         "url": "/collection-services/payments/CR/_search",
+         "displayName": "CR Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
       
    ]
 }
