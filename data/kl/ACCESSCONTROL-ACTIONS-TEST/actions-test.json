@@ -14221,7 +14221,7 @@
     {
       "id": 2465,
       "name": "marriage-create",
-      "url": "/marriage-services/cr/marriage/_create",
+      "url": "/marriage-services/v1/marriagedetails/_createmarriage",
       "parentModule": "",
       "displayName": "marriage-create",
       "orderNumber": 0,
@@ -14233,7 +14233,7 @@
     {
       "id": 2466,
       "name": "marriage-update",
-      "url": "/marriage-services/cr/marriage/_update",
+      "url": "/marriage-services/v1/marriagedetails/_updatemarriage",
       "parentModule": "",
       "displayName": "marriage-update",
       "orderNumber": 0,
@@ -14245,7 +14245,7 @@
     {
       "id": 2467,
       "name": "marriage-search",
-      "url": "/marriage-services/cr/marriage/_search",
+      "url": "/marriage-services/v1/marriagedetails/_searchmarriage",
       "parentModule": "",
       "displayName": "marriage-search",
       "orderNumber": 0,
