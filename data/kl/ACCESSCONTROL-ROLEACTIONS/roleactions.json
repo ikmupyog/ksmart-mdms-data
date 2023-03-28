@@ -26579,6 +26579,66 @@
       "actionid": 2475,
       "actioncode": "",
       "tenantId": "kl"
+    },
+       {
+      "rolecode": "CITIZEN",
+      "actionid": 2465,
+      "actioncode": "",
+      "tenantId": "kl"
+    }, 
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2465,
+      "actioncode": "",
+      "tenantId": "kl"
+    }, 
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },  
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    }, 
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2476,
+      "actioncode": "",
+      "tenantId": "kl"
+    }, 
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2477,
+      "actioncode": "",
+      "tenantId": "kl"
+    }, 
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2478,
+      "actioncode": "",
+      "tenantId": "kl"
     }
     
   ]
