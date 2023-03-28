@@ -71,7 +71,7 @@
       "startdateperiod": 1814400001,
       "enddateperiod": 2592000000,
       "payment": true,
-      "amount": 5,
+      "amount": 7,
       "active": true
     },
      {
@@ -83,7 +83,7 @@
       "startdateperiod": 1814400001,
       "enddateperiod": 2592000000,
       "payment": true,
-      "amount": 5,
+      "amount": 7,
       "active": true
     },
     {
@@ -95,7 +95,7 @@
       "startdateperiod": 1814400001,
       "enddateperiod": 2592000000,
       "payment": true,
-      "amount": 5,
+      "amount": 10,
       "active": true
     },
      {
@@ -107,7 +107,31 @@
       "startdateperiod": 1814400001,
       "enddateperiod": 2592000000,
       "payment": true,
-      "amount": 5,
+      "amount": 10,
+      "active": true
+    },
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRNR",
+      "BusinessService": "birth-services",
+      "BirtPlace": "HOSPITAL",
+      "WorkflowCode": "ABOVE1YRBIRTHHOSP",
+      "startdateperiod": 1814400001,
+      "enddateperiod": 2592000000,
+      "payment": true,
+      "amount": 15,
+      "active": true
+    },
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRNR",
+      "BusinessService": "birth-services",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "ABOVE1YRBIRTHHOME",
+      "startdateperiod": 1814400001,
+      "enddateperiod": 2592000000,
+      "payment": true,
+      "amount": 15,
       "active": true
     },
      {
