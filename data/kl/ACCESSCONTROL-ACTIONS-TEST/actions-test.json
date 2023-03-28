@@ -14349,6 +14349,42 @@
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
-   }
+   },
+          {
+      "id": 2476,
+      "name": "marriage-create",
+      "url": "/marriage-services/v1/marriagedetails/_createregistry",
+      "parentModule": "",
+      "displayName": "marriageregistry-create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-create",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2477,
+      "name": "marriage-update",
+      "url": "/marriage-services/v1/marriagedetails/_updateregistry",
+      "parentModule": "",
+      "displayName": "marriageregistry-update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-update",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2478,
+      "name": "marriage-search",
+      "url": "/marriage-services/v1/marriagedetails/_searchregistry",
+      "parentModule": "",
+      "displayName": "marriageregistry-search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-search",
+      "code": "null",
+      "path": ""
+    },
    ]
 }
