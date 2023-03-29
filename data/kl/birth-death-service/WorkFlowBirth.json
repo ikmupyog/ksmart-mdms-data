@@ -133,18 +133,7 @@
       "payment": true,
       "amount": 15,
       "active": true
-    },
-     {
-      "tenantId": "kl",
-      "ApplicationType": "CRBRAD",
-      "BusinessService": "CR",
-      "BirtPlace": "INSTITUTION",
-      "WorkflowCode": "21BIRTHHOME",
-      "startdateperiod": 0,
-      "enddateperiod": 1814400000,
-      "payment": false,
-      "amount": 0,
-      "active": true
     }
+     
   ]
 }
