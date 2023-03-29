@@ -1,0 +1,139 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "WorkFlowAdoption": [
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOSPITAL",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "INSTITUTION",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "VEHICLE",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "PUBLIC_PLACES",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOSPITAL",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 1814400001,
+      "enddateperiod": 2592000000,
+      "payment": true,
+      "amount": 7,
+      "active": true
+    },
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 1814400001,
+      "enddateperiod": 2592000000,
+      "payment": true,
+      "amount": 7,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOSPITAL",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 2592000000,
+      "enddateperiod": 31622400000,
+      "payment": true,
+      "amount": 10,
+      "active": true
+    },
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 2592000000,
+      "enddateperiod": 31622400000,
+      "payment": true,
+      "amount": 10,
+      "active": true
+    },
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOSPITAL",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 31622400000,
+      "enddateperiod": 0,
+      "payment": true,
+      "amount": 15,
+      "active": true
+    },
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRAD",
+      "BusinessService": "CR",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "ADOPTIONHOME",
+      "startdateperiod": 31622400000,
+      "enddateperiod": 0,
+      "payment": true,
+      "amount": 15,
+      "active": true
+    }
+     
+  ]
+}
