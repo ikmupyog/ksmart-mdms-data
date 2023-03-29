@@ -14385,6 +14385,18 @@
       "serviceCode": "marriage-search",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2479,
+      "name": "Update Still Birth application",
+      "url": "/birth-services/cr/searchstillbirth",
+      "parentModule": "",
+      "displayName": "Search Still birth",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
     }
    ]
 }
