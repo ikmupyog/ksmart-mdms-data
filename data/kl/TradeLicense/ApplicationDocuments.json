@@ -217,8 +217,8 @@
         {
           "code": "GAZETTEDDECLARATION",
           "description": "GAZETTEDDECLARATION",
-          "name": "One and same declaration attested by gazetted officer if it’s a different name",
-          "manOpt": "=TRUE()"
+          "name": "One and same declaration attested by gazetted officer if it's a different name",
+          "manOpt": "MANDATORY"
         }
       ]
     }
