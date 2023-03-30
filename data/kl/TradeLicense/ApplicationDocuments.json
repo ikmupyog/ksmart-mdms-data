@@ -1,0 +1,226 @@
+{
+  "tenantId": "kl",
+  "moduleName": "TradeLicense",
+  "ApplicationDocuments": [
+    {
+      "code": "INDIVIDUAL",
+      "name": "Individual",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "OWNERID",
+          "description": "OWNERID",
+          "name": "Owner ID Proof",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "OWNERPHOTO",
+          "description": "OWNERPHOTO",
+          "name": "Owner's Photo",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "INSTITUTION.PARTNERSHIP",
+      "name": "Institution(Partnership)",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "OWNERID",
+          "description": "OWNERID",
+          "name": "Owner ID Proof",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "OWNERPHOTO",
+          "description": "OWNERPHOTO",
+          "name": "Owner's Photo",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "PARTNERSHIPDEED",
+          "description": "PARTNERSHIPDEED",
+          "name": "Partnership Deed",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "INSTITUTION.COMPANY",
+      "name": "Institution (Company)",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "OWNERID",
+          "description": "OWNERID",
+          "name": "Owner ID Proof",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "OWNERPHOTO",
+          "description": "OWNERPHOTO",
+          "name": "Owner's Photo",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "COMPANYREGCERT",
+          "description": "COMPANYREGCERT",
+          "name": "Company Registration Certificate ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "LAND.OWN",
+      "name": "Land",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "LANDPOSCERT",
+          "description": "LANDPOSCERT",
+          "name": "Land Posession Certificate ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "LANDTAXREC",
+          "description": "LANDTAXREC",
+          "name": "Land Tax Reciept ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "LAND.RENTED",
+      "name": "Land",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "LANDPOSCERT",
+          "description": "LANDPOSCERT",
+          "name": "Land Posession Certificate ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "LANDTAXREC",
+          "description": "LANDTAXREC",
+          "name": "Land Tax Reciept ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "LANDRENTAGREEMENT",
+          "description": "LANDRENTAGREEMENT",
+          "name": "Rent Agreement ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "LAND.LEASE",
+      "name": "Land",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "LANDPOSCERT",
+          "description": "LANDPOSCERT",
+          "name": "Land Posession Certificate ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "LANDTAXREC",
+          "description": "LANDTAXREC",
+          "name": "Land Tax Reciept ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "LANDLEASEAGREEMENT",
+          "description": "LANDLEASEAGREEMENT",
+          "name": "Lease Agreement ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "BUILDING.OWN",
+      "name": "Individual",
+      "applicationType": "CORRECTION",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "PTRECEIPT",
+          "description": "PTRECEIPT",
+          "name": "Building ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "BUILDING.RENT",
+      "name": "Individual",
+      "applicationType": "CORRECTION",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "CONSENTDEED",
+          "description": "CONCENTDEED",
+          "name": "New Consent / Deed",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "LICENCEUNITNAME.PARTNERSHIP",
+      "name": "Licencing unit name",
+      "applicationType": "CORRECTION",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "PARTNERSHIPDEED",
+          "description": "PARTNERSHIPDEED",
+          "name": "Partnership Deed",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "LICENCEUNITNAME.COMPANY",
+      "name": "Licencing unit name",
+      "applicationType": "CORRECTION",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "COMPANYREGCERT",
+          "description": "COMPANYREGCERT",
+          "name": "Company Registration Certificate ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "INDIVIDUAL",
+      "name": "Individual",
+      "applicationType": "CORRECTION",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "FATHERPROOF",
+          "description": "FATHERPROOF",
+          "name": "Name of father proof of name",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "GAZETTEDDECLARATION",
+          "description": "GAZETTEDDECLARATION",
+          "name": "One and same declaration attested by gazetted officer if it’s a different name",
+          "manOpt": "=TRUE()"
+        }
+      ]
+    }
+  ]
+}
