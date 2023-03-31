@@ -14221,7 +14221,7 @@
     {
       "id": 2465,
       "name": "marriage-create",
-      "url": "/marriage-services/cr/marriage/_create",
+      "url": "/marriage-services/v1/marriagedetails/_createmarriage",
       "parentModule": "",
       "displayName": "marriage-create",
       "orderNumber": 0,
@@ -14233,7 +14233,7 @@
     {
       "id": 2466,
       "name": "marriage-update",
-      "url": "/marriage-services/cr/marriage/_update",
+      "url": "/marriage-services/v1/marriagedetails/_updatemarriage",
       "parentModule": "",
       "displayName": "marriage-update",
       "orderNumber": 0,
@@ -14245,7 +14245,7 @@
     {
       "id": 2467,
       "name": "marriage-search",
-      "url": "/marriage-services/cr/marriage/_search",
+      "url": "/marriage-services/v1/marriagedetails/_searchmarriage",
       "parentModule": "",
       "displayName": "marriage-search",
       "orderNumber": 0,
@@ -14337,7 +14337,66 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
-      }
-      
+      },
+   {
+      "id": 2475,
+      "name": "Create License Correction",
+      "url": "/tl-services/correction/_create",
+      "parentModule": "",
+      "displayName": "Create License Correction",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
+   },
+          {
+      "id": 2476,
+      "name": "marriage-create",
+      "url": "/marriage-services/v1/marriagedetails/_createregistry",
+      "parentModule": "",
+      "displayName": "marriageregistry-create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-create",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2477,
+      "name": "marriage-update",
+      "url": "/marriage-services/v1/marriagedetails/_updateregistry",
+      "parentModule": "",
+      "displayName": "marriageregistry-update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-update",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2478,
+      "name": "marriage-search",
+      "url": "/marriage-services/v1/marriagedetails/_searchregistry",
+      "parentModule": "",
+      "displayName": "marriageregistry-search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-search",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2479,
+      "name": "Update Still Birth application",
+      "url": "/birth-services/cr/searchstillbirth",
+      "parentModule": "",
+      "displayName": "Search Still birth",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    }
    ]
 }
