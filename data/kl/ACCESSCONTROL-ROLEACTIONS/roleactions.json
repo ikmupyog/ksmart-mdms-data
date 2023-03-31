@@ -26711,6 +26711,18 @@
       "actionid": 2006,
       "actioncode": "",
       "tenantId": "kl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2478,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2478,
+      "actioncode": "",
+      "tenantId": "kl"
     }
     
   ]
