@@ -26723,6 +26723,31 @@
       "actionid": 2478,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "code": "PGR_MO",
+      "name": "Minister Office User",
+      "description": "Minister Office User",
+    },
+    {
+      "code": "PGR_ACS",
+      "name": "ACS Office User",
+      "description": "ACS Office User",
+    },
+    {
+      "code": "PGR_PD",
+      "name": "PD Office User",
+      "description": "PD Office User",
+    },
+    {
+      "code": "PGR_JD",
+      "name": "JD Office User",
+      "description": "JD Office User",
+    },
+     {
+      "code": "PGR_CEMP",
+      "name": "Counter Employee",
+      "description": "Counter Employee",
     }
     
   ]
