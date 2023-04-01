@@ -26804,6 +26804,18 @@
       "actionid": 2485,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2485,
+      "actioncode": "",
+      "tenantId": "kl"
+    },  
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2485,
+      "actioncode": "",
+      "tenantId": "kl"
     }
     
   ]
