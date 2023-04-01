@@ -14493,6 +14493,19 @@
        "serviceCode": "death-services",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2488,
+       "name": "Birth NAC Update",
+       "url": "/birth-services/cr/createnac",
+       "parentModule": "",
+       "displayName": "Birth NAC Create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
       }
+      
    ]
 }
