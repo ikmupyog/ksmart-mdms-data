@@ -14421,6 +14421,42 @@
        "serviceCode": "egov-filemgmnt",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2482,
+       "name": "Create Bornoutside Birth",
+       "url": "/birth-services/cr/createbornoutside",
+       "parentModule": "",
+       "displayName": "Create Bornoutside Birth",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2483,
+       "name": "Update Bornoutside Birth",
+       "url": "/birth-services/cr/updatebornoutside",
+       "parentModule": "",
+       "displayName": "Update Bornoutside Birth",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2484,
+       "name": "Search Bornoutside Birth",
+       "url": "/birth-services/cr/searchbornoutside",
+       "parentModule": "",
+       "displayName": "Search Bornoutside Birth",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
       }
    ]
 }
