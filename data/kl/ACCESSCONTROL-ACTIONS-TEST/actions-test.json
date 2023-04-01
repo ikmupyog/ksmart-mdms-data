@@ -14472,7 +14472,7 @@
       },
        {
        "id": 2486,
-       "name": "Abandoned death create",
+       "name": "Death NAC create",
        "url": "/death-services/v1/deathdetails/_createdeathnac",
        "parentModule": "",
        "displayName": "Death NAC create",
@@ -14484,7 +14484,7 @@
       },
        {
        "id": 2487,
-       "name": "Abandoned death create",
+       "name": "Death NAC Update",
        "url": "/death-services/v1/deathdetails/_updatedeathnac",
        "parentModule": "",
        "displayName": "Death NAC Update",
