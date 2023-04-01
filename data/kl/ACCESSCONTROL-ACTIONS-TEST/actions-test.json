@@ -14397,6 +14397,30 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+       "id": 2480,
+       "name": "Create Draft File",
+       "url": "/filemgmnt/v1/applicantservices/_createDraftingMain",
+       "parentModule": "",
+       "displayName": "Create Draft",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "egov-filemgmnt",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2481,
+       "name": "Create Process Instance for draft",
+       "url": "/filemgmnt/v1/applicantservices/_createDraftProcessInstance",
+       "parentModule": "",
+       "displayName": "Create Process Instance for Draft",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "egov-filemgmnt",
+       "code": "null",
+       "path": ""
+      }
    ]
 }
