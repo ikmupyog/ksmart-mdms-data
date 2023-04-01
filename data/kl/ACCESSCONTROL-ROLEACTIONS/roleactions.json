@@ -26800,23 +26800,16 @@
       "tenantId": "kl"
     },
      {
-      "rolecode": "CITIZEN",
+      "rolecode": "BND_SUB_REGISTRAR",
       "actionid": 2485,
       "actioncode": "",
       "tenantId": "kl"
     },
     {
-      "rolecode": "HOSPITAL_OPERATOR",
-      "actionid": 2485,
-      "actioncode": "",
-      "tenantId": "kl"
-    },  
-    {
-      "rolecode": "HOSPITAL_APPROVER",
+      "rolecode": "BND_LOCAL_REGISTRAR",
       "actionid": 2485,
       "actioncode": "",
       "tenantId": "kl"
     }
-    
   ]
 }
