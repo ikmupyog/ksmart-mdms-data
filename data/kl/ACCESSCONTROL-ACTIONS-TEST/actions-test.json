@@ -14457,6 +14457,18 @@
        "serviceCode": "birth-services",
        "code": "null",
        "path": ""
+      },
+       {
+       "id": 2485,
+       "name": "Abandoned death create",
+       "url": "/death-services/v1/deathdetails/_createdeathabandoned",
+       "parentModule": "",
+       "displayName": "Abandoned death create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
       }
    ]
 }
