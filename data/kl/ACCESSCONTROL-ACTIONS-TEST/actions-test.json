@@ -14469,6 +14469,30 @@
        "serviceCode": "death-services",
        "code": "null",
        "path": ""
+      },
+       {
+       "id": 2486,
+       "name": "Abandoned death create",
+       "url": "/death-services/v1/deathdetails/_createdeathnac",
+       "parentModule": "",
+       "displayName": "Death NAC create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
+      },
+       {
+       "id": 2487,
+       "name": "Abandoned death create",
+       "url": "/death-services/v1/deathdetails/_updatedeathnac",
+       "parentModule": "",
+       "displayName": "Death NAC Update",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
       }
    ]
 }
