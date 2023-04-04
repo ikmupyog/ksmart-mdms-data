@@ -14502,7 +14502,19 @@
        "displayName": "Birth NAC Create",
        "orderNumber": 0,
        "enabled": false,
-       "serviceCode": "death-services",
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2489,
+       "name": "Birth NAC Registry Download",
+       "url": "/birth-services/cr/registrynac/_download",
+       "parentModule": "",
+       "displayName": "Birth NAC Registry Download",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
        "code": "null",
        "path": ""
       }
