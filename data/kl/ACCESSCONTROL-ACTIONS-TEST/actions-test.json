@@ -14517,6 +14517,18 @@
        "serviceCode": "birth-services",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2490,
+       "name": "Birth outside Search",
+       "url": "/birth-services/cr/searchbornoutside",
+       "parentModule": "",
+       "displayName": "Birth outside Search",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
       }
       
    ]
