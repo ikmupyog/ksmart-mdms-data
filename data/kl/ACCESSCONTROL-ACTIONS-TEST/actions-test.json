@@ -14397,6 +14397,139 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+       "id": 2480,
+       "name": "Create Draft File",
+       "url": "/filemgmnt/v1/applicantservices/_createDraftingMain",
+       "parentModule": "",
+       "displayName": "Create Draft",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "egov-filemgmnt",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2481,
+       "name": "Create Process Instance for draft",
+       "url": "/filemgmnt/v1/applicantservices/_createDraftProcessInstance",
+       "parentModule": "",
+       "displayName": "Create Process Instance for Draft",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "egov-filemgmnt",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2482,
+       "name": "Create Bornoutside Birth",
+       "url": "/birth-services/cr/createbornoutside",
+       "parentModule": "",
+       "displayName": "Create Bornoutside Birth",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2483,
+       "name": "Update Bornoutside Birth",
+       "url": "/birth-services/cr/updatebornoutside",
+       "parentModule": "",
+       "displayName": "Update Bornoutside Birth",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2484,
+       "name": "Search Bornoutside Birth",
+       "url": "/birth-services/cr/searchbornoutside",
+       "parentModule": "",
+       "displayName": "Search Bornoutside Birth",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+       {
+       "id": 2485,
+       "name": "Abandoned death create",
+       "url": "/death-services/v1/deathdetails/_createdeathabandoned",
+       "parentModule": "",
+       "displayName": "Abandoned death create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
+      },
+       {
+       "id": 2486,
+       "name": "Death NAC create",
+       "url": "/death-services/v1/deathdetails/_createdeathnac",
+       "parentModule": "",
+       "displayName": "Death NAC create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
+      },
+       {
+       "id": 2487,
+       "name": "Death NAC Update",
+       "url": "/death-services/v1/deathdetails/_updatedeathnac",
+       "parentModule": "",
+       "displayName": "Death NAC Update",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2488,
+       "name": "Birth NAC Update",
+       "url": "/birth-services/cr/createnac",
+       "parentModule": "",
+       "displayName": "Birth NAC Create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2489,
+       "name": "Birth NAC Registry Download",
+       "url": "/birth-services/cr/registrynac/_download",
+       "parentModule": "",
+       "displayName": "Birth NAC Registry Download",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2490,
+       "name": "Birth outside Search",
+       "url": "/birth-services/cr/searchbornoutside",
+       "parentModule": "",
+       "displayName": "Birth outside Search",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      }
+      
    ]
 }
