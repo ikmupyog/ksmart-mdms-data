@@ -26881,6 +26881,31 @@
       "actionid": 2419,
       "actioncode": "",
       "tenantId": "kl"
+    },
+     
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2491,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2491,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2491,
+      "actioncode": "",
+      "tenantId": "kl"
+    },  
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2491,
+      "actioncode": "",
+      "tenantId": "kl"
     }
     
     
