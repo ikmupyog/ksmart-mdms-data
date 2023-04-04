@@ -25065,12 +25065,7 @@
       "tenantId": "kl"
     },
  
-     {
-      "rolecode": "BND_CEMP",
-      "actionid": 2418,
-      "actioncode": "",
-      "tenantId": "kl"
-    },   
+    
     {
       "rolecode": "BND_CEMP",
       "actionid": 2419,
@@ -25726,7 +25721,19 @@
       "tenantId": "kl"
     },
     {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2418,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
       "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2418,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
       "actionid": 2418,
       "actioncode": "",
       "tenantId": "kl"
@@ -25744,12 +25751,7 @@
       "tenantId": "kl"
     },
 
-  {
-      "rolecode": "BND_DISTRICT_REGISTRAR",
-      "actionid": 2418,
-      "actioncode": "",
-      "tenantId": "kl"
-    },
+  
     {
       "rolecode": "WARD_OVERSEER",
       "actionid": 2007,
