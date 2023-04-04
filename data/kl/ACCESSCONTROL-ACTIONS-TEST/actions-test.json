@@ -14517,6 +14517,18 @@
        "serviceCode": "birth-services",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2491,
+       "name": "Update Death",
+       "url": "/death-services/v1/deathdetails/_updatedeath",
+       "parentModule": "",
+       "displayName": "Update Death",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
       }
       
    ]
