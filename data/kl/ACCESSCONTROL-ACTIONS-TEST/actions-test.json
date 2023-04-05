@@ -14565,6 +14565,18 @@
        "serviceCode": "birth-services",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2495,
+       "name": "Birth Correction",
+       "url": "/birth-services/cr/createbirthcorrection",
+       "parentModule": "",
+       "displayName": "Birth Correction",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
       }
       
    ]
