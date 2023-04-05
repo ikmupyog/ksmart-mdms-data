@@ -14529,6 +14529,18 @@
        "serviceCode": "death-services",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2481,
+       "name": "Search for draft",
+       "url": "/filemgmnt/v1/applicantservices/_searchDrafting",
+       "parentModule": "",
+       "displayName": "Search details for Draft",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "egov-filemgmnt",
+       "code": "null",
+       "path": ""
       }
       
    ]
