@@ -14553,6 +14553,18 @@
        "serviceCode": "birth-services",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2494,
+       "name": "NAC Search",
+       "url": "/birth-services/cr/searchnac",
+       "parentModule": "",
+       "displayName": "NAC Search",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
       }
       
    ]
