@@ -14541,6 +14541,18 @@
        "serviceCode": "egov-filemgmnt",
        "code": "null",
        "path": ""
+      },
+      {
+       "id": 2493,
+       "name": "Abandoned Birth Create",
+       "url": "/birth-services/cr/createabandonedbirth",
+       "parentModule": "",
+       "displayName": "Abandoned Birth Create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
       }
       
    ]
