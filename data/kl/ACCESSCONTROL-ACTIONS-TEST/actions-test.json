@@ -13713,18 +13713,6 @@
       "path": ""
     },
 
- {
-      "id": 2418,
-      "name": "Update death application",
-      "url": "/death-services/v1/deathdetails/_updatedeath",
-      "parentModule": "",
-      "displayName": "Update File",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "death-services",
-      "code": "null",
-      "path": ""
-    },
 
  {
       "id": 2419,
@@ -14524,6 +14512,54 @@
        "url": "/birth-services/cr/searchbornoutside",
        "parentModule": "",
        "displayName": "Birth outside Search",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2491,
+       "name": "Update Death",
+       "url": "/death-services/v1/deathdetails/_updatedeath",
+       "parentModule": "",
+       "displayName": "Update Death",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "death-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2492,
+       "name": "Search for draft",
+       "url": "/filemgmnt/v1/applicantservices/_searchDrafting",
+       "parentModule": "",
+       "displayName": "Search details for Draft",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "egov-filemgmnt",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2493,
+       "name": "Abandoned Birth Create",
+       "url": "/birth-services/cr/createabandoned",
+       "parentModule": "",
+       "displayName": "Abandoned Birth Create",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "birth-services",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2494,
+       "name": "NAC Search",
+       "url": "/birth-services/cr/searchnac",
+       "parentModule": "",
+       "displayName": "NAC Search",
        "orderNumber": 0,
        "enabled": false,
        "serviceCode": "birth-services",

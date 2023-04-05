@@ -785,6 +785,10 @@
          {
             "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
             "idname": "receipt.id"
+        },
+        {
+            "format": "KSSM-SNP-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
+            "idname": "kssm.pensniorid"
         }
        
     ]
