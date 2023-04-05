@@ -26930,8 +26930,26 @@
       "actionid": 2492,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "OFFICIAL_NOTIFIER",
+      "actionid": 2493,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2493,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2493,
+      "actioncode": "",
+      "tenantId": "kl"
     }
-    
     
   ]
 }
