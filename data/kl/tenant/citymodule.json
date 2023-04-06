@@ -5,7 +5,7 @@
     {
       "module": "PGR",
       "code": "PGR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "bannerImage": "https://ikm-egov-assets.s3.ap-south-1.amazonaws.com/PGR.png",
       "active": true,
       "order": 1,
       "tenants": [
@@ -13,23 +13,33 @@
           "code": "kl.cochin"
         },
         {
-          "code": "kl.kollam"
+          "code": "kl.kodungallur"
+        },
+        {
+          "code": "kl.anthoor"
+        },
+        {
+          "code": "kl.chittur"
+        },
+       {
+          "code": "kl.thodupuzha"
+        },
+        {
+          "code": "kl.cherthala"
+        },
+        {
+          "code": "kl.attingal"
         },
         {
           "code": "kl.kannur"
-        },
-        {
-          "code": "kl.kozhikode"
-        },
-        {
-          "code": "kl.thiruvananthapuram"
         }
+        
       ]
     },
         {
       "module": "TL",
       "code": "TL",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "bannerImage": "https://ikm-egov-assets.s3.ap-south-1.amazonaws.com/TL.png",
       "active": true,
       "order": 2,
       "tenants": [

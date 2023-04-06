@@ -1,0 +1,54 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "MarriagePlaceType": [
+    {
+      "name": "Religious Institution",
+      "namelocal": "മത സ്ഥാപനം",
+      "code": "RELIGIOUS_INSTITUTION",
+      "id": 1,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Mandapam/Hall/Auditorium/Convention Centre",
+      "namelocal": "മണ്ഡപം/ഹാൾ/ഓഡിറ്റോറിയം/കൺവെൻഷൻ സെന്റർ",
+      "code": "MANDAPAM_HALL_AND_OTHER",
+      "id": 2,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Sub Registrar’s Office ",
+      "namelocal": "സബ് രജിസ്ട്രാർ ഓഫീസ്",
+      "code": "SUB_REGISTRAR_OFFICE",
+      "id": 3,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "House",
+      "namelocal": "വീട്",
+      "code": "HOUSE",
+      "id": 4,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Private Place",
+      "namelocal": "സ്വകാര്യ സ്ഥലം",
+      "code": "PRIVATE_PLACE",
+      "id": 5,
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "name": "Public Place",
+      "namelocal": "പൊതു സ്ഥലം",
+      "code": "PUBLIC_PLACE",
+      "id": 6,
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

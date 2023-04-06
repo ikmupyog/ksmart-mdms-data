@@ -4,84 +4,84 @@
   "Department": [
     {
       "name": "General Administration Department",
-      "namelocal": "???? ???? ",
+      "namelocal": "പൊതു ഭരണം ",
       "code": "GAD",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Accounts Department",
-      "namelocal": "??????????? ?????? ",
+      "namelocal": "അക്കൌണ്ട്സ് വിഭാഗം ",
       "code": "ACC",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Council Department",
-      "namelocal": "?????? ?????? ",
+      "namelocal": "കൌൺസിൽ വിഭാഗം ",
       "code": "CNL",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Revenue Department",
-      "namelocal": "?????? ?????? ",
+      "namelocal": "റവന്യൂ വിഭാഗം ",
       "code": "REV",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Engineering Department",
-      "namelocal": "??????????? ?????? ",
+      "namelocal": "എൻജിനിയറിങ് വിഭാഗം ",
       "code": "PWD",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Town Planning Department",
-      "namelocal": "?????????? ?????? ",
+      "namelocal": "നഗരാസൂത്രണ വിഭാഗം ",
       "code": "TNP",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Health Department",
-      "namelocal": "?????? ?????? ",
+      "namelocal": "ആരോഗ്യ വിഭാഗം ",
       "code": "HTH",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Education Department",
-      "namelocal": "??????????? ?????? ",
+      "namelocal": "വിദ്യാഭ്യാസ വിഭാഗം ",
       "code": "EDU",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Personnel Department",
-      "namelocal": "????????? ??? ?????? ",
+      "namelocal": "ഉദ്യോഗസ്ഥ ഭരണ വിഭാഗം ",
       "code": "PSN",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Project Department",
-      "namelocal": "?????? ?????? ",
+      "namelocal": "പദ്ധതി വിഭാഗം ",
       "code": "PRJ",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Zonal Office ",
-      "namelocal": "???? ????? ",
+      "namelocal": "സോണൽ ഓഫീസ് ",
       "code": "ZON",
       "active": true,
       "type": "hrms"
     },
     {
       "name": "Circle Office ",
-      "namelocal": "??????? ????? ",
+      "namelocal": "സർക്കിൾ ഓഫീസ് ",
       "code": "CIR",
       "active": true,
       "type": "hrms"

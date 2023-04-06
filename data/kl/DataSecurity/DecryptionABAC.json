@@ -1488,7 +1488,19 @@
                   "jsonPath" : "*/MotherAadharNo"
                 },
                 "accessType" : "PLAIN"
-              } 
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/InformantAadharNo"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/InitiatorAadhaar"
+                },
+                "accessType" : "PLAIN"
+              }
             ]
           },
          {

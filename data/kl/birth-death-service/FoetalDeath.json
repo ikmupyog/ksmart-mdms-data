@@ -1,0 +1,111 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "FoetalDeath": [
+    {
+      "code": "FOETAL_DEATH_INTRAPARTUM_COMPLICATIONS",
+      "name": "Intrapartum Complications",
+      "namelocal": "ഇൻട്രാപാർട്ടം സങ്കീർണതകൾ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_CONGENITAL_AND_GENETIC_ABNORMALITIES",
+      "name": "Congenital and Genetic Abnormalities",
+      "namelocal": "അപായവും ജനിതകവുമായ അസാധാരണത്വങ്ങൾ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_PLACENTAL_DYSFUNCTION",
+      "name": "Placental Dysfunction",
+      "namelocal": "പ്ലാസന്റൽ ഡിസ്ഫംഗ്ഷൻ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_PROBLEMS_WITH_THE_UMBILICAL_CORD",
+      "name": "Problems with the Umbilical Cord ",
+      "namelocal": "പൊക്കിൾക്കൊടിയുമായി ബന്ധപ്പെട്ട പ്രശ്നങ്ങൾ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_FOETAL_INFECTION",
+      "name": "Foetal Infection",
+      "namelocal": "ഗര്ഭപിണ്ഡത്തിന്റെ അണുബാധ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_MATERNAL_HYPERTENSION",
+      "name": "Maternal Hypertension",
+      "namelocal": "അമ്മയുടെ രക്താതിമർദ്ദം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_MATERNAL_DIABETES",
+      "name": "Maternal Diabetes",
+      "namelocal": "അമ്മയുടെ പ്രമേഹം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_PREMATURE_DELIVERY",
+      "name": "Premature Delivery",
+      "namelocal": "അകാല ഡെലിവറി",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_RH_DISEASE",
+      "name": "Rh Disease ",
+      "namelocal": "Rh രോഗം",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_PREGNANCY_CONTINUING_BEYOND_FORTY_WEEKS",
+      "name": "Pregnancy continuing beyond forty weeks",
+      "namelocal": "നാൽപ്പത് ആഴ്‌ചയ്‌ക്കപ്പുറം ഗർഭം തുടരുന്നു",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_POISONING",
+      "name": "Poisoning ",
+      "namelocal": "വിഷബാധ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_RADIATION",
+      "name": "Radiation ",
+      "namelocal": "റേഡിയേഷൻ",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_MALNUTRITION_OF_MOTHER",
+      "name": "Malnutrition of Mother ",
+      "namelocal": "അമ്മയുടെ പോഷകാഹാരക്കുറവ്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_ACCIDENT/INJURY_TO_MOTHER",
+      "name": "Accident/Injury to Mother",
+      "namelocal": "അമ്മയ്ക്ക് അപകടം/പരിക്ക്",
+      "active": true,
+      "type": "BND"
+    },
+    {
+      "code": "FOETAL_DEATH_DEATH_OF_MOTHER",
+      "name": "Death of Mother ",
+      "namelocal": "അമ്മയുടെ മരണം",
+      "active": true,
+      "type": "BND"
+    }
+  ]
+}

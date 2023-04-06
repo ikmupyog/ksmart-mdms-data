@@ -118,6 +118,10 @@
           {
             "jsonPath" : "SpouseAadhaar",
             "type" : "Normal"
+          },
+          {
+            "jsonPath" : "InitiatorAadhaar",
+            "type" : "Normal"
           }
         ]
       },

@@ -1,0 +1,850 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "BirthCorrectionDocuments": [
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_DOB",
+      "conditionSlNo": 1,
+      "conditionCode": "DOB_INSTITUTIONAL",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Letter from hospital",
+          "DocumentList": [
+            "LETTER_FROM_HOSPITAL"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Copy of gynec register",
+          "DocumentList": [
+            "COPY_OF_GYNEC_REGISTER"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_DOB",
+      "conditionSlNo": 2,
+      "conditionCode": "DOB_NON_INSTITUTIONAL",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 4,
+          "DocumentType": "Person two Declaration in Form 1 for child",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "Person one Declaration in Form 1 for child",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 1,
+      "conditionCode": "NAME_INCLUSION_LESS_THAN_SIX",
+      "specificCondition": null,
+      "ageFrom": 0,
+      "ageTo": 6,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 2,
+      "conditionCode": "NAME_INCLUSION_GREATER_THAN_SIX_NON_STUDENT",
+      "specificCondition": null,
+      "ageFrom": 6,
+      "ageTo": 18,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 6,
+          "DocumentType": "Disability Certificate or declaration",
+          "DocumentList": [
+            "DISABILITY_CERTIFICATE,DECLARATION_IN_FORM_3"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 3,
+      "conditionCode": "NAME_INCLUSION_GREATER_THAN_SIX_STUDENT",
+      "specificCondition": null,
+      "ageFrom": 6,
+      "ageTo": 15,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 4,
+      "conditionCode": "NAME_CORRECTION_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
+      "specificCondition": null,
+      "ageFrom": 15,
+      "ageTo": 17,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "School certificate of child",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 4,
+      "conditionCode": "NAME_CHANGE_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
+      "specificCondition": null,
+      "ageFrom": 15,
+      "ageTo": 17,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "School certificate of child",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        },
+        {
+          "DocumentId": 9,
+          "DocumentType": "Declaration in form 4",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_4"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 5,
+      "conditionCode": "NAME_INCLUSION_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
+      "specificCondition": null,
+      "ageFrom": 15,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "School certificate of child",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        },
+        {
+          "DocumentId": 10,
+          "DocumentType": "Declaration in form 6",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_6"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 6,
+      "conditionCode": "AGE_MAJOR_CORRECTION",
+      "specificCondition": null,
+      "ageFrom": 18,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 8,
+          "DocumentType": "School certificate of child",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        },
+        {
+          "DocumentId": 14,
+          "DocumentType": "Child ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 7,
+      "conditionCode": "AGE_MAJOR_INTIALS_EXPANTION",
+      "specificCondition": null,
+      "ageFrom": 18,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 8,
+          "DocumentType": "School certificate of child",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        },
+        {
+          "DocumentId": 14,
+          "DocumentType": "Child ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Declaration in form 5",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_5"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_SEX",
+      "conditionSlNo": 1,
+      "conditionCode": "INSTITUTIONAL_SEX_CORRECTION_MINOR",
+      "specificCondition": "CORRECTION",
+      "ageFrom": 0,
+      "ageTo": 17,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Letter from hospital",
+          "DocumentList": [
+            "LETTER_FROM_HOSPITAL"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Copy of gynec register",
+          "DocumentList": [
+            "COPY_OF_GYNEC_REGISTER"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_SEX",
+      "conditionSlNo": 2,
+      "conditionCode": "INSTITUTIONAL_SEX_CHAGE_MINOR",
+      "specificCondition": "CHANGE",
+      "ageFrom": 0,
+      "ageTo": 17,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 2,
+          "DocumentType": "Copy of gynec register",
+          "DocumentList": [
+            "COPY_OF_GYNEC_REGISTER"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 12,
+          "DocumentType": "Certifiacte of sex reassignment",
+          "DocumentList": [
+            "CERTIFIACTE_OF_SEX_REASSIGNMENT"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_SEX",
+      "conditionSlNo": 3,
+      "conditionCode": "NON_INSTITUTIONAL_SEX_CORRECTION_MINOR",
+      "specificCondition": "CORRECTION",
+      "ageFrom": 0,
+      "ageTo": 17,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 13,
+          "DocumentType": "Medical Certificate stating the sex ",
+          "DocumentList": [
+            "MEDICAL_CERTIFICATE_STATING_THE_SEX"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_SEX",
+      "conditionSlNo": 4,
+      "conditionCode": "NON_INSTITUTIONAL_SEX_CHAGE_MAJOR",
+      "specificCondition": "CHANGE",
+      "ageFrom": 0,
+      "ageTo": 17,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 4,
+          "DocumentType": "Person two Declaration in Form 1 for child",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 12,
+          "DocumentType": "Certifiacte of sex reassignment",
+          "DocumentList": [
+            "CERTIFIACTE_OF_SEX_REASSIGNMENT"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_SEX",
+      "conditionSlNo": 5,
+      "conditionCode": "NON_INSTITUTIONAL_SEX_CORRECTION_MAJOR",
+      "specificCondition": "CORRECTION",
+      "ageFrom": 18,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 14,
+          "DocumentType": "Child ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 13,
+          "DocumentType": "Medical Certificate stating the sex ",
+          "DocumentList": [
+            "MEDICAL_CERTIFICATE_STATING_THE_SEX"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_SEX",
+      "conditionSlNo": 6,
+      "conditionCode": "NON_INSTITUTIONAL_SEX_CORRECTION_MAJOR",
+      "specificCondition": "CHANGE",
+      "ageFrom": 18,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 14,
+          "DocumentType": "Child ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 13,
+          "DocumentType": "Medical Certificate stating the sex ",
+          "DocumentList": [
+            "MEDICAL_CERTIFICATE_STATING_THE_SEX"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "FATHER_DETAILS",
+      "conditionSlNo": 1,
+      "conditionCode": "FATER_DETAILS_CORRECTION_WITH_CERTIFICATE",
+      "specificCondition": "CORRECTION",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 17,
+          "DocumentType": "School certificate of father",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "FATHER_DETAILS",
+      "conditionSlNo": 2,
+      "conditionCode": "FATER_DETAILS_CHANGE_WITH_CERTIFICATE",
+      "specificCondition": "CHANGE",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 17,
+          "DocumentType": "School certificate of father",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        },
+        {
+          "DocumentId": 16,
+          "DocumentType": "Person Identifying Certificate of father",
+          "DocumentList": [
+            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
+          ]
+        },
+        {
+          "DocumentId": 18,
+          "DocumentType": "Person two Declaration in Form 1 for father",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 19,
+          "DocumentType": "Person one Declaration in Form 1 for father",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "FATHER_DETAILS",
+      "conditionSlNo": 3,
+      "conditionCode": "FATER_DETAILS_CORRECTION_WITH_OUT_CERTIFICATE",
+      "specificCondition": "CORRECTION",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 15,
+          "DocumentType": "ID proof of father",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "FATHER_DETAILS",
+      "conditionSlNo": 4,
+      "conditionCode": "FATER_DETAILS_CHANGE_WITH_OUT_CERTIFICATE",
+      "specificCondition": "CHANGE",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 15,
+          "DocumentType": "ID proof of father",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
+          ]
+        },
+        {
+          "DocumentId": 16,
+          "DocumentType": "Person Identifying Certificate of father",
+          "DocumentList": [
+            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
+          ]
+        },
+        {
+          "DocumentId": 18,
+          "DocumentType": "Person two Declaration in Form 1 for father",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 19,
+          "DocumentType": "Person one Declaration in Form 1 for father",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "MOTHER_DETAILS",
+      "conditionSlNo": 1,
+      "conditionCode": "MOTER_DETAILS_CORRECTION_WITH_CERTIFICATE",
+      "specificCondition": "CORRECTION",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 19,
+          "DocumentType": "Person one Declaration in Form 1 for father",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "MOTHER_DETAILS",
+      "conditionSlNo": 2,
+      "conditionCode": "MOTER_DETAILS_CHANGE_WITH_CERTIFICATE",
+      "specificCondition": "CHANGE",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 19,
+          "DocumentType": "Person one Declaration in Form 1 for father",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 24,
+          "DocumentType": "Person Identifying Certificate of mother",
+          "DocumentList": [
+            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
+          ]
+        },
+        {
+          "DocumentId": 22,
+          "DocumentType": "Person two Declaration in Form 1 for mother",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 23,
+          "DocumentType": "Person one Declaration in Form 1 for mother",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "MOTHER_DETAILS",
+      "conditionSlNo": 3,
+      "conditionCode": "MOTER_DETAILS_CORRECTION_WITH_OUT_CERTIFICATE",
+      "specificCondition": "CORRECTION",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 20,
+          "DocumentType": "ID proof of mother",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "MOTHER_DETAILS",
+      "conditionSlNo": 4,
+      "conditionCode": "MOTER_DETAILS_CHANGE_WITH_OUT_CERTIFICATE",
+      "specificCondition": "CHANGE",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 20,
+          "DocumentType": "ID proof of mother",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
+          ]
+        },
+        {
+          "DocumentId": 24,
+          "DocumentType": "Person Identifying Certificate of mother",
+          "DocumentList": [
+            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
+          ]
+        },
+        {
+          "DocumentId": 22,
+          "DocumentType": "Person two Declaration in Form 1 for mother",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 23,
+          "DocumentType": "Person one Declaration in Form 1 for mother",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "PRESENT_ADDRESS",
+      "conditionSlNo": 1,
+      "conditionCode": "PRESENT_ADDRESS_CORRECTION",
+      "specificCondition": "CORRECTION",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "School certificate of child",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        },
+        {
+          "DocumentId": 25,
+          "DocumentType": "Govt approved ID card at the time of birth",
+          "DocumentList": [
+            "GOVT_ID_CARD"
+          ]
+        },
+        {
+          "DocumentId": 26,
+          "DocumentType": "Registered deeds ",
+          "DocumentList": [
+            "REGISTERED DEEDS"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "PRESENT_ADDRESS",
+      "conditionSlNo": 2,
+      "conditionCode": "PRESENT_ADDRESS_CHANGE",
+      "specificCondition": "CHANGE",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "School certificate of child",
+          "DocumentList": [
+            "SCHOOL_CERTIFICATE"
+          ]
+        },
+        {
+          "DocumentId": 25,
+          "DocumentType": "Govt approved ID card at the time of birth",
+          "DocumentList": [
+            "GOVT_ID_CARD"
+          ]
+        },
+        {
+          "DocumentId": 26,
+          "DocumentType": "Registered deeds ",
+          "DocumentList": [
+            "REGISTERED DEEDS"
+          ]
+        },
+        {
+          "DocumentId": 27,
+          "DocumentType": "Person two Declaration in Form 1 for address",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 28,
+          "DocumentType": "Person one Declaration in Form 1 for address",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    }
+  ]
+}

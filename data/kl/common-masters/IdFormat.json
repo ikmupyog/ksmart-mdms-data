@@ -76,7 +76,7 @@
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "fn.advance_provident_fund.receipt.id"
+            "idname": "fn.advance_pFrovident_fund.receipt.id"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
@@ -558,7 +558,7 @@
             "format": "PG-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
             "idname": "noc.application.number"
         },
-        {
+       {
             "format": "KL-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
             "idname": "pgr.servicerequestid"
         },
@@ -707,7 +707,7 @@
             "idname": "tl.licensenumber"
         },
         {
-            "format": "KL-FM-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
+            "format": "KL-[city]-[lbtype]-[SEQ_FM_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "fm.filecode"
         },
         {
@@ -715,20 +715,81 @@
             "idname": "tl.aplnumber"
         },
         {            
-            "format": "BR-APLN-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
-            "idname": "applicationno"
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.applicationno"
         },
         {            
-            "format": "BR-FM-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]_[TENANT_ID]",
-            "idname": "fm_fileno"
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.fileno"
         },
         {            
-            "format": "BR-REGY-[cb.name]-[fy:yyyy]-[SEQ_EGOV_COMMON]",
-            "idname": "registrationno"
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.registrationno"
+        },
+        {            
+            "format": "KL-[city]-[lbtype]-[SEQ_BR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.certificateno"
         },
         {
             "format": "KL-TL-PDE-[cy:yyyy-MM-dd]-[SEQ_EG_TL_PDEAPL]",
             "idname": "tl.pdeaplnumber"
+        },
+        {
+            "format": "KL-[city]-[SEQ_DR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
+            "idname": "dr.deathcode"
+        },
+        {
+            "format": "KL-[city]-[SEQ_BR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
+            "idname": "br.birthcode"
+        },
+        {
+            "format": "KL-[city]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
+            "idname": "mr.applicationno"
+        },
+         {            
+            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "mr.fileno"
+        },
+        {            
+            "format": "KL-[city]-[lbtype]-[SEQ_MR_APL]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "mr.registrationno"
+        },
+        {
+            "format": "KL-[city]-[lbtype]-[SEQ_DT_AKNO]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "dr.deathackno"
+        },
+        {
+            "format": "KL-[city]-[lbtype]-[SEQ_DT_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "dr.deathregno"
+        },
+        {
+            "format": "KL-[city]-[lbtype]-[SEQ_DT_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "dr.deathcertno"
+        },
+         {
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_AKNO]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.adoptionackno"
+        },
+        {
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.adoptionregno"
+        },
+        {
+            "format": "KL-[city]-[lbtype]-[SEQ_AD_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "idname": "br.adptioncertno"
+        },
+         {
+            "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+            "idname": "pg.txnid"
+        },
+         {
+            "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+            "idname": "receipt.id"
+        },
+        {
+            "format": "KSSM-SNP-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
+            "idname": "kssm.pensniorid"
         }
+       
     ]
 }
