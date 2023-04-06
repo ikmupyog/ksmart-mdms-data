@@ -122,6 +122,46 @@
           {
             "jsonPath" : "InitiatorAadhaar",
             "type" : "Normal"
+          },
+          {
+            "jsonPath" : "groomAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "groomFatherAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "groomMotherAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "groomGuardianAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "brideAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "brideFatherAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "brideMotherAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "brideGuardianAadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "witness1AadharNo",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "witness2AadharNo",
+            "type" : "Normal"
           }
         ]
       },
