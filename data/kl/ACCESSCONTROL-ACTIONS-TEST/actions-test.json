@@ -14577,6 +14577,20 @@
        "serviceCode": "birth-services",
        "code": "null",
        "path": ""
+      },
+      {
+         "id": 2496,
+         "name": "BirthSearchInbox",
+         "url": "url",
+         "displayName": "Search",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "birth-services",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/cr/inbox-flow/birthinbox",
+         "path": "Birth.Search",
+         "leftIcon": "places:business-center"
       }
       
    ]
