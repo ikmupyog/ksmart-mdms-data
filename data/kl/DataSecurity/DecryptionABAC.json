@@ -1489,18 +1489,78 @@
                 },
                 "accessType" : "PLAIN"
               },
-	     {
+             {
                 "attribute" : {
                   "jsonPath" : "*/InformantAadharNo"
                 },
                 "accessType" : "PLAIN"
-              },
+             },
 	     {
                 "attribute" : {
                   "jsonPath" : "*/InitiatorAadhaar"
                 },
                 "accessType" : "PLAIN"
-              }
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomFatherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomMotherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomGuardianAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideFatherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideMotherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideGuardianAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/witness1AadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/witness2AadharNo"
+                },
+                "accessType" : "PLAIN"
+             }
             ]
           },
          {
@@ -1554,7 +1614,79 @@
                   "jsonPath" : "*/MotherAadharNo"
                 },
                 "accessType" : "PLAIN"
-              } 
+              } ,
+ 	     {
+                "attribute" : {
+                  "jsonPath" : "*/InformantAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/InitiatorAadhaar"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomFatherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomMotherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/groomGuardianAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideFatherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideMotherAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/brideGuardianAadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+     	     {
+                "attribute" : {
+                  "jsonPath" : "*/witness1AadharNo"
+                },
+                "accessType" : "PLAIN"
+             },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/witness2AadharNo"
+                },
+                "accessType" : "PLAIN"
+             }		    
             ]
           }
         ]
