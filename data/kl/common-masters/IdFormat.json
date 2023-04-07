@@ -711,7 +711,7 @@
             "idname": "fm.filecode"
         },
         {
-            "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]-[TENANT_ID]",
+            "format": "KL-[city]-[lbtype]-[SEQ_EG_BP_APN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "tl.aplnumber"
         },
         {            

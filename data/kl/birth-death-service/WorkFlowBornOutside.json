@@ -1,0 +1,18 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "WorkFlowBornOutside": [
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRBO",
+      "BusinessService": "CR",
+      "BirtPlace": "OUTSIDE_COUNTRY",
+      "WorkflowCode": "BORNOUTSIDE60",
+      "startdateperiod": 0,
+      "enddateperiod": 1814400000,
+      "payment": false,
+      "amount": 0,
+      "active": true
+    }
+  ]
+}

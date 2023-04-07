@@ -49,6 +49,14 @@
       "id": 6,
       "active": true,
       "type": "BND"
+    },
+    {
+      "name": "Other",
+      "namelocal": "മറ്റുള്ളവ",
+      "code": "OTHER",
+      "id": 7,
+      "active": true,
+      "type": "BND"
     }
   ]
 }
