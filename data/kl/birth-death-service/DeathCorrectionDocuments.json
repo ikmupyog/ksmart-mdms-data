@@ -15,37 +15,27 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 5,
           "DocumentType": "School certificate or photo id proof of deceased",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE,ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE,ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 4,
           "DocumentType": "Declaration in Form 3",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_3"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_3"
         }
       ]
     },
@@ -62,30 +52,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 9,
           "DocumentType": "Certified copy of the Institution record ",
-          "DocumentList": [
-            "COPY_OF_THE_INSTITUTION_RECORD"
-          ]
+          "DocumentList": "COPY_OF_THE_INSTITUTION_RECORD"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -102,30 +84,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 8,
           "DocumentType": "Notarized affidavit by the applicant stating the said correction is true",
-          "DocumentList": [
-            "NOTARIZED_AFFIDAVIT_BY_THE_APPLICANT"
-          ]
+          "DocumentList": "NOTARIZED_AFFIDAVIT_BY_THE_APPLICANT"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -142,9 +116,7 @@
         {
           "DocumentId": 10,
           "DocumentType": "Deceased Aadhar",
-          "DocumentList": [
-            "DEASED_AADHAR"
-          ]
+          "DocumentList": "DEASED_AADHAR"
         }
       ]
     },
@@ -161,23 +133,17 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 11,
           "DocumentType": "Govt approved photo id of the deceased",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 9,
           "DocumentType": "Certified copy of the Institution record ",
-          "DocumentList": [
-            "COPY_OF_THE_INSTITUTION_RECORD"
-          ]
+          "DocumentList": "COPY_OF_THE_INSTITUTION_RECORD"
         }
       ]
     },
@@ -194,30 +160,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 11,
           "DocumentType": "Govt approved photo id of the deceased",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -234,30 +192,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 11,
           "DocumentType": "Govt approved photo id of the deceased",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 8,
           "DocumentType": "Notarized affidavit by the applicant stating the said correction is true",
-          "DocumentList": [
-            "NOTARIZED_AFFIDAVIT_BY_THE_APPLICANT"
-          ]
+          "DocumentList": "NOTARIZED_AFFIDAVIT_BY_THE_APPLICANT"
         },
         {
           "DocumentId": 9,
           "DocumentType": "Certified copy of the Institution record ",
-          "DocumentList": [
-            "COPY_OF_THE_INSTITUTION_RECORD"
-          ]
+          "DocumentList": "COPY_OF_THE_INSTITUTION_RECORD"
         }
       ]
     },
@@ -274,30 +224,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 11,
           "DocumentType": "Govt approved photo id of the deceased",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -314,30 +256,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 12,
           "DocumentType": "Valid document of Mother of  the decease",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -354,30 +288,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 13,
           "DocumentType": "Valid document of Father of  the decease",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -394,30 +320,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 14,
           "DocumentType": "Valid document of Spouse of  the decease",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -434,30 +352,22 @@
         {
           "DocumentId": 1,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 11,
           "DocumentType": "Govt approved photo id of the deceased",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Person two Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Person one Declaration in Form 1 for deceased",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     }
