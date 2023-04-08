@@ -1,7 +1,7 @@
 {
   "tenantId": "kl",
   "moduleName": "birth-death-service",
-  "BirthCorrectionDocuments": [
+  "CorrectionDocuments": [
     {
       "BusinessService": "birth-services",
       "CorrectionField": "CHILD_DOB",
@@ -15,23 +15,17 @@
         {
           "DocumentId": 1,
           "DocumentType": "Letter from hospital",
-          "DocumentList": [
-            "LETTER_FROM_HOSPITAL"
-          ]
+          "DocumentList": "LETTER_FROM_HOSPITAL"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Copy of gynec register",
-          "DocumentList": [
-            "COPY_OF_GYNEC_REGISTER"
-          ]
+          "DocumentList": "COPY_OF_GYNEC_REGISTER"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         }
       ]
     },
@@ -48,23 +42,17 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 4,
           "DocumentType": "Person two Declaration in Form 1 for child",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 5,
           "DocumentType": "Person one Declaration in Form 1 for child",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -81,9 +69,7 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         }
       ]
     },
@@ -100,16 +86,12 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 6,
           "DocumentType": "Disability Certificate or declaration",
-          "DocumentList": [
-            "DISABILITY_CERTIFICATE,DECLARATION_IN_FORM_3"
-          ]
+          "DocumentList": "DISABILITY_CERTIFICATE,DECLARATION_IN_FORM_3"
         }
       ]
     },
@@ -126,9 +108,7 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         }
       ]
     },
@@ -137,7 +117,7 @@
       "CorrectionField": "CHILD_NAME",
       "conditionSlNo": 4,
       "conditionCode": "NAME_CORRECTION_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
-      "specificCondition": null,
+      "specificCondition": "CORRECTION",
       "ageFrom": 15,
       "ageTo": 17,
       "active": true,
@@ -145,16 +125,12 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 8,
           "DocumentType": "School certificate of child",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         }
       ]
     },
@@ -163,7 +139,7 @@
       "CorrectionField": "CHILD_NAME",
       "conditionSlNo": 4,
       "conditionCode": "NAME_CHANGE_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
-      "specificCondition": null,
+      "specificCondition": "CHANGE",
       "ageFrom": 15,
       "ageTo": 17,
       "active": true,
@@ -171,23 +147,17 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 8,
           "DocumentType": "School certificate of child",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         },
         {
           "DocumentId": 9,
           "DocumentType": "Declaration in form 4",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_4"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_4"
         }
       ]
     },
@@ -196,7 +166,7 @@
       "CorrectionField": "CHILD_NAME",
       "conditionSlNo": 5,
       "conditionCode": "NAME_INCLUSION_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
-      "specificCondition": null,
+      "specificCondition": "INCLUSION",
       "ageFrom": 15,
       "ageTo": null,
       "active": true,
@@ -204,23 +174,17 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 8,
           "DocumentType": "School certificate of child",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         },
         {
           "DocumentId": 10,
           "DocumentType": "Declaration in form 6",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_6"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_6"
         }
       ]
     },
@@ -229,7 +193,7 @@
       "CorrectionField": "CHILD_NAME",
       "conditionSlNo": 6,
       "conditionCode": "AGE_MAJOR_CORRECTION",
-      "specificCondition": null,
+      "specificCondition": "CORRECTION",
       "ageFrom": 18,
       "ageTo": null,
       "active": true,
@@ -237,16 +201,12 @@
         {
           "DocumentId": 8,
           "DocumentType": "School certificate of child",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         },
         {
           "DocumentId": 14,
           "DocumentType": "Child ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         }
       ]
     },
@@ -255,7 +215,7 @@
       "CorrectionField": "CHILD_NAME",
       "conditionSlNo": 7,
       "conditionCode": "AGE_MAJOR_INTIALS_EXPANTION",
-      "specificCondition": null,
+      "specificCondition": "INTIALEXPANSION",
       "ageFrom": 18,
       "ageTo": null,
       "active": true,
@@ -263,23 +223,17 @@
         {
           "DocumentId": 8,
           "DocumentType": "School certificate of child",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         },
         {
           "DocumentId": 14,
           "DocumentType": "Child ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 11,
           "DocumentType": "Declaration in form 5",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_5"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_5"
         }
       ]
     },
@@ -296,23 +250,17 @@
         {
           "DocumentId": 1,
           "DocumentType": "Letter from hospital",
-          "DocumentList": [
-            "LETTER_FROM_HOSPITAL"
-          ]
+          "DocumentList": "LETTER_FROM_HOSPITAL"
         },
         {
           "DocumentId": 2,
           "DocumentType": "Copy of gynec register",
-          "DocumentList": [
-            "COPY_OF_GYNEC_REGISTER"
-          ]
+          "DocumentList": "COPY_OF_GYNEC_REGISTER"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         }
       ]
     },
@@ -329,23 +277,17 @@
         {
           "DocumentId": 2,
           "DocumentType": "Copy of gynec register",
-          "DocumentList": [
-            "COPY_OF_GYNEC_REGISTER"
-          ]
+          "DocumentList": "COPY_OF_GYNEC_REGISTER"
         },
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 12,
           "DocumentType": "Certifiacte of sex reassignment",
-          "DocumentList": [
-            "CERTIFIACTE_OF_SEX_REASSIGNMENT"
-          ]
+          "DocumentList": "CERTIFIACTE_OF_SEX_REASSIGNMENT"
         }
       ]
     },
@@ -362,16 +304,12 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 13,
           "DocumentType": "Medical Certificate stating the sex ",
-          "DocumentList": [
-            "MEDICAL_CERTIFICATE_STATING_THE_SEX"
-          ]
+          "DocumentList": "MEDICAL_CERTIFICATE_STATING_THE_SEX"
         }
       ]
     },
@@ -388,23 +326,17 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 4,
           "DocumentType": "Person two Declaration in Form 1 for child",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 12,
           "DocumentType": "Certifiacte of sex reassignment",
-          "DocumentList": [
-            "CERTIFIACTE_OF_SEX_REASSIGNMENT"
-          ]
+          "DocumentList": "CERTIFIACTE_OF_SEX_REASSIGNMENT"
         }
       ]
     },
@@ -421,16 +353,12 @@
         {
           "DocumentId": 14,
           "DocumentType": "Child ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 13,
           "DocumentType": "Medical Certificate stating the sex ",
-          "DocumentList": [
-            "MEDICAL_CERTIFICATE_STATING_THE_SEX"
-          ]
+          "DocumentList": "MEDICAL_CERTIFICATE_STATING_THE_SEX"
         }
       ]
     },
@@ -447,16 +375,12 @@
         {
           "DocumentId": 14,
           "DocumentType": "Child ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 13,
           "DocumentType": "Medical Certificate stating the sex ",
-          "DocumentList": [
-            "MEDICAL_CERTIFICATE_STATING_THE_SEX"
-          ]
+          "DocumentList": "MEDICAL_CERTIFICATE_STATING_THE_SEX"
         }
       ]
     },
@@ -473,16 +397,12 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 17,
           "DocumentType": "School certificate of father",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         }
       ]
     },
@@ -499,37 +419,27 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 17,
           "DocumentType": "School certificate of father",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         },
         {
           "DocumentId": 16,
           "DocumentType": "Person Identifying Certificate of father",
-          "DocumentList": [
-            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
-          ]
+          "DocumentList": "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
         },
         {
           "DocumentId": 18,
           "DocumentType": "Person two Declaration in Form 1 for father",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -546,16 +456,12 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 15,
           "DocumentType": "ID proof of father",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
         }
       ]
     },
@@ -572,37 +478,27 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 15,
           "DocumentType": "ID proof of father",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
         },
         {
           "DocumentId": 16,
           "DocumentType": "Person Identifying Certificate of father",
-          "DocumentList": [
-            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
-          ]
+          "DocumentList": "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
         },
         {
           "DocumentId": 18,
           "DocumentType": "Person two Declaration in Form 1 for father",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -619,16 +515,12 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -645,37 +537,27 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 24,
           "DocumentType": "Person Identifying Certificate of mother",
-          "DocumentList": [
-            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
-          ]
+          "DocumentList": "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
         },
         {
           "DocumentId": 22,
           "DocumentType": "Person two Declaration in Form 1 for mother",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 23,
           "DocumentType": "Person one Declaration in Form 1 for mother",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -692,16 +574,12 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 20,
           "DocumentType": "ID proof of mother",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
         }
       ]
     },
@@ -718,37 +596,27 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 20,
           "DocumentType": "ID proof of mother",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC,ID_PROOF_DL,ID_PROOF_RC,ID_PROOF_PPO"
         },
         {
           "DocumentId": 24,
           "DocumentType": "Person Identifying Certificate of mother",
-          "DocumentList": [
-            "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
-          ]
+          "DocumentList": "REVENUE_CERTIFICATE,ATTESTED_SELF_DECLARATION_FORM_2"
         },
         {
           "DocumentId": 22,
           "DocumentType": "Person two Declaration in Form 1 for mother",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 23,
           "DocumentType": "Person one Declaration in Form 1 for mother",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         }
       ]
     },
@@ -765,30 +633,22 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 8,
           "DocumentType": "School certificate of child",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         },
         {
           "DocumentId": 25,
           "DocumentType": "Govt approved ID card at the time of birth",
-          "DocumentList": [
-            "GOVT_ID_CARD"
-          ]
+          "DocumentList": "GOVT_ID_CARD"
         },
         {
           "DocumentId": 26,
           "DocumentType": "Registered deeds ",
-          "DocumentList": [
-            "REGISTERED DEEDS"
-          ]
+          "DocumentList": "REGISTERED DEEDS"
         }
       ]
     },
@@ -805,44 +665,49 @@
         {
           "DocumentId": 3,
           "DocumentType": "Applicant ID proof",
-          "DocumentList": [
-            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-          ]
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
         },
         {
           "DocumentId": 8,
           "DocumentType": "School certificate of child",
-          "DocumentList": [
-            "SCHOOL_CERTIFICATE"
-          ]
+          "DocumentList": "SCHOOL_CERTIFICATE"
         },
         {
           "DocumentId": 25,
           "DocumentType": "Govt approved ID card at the time of birth",
-          "DocumentList": [
-            "GOVT_ID_CARD"
-          ]
+          "DocumentList": "GOVT_ID_CARD"
         },
         {
           "DocumentId": 26,
           "DocumentType": "Registered deeds ",
-          "DocumentList": [
-            "REGISTERED DEEDS"
-          ]
+          "DocumentList": "REGISTERED DEEDS"
         },
         {
           "DocumentId": 27,
           "DocumentType": "Person two Declaration in Form 1 for address",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
         },
         {
           "DocumentId": 28,
           "DocumentType": "Person one Declaration in Form 1 for address",
-          "DocumentList": [
-            "DECLARATION_IN_FORM_1"
-          ]
+          "DocumentList": "DECLARATION_IN_FORM_1"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_AADHAAR",
+      "conditionSlNo": 1,
+      "conditionCode": "AADHAAR_INCLUSION",
+      "specificCondition": "INCLUSION",
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 29,
+          "DocumentType": "Child aadhaar",
+          "DocumentList": "ID_PROOF_AADHAR"
         }
       ]
     }
