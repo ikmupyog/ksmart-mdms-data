@@ -91,7 +91,7 @@
     },
     {
       "BusinessService": "death-services",
-      "CorrectionField": "DECEASED_NAME",
+      "CorrectionField": "DECEASED_DOB",
       "conditionSlNo": 3,
       "conditionCode": "DOB_NON_INSTITUTIONAL",
       "specificCondition": null,
@@ -111,6 +111,338 @@
           "DocumentType": "Notarized affidavit by the applicant stating the said correction is true",
           "DocumentList": [
             "NOTARIZED_AFFIDAVIT_BY_THE_APPLICANT"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Person two Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Person one Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_AADHAR",
+      "conditionSlNo": 4,
+      "conditionCode": "AADHAR_INCLUSION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 10,
+          "DocumentType": "Deceased Aadhar",
+          "DocumentList": [
+            "DEASED_AADHAR"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_PLACE_OF_DEATH",
+      "conditionSlNo": 5,
+      "conditionCode": "POD_INSTITUTIONAL",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Govt approved photo id of the deceased",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 9,
+          "DocumentType": "Certified copy of the Institution record ",
+          "DocumentList": [
+            "COPY_OF_THE_INSTITUTION_RECORD"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_PLACE_OF_DEATH",
+      "conditionSlNo": 6,
+      "conditionCode": "POD_NON_INSTITUTIONAL",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Govt approved photo id of the deceased",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Person two Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Person one Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_SEX",
+      "conditionSlNo": 7,
+      "conditionCode": "SEX_INSTITUTIONAL",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Govt approved photo id of the deceased",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "Notarized affidavit by the applicant stating the said correction is true",
+          "DocumentList": [
+            "NOTARIZED_AFFIDAVIT_BY_THE_APPLICANT"
+          ]
+        },
+        {
+          "DocumentId": 9,
+          "DocumentType": "Certified copy of the Institution record ",
+          "DocumentList": [
+            "COPY_OF_THE_INSTITUTION_RECORD"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_SEX",
+      "conditionSlNo": 8,
+      "conditionCode": "SEX_NON_INSTITUTIONAL",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Govt approved photo id of the deceased",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Person two Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Person one Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_MOTHER",
+      "conditionSlNo": 9,
+      "conditionCode": "MOTHER_NAME_CORRECTION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 12,
+          "DocumentType": "Valid document of Mother of  the decease",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Person two Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Person one Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_FATHER",
+      "conditionSlNo": 10,
+      "conditionCode": "FATHER_NAME_CORRECTION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 13,
+          "DocumentType": "Valid document of Father of  the decease",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Person two Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Person one Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "DECEASED_SPOUSE",
+      "conditionSlNo": 11,
+      "conditionCode": "SPOUSE_NAME_CORRECTION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 14,
+          "DocumentType": "Valid document of Spouse of  the decease",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Person two Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Person one Declaration in Form 1 for deceased",
+          "DocumentList": [
+            "DECLARATION_IN_FORM_1"
+          ]
+        }
+      ]
+    },
+    {
+      "BusinessService": "death-services",
+      "CorrectionField": "PERMANENT_ADDRESS",
+      "conditionSlNo": 12,
+      "conditionCode": "CORRECTION_ADDRESS",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+          ]
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Govt approved photo id of the deceased",
+          "DocumentList": [
+            "ID_PROOF_AADHAR,ID_PROOF_EPIC"
           ]
         },
         {
