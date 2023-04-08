@@ -14591,7 +14591,19 @@
          "navigationURL": "/digit-ui/employee/cr/inbox-flow/birthinbox",
          "path": "Birth.Search",
          "leftIcon": "places:business-center"
-      }
+      },
+      {
+      "id": 2497,
+      "name": "Download death NAC certificate",
+      "url": "/death-services/v1/deathregistry/_downloaddeathnac",
+      "parentModule": "",
+      "displayName": "Death NAC Download",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    }
       
    ]
 }
