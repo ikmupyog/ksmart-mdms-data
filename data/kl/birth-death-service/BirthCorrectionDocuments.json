@@ -1,7 +1,7 @@
 {
   "tenantId": "kl",
   "moduleName": "birth-death-service",
-  "CorrectionDocuments": [
+  "BirthCorrectionDocuments": [
     {
       "BusinessService": "birth-services",
       "CorrectionField": "CHILD_DOB",
