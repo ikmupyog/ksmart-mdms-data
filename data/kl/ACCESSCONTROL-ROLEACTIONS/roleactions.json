@@ -27130,7 +27130,38 @@
       "actionid": 2027,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	    {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2500,
+      "actioncode": "",
+      "tenantId": "kl"
+    },  
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2500,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2500,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2500,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2500,
+      "actioncode": "",
+      "tenantId": "kl"
     }
+	
     
   ]
 }
