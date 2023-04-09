@@ -27094,6 +27094,43 @@
       "actionid": 2499,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	  {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "kl"
+    },  
+    {
+      "rolecode": "HOSPITAL_APPROVER",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "kl"
     }
+    
   ]
 }
