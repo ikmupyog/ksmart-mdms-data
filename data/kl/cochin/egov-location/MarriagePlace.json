@@ -1,31 +1,12 @@
 {
   "tenantId": "kl.cochin",
   "moduleName": "egov-location",
-  "MarriagePlace": [
+  "MarriagePlace": [    
     {
-      "lbId": 169,
-      "slNo": 9999,
-      "name": "others",
-      "nameLocal": "മറ്റുള്ളവ",
-      "locality": "NULL",
-      "localityLocal": "ചഡഘഘ",
-      "street": "NULL",
-      "streetLocal": "ചഡഘഘ",
-      "buildingName": "NULL",
-      "buildingNameLocal": null,
-      "officer": "NULL",
-      "phoneNo": "NULL",
-      "desig": "NULL",
-      "mainPlace": "NULL",
-      "mainPlaceLocal": null,
-      "wardId": "NULL",
-      "address": null,
-      "addressLocal": null,
-      "tenentCode": null,
-      "active": true,
-      "placeTpe": "MANDAPAM_HALL_AND_OTHER"
-    },
-    {
+      "id": 22454,
+      "code": "MARRIAGE_PLACE_22454",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 1,
       "name": "Edappally Mariamman Kovil Temple",
@@ -49,6 +30,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22455,
+      "code": "MARRIAGE_PLACE_22455",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 2,
       "name": "Taj Malabar Hotel",
@@ -72,6 +57,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22456,
+      "code": "MARRIAGE_PLACE_22456",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 3,
       "name": "Sigiret House",
@@ -95,6 +84,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22457,
+      "code": "MARRIAGE_PLACE_22457",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 4,
       "name": "Mill Hall",
@@ -118,6 +111,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22458,
+      "code": "MARRIAGE_PLACE_22458",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 5,
       "name": "Pandit Karuppan Memorial Auditorium",
@@ -141,6 +138,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22459,
+      "code": "MARRIAGE_PLACE_22459",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 6,
       "name": "Edappally Thrikkovil Temple",
@@ -164,6 +165,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22460,
+      "code": "MARRIAGE_PLACE_22460",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 7,
       "name": "T D M Hall Ernakulam",
@@ -187,6 +192,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22461,
+      "code": "MARRIAGE_PLACE_22461",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 8,
       "name": "Grama Seva Samooham",
@@ -210,6 +219,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22462,
+      "code": "MARRIAGE_PLACE_22462",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 9,
       "name": "Siva Temple",
@@ -233,6 +246,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22463,
+      "code": "MARRIAGE_PLACE_22463",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 10,
       "name": "Mahadeva Mandir Kalyanamandapam",
@@ -256,6 +273,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22464,
+      "code": "MARRIAGE_PLACE_22464",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 11,
       "name": "Sree Ramavarma Club",
@@ -279,6 +300,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22465,
+      "code": "MARRIAGE_PLACE_22465",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 12,
       "name": "Gangothri Hall",
@@ -302,6 +327,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22466,
+      "code": "MARRIAGE_PLACE_22466",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 13,
       "name": "Amman Kovil Auditorium",
@@ -325,6 +354,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22467,
+      "code": "MARRIAGE_PLACE_22467",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 14,
       "name": "Bhavaneeswara Kalyanamandapam",
@@ -348,6 +381,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22468,
+      "code": "MARRIAGE_PLACE_22468",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 15,
       "name": "Sree Venkitachalapathy Devaswom L P School",
@@ -371,6 +408,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22469,
+      "code": "MARRIAGE_PLACE_22469",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 16,
       "name": "Relief Settlement",
@@ -394,6 +435,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22470,
+      "code": "MARRIAGE_PLACE_22470",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 17,
       "name": "Femina Auditorium",
@@ -417,6 +462,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22471,
+      "code": "MARRIAGE_PLACE_22471",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 18,
       "name": "Antony Tissarant Community Hall",
@@ -440,6 +489,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22472,
+      "code": "MARRIAGE_PLACE_22472",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 19,
       "name": "S N Auditorium",
@@ -463,6 +516,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22473,
+      "code": "MARRIAGE_PLACE_22473",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 20,
       "name": "Azhakiyakavu Bhagavathy Temple",
@@ -486,6 +543,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22474,
+      "code": "MARRIAGE_PLACE_22474",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 21,
       "name": "Dhanwanthara Devaswam Kalyanamandapam",
@@ -509,6 +570,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22475,
+      "code": "MARRIAGE_PLACE_22475",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 22,
       "name": "Papali Hall (St.Alberts college Auditorium)",
@@ -532,6 +597,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22476,
+      "code": "MARRIAGE_PLACE_22476",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 23,
       "name": "Benhur Hotel",
@@ -555,6 +624,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22477,
+      "code": "MARRIAGE_PLACE_22477",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 24,
       "name": "St.Johnbaptist Church Parish Hall",
@@ -578,6 +651,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22478,
+      "code": "MARRIAGE_PLACE_22478",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 25,
       "name": "Puthukulangara Devi Temple",
@@ -601,6 +678,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22479,
+      "code": "MARRIAGE_PLACE_22479",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 26,
       "name": "Chera Thrikkovil Sreekrishna Swami Kshethram",
@@ -624,6 +705,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22480,
+      "code": "MARRIAGE_PLACE_22480",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 27,
       "name": "Chera Thrikkovil Auditorium",
@@ -647,6 +732,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22481,
+      "code": "MARRIAGE_PLACE_22481",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 28,
       "name": "Ravipuram Sreekrishna Swami Kshethram",
@@ -670,6 +759,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22482,
+      "code": "MARRIAGE_PLACE_22482",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 29,
       "name": "Chathiyath Parish Hall",
@@ -693,6 +786,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22483,
+      "code": "MARRIAGE_PLACE_22483",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 30,
       "name": "Kottamkavu Bhagavathy Temple",
@@ -716,6 +813,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22484,
+      "code": "MARRIAGE_PLACE_22484",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 31,
       "name": "Chalickavattom Padinjarekuzhiveli Temple Trust",
@@ -739,6 +840,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22485,
+      "code": "MARRIAGE_PLACE_22485",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 32,
       "name": "NSS Auditorium",
@@ -762,6 +867,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22486,
+      "code": "MARRIAGE_PLACE_22486",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 33,
       "name": "Pranavam Auditorium",
@@ -785,6 +894,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22487,
+      "code": "MARRIAGE_PLACE_22487",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 34,
       "name": "Ganesh Kala Mandir",
@@ -808,6 +921,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22488,
+      "code": "MARRIAGE_PLACE_22488",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 35,
       "name": "Erattakkulangara Bhagavathy Temple",
@@ -831,6 +948,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22489,
+      "code": "MARRIAGE_PLACE_22489",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 36,
       "name": "Dwaraka Hotel",
@@ -854,6 +975,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22490,
+      "code": "MARRIAGE_PLACE_22490",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 37,
       "name": "Sapthathy Hall",
@@ -877,6 +1002,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22491,
+      "code": "MARRIAGE_PLACE_22491",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 38,
       "name": "Sree Sankarananda Ashramam",
@@ -900,6 +1029,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22492,
+      "code": "MARRIAGE_PLACE_22492",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 39,
       "name": "Devi Kripa Mandir",
@@ -923,6 +1056,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22493,
+      "code": "MARRIAGE_PLACE_22493",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 40,
       "name": "Vaduthala Pallikkavu Devi Temple",
@@ -946,6 +1083,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22494,
+      "code": "MARRIAGE_PLACE_22494",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 41,
       "name": "Vyttila Sree Subrahmanya Temple",
@@ -969,6 +1110,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22495,
+      "code": "MARRIAGE_PLACE_22495",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 42,
       "name": "Karollil Auditorium",
@@ -992,6 +1137,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22496,
+      "code": "MARRIAGE_PLACE_22496",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 43,
       "name": "Anandapuram Sreekrishna Swami Temple",
@@ -1015,6 +1164,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22497,
+      "code": "MARRIAGE_PLACE_22497",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 44,
       "name": "Sanmarga Pradeepam Yogam L P School Ponnuthy",
@@ -1038,6 +1191,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22498,
+      "code": "MARRIAGE_PLACE_22498",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 45,
       "name": "Fathima Old Church",
@@ -1061,6 +1218,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22499,
+      "code": "MARRIAGE_PLACE_22499",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 46,
       "name": "Elamkulam Kavalackal Bhagavathy Temple",
@@ -1084,6 +1245,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22500,
+      "code": "MARRIAGE_PLACE_22500",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 47,
       "name": "Vinayaka Kalyanamandapam",
@@ -1107,6 +1272,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22501,
+      "code": "MARRIAGE_PLACE_22501",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 48,
       "name": "Lions Community Hall (Lions Club of Cochin East)",
@@ -1130,6 +1299,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22502,
+      "code": "MARRIAGE_PLACE_22502",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 49,
       "name": "Rajive Gandhi Indoor Stadium",
@@ -1153,6 +1326,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22503,
+      "code": "MARRIAGE_PLACE_22503",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 50,
       "name": "Girinagar Community Hall",
@@ -1176,6 +1353,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22504,
+      "code": "MARRIAGE_PLACE_22504",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 51,
       "name": "Perandoor Thrikkarthika Auditorium",
@@ -1199,6 +1380,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22505,
+      "code": "MARRIAGE_PLACE_22505",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 52,
       "name": "Avenue Centre Hotel",
@@ -1222,6 +1407,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22506,
+      "code": "MARRIAGE_PLACE_22506",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 53,
       "name": "Dolphin Club",
@@ -1245,6 +1434,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22507,
+      "code": "MARRIAGE_PLACE_22507",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 54,
       "name": "Kerala Fine Arts Society",
@@ -1268,6 +1461,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22508,
+      "code": "MARRIAGE_PLACE_22508",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 55,
       "name": "Bharath Hotel",
@@ -1291,6 +1488,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22509,
+      "code": "MARRIAGE_PLACE_22509",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 56,
       "name": "St George Parish Hall",
@@ -1314,6 +1515,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22510,
+      "code": "MARRIAGE_PLACE_22510",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 57,
       "name": "Ernakulam Kinattinkara Samooham",
@@ -1337,6 +1542,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22511,
+      "code": "MARRIAGE_PLACE_22511",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 58,
       "name": "Gangothry Kalyanamandapam(Kinattinkara Samooham)",
@@ -1360,6 +1569,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22512,
+      "code": "MARRIAGE_PLACE_22512",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 59,
       "name": "Durbar Hall",
@@ -1383,6 +1596,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22513,
+      "code": "MARRIAGE_PLACE_22513",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 60,
       "name": "Ramavarma Club",
@@ -1406,6 +1623,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22514,
+      "code": "MARRIAGE_PLACE_22514",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 61,
       "name": "Ernakulam Panchiyamman Covil Trust",
@@ -1429,6 +1650,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22515,
+      "code": "MARRIAGE_PLACE_22515",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 62,
       "name": "Sree Lord Subrahmanya Temple",
@@ -1452,6 +1677,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22516,
+      "code": "MARRIAGE_PLACE_22516",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 63,
       "name": "Sardar Patel Sabhagriha",
@@ -1475,6 +1704,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22517,
+      "code": "MARRIAGE_PLACE_22517",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 64,
       "name": "Yasoram Kalyananmandapam",
@@ -1498,6 +1731,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22518,
+      "code": "MARRIAGE_PLACE_22518",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 65,
       "name": "Vimala Bhavan",
@@ -1521,6 +1758,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22519,
+      "code": "MARRIAGE_PLACE_22519",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 66,
       "name": "St Joseph Waifs House",
@@ -1544,6 +1785,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22520,
+      "code": "MARRIAGE_PLACE_22520",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 67,
       "name": "Sri Maram Pilly Parashakthi",
@@ -1567,6 +1812,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22521,
+      "code": "MARRIAGE_PLACE_22521",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 68,
       "name": "Azhakiya Kavu Temple",
@@ -1590,6 +1839,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22522,
+      "code": "MARRIAGE_PLACE_22522",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 69,
       "name": "Sree Bhuvaneswary Temple",
@@ -1613,6 +1866,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22523,
+      "code": "MARRIAGE_PLACE_22523",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 70,
       "name": "Sree Bhuvaneswary Kaliyanamandapam",
@@ -1636,6 +1893,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22524,
+      "code": "MARRIAGE_PLACE_22524",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 71,
       "name": "Sree Venkiteswara Centinary Memoriyal Kalyanamandapam",
@@ -1659,6 +1920,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22525,
+      "code": "MARRIAGE_PLACE_22525",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 72,
       "name": "Yogi Narayana Pai Kalyanamandapam",
@@ -1682,6 +1947,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22526,
+      "code": "MARRIAGE_PLACE_22526",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 73,
       "name": "Varendra Kalyanamandapam",
@@ -1705,6 +1974,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22527,
+      "code": "MARRIAGE_PLACE_22527",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 74,
       "name": "Narasimha Pasad Hall",
@@ -1728,6 +2001,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22528,
+      "code": "MARRIAGE_PLACE_22528",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 75,
       "name": "Sumangali Kalyanamandapam",
@@ -1751,6 +2028,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22529,
+      "code": "MARRIAGE_PLACE_22529",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 76,
       "name": "Shastha Auditorium",
@@ -1774,6 +2055,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22530,
+      "code": "MARRIAGE_PLACE_22530",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 77,
       "name": "Smaranika Hall",
@@ -1797,6 +2082,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22531,
+      "code": "MARRIAGE_PLACE_22531",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 78,
       "name": "Cochin Dhariyastan Temple",
@@ -1820,6 +2109,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22532,
+      "code": "MARRIAGE_PLACE_22532",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 79,
       "name": "Sree Sarada Sankara Kalyanamandapam",
@@ -1843,6 +2136,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22533,
+      "code": "MARRIAGE_PLACE_22533",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 80,
       "name": "Sree Samudiri Sadan",
@@ -1866,6 +2163,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22534,
+      "code": "MARRIAGE_PLACE_22534",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 81,
       "name": "C C E A Hall",
@@ -1889,6 +2190,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22535,
+      "code": "MARRIAGE_PLACE_22535",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 82,
       "name": "Popetalal Gowardha Guest House",
@@ -1912,6 +2217,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22536,
+      "code": "MARRIAGE_PLACE_22536",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 83,
       "name": "Mattanchery Town Hall",
@@ -1935,6 +2244,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22537,
+      "code": "MARRIAGE_PLACE_22537",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 84,
       "name": "Maliakkal Kaliyana Hall",
@@ -1958,6 +2271,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22538,
+      "code": "MARRIAGE_PLACE_22538",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 85,
       "name": "S N D P Hall ",
@@ -1981,6 +2298,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22539,
+      "code": "MARRIAGE_PLACE_22539",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 86,
       "name": "Kochu Rani Hall",
@@ -2004,6 +2325,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22540,
+      "code": "MARRIAGE_PLACE_22540",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 87,
       "name": "Choice Park ",
@@ -2027,6 +2352,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22541,
+      "code": "MARRIAGE_PLACE_22541",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 88,
       "name": "Pockalam Mahadeva Temple",
@@ -2050,6 +2379,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22542,
+      "code": "MARRIAGE_PLACE_22542",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 89,
       "name": "Maria Panthal",
@@ -2073,6 +2406,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22543,
+      "code": "MARRIAGE_PLACE_22543",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 90,
       "name": "Anchumana Devi Temple",
@@ -2096,6 +2433,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22544,
+      "code": "MARRIAGE_PLACE_22544",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 91,
       "name": "V V M N S S Hall ",
@@ -2119,6 +2460,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22545,
+      "code": "MARRIAGE_PLACE_22545",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 92,
       "name": "Sree Bhadra Devi Temple",
@@ -2142,6 +2487,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22546,
+      "code": "MARRIAGE_PLACE_22546",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 93,
       "name": "Gurupooja Mandiram",
@@ -2165,6 +2514,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22547,
+      "code": "MARRIAGE_PLACE_22547",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 94,
       "name": "Ponekkavu Bhagavathy Temple",
@@ -2188,6 +2541,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22548,
+      "code": "MARRIAGE_PLACE_22548",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 95,
       "name": "S N G Trust Hall",
@@ -2211,6 +2568,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22549,
+      "code": "MARRIAGE_PLACE_22549",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 96,
       "name": "Ettukattu Kalarikkal Bhagavathy Temple",
@@ -2234,6 +2595,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22550,
+      "code": "MARRIAGE_PLACE_22550",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 97,
       "name": "Punnackal Devi Temple",
@@ -2257,6 +2622,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22551,
+      "code": "MARRIAGE_PLACE_22551",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 98,
       "name": "Puthukkalvattom Mahadeva Kshethram",
@@ -2280,6 +2649,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22552,
+      "code": "MARRIAGE_PLACE_22552",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 99,
       "name": "Perandoor Bhagavathy Kshethram",
@@ -2303,6 +2676,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22553,
+      "code": "MARRIAGE_PLACE_22553",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 100,
       "name": "Sardar Patel Sabhagriha",
@@ -2326,6 +2703,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22554,
+      "code": "MARRIAGE_PLACE_22554",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 101,
       "name": "Ettakattil Bhagavathy Temple",
@@ -2349,6 +2730,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22555,
+      "code": "MARRIAGE_PLACE_22555",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 102,
       "name": "S S Kalamandir",
@@ -2372,6 +2757,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22556,
+      "code": "MARRIAGE_PLACE_22556",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 103,
       "name": "Ernakulam Womens Association",
@@ -2395,6 +2784,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22557,
+      "code": "MARRIAGE_PLACE_22557",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 104,
       "name": "Punnakkal Devi Temple",
@@ -2418,6 +2811,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22558,
+      "code": "MARRIAGE_PLACE_22558",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 105,
       "name": "Gowry Kalyanamandapam",
@@ -2441,6 +2838,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22559,
+      "code": "MARRIAGE_PLACE_22559",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 106,
       "name": "Seetha Rama Kaliyanamandapam",
@@ -2464,6 +2865,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22560,
+      "code": "MARRIAGE_PLACE_22560",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 107,
       "name": "Kanakadamodar Auditorium",
@@ -2487,6 +2892,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22561,
+      "code": "MARRIAGE_PLACE_22561",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 108,
       "name": "Paramara Bhagavathy Temple",
@@ -2510,6 +2919,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22562,
+      "code": "MARRIAGE_PLACE_22562",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 109,
       "name": "The International Hotel",
@@ -2533,6 +2946,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22563,
+      "code": "MARRIAGE_PLACE_22563",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 110,
       "name": "Gayathry Kalyanamandapam",
@@ -2556,6 +2973,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22564,
+      "code": "MARRIAGE_PLACE_22564",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 111,
       "name": "Sastha Ayyappan Temple",
@@ -2579,6 +3000,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22565,
+      "code": "MARRIAGE_PLACE_22565",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 112,
       "name": "N S S Karayogam",
@@ -2602,6 +3027,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22566,
+      "code": "MARRIAGE_PLACE_22566",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 113,
       "name": "Balabhadra Temple",
@@ -2625,6 +3054,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22567,
+      "code": "MARRIAGE_PLACE_22567",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 114,
       "name": "Sree Gananpathy Temple Elamakkara",
@@ -2648,6 +3081,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22568,
+      "code": "MARRIAGE_PLACE_22568",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 115,
       "name": "Pattupurakkal Bhagavathy Temple",
@@ -2671,6 +3108,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22569,
+      "code": "MARRIAGE_PLACE_22569",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 116,
       "name": "Pavakkulam Sree Mahadeva Temple",
@@ -2694,6 +3135,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22570,
+      "code": "MARRIAGE_PLACE_22570",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 117,
       "name": "A J Hall",
@@ -2717,6 +3162,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22571,
+      "code": "MARRIAGE_PLACE_22571",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 118,
       "name": "Reniassance Hotel",
@@ -2740,6 +3189,10 @@
       "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     },
     {
+      "id": 22572,
+      "code": "MARRIAGE_PLACE_22572",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 119,
       "name": "Mullakkal Bhagavathy Temple",
@@ -2763,6 +3216,10 @@
       "placeTpe": "RELIGIOUS_INSTITUTION"
     },
     {
+      "id": 22573,
+      "code": "MARRIAGE_PLACE_22573",
+      "stateid": 32,
+      "distId": 7,
       "lbId": 169,
       "slNo": 120,
       "name": "Chendamkulamkara Temple",
@@ -2784,6 +3241,32 @@
       "tenentCode": "kl.cochin",
       "active": true,
       "placeTpe": "RELIGIOUS_INSTITUTION"
+    },{
+      "id": 22453,
+      "code": "MARRIAGE_PLACE_22453",
+      "stateid": 32,
+      "distId": 7,
+      "lbId": 169,
+      "slNo": 9999,
+      "name": "others",
+      "nameLocal": "മറ്റുള്ളവ",
+      "locality": "NULL",
+      "localityLocal": "ചഡഘഘ",
+      "street": "NULL",
+      "streetLocal": "ചഡഘഘ",
+      "buildingName": "NULL",
+      "buildingNameLocal": null,
+      "officer": "NULL",
+      "phoneNo": "NULL",
+      "desig": "NULL",
+      "mainPlace": "NULL",
+      "mainPlaceLocal": null,
+      "wardId": "NULL",
+      "address": null,
+      "addressLocal": null,
+      "tenentCode": null,
+      "active": true,
+      "placeTpe": "MANDAPAM_HALL_AND_OTHER"
     }
   ]
 }
