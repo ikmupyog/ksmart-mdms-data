@@ -14577,7 +14577,70 @@
        "serviceCode": "birth-services",
        "code": "null",
        "path": ""
-      }
+      },
+      {
+         "id": 2496,
+         "name": "BirthSearchInbox",
+         "url": "url",
+         "displayName": "Search",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "birth-services",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/cr/inbox-flow/birthinbox",
+         "path": "Birth.Search",
+         "leftIcon": "places:business-center"
+      },
+      {
+      "id": 2497,
+      "name": "Download death NAC certificate",
+      "url": "/death-services/v1/deathregistry/_downloaddeathnac",
+      "parentModule": "",
+      "displayName": "Death NAC Download",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2498,
+      "name": "Search death NAC application",
+      "url": "/death-services/v1/deathdetails/_searchdeathnac",
+      "parentModule": "",
+      "displayName": "Search death NAC File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2499,
+      "name": "Search death Abandoned application",
+      "url": "/death-services/v1/deathdetails/_searchdeathabandoned",
+      "parentModule": "",
+      "displayName": "Search death Abandoned File",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2500,
+      "name": "WF status count",
+      "url": "/egov-wf/process/_statuscount",
+      "parentModule": "",
+      "displayName": "WF status count",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "wf-services",
+      "code": "null",
+      "path": ""
+    }
+      
       
    ]
 }
