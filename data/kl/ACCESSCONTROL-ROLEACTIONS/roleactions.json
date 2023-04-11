@@ -27178,6 +27178,42 @@
       "actionid": 2483,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2149,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_MO",
+      "actionid": 2149,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+      {
+      "rolecode": "PGR_ACS",
+      "actionid": 2149,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "PGR_PD",
+      "actionid": 2149,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "PGR_JD",
+      "actionid": 2149,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+     {
+      "rolecode": "PGR_CEMP",
+      "actionid": 2149,
+      "actioncode": "",
+      "tenantId": "kl"
     }
 	
     
