@@ -1633,6 +1633,12 @@
                 },
                 "accessType" : "PLAIN"
              },
+	      {
+                "attribute" : {
+                  "jsonPath" : "*/ApplicantAadhaarNo"
+                },
+                "accessType" : "PLAIN"
+              },
      	     {
                 "attribute" : {
                   "jsonPath" : "*/groomAadharNo"
