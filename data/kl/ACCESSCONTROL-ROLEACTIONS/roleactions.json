@@ -27244,6 +27244,24 @@
       "actionid": 2149,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2501,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2501,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2501,
+      "actioncode": "",
+      "tenantId": "kl"
     }
 	
     
