@@ -14639,8 +14639,20 @@
       "serviceCode": "wf-services",
       "code": "null",
       "path": ""
+    },
+     
+      {
+      "id": 2501,
+      "name": "Update Birth NAC",
+      "url": " /birth-services/cr/updatenac",
+      "parentModule": "",
+      "displayName": "Update Birth NAC",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
     }
-      
       
    ]
 }
