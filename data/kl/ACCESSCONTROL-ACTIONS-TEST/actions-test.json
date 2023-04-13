@@ -14652,6 +14652,30 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 2502,
+      "name": "marriage-correction create",
+      "url": "/marriage-services/v1/marriagedetails/_createmarriagecorrection",
+      "parentModule": "",
+      "displayName": "marriage-correction create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2503,
+      "name": "marriage-correction update",
+      "url": "/marriage-services/v1/marriagedetails/_updatemarriagecorrection",
+      "parentModule": "",
+      "displayName": "marriage-correction update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-services",
+      "code": "null",
+      "path": ""
     }
       
    ]
