@@ -14676,6 +14676,18 @@
       "serviceCode": "marriage-services",
       "code": "null",
       "path": ""
+    },
+   {
+      "id": 2504,
+      "name": "marriage-correction create",
+      "url": "/marriage-services/v1/marriagedetails/_certificate",
+      "parentModule": "",
+      "displayName": "marriage-certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-services",
+      "code": "null",
+      "path": ""
     }
       
    ]
