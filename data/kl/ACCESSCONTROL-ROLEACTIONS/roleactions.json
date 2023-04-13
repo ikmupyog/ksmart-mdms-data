@@ -27262,6 +27262,55 @@
       "actionid": 2501,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2502,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2502,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2502,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2502,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2502,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  
+	  {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "kl"
     }
 	
     
