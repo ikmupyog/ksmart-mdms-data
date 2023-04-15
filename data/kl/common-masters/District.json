@@ -7821,6 +7821,206 @@
       "statecode": "ap",
       "active": true,
       "type": "COMMON"
+    },
+    {
+      "name": "Adilabad",
+      "namelocal": "ആദിലബാദ്",
+      "code": "DISTRICT_1065",
+      "districtid": 1065,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nizamabad",
+      "namelocal": "നിസാമബാദ്",
+      "code": "DISTRICT_1066",
+      "districtid": 1066,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Karimnagar",
+      "namelocal": "കരിംനഗര്‍",
+      "code": "DISTRICT_1067",
+      "districtid": 1067,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Medak",
+      "namelocal": "മേദക്",
+      "code": "DISTRICT_1068",
+      "districtid": 1068,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Hyderabad",
+      "namelocal": "ഹൈദരാബാദ്",
+      "code": "DISTRICT_1069",
+      "districtid": 1069,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Rangareddi",
+      "namelocal": "രംഗറെഡ്ഢി",
+      "code": "DISTRICT_1070",
+      "districtid": 1070,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Nalgonda",
+      "namelocal": "നാല്‍ഗൊണ്ട",
+      "code": "DISTRICT_1071",
+      "districtid": 1071,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Khammam",
+      "namelocal": "ഖമ്മം",
+      "code": "DISTRICT_1072",
+      "districtid": 1072,
+      "stateid": 28,
+      "statecode": "ap",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Lakshadweep",
+      "namelocal": "ലക്ഷദ്വീപ്",
+      "code": "DISTRICT_1073",
+      "districtid": 1073,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Agatti",
+      "namelocal": "അഗട്ടി",
+      "code": "DISTRICT_1074",
+      "districtid": 1074,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Amini",
+      "namelocal": "അമ്നി",
+      "code": "DISTRICT_1075",
+      "districtid": 1075,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Androth",
+      "namelocal": "ആന്ത്രോത്ത്",
+      "code": "DISTRICT_1076",
+      "districtid": 1076,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bangaram",
+      "namelocal": "ബങ്കാരം",
+      "code": "DISTRICT_1077",
+      "districtid": 1077,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Bitra",
+      "namelocal": "ബിത്ര",
+      "code": "DISTRICT_1078",
+      "districtid": 1078,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Chetlat",
+      "namelocal": "ചെത്ലട്ട്",
+      "code": "DISTRICT_1079",
+      "districtid": 1079,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kadmat",
+      "namelocal": "കഡ്മട്ട്",
+      "code": "DISTRICT_1080",
+      "districtid": 1080,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kalpeni",
+      "namelocal": "കല്‍പേനി",
+      "code": "DISTRICT_1081",
+      "districtid": 1081,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kavaratti",
+      "namelocal": "കവരത്തി",
+      "code": "DISTRICT_1082",
+      "districtid": 1082,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Kiltan",
+      "namelocal": "കില്‍ട്ടന്‍",
+      "code": "DISTRICT_1083",
+      "districtid": 1083,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
+    },
+    {
+      "name": "Minicoy",
+      "namelocal": "മിനിക്കോയ്",
+      "code": "DISTRICT_1084",
+      "districtid": 1084,
+      "stateid": 31,
+      "statecode": "ld",
+      "active": true,
+      "type": "COMMON"
     }
   ]
 }

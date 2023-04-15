@@ -1501,6 +1501,18 @@
                 },
                 "accessType" : "PLAIN"
              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/ApplicantAadhaarNo"
+                },
+                "accessType" : "PLAIN"
+              },
+	     {
+                "attribute" : {
+                  "jsonPath" : "*/InformantAadhaarNo"
+                },
+                "accessType" : "PLAIN"
+             },
      	     {
                 "attribute" : {
                   "jsonPath" : "*/groomAadharNo"
@@ -1624,6 +1636,18 @@
 	     {
                 "attribute" : {
                   "jsonPath" : "*/InitiatorAadhaar"
+                },
+                "accessType" : "PLAIN"
+             },
+	      {
+                "attribute" : {
+                  "jsonPath" : "*/ApplicantAadhaarNo"
+                },
+                "accessType" : "PLAIN"
+              },
+	      {
+                "attribute" : {
+                  "jsonPath" : "*/InformantAadhaarNo"
                 },
                 "accessType" : "PLAIN"
              },

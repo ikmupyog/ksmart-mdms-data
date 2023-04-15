@@ -124,6 +124,10 @@
             "type" : "Normal"
           },
           {
+            "jsonPath" : "ApplicantAadhaarNo",
+            "type" : "Normal"
+          },
+          {
             "jsonPath" : "groomAadharNo",
             "type" : "Normal"
           },

@@ -14639,8 +14639,56 @@
       "serviceCode": "wf-services",
       "code": "null",
       "path": ""
+    },
+     
+      {
+      "id": 2501,
+      "name": "Update Birth NAC",
+      "url": " /birth-services/cr/updatenac",
+      "parentModule": "",
+      "displayName": "Update Birth NAC",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2502,
+      "name": "marriage-correction create",
+      "url": "/marriage-services/v1/marriagedetails/_createmarriagecorrection",
+      "parentModule": "",
+      "displayName": "marriage-correction create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2503,
+      "name": "marriage-correction update",
+      "url": "/marriage-services/v1/marriagedetails/_updatemarriagecorrection",
+      "parentModule": "",
+      "displayName": "marriage-correction update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-services",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 2504,
+      "name": "marriage-certificate create",
+      "url": "/marriage-services/v1/marriagedetails/_certificate",
+      "parentModule": "",
+      "displayName": "marriage-certificate",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-services",
+      "code": "null",
+      "path": ""
     }
-      
       
    ]
 }
