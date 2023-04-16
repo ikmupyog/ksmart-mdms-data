@@ -67,7 +67,7 @@
       "ApplicationType": "CRDRNR",
       "BusinessService": "CR",
       "DeathPlace": "HOSPITAL",
-      "WorkflowCode": "WFDEATH30DAYS",
+      "WorkflowCode": "DEATH30DAYSWF",
       "startdateperiod": 1814400001,
       "enddateperiod": 2592000000,
       "payment": true,
