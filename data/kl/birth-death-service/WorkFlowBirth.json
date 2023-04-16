@@ -7,7 +7,7 @@
       "ApplicationType": "CRBRNR",
       "BusinessService": "CR",
       "BirtPlace": "HOSPITAL",
-      "WorkflowCode": "BIRTHHOSP21",
+      "WorkflowCode": "WFBIRTH21DAYS",
       "SubType":"LESSTHAN21",
       "startdateperiod": 0,
       "enddateperiod": 1814400000,
