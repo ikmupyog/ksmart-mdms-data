@@ -14688,6 +14688,18 @@
       "serviceCode": "marriage-services",
       "code": "null",
       "path": ""
+    },
+      {
+      "id": 2505,
+      "name": "marriage-certificate create",
+      "url": "/death-services/v1/deathdetails/createdeathcorrection",
+      "parentModule": "",
+      "displayName": "death-correction",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-correction",
+      "code": "null",
+      "path": ""
     }
       
    ]
