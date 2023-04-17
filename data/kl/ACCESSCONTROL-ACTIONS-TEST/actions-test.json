@@ -14700,7 +14700,19 @@
       "serviceCode": "death-correction",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2506,
+      "name": "License Correction Update",
+      "url": "/tl-services/correction/_update",
+      "parentModule": "",
+      "displayName": "License Correction Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
+     }
       
    ]
 }
