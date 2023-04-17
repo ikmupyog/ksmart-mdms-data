@@ -27373,6 +27373,30 @@
       "actionid": 2505,
       "actioncode": "",
       "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
     }
 	 
   ]
