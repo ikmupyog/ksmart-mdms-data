@@ -14688,7 +14688,31 @@
       "serviceCode": "marriage-services",
       "code": "null",
       "path": ""
-    }
+    },
+      {
+      "id": 2505,
+      "name": "marriage-certificate create",
+      "url": "/death-services/v1/deathdetails/createdeathcorrection",
+      "parentModule": "",
+      "displayName": "death-correction",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-correction",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2506,
+      "name": "License Correction Update",
+      "url": "/tl-services/correction/_update",
+      "parentModule": "",
+      "displayName": "License Correction Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
+     }
       
    ]
 }

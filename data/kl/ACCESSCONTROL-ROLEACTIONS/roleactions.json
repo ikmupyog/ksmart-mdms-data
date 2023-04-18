@@ -27342,6 +27342,61 @@
       "actionid": 2504,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2505,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2505,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   
+   {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2505,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2505,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2505,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 2506,
+      "actioncode": "",
+      "tenantId": "kl"
     }
 	 
   ]

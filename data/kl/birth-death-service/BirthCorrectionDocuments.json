@@ -58,187 +58,6 @@
     },
     {
       "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 1,
-      "conditionCode": "NAME_INCLUSION_LESS_THAN_SIX",
-      "specificCondition": null,
-      "ageFrom": 0,
-      "ageTo": 6,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 3,
-          "DocumentType": "Applicant ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 2,
-      "conditionCode": "NAME_INCLUSION_GREATER_THAN_SIX_NON_STUDENT",
-      "specificCondition": null,
-      "ageFrom": 6,
-      "ageTo": 18,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 3,
-          "DocumentType": "Applicant ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        },
-        {
-          "DocumentId": 6,
-          "DocumentType": "Disability Certificate or declaration",
-          "DocumentList": "DISABILITY_CERTIFICATE,DECLARATION_IN_FORM_3"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 3,
-      "conditionCode": "NAME_INCLUSION_GREATER_THAN_SIX_STUDENT",
-      "specificCondition": null,
-      "ageFrom": 6,
-      "ageTo": 15,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 3,
-          "DocumentType": "Applicant ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 4,
-      "conditionCode": "NAME_CORRECTION_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
-      "specificCondition": "CORRECTION",
-      "ageFrom": 15,
-      "ageTo": 17,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 3,
-          "DocumentType": "Applicant ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        },
-        {
-          "DocumentId": 8,
-          "DocumentType": "School certificate of child",
-          "DocumentList": "SCHOOL_CERTIFICATE"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 4,
-      "conditionCode": "NAME_CHANGE_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
-      "specificCondition": "CHANGE",
-      "ageFrom": 15,
-      "ageTo": 17,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 3,
-          "DocumentType": "Applicant ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        },
-        {
-          "DocumentId": 8,
-          "DocumentType": "School certificate of child",
-          "DocumentList": "SCHOOL_CERTIFICATE"
-        },
-        {
-          "DocumentId": 9,
-          "DocumentType": "Declaration in form 4",
-          "DocumentList": "DECLARATION_IN_FORM_4"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 5,
-      "conditionCode": "NAME_INCLUSION_AGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
-      "specificCondition": "INCLUSION",
-      "ageFrom": 15,
-      "ageTo": null,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 3,
-          "DocumentType": "Applicant ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        },
-        {
-          "DocumentId": 8,
-          "DocumentType": "School certificate of child",
-          "DocumentList": "SCHOOL_CERTIFICATE"
-        },
-        {
-          "DocumentId": 10,
-          "DocumentType": "Declaration in form 6",
-          "DocumentList": "DECLARATION_IN_FORM_6"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 6,
-      "conditionCode": "AGE_MAJOR_CORRECTION",
-      "specificCondition": "CORRECTION",
-      "ageFrom": 18,
-      "ageTo": null,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 8,
-          "DocumentType": "School certificate of child",
-          "DocumentList": "SCHOOL_CERTIFICATE"
-        },
-        {
-          "DocumentId": 14,
-          "DocumentType": "Child ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
-      "CorrectionField": "CHILD_NAME",
-      "conditionSlNo": 7,
-      "conditionCode": "AGE_MAJOR_INTIALS_EXPANTION",
-      "specificCondition": "INTIALEXPANSION",
-      "ageFrom": 18,
-      "ageTo": null,
-      "active": true,
-      "Documents": [
-        {
-          "DocumentId": 8,
-          "DocumentType": "School certificate of child",
-          "DocumentList": "SCHOOL_CERTIFICATE"
-        },
-        {
-          "DocumentId": 14,
-          "DocumentType": "Child ID proof",
-          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
-        },
-        {
-          "DocumentId": 11,
-          "DocumentType": "Declaration in form 5",
-          "DocumentList": "DECLARATION_IN_FORM_5"
-        }
-      ]
-    },
-    {
-      "BusinessService": "birth-services",
       "CorrectionField": "CHILD_SEX",
       "conditionSlNo": 1,
       "conditionCode": "INSTITUTIONAL_SEX_CORRECTION_MINOR",
@@ -317,7 +136,7 @@
       "BusinessService": "birth-services",
       "CorrectionField": "CHILD_SEX",
       "conditionSlNo": 4,
-      "conditionCode": "NON_INSTITUTIONAL_SEX_CHAGE_MAJOR",
+      "conditionCode": "NON_INSTITUTIONAL_SEX_CHAGE_MINOR",
       "specificCondition": "CHANGE",
       "ageFrom": 0,
       "ageTo": 17,
@@ -366,7 +185,7 @@
       "BusinessService": "birth-services",
       "CorrectionField": "CHILD_SEX",
       "conditionSlNo": 6,
-      "conditionCode": "NON_INSTITUTIONAL_SEX_CORRECTION_MAJOR",
+      "conditionCode": "NON_INSTITUTIONAL_SEX_CHANGE_MAJOR",
       "specificCondition": "CHANGE",
       "ageFrom": 18,
       "ageTo": null,
@@ -499,6 +318,16 @@
           "DocumentId": 19,
           "DocumentType": "Person one Declaration in Form 1 for father",
           "DocumentList": "DECLARATION_IN_FORM_1"
+        },
+        {
+          "DocumentId": 31,
+          "DocumentType": "DNA biological information(Govt. Approved)",
+          "DocumentList": "DNA_BIOLOGICAL_INFORMATION"
+        },
+        {
+          "DocumentId": 32,
+          "DocumentType": "Court Order",
+          "DocumentList": "COURT_ORDER"
         }
       ]
     },
@@ -637,8 +466,8 @@
         },
         {
           "DocumentId": 8,
-          "DocumentType": "School certificate of child",
-          "DocumentList": "SCHOOL_CERTIFICATE"
+          "DocumentType": "Tenth Certificate",
+          "DocumentList": "TENTH_CERTIFICATE"
         },
         {
           "DocumentId": 25,
@@ -669,8 +498,8 @@
         },
         {
           "DocumentId": 8,
-          "DocumentType": "School certificate of child",
-          "DocumentList": "SCHOOL_CERTIFICATE"
+          "DocumentType": "Tenth Certificate",
+          "DocumentList": "TENTH_CERTIFICATE"
         },
         {
           "DocumentId": 25,
@@ -708,6 +537,249 @@
           "DocumentId": 29,
           "DocumentType": "Child aadhaar",
           "DocumentList": "ID_PROOF_AADHAR"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 1,
+      "conditionCode": "NAME_LESS_THAN_SIX",
+      "specificCondition": "INCLUSION,CHANGE,CORRECTION",
+      "ageFrom": 0,
+      "ageTo": 6,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 7,
+          "DocumentType": "Declaration in Form 3 from parents",
+          "DocumentList": "DECLARATION_IN_FORM_3"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 2,
+      "conditionCode": "NAME_GREATER_THAN_SIX_NON_STUDENT",
+      "specificCondition": "INCLUSION,CHANGE,CORRECTION",
+      "ageFrom": 6,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 6,
+          "DocumentType": "Disability Certificate or declaration",
+          "DocumentList": "DISABILITY_CERTIFICATE,DECLARATION_IN_FORM_3"
+        },
+        {
+          "DocumentId": 7,
+          "DocumentType": "Declaration in Form 3 from parents",
+          "DocumentList": "DECLARATION_IN_FORM_3"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 3,
+      "conditionCode": "NAME_GREATER_THAN_SIX_STUDENT",
+      "specificCondition": "INCLUSION,CHANGE,CORRECTION",
+      "ageFrom": 6,
+      "ageTo": 15,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 7,
+          "DocumentType": "Declaration in Form 3 from parents",
+          "DocumentList": "DECLARATION_IN_FORM_3"
+        },
+        {
+          "DocumentId": 30,
+          "DocumentType": "School certificate isuued by HM",
+          "DocumentList": "SCHOOL_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 4,
+      "conditionCode": "NAME_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE",
+      "specificCondition": "INCLUSION,CHANGE,CORRECTION",
+      "ageFrom": 15,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 7,
+          "DocumentType": "Declaration in Form 3 from parents",
+          "DocumentList": "DECLARATION_IN_FORM_3"
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "Tenth Certificate",
+          "DocumentList": "TENTH_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 5,
+      "conditionCode": "NAME_INCLUSION_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE_AGE_10_MON_DIFF",
+      "specificCondition": "INCLUSION_DOB_10_MONTH",
+      "ageFrom": 15,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "Tenth Certificate",
+          "DocumentList": "TENTH_CERTIFICATE"
+        },
+        {
+          "DocumentId": 10,
+          "DocumentType": "Declaration in form 6",
+          "DocumentList": "DECLARATION_IN_FORM_6"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 6,
+      "conditionCode": "NAME_CHANGE_AFTER_FIFTEEN_WITH_TENTH_CERTIFICATE_AGE_10_MON_DIFF",
+      "specificCondition": "CHANGE_DOB_10_MONTH",
+      "ageFrom": 15,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 3,
+          "DocumentType": "Applicant ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "Tenth Certificate",
+          "DocumentList": "TENTH_CERTIFICATE"
+        },
+        {
+          "DocumentId": 9,
+          "DocumentType": "Declaration in form 4",
+          "DocumentList": "DECLARATION_IN_FORM_4"
+        },
+        {
+          "DocumentId": 10,
+          "DocumentType": "Declaration in form 6",
+          "DocumentList": "DECLARATION_IN_FORM_6"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 7,
+      "conditionCode": "NAME_CORRECTION_AFTER_18_SELF_APPLY_AS_TENTH_CERTIFICATE",
+      "specificCondition": "INCLUSION,CHANGE,CORRECTION",
+      "ageFrom": 18,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 8,
+          "DocumentType": "Tenth Certificate",
+          "DocumentList": "TENTH_CERTIFICATE"
+        },
+        {
+          "DocumentId": 14,
+          "DocumentType": "Child ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 8,
+      "conditionCode": "NAME_CORRECTION_AFTER_18_SELF_APPLY_TENTH_CERTIFICATE_AGE_10_MON_DIFF",
+      "specificCondition": "INCLUSION,CHANGE,CORRECTION",
+      "ageFrom": 18,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 8,
+          "DocumentType": "Tenth Certificate",
+          "DocumentList": "TENTH_CERTIFICATE"
+        },
+        {
+          "DocumentId": 14,
+          "DocumentType": "Child ID proof",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Declaration in form 5",
+          "DocumentList": "DECLARATION_IN_FORM_5"
+        },
+        {
+          "DocumentId": 10,
+          "DocumentType": "Declaration in form 6",
+          "DocumentList": "DECLARATION_IN_FORM_6"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "CHILD_NAME",
+      "conditionSlNo": 9,
+      "conditionCode": "ADD_HUSBAND_NAME_FOR_FEMALE",
+      "specificCondition": "INCLUDE_HUSBAND_NAME",
+      "ageFrom": 18,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 33,
+          "DocumentType": "Notary Affedavit",
+          "DocumentList": "NOTARY_AFFEDAVIT"
+        },
+        {
+          "DocumentId": 35,
+          "DocumentType": "Certificate of Village Officer",
+          "DocumentList": "CERTIFICATE_VILLAGE_OFFICER"
+        },
+        {
+          "DocumentId": 36,
+          "DocumentType": "Marriage Certificate",
+          "DocumentList": "MARRIAGE_CERT"
         }
       ]
     }
