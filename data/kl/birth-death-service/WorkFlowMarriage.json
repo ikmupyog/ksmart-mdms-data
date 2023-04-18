@@ -10,7 +10,7 @@
       "startdateperiod": 0,
       "enddateperiod": 3888000000,
       "payment": false,
-      "amount": 0,
+      "amount": 120,
       "active": true
     },
     {
@@ -21,7 +21,7 @@
       "startdateperiod": 3888000000,
       "enddateperiod": 157680000000,
       "payment": false,
-      "amount": 0,
+      "amount": 220,
       "active": true
     },
     {
@@ -30,7 +30,7 @@
       "BusinessService": "CR",
       "WorkflowCode": "ABOVE5YEARSMARRIAGE",
       "startdateperiod": 157680000000,
-      "enddateperiod": 0,
+      "enddateperiod": 395,
       "payment": false,
       "amount": 0,
       "active": true
