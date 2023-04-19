@@ -123,6 +123,10 @@
             "jsonPath" : "InitiatorAadhaar",
             "type" : "Normal"
           },
+            {
+            "jsonPath" : "InformantAadhaarNo",
+            "type" : "Normal"
+          },
           {
             "jsonPath" : "ApplicantAadhaarNo",
             "type" : "Normal"
