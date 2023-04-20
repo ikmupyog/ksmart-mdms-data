@@ -5759,7 +5759,7 @@
       "isActualDemand": true,
       "order": 2
     },
-        {
+    {
       "category": "TAX",
       "service": "TL",
       "name": "TL_CUR",
@@ -5771,11 +5771,41 @@
     {
       "category": "FEE",
       "service": "CR",
-      "name": "Birth Registration Late Fee",
-      "code": "CRB_FEES",
+      "name": "FEE_REG_BND",
+      "code": "140130200",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "1",
+      "order": "2",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "CR",
+      "name": "FEE_CERT_BND",
+      "code": "140130100",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CR",
+      "name": "FEE_REG_MRG",
+      "code": "140130400",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CR",
+      "name": "FEE_CERT_MRG",
+      "code": "140130300",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
       "isRequired": false
     }
   ]
