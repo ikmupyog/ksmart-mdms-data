@@ -14736,7 +14736,18 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+     },
+      {
+      "id": 2509,
+      "name": "update abandoned",
+      "url": "/birth-services/cr/updateabandoned",
+      "parentModule": "",
+      "displayName": "update abandoned ",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "birth-services",
+      "code": "null",
+      "path": ""
      }
-      
    ]
 }
