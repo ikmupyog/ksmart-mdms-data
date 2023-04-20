@@ -1959,8 +1959,32 @@
       "toDate": 1901145600000,
       "periodCycle": "ANNUAL",
       "service": "CR",
-      "code": "CRB_FEES",
-      "financialYear": "2019-30"
+      "code": "140130200",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1901145600000,
+      "periodCycle": "ANNUAL",
+      "service": "CR",
+      "code": "140130400",
+      "financialYear": "2022-23"
+    },
+     {
+      "fromDate": 1554076800000,
+      "toDate": 1901145600000,
+      "periodCycle": "ANNUAL",
+      "service": "CR",
+      "code": "140130100",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1901145600000,
+      "periodCycle": "ANNUAL",
+      "service": "CR",
+      "code": "140130300",
+      "financialYear": "2022-23"
     }
   ]
 }
