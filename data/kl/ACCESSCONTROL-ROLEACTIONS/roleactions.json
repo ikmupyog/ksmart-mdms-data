@@ -27530,7 +27530,7 @@
       "actioncode": "",
       "tenantId": "kl"
     },
-	   {
+  {
       "rolecode": "BND_LOCAL_REGISTRAR",
       "actionid": 2509,
       "actioncode": "",
@@ -27725,6 +27725,36 @@
    {
       "rolecode": "FM_CEMP",
       "actionid": 2515,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	 {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "BND_CEMP",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "OFFICIAL_NOTIFIER",
+      "actionid": 2516,
       "actioncode": "",
       "tenantId": "kl"
     }
