@@ -14748,6 +14748,78 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
-     }
+     },
+      {
+         "id": 2510,
+         "name": "Create Draft File",
+         "url": "/filemgmnt/v1/draftfiles/_create",
+         "parentModule": "",
+         "displayName": "Create Draft File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2511,
+         "name": "Update File",
+         "url": "/filemgmnt/v1/draftfiles/_update",
+         "parentModule": "",
+         "displayName": "Update Draft File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },  
+      {
+         "id": 2512,
+         "name": "Update Draft Status",
+         "url": "/filemgmnt/v1/draftfiles/_updateStatus",
+         "parentModule": "",
+         "displayName": "Update Draft Status",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },     
+      {
+         "id": 2513,
+         "name": "Search Draft File",
+         "url": "/filemgmnt/v1/draftfiles/_search",
+         "parentModule": "",
+         "displayName": "Search Draft File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },
+        {
+         "id": 2514,
+         "name": "Create Arising File",
+         "url": "/filemgmnt/v1/applicantservices/_createArisingFile",
+         "parentModule": "",
+         "displayName": "Create Arising File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2515,
+         "name": "Search Arising File",
+         "url": "/filemgmnt/v1/applicantservice/_searchArisingfile",
+         "parentModule": "",
+         "displayName": "Search Arising File",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-filemgmnt",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
