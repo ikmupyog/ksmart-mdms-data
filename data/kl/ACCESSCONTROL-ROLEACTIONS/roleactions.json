@@ -27572,6 +27572,12 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+   {
+      "rolecode": "FM_CEMP",
+      "actionid": 2510,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2511,
@@ -27592,6 +27598,12 @@
     },  
     {
       "rolecode": "FM_APPROVER",
+      "actionid": 2511,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "FM_CEMP",
       "actionid": 2511,
       "actioncode": "",
       "tenantId": "kl"
@@ -27620,6 +27632,12 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "FM_CEMP",
+      "actionid": 2512,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
    {
       "rolecode": "EMPLOYEE",
       "actionid": 2513,
@@ -27644,6 +27662,12 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "FM_CEMP",
+      "actionid": 2513,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
    {
       "rolecode": "EMPLOYEE",
       "actionid": 2514,
@@ -27669,6 +27693,12 @@
       "tenantId": "kl"
     },
    {
+      "rolecode": "FM_CEMP",
+      "actionid": 2514,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
       "rolecode": "EMPLOYEE",
       "actionid": 2515,
       "actioncode": "",
@@ -27691,7 +27721,13 @@
       "actionid": 2515,
       "actioncode": "",
       "tenantId": "kl"
-    } 
+    },
+   {
+      "rolecode": "FM_CEMP",
+      "actionid": 2515,
+      "actioncode": "",
+      "tenantId": "kl"
+    }
 	 
   ]
 }
