@@ -703,7 +703,7 @@
             "idname": "death_cert.receipt.id"
         },
         {
-            "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+            "format": "KL-[city]-[lbtype]-[SEQ_EG_PT_LN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "tl.licensenumber"
         },
         {
