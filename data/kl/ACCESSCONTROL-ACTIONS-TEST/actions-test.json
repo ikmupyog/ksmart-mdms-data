@@ -14833,6 +14833,30 @@
          "serviceCode": "birth-services",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+      "id": 2517,
+      "name": "search death NAC",
+      "url": "/death-services/v1/deathregistry/_searchdeathnac",
+      "parentModule": "",
+      "displayName": "Search death NAC",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 2518,
+      "name": "Download death NAC certificate",
+      "url": "/death-services/v1/deathregistry/_downloaddeathnac",
+      "parentModule": "",
+      "displayName": "Search death NAC",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "death-services",
+      "code": "null",
+      "path": ""
+    }
    ]
 }
