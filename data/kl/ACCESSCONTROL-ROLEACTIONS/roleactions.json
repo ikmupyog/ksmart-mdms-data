@@ -27769,6 +27769,18 @@
       "actionid": 2518,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 705,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	 {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 705,
+      "actioncode": "",
+      "tenantId": "kl"
     }
 	 
   ]
