@@ -27787,6 +27787,54 @@
       "actionid": 2519,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2508,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_CEMP",
+      "actionid": 2508,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "OFFICIAL_NOTIFIER",
+      "actionid": 2000,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_CEMP",
+      "actionid": 2000,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "OFFICIAL_NOTIFIER",
+      "actionid": 2000,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+  {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2000,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	 {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2000,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 2000,
+      "actioncode": "",
+      "tenantId": "kl"
     }
 	 
   ]
