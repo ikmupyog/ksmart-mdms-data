@@ -14869,6 +14869,18 @@
       "serviceCode": "birth-services",
       "code": "null",
       "path": ""
+    },
+      {
+      "id": 2520,
+      "name": "marriage-correction search",
+      "url": "/marriage-services/v1/marriagedetails/_searchmarriagecorrection",
+      "parentModule": "",
+      "displayName": "marriage-correction search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "marriage-services",
+      "code": "null",
+      "path": ""
     }
    ]
 }
