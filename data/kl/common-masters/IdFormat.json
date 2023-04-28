@@ -703,7 +703,7 @@
             "idname": "death_cert.receipt.id"
         },
         {
-            "format": "KL-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+            "format": "KL-[city]-[lbtype]-[SEQ_EG_PT_LN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
             "idname": "tl.licensenumber"
         },
         {
@@ -743,15 +743,15 @@
             "idname": "br.birthcode"
         },
         {
-            "format": "KL-[city]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]-[code]-[lbtype]-[fntype]",
+            "format": "KL-[city]-[code]-[fntype]-[SEQ_MR_APL]-[cy:yyyy-MM-dd]",
             "idname": "mr.applicationno"
         },
         {            
-            "format": "KL-[city]-[lbtype]-[SEQ_MR_REGN]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[code]-[fntype]-[SEQ_MR_REGN]-[cy:yyyy-MM-dd]",
             "idname": "mr.registrationno"
         },
         {            
-            "format": "KL-[city]-[lbtype]-[SEQ_MR_CERT]-[code]-[cy:yyyy-MM-dd]-[fntype]",
+            "format": "KL-[city]-[code]-[fntype]-[SEQ_MR_CERT]-[cy:yyyy-MM-dd]",
             "idname": "mr.certificateno"
         },
         {

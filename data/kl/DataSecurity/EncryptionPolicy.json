@@ -123,6 +123,10 @@
             "jsonPath" : "InitiatorAadhaar",
             "type" : "Normal"
           },
+            {
+            "jsonPath" : "InformantAadhaarNo",
+            "type" : "Normal"
+          },
           {
             "jsonPath" : "ApplicantAadhaarNo",
             "type" : "Normal"
@@ -185,6 +189,27 @@
             "type" : "Normal"
           }
         ]
-      }
+      },
+      {
+     "key": "KSSMDetails",
+     "attributeList": [
+    {
+        "jsonPath": "aadhaarNumber",
+        "type": "Normal"
+    },
+    {
+        "jsonPath": "mobileNumber",
+        "type": "Normal"
+    },
+    {
+        "jsonPath": "emailId",
+        "type": "Normal"
+    },
+    {
+        "jsonPath": "accountNumber",
+        "type": "Normal"
+    }
+  ]
+}
     ]
 }
