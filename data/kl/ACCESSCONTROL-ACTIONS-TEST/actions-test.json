@@ -14800,7 +14800,7 @@
         {
          "id": 2514,
          "name": "Create Arising File",
-         "url": "/filemgmnt/v1/applicantservices/_createArisingFile",
+         "url": "/filemgmnt/v1/arisingfiles/_create",
          "parentModule": "",
          "displayName": "Create Arising File",
          "orderNumber": 0,
@@ -14812,7 +14812,7 @@
       {
          "id": 2515,
          "name": "Search Arising File",
-         "url": "/filemgmnt/v1/applicantservice/_searchArisingfile",
+         "url": "/filemgmnt/v1/arisingfiles/_search",
          "parentModule": "",
          "displayName": "Search Arising File",
          "orderNumber": 0,
