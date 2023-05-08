@@ -84,18 +84,18 @@
     },
     {
       "code": "WARD_OVERSEER",
-      "name": "Ward Overseer",
-      "description": "Ward Overseer"
+      "name": "Public Grievance Engineering Enquiry Officer",
+      "description": "Public Grievance Engineering Enquiry Officer"
     },
     {
       "code": "OVERSEER_HIGHER",
-      "name": "Overseer Higher",
-      "description": "Overseer Higher"
+      "name": "Public Grievance Engineering Verifier ",
+      "description": "Public Grievance Engineering Verifier "
     },
     {
       "code": "AE",
-      "name": "Assistant Engineer",
-      "description": "Assistant Engineer"
+      "name": "Public Grievance Engineering Approver ",
+      "description": "Public Grievance Engineering Approver "
     },
     {
       "code": "WARD_JHI",
@@ -141,7 +141,38 @@
       "code": "OFFICIAL_NOTIFIER",
       "name": "Official Notifier",
       "description": "Official Notifier"
-    } 
+    },
+     {
+      "code": "TL_PDEOPERATOR",
+      "name": "License PDE Operator",
+      "description": "Operator who enters PDE application"
+    },
+    {
+      "code": "TL_PDEAPPROVER",
+      "name": "License PDE Approver",
+      "description": "Approver who verifies and approves the TL PDE application"
+    },
+      {
+      "code": "TL_CEMP",
+      "name": "Trade License Front Office",
+      "description": "Trade License Front Office"
+    },
+    {
+      "code": "TL_APPROVER",
+      "name": "IFTE & OS Approver",
+      "description": "IFTE & OS Approver"
+    },
+    {
+      "code": "TL_FIELD_INSPECTOR",
+      "name": "IFTE & OS Verifier ",
+      "description": "IFTE & OS Verifier"
+    },
+    {
+      "code": "TL_DOC_VERIFIER",
+      "name": "IFTE & OS LB Operator",
+      "description": "IFTE & OS LB Operator"
+    }
+     
       
     
   ]
