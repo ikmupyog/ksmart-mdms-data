@@ -146,6 +146,19 @@
       "payment": true,
       "amount": 15,
       "active": true
+    },
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRCN",
+      "BusinessService": "CR",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "DEATHCORRECTION",
+      "SubType":"CORRECTION",
+      "startdateperiod": 0,
+      "enddateperiod": 0,
+      "payment": true,
+      "amount": 5,
+      "active": true
     }
      
   ]
