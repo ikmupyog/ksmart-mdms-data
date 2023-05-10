@@ -218,7 +218,7 @@
       "WorkflowCode": "ABOVE1YRBIRTH",  
       "SubType":"ABOVE1YR",
       "startdateperiod": 31622400000,
-      "enddateperiod": 0,
+      "enddateperiod": 31449600000000,
       "payment": true,
       "amount": 15,
       "active": true
