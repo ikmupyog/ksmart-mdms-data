@@ -171,7 +171,17 @@
       "code": "TL_DOC_VERIFIER",
       "name": "IFTE & OS LB Operator",
       "description": "IFTE & OS LB Operator"
-    }
+    },
+     {
+      "code": "HRMS_ADMIN",
+      "name": "HRMS ADMIN",
+     "description": "HRMS Administrator which can create new employees"
+    },
+    {
+      "code": "SUPERUSER",
+       "name": "Super User",
+        "description": "Super User"
+      }
      
       
     
