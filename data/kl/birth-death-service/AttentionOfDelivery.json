@@ -4,35 +4,35 @@
   "AttentionOfDelivery": [
     {
       "name": "Institutional - Government",
-      "namelocal": "",
+      "namelocal": "സ്ഥാപനം - സർക്കാർ",
       "code": "DELIVERY_ATTENTION_GOVERNMENT",
       "active": true,
       "type": "BND"
     },
     {
       "name": "Institutional - Private",
-      "namelocal": "",
+      "namelocal": "സ്ഥാപനപരം - സ്വകാര്യം",
       "code": "DELIVERY_ATTENTION_PRIVATE",
       "active": true,
       "type": "BND"
     },
     {
       "name": "Doctors, Nurse or Trained midwife",
-      "namelocal": "",
+      "namelocal": "ഡോക്ടർമാർ, നഴ്സ് അല്ലെങ്കിൽ പരിശീലനം ലഭിച്ച മിഡ്വൈഫ്",
       "code": "DELIVERY_ATTENTION_DOCTOR",
       "active": true,
       "type": "BND"
     },
     {
       "name": "Traditional birth attendant",
-      "namelocal": "",
+      "namelocal": "പരമ്പരാഗത ജനന സഹായി",
       "code": "DELIVERY_ATTENTION_TRADITIONAL_ATTENDANT",
       "active": true,
       "type": "BND"
     },
     {
       "name": "Relatives or others",
-      "namelocal": "",
+      "namelocal": "ബന്ധുക്കളോ മറ്റുള്ളവരോ",
       "code": "DELIVERY_ATTENTION_RELATIVES",
       "active": true,
       "type": "BND"
