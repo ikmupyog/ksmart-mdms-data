@@ -8,6 +8,11 @@
       "description": "Citizen who can raise complaint"
     },
     {
+      "code": "EMPLOYEE",
+      "name": "EMPLOYEE",
+      "description": "Employee who can solve complaints"
+    },
+    {
       "code": "LSGD_ADMIN",
       "name": "Government of Kerala,LSGD - Administrator",
       "description": "Government of Kerala,LSGD - Administrator"
