@@ -2,6 +2,20 @@
   "tenantId": "kl",
   "moduleName": "egf-master",
   "FinancialYear": [
+     {
+      "id": "26",
+      "tenantId": "kl",
+      "finYearRange":  "2023-24",
+      "name":  "2023-24",
+      "code":  "2023-24",
+      "startingDate": 1680373799000,
+      "endingDate": 1711909799000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
     {
       "id": "25",
       "tenantId": "kl",
