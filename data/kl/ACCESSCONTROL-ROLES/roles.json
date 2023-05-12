@@ -706,14 +706,12 @@
      {
       "code": "HOSPITAL_OPERATOR",
       "name": "Hospital Operator Test",
-      "description": "Hospital Operator",
-      "officetype":"Hospital"
+      "description": "Hospital Operator" 
     },
      {
       "code": "HOSPITAL_APPROVER",
       "name": "Hospital Approver",
-      "description": "Hospital Approver",
-       "officetype":"Hospital"
+      "description": "Hospital Approver" 
     },
      {
       "code": "INSTITUTION_OPERATOR",
