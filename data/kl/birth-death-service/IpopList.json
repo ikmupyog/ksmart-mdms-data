@@ -1,0 +1,20 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "IPOPList": [
+    {
+      "name": "IP",
+      "namelocal": "ഐ പി",
+      "code": "IP",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "OP",
+      "namelocal": " ഓ പി",
+      "code": "OP",
+      "active": "true",
+      "type": "BND"
+    }
+  ]
+}
