@@ -1,0 +1,41 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "Relation": [
+    {
+      "name": "Grandparent",
+      "namelocal": "മുത്തച്ഛൻ / മുത്തശ്ശി",
+      "code": "GRAND_PARENT",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Uncle",
+      "namelocal": "അമ്മാവന്‍",
+      "code": "UNCLE",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Aunt",
+      "namelocal": "അമ്മായി",
+      "code": "AUNT",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Other Relatives",
+      "namelocal": "മറ്റ് ബന്ധുക്കള്‍",
+      "code": "OTHER_RELATIVES",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Non–Related",
+      "namelocal": "ബന്ധം ഇല്ല",
+      "code": "NON_RELATED",
+      "active": "true",
+      "type": "BND"
+    }
+  ]
+}
