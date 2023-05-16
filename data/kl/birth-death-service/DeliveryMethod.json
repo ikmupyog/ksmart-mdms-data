@@ -4,14 +4,14 @@
   "DeliveryMethod": [
     {
       "name": "Natural",
-      "namelocal": "",
+      "namelocal": "സ്വാഭാവികം",
       "code": "DELIVERY_NATURAL",
       "active": true,
       "type": "BND"
     },
     {
       "name": "Caesarean",
-      "namelocal": "",
+      "namelocal": "സിസേറിയൻ",
       "code": "DELIVERY_CAESAREAN",
       "active": true,
       "type": "BND"
@@ -19,7 +19,7 @@
     {
       "code": "DELIVERY_FORCEPS_VACCUM",
       "name": "Forceps/Vacuum",
-      "namelocal": "",
+      "namelocal": "ഫോഴ്‌സെപ്‌സ്/വാക്വം",
       "active": true,
       "type": "BND"
     }

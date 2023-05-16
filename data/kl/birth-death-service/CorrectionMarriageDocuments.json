@@ -1,0 +1,522 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "CorrectionMarriageDocuments": [
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "DOM",
+      "conditionSlNo": 1,
+      "conditionCode": "RELIGIOUS_INSTITUTION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Certified copy of marriage record  from the religeous Institution  concerned",
+          "DocumentList": "COPY_RELIGIOUS_INSTITUTION"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "DOM",
+      "conditionSlNo": 2,
+      "conditionCode": "MANDAPAM_HALL_AND_OTHER",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 3,
+          "DocumentType": "Declaration in Form 1 FOR DOM",
+          "DocumentList": "DECLARATION_IN_FORM_1"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "PLACE_OF_MARRIAGE",
+      "conditionSlNo": 1,
+      "conditionCode": "RELIGIOUS_INSTITUTION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 2,
+          "DocumentType": "Certified copy of marriage record  from the religeous Institution  concerned",
+          "DocumentList": "COPY_RELIGIOUS_INSTITUTION"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "PLACE_OF_MARRIAGE",
+      "conditionSlNo": 2,
+      "conditionCode": "MANDAPAM_HALL_AND_OTHER",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 4,
+          "DocumentType": "Declaration in Form 2 FOR PLACE OF MARRIAGE",
+          "DocumentList": "DECLARATION_IN_FORM_2"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "GROOM_NAME",
+      "conditionSlNo": 1,
+      "conditionCode": "GROOM_NAME_CORRECTION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "School certificate or any other valid photo id proof of the Husband",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "GROOM_NAME",
+      "conditionSlNo": 2,
+      "conditionCode": "GROOM_NAME_CHANGE",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "School certificate or any other valid photo id proof of the Husband",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND"
+        },
+        {
+          "DocumentId": 6,
+          "DocumentType": "Declaration by  a credible person.  If the name to be corrected is entirely different from the actual name-Form 3",
+          "DocumentList": "DECLARATION_IN_FORM_3"
+        },
+        {
+          "DocumentId": 7,
+          "DocumentType": "One and the same declaration of applicant attested by gazetted officer if two different names. -Form 4",
+          "DocumentList": "DECLARATION_IN_FORM_4"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "GROOM_AGE",
+      "conditionSlNo": 1,
+      "conditionCode": "GROOM_AGE_DOB",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 8,
+          "DocumentType": "Birth certificate of husband",
+          "DocumentList": "BIRTH_CERTIFICATE_OF_HUSBAND"
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "School certificate or any other valid photo id proof of the Husband",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "GROOM_PERADD",
+      "conditionSlNo": 1,
+      "conditionCode": "GROOM_PER_ADD",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "School certificate or any other valid photo id proof of the Husband",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND"
+        },
+        {
+          "DocumentId": 9,
+          "DocumentType": "Declaration in Form 5 FOR Address",
+          "DocumentList": "DECLARATION_IN_FORM_5"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "GROOM_FATHER",
+      "conditionSlNo": 1,
+      "conditionCode": "GROOM_FATHER_NAME",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "School certificate or any other valid photo id proof of the Husband",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND"
+        },
+        {
+          "DocumentId": 10,
+          "DocumentType": "School certificate or any other valid  id proof of the Husband showing the name of father",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND_FATHER"
+        },
+        {
+          "DocumentId": 11,
+          "DocumentType": "Declaration in Form 6 FOR name of father",
+          "DocumentList": "DECLARATION_IN_FORM_6"
+        },
+        {
+          "DocumentId": 12,
+          "DocumentType": "Declaration in Form 7 FOR name of father",
+          "DocumentList": "DECLARATION_IN_FORM_7"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "GROOM_MOTHER",
+      "conditionSlNo": 1,
+      "conditionCode": "GROOM_MOTHER_NAME",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "School certificate or any other valid photo id proof of the Husband",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND"
+        },
+        {
+          "DocumentId": 13,
+          "DocumentType": "School certificate or any other valid  id proof of the Husband showing the name of mother",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND_MOTHER"
+        },
+        {
+          "DocumentId": 14,
+          "DocumentType": "Declaration in Form 8 FOR name of mother",
+          "DocumentList": "DECLARATION_IN_FORM_8"
+        },
+        {
+          "DocumentId": 15,
+          "DocumentType": "Declaration in Form 9 FOR name of mother",
+          "DocumentList": "DECLARATION_IN_FORM_9"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "GROOM_GUARDIAN",
+      "conditionSlNo": 1,
+      "conditionCode": "GROOM_GUARDIAN_NAME",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 5,
+          "DocumentType": "School certificate or any other valid photo id proof of the Husband",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND"
+        },
+        {
+          "DocumentId": 16,
+          "DocumentType": "School certificate or any other valid  id proof of the Husband showing the name of guardian",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_HUSBAND_GUARDIAN"
+        },
+        {
+          "DocumentId": 17,
+          "DocumentType": "Declaration in Form 10 FOR name of guardian",
+          "DocumentList": "DECLARATION_IN_FORM_10"
+        },
+        {
+          "DocumentId": 18,
+          "DocumentType": "Declaration in Form 11 FOR name of guardian",
+          "DocumentList": "DECLARATION_IN_FORM_11"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "BRIDE_NAME",
+      "conditionSlNo": 1,
+      "conditionCode": "BRIDE_NAME_CORRECTION",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 19,
+          "DocumentType": "School certificate or any other valid photo id proof of the Wife",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "BRIDE_NAME",
+      "conditionSlNo": 2,
+      "conditionCode": "BRIDE_NAME_CHANGE",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 19,
+          "DocumentType": "School certificate or any other valid photo id proof of the Wife",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE"
+        },
+        {
+          "DocumentId": 20,
+          "DocumentType": "Declaration by  a credible person.  If the name to be corrected is entirely different from the actual name-Form 12",
+          "DocumentList": "DECLARATION_IN_FORM_12"
+        },
+        {
+          "DocumentId": 21,
+          "DocumentType": "One and the same declaration of applicant attested by gazetted officer if two different names. -Form 13",
+          "DocumentList": "DECLARATION_IN_FORM_13"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "BRIDE_AGE",
+      "conditionSlNo": 1,
+      "conditionCode": "BRIDE_AGE_DOB",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 22,
+          "DocumentType": "Birth certificate of wife",
+          "DocumentList": "BIRTH_CERTIFICATE_OF_WIFE"
+        },
+        {
+          "DocumentId": 23,
+          "DocumentType": "School certificate or any other valid photo id proof of the Wife",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "BRIDE_PERADD",
+      "conditionSlNo": 1,
+      "conditionCode": "BRIDE_PER_ADD",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 23,
+          "DocumentType": "School certificate or any other valid photo id proof of the Wife",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE"
+        },
+        {
+          "DocumentId": 24,
+          "DocumentType": "Declaration in Form 14 FOR Address",
+          "DocumentList": "DECLARATION_IN_FORM_14"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "BRIDE_FATHER",
+      "conditionSlNo": 1,
+      "conditionCode": "BRIDE_FATHER_NAME",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 19,
+          "DocumentType": "School certificate or any other valid photo id proof of the Wife",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE"
+        },
+        {
+          "DocumentId": 25,
+          "DocumentType": "School certificate or any other valid  id proof of the Wife showing the name of father",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE_FATHER"
+        },
+        {
+          "DocumentId": 26,
+          "DocumentType": "Declaration in Form 15 FOR name of father",
+          "DocumentList": "DECLARATION_IN_FORM_15"
+        },
+        {
+          "DocumentId": 27,
+          "DocumentType": "Declaration in Form 16 FOR name of father",
+          "DocumentList": "DECLARATION_IN_FORM_16"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "BRIDE_MOTHER",
+      "conditionSlNo": 1,
+      "conditionCode": "BRIDE_MOTHER_NAME",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 25,
+          "DocumentType": "School certificate or any other valid  id proof of the Wife showing the name of father",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE_FATHER"
+        },
+        {
+          "DocumentId": 28,
+          "DocumentType": "School certificate or any other valid  id proof of the Wife showing the name of mother",
+          "DocumentList": "SCHOOL_CERTIFICATE_PHOTO_ID_PROOF_WIFE_MOTHER"
+        },
+        {
+          "DocumentId": 29,
+          "DocumentType": "Declaration in Form 17 FOR name of father",
+          "DocumentList": "DECLARATION_IN_FORM_17"
+        },
+        {
+          "DocumentId": 30,
+          "DocumentType": "Declaration in Form 18 FOR name of father",
+          "DocumentList": "DECLARATION_IN_FORM_18"
+        }
+      ]
+    },
+    {
+      "BusinessService": "birth-services",
+      "CorrectionField": "BRIDE_GUARDIAN",
+      "conditionSlNo": 1,
+      "conditionCode": "BRIDE_GUARDIAN_NAME",
+      "specificCondition": null,
+      "ageFrom": null,
+      "ageTo": null,
+      "active": true,
+      "Documents": [
+        {
+          "DocumentId": 1,
+          "DocumentType": "Govt approved photo id of  applicant",
+          "DocumentList": "ID_PROOF_AADHAR,ID_PROOF_EPIC"
+        },
+        {
+          "DocumentId": 32,
+          "DocumentType": "Declaration in Form 19 FOR name of guardian",
+          "DocumentList": "DECLARATION_IN_FORM_19"
+        },
+        {
+          "DocumentId": 33,
+          "DocumentType": "Declaration in Form 20 FOR name of guardian",
+          "DocumentList": "DECLARATION_IN_FORM_20"
+        }
+      ]
+    }
+  ]
+}

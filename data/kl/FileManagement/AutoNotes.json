@@ -1,0 +1,118 @@
+{
+  "tenantId": "kl",
+  "moduleName": "FileManagement",
+  "AutoNotes": [
+    {
+      "code": "OPERATOR",
+      "name": "operator",
+      "localName": "ഓപ്പറേറ്റർ",
+      "active": true,
+      "Notes": [
+        {
+          "name": "File Received",
+          "localName": "ഫയൽ സ്വീകരിച്ചിട്ടുണ്ട്"
+        },
+        {
+          "name": "Need more Information",
+          "localName": "അധികവിവരങ്ങൾ ആവശ്യമാണ്"
+        },
+        {
+          "name": "Ensured the data",
+          "localName": "വിവരങ്ങൾ നേരിട്ട് കണ്ടുബോധ്യപ്പെട്ടിട്ടുള്ളതാണ്"
+        },
+        {
+          "name": "Draft Letter Submitted",
+          "localName": "കരട് കത്ത് സമര്‍പ്പിച്ചിരിക്കുന്നു"
+        },
+        {
+          "name": "Site inspection has been done",
+          "localName": "സ്ഥലപരിശോധന നടത്തിയിട്ടുള്ളതാണ്"
+        },
+        {
+          "name": "Ensured",
+          "localName": "വിവരങ്ങൾ നേരിട്ട് കണ്ടുബോധ്യപ്പെട്ടിട്ടുള്ളതാണ്"
+        },
+        {
+          "name": "Draft Letter Submitted",
+          "localName": "കരട് കത്ത് സമര്‍പ്പിച്ചിരിക്കുന്നു"
+        },
+        {
+          "name": "Draft order Submitted",
+          "localName": "കരട് ഉത്തരവ് സമര്‍പ്പിച്ചിരിക്കുന്നു"
+        },
+        {
+          "name": "Original Lettter Submitted",
+          "localName": "അസ്സല്‍ കത്ത് സമര്‍പ്പിച്ചിരിക്കുന്നു"
+        },
+        {
+          "name": "Original Order Submitted",
+          "localName": "അസ്സല്‍ ഉത്തരവ് സമര്‍പ്പിച്ചിരിക്കുന്നു"
+        },
+        {
+          "name": "Can be submitted to the committee",
+          "localName": "കമ്മിറ്റിയിൽ സമർപ്പിക്കാവുന്നതാണ്"
+        },
+        {
+          "name": "Submitted to Standing Committee",
+          "localName": "സ്റ്റാന്‍റിംഗ് കമ്മിറ്റിയില്‍ സമര്‍പ്പിച്ചിരിക്കു ന്നു"
+        },
+        {
+          "name": "order submitted",
+          "localName": "അസ്സല്‍ ഉത്തരവ് സമര്‍പ്പിച്ചിരിക്കുന്നു"
+        },
+        {
+          "name": "Submitted for decision",
+          "localName": "തീരുമാനത്തിനായ് സമര്‍പ്പിച്ചിരിക്കുന്നു "
+        },
+        {
+          "name": "Submitted to order",
+          "localName": "ഉത്തരവിനായ് സമര്‍പ്പിച്ചിരിക്കു ന്നു "
+        }
+      ]
+    },
+    {
+      "code": "VERIFIER",
+      "name": "verifier",
+      "localName": "വെരിഫയർ",
+      "active": true,
+      "Notes": [
+        {
+          "name": "Reccomended to approve the draft letter",
+          "localName": "കരട് കത്ത്അംഗീകരിച്ചിരിക്കുന്നതിന്ശുപാര്‍ശ നല്‍കിയിരിക്കുന്നു"
+        },
+        {
+          "name": "Reccomended to approve the draft order",
+          "localName": "കരട് ഉത്തരവ് അംഗീകരിച്ചിരിക്കുന്നതിന്ശുപാര്‍ശ നല്‍കിയിരിക്കു ന്നു"
+        },
+        {
+          "name": "Reccomended to close the file",
+          "localName": "ഫയല്‍ തീര്‍പ്പാക്കാന്‍ ശുപാര്‍ശനല്‍കിയിരിക്കുന്നു"
+        },
+        {
+          "name": "Recommended rejection of file",
+          "localName": "ഫയല്‍ നിരസിക്കുന്നതി ന് ശുപാര്‍ശ"
+        }
+      ]
+    },
+    {
+      "code": "APPROVER",
+      "name": "Approver",
+      "localName": "അപ്പ്രൂവർ",
+      "active": true,
+      "Notes": [
+        {
+          "name": "Draft letter approved",
+          "localName": "കരട് കത്ത്അംഗീകരിച്ചിരിക്കുന്നു "
+        },
+        {
+          "name": "Draft order approved",
+          "localName": "കരട് ഉത്തരവ് അംഗീകരിച്ചിരിക്കുന്നു "
+        },
+        {
+          "name": "File Closed",
+          "localName": "ഫയൽ തീർപ്പാക്കി "
+        }
+      ]
+    }
+  ]
+}
