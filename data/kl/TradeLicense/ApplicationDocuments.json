@@ -12,12 +12,14 @@
           "code": "OWNERID",
           "description": "OWNERID",
           "name": "Owner ID Proof",
+          "namelocal": "Owner ID Proof",
           "manOpt": "MANDATORY"
         },
         {
           "code": "OWNERPHOTO",
           "description": "OWNERPHOTO",
           "name": "Owner's Photo",
+          "namelocal": "Owner's Photo",
           "manOpt": "MANDATORY"
         }
       ]
@@ -32,18 +34,21 @@
           "code": "OWNERID",
           "description": "OWNERID",
           "name": "Owner ID Proof",
+          "namelocal": "Owner ID Proof",
           "manOpt": "MANDATORY"
         },
         {
           "code": "OWNERPHOTO",
           "description": "OWNERPHOTO",
           "name": "Owner's Photo",
+          "namelocal": "Owner's Photo",
           "manOpt": "MANDATORY"
         },
         {
           "code": "PARTNERSHIPDEED",
           "description": "PARTNERSHIPDEED",
           "name": "Partnership Deed",
+          "namelocal": "Partnership Deed",
           "manOpt": "MANDATORY"
         }
       ]
@@ -58,18 +63,21 @@
           "code": "OWNERID",
           "description": "OWNERID",
           "name": "Owner ID Proof",
+          "namelocal": "Owner ID Proof",
           "manOpt": "MANDATORY"
         },
         {
           "code": "OWNERPHOTO",
           "description": "OWNERPHOTO",
           "name": "Owner's Photo",
+          "namelocal": "Owner's Photo",
           "manOpt": "MANDATORY"
         },
         {
           "code": "COMPANYREGCERT",
           "description": "COMPANYREGCERT",
           "name": "Company Registration Certificate ",
+          "namelocal": "Company Registration Certificate ",
           "manOpt": "MANDATORY"
         }
       ]
@@ -84,12 +92,14 @@
           "code": "LANDPOSCERT",
           "description": "LANDPOSCERT",
           "name": "Land Posession Certificate ",
+          "namelocal": "Land Posession Certificate ",
           "manOpt": "MANDATORY"
         },
         {
           "code": "LANDTAXREC",
           "description": "LANDTAXREC",
           "name": "Land Tax Reciept ",
+          "namelocal": "Land Tax Reciept ",
           "manOpt": "MANDATORY"
         }
       ]
@@ -104,18 +114,21 @@
           "code": "LANDPOSCERT",
           "description": "LANDPOSCERT",
           "name": "Land Posession Certificate ",
+          "namelocal": "Land Posession Certificate ",
           "manOpt": "MANDATORY"
         },
         {
           "code": "LANDTAXREC",
           "description": "LANDTAXREC",
           "name": "Land Tax Reciept ",
+          "namelocal": "Land Tax Reciept ",
           "manOpt": "MANDATORY"
         },
         {
           "code": "LANDRENTAGREEMENT",
           "description": "LANDRENTAGREEMENT",
           "name": "Rent Agreement ",
+          "namelocal": "Rent Agreement ",
           "manOpt": "MANDATORY"
         }
       ]
@@ -130,18 +143,21 @@
           "code": "LANDPOSCERT",
           "description": "LANDPOSCERT",
           "name": "Land Posession Certificate ",
+          "namelocal": "Land Posession Certificate ",
           "manOpt": "MANDATORY"
         },
         {
           "code": "LANDTAXREC",
           "description": "LANDTAXREC",
           "name": "Land Tax Reciept ",
+          "namelocal": "Land Tax Reciept ",
           "manOpt": "MANDATORY"
         },
         {
           "code": "LANDLEASEAGREEMENT",
           "description": "LANDLEASEAGREEMENT",
           "name": "Lease Agreement ",
+          "namelocal": "Lease Agreement ",
           "manOpt": "MANDATORY"
         }
       ]
@@ -156,6 +172,7 @@
           "code": "PTRECEIPT",
           "description": "PTRECEIPT",
           "name": "Building ",
+          "namelocal": "Building ",
           "manOpt": "MANDATORY"
         }
       ]
@@ -170,6 +187,7 @@
           "code": "CONSENTDEED",
           "description": "CONCENTDEED",
           "name": "New Consent / Deed",
+          "namelocal": "New Consent / Deed",
           "manOpt": "MANDATORY"
         }
       ]
@@ -184,6 +202,7 @@
           "code": "PARTNERSHIPDEED",
           "description": "PARTNERSHIPDEED",
           "name": "Partnership Deed",
+          "namelocal": "Partnership Deed",
           "manOpt": "MANDATORY"
         }
       ]
@@ -198,6 +217,7 @@
           "code": "COMPANYREGCERT",
           "description": "COMPANYREGCERT",
           "name": "Company Registration Certificate ",
+          "namelocal": "Company Registration Certificate ",
           "manOpt": "MANDATORY"
         }
       ]
@@ -212,12 +232,2092 @@
           "code": "FATHERPROOF",
           "description": "FATHERPROOF",
           "name": "Name of father proof of name",
+          "namelocal": "Name of father proof of name",
           "manOpt": "MANDATORY"
         },
         {
           "code": "GAZETTEDDECLARATION",
           "description": "GAZETTEDDECLARATION",
-          "name": "One and same declaration attested by gazetted officer if it's a different name",
+          "name": "One and same declaration attested by gazetted officer if it’s a different name",
+          "namelocal": "One and same declaration attested by gazetted officer if it’s a different name",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST1",
+      "name": "Granite Quarrying",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST2",
+      "name": "Marble Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST3",
+      "name": "Laterite Quarrying",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST4",
+      "name": "Clay Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST5",
+      "name": "River Sand Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST6",
+      "name": "Shell Lime Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST7",
+      "name": "Limestone/Slates/Shales Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST8",
+      "name": "Earth Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST9",
+      "name": "Chalk Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST10",
+      "name": "Gypsum Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST11",
+      "name": "Bauxite Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST12",
+      "name": "Gold Mining ",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST13",
+      "name": "Kimberlite Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST14",
+      "name": "Mineral Sand Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST15",
+      "name": "Precious Stones Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST16",
+      "name": "Iron Ore Mining",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST17",
+      "name": "Mining of hard coal",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST18",
+      "name": "Mining of Lignite",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST19",
+      "name": "Extraction of natural gas",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST20",
+      "name": "Extraction of Crude Petroleum",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST21",
+      "name": "Mining of chemical and Mineral Fertilizers",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_104",
+          "description": "TL_DOC_PROOF_104",
+          "name": "Environmental Clearance Document, SEAC",
+          "namelocal": "എസ്. ഇ .എ .സി യിൽ നിന്നുള്ള പാരിസ്ഥിതിക അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_105",
+          "description": "TL_DOC_PROOF_105",
+          "name": "Letter of Intent from Mining & Geology Department",
+          "namelocal": "മൈനിങ് ആന്റ് ജിയോളജി വകപ്പില്‍ നിന്നുള്ള ലെറ്റര്‍ ഓഫ് ഇന്റന്റ് ",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST22",
+      "name": "Support activities for petroleum and natural gas extraction",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": null,
+          "description": null,
+          "name": null,
+          "namelocal": null,
+          "manOpt": null
+        }
+      ]
+    },
+    {
+      "code": "TST23",
+      "name": "Support activities for  mining and quarrying",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_110",
+          "description": "TL_DOC_PROOF_110",
+          "name": "Collector’s Permit - If Explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കള്‍ ആണെങ്കില് കളക്ടറുടെ അനുമതി",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_113",
+          "description": "TL_DOC_PROOF_113",
+          "name": "PESO Consent for storing of explosives",
+          "namelocal": "സ്ഫോടക വസ്തുക്കൾ സൂക്ഷിക്കുന്നതിന് പി.ഇ.എസ്.ഒ -  അനുമതിപത്രം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": null,
+          "description": null,
+          "name": null,
+          "namelocal": null,
+          "manOpt": null
+        }
+      ]
+    },
+    {
+      "code": "TST24",
+      "name": "Manufacture of builders' carpentry and joinery",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_109",
+          "description": "TL_DOC_PROOF_109",
+          "name": "Forest Department License",
+          "namelocal": "വനം വകുപ്പില്‍ നിന്നുള്ള ലൈസൻസ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST25",
+      "name": "Manufacture of paints, varnishes and similar coatings, printing ink and mastics",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST26",
+      "name": "Manufacture of clay building materials",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST27",
+      "name": "Manufacture of cement , lime and plaster",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST28",
+      "name": "Lime shell processing centre",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST29",
+      "name": "Manufacture of articles of concrete, cement and plaster",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST30",
+      "name": "Cutting, shaping,Carving and finishing of stone",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST31",
+      "name": "Granite crusher / M-Sand production",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST32",
+      "name": "Manufacture of basic iron and steel",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST33",
+      "name": "Manufacture of structural metal products",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST34",
+      "name": "Manufacture of tanks, reservoirs and containers of metal",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST35",
+      "name": "Manufacture of other fabricated metal products",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST36",
+      "name": " Manufacture of pumps, compressors, taps and valves",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST37",
+      "name": "Manufacture of wiring devices",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST38",
+      "name": "Manufacture of electric lighting equipment",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST39",
+      "name": "Manufacturing of Wodden Furnittures",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_109",
+          "description": "TL_DOC_PROOF_109",
+          "name": "Forest Department License",
+          "namelocal": "വനം വകുപ്പില്‍ നിന്നുള്ള ലൈസൻസ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        }
+      ]
+    },
+    {
+      "code": "TST40",
+      "name": "Manufacturing of Plumbing & Sanitary Items - Closet,washbasin,taps,pipes,sinks,flush taanaks",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
+          "manOpt": "MANDATORY"
+        }
+      ]
+    },
+    {
+      "code": "TST41",
+      "name": "Manufacturing of   water/waste water purifying equipments",
+      "applicationType": "NEW",
+      "active": true,
+      "DocumentList": [
+        {
+          "code": "TL_DOC_PROOF_103",
+          "description": "TL_DOC_PROOF_103",
+          "name": "Fire N.O.C",
+          "namelocal": "ഫയർ എൻ. ഓ. സി / അഗ്നി രക്ഷാ നിരാക്ഷേപപത്രം",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_106",
+          "description": "TL_DOC_PROOF_106",
+          "name": "Factory Inspector’s Certificate",
+          "namelocal": "ഫാക്ടറി ഇൻസ്പെക്ടറുടെ സർട്ടിഫിക്കറ്റ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_401",
+          "description": "TL_DOC_PROOF_401",
+          "name": "Haritha Karma Sena Affiliation Certificate/Card",
+          "namelocal": "ഹരിത കർമ സേനയിൽ അംഗമായ സർട്ടിഫിക്കറ്റ് /കാർഡ്",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_402",
+          "description": "TL_DOC_PROOF_402",
+          "name": " Agreement with the Waste Managment Agency Approved by the LB",
+          "namelocal": "തദ്ദേശ സ്ഥാപനം ചുമതപ്പെടുത്തുന്ന മാലിന്യ സംസ്കരണ സ്ഥാപനവുമായുള്ള കരാർ",
+          "manOpt": "OPTIONAL"
+        },
+        {
+          "code": "TL_DOC_PROOF_101",
+          "description": "TL_DOC_PROOF_101",
+          "name": "Motor  Installation Permit from LSG",
+          "namelocal": "തദേശ സ്ഥാപനത്തിൽ നിന്നും ലഭിക്കുന്ന മോട്ടോര്‍ ഇന്‍സ്റ്റലേഷന്‍ പെര്‍മ്മിറ്റ്",
+          "manOpt": "MANDATORY"
+        },
+        {
+          "code": "TL_DOC_PROOF_102",
+          "description": "TL_DOC_PROOF_102",
+          "name": "KSPCB Consent to Operate",
+          "namelocal": "കെ എസ് പി സി ബി  യുടെ പ്രവർത്തനാനുവാദം",
           "manOpt": "MANDATORY"
         }
       ]
