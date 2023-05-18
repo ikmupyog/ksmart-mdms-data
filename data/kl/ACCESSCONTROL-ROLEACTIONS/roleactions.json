@@ -25045,6 +25045,12 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+  {
+      "rolecode": "BND_CEMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 2406,
@@ -28541,6 +28547,78 @@
     {
       "rolecode": "FM_APPROVER",
       "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_CEMP",
+      "actionid": 2487,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "PGR_MO",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_ACS",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_PD",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_JD",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_CEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "PGR_MO",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_ACS",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_PD",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_JD",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "PGR_CEMP",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1751,
       "actioncode": "",
       "tenantId": "kl"
     }
