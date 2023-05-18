@@ -28621,6 +28621,94 @@
       "actionid": 1751,
       "actioncode": "",
       "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "JHI",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_CEMP",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "JHI",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_CEMP",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "JHI",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "BND_CEMP",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "CITIZEN",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "kl"
+    },{
+      "rolecode": "CITIZEN",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "kl"
+    },{
+      "rolecode": "CITIZEN",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "kl"
     }
   ]
 }
