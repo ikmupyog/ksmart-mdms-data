@@ -1,0 +1,55 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "Initiator": [
+    {
+      "name": "Father",
+      "namelocal": "പിതാവ്",
+      "code": "FATHER",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Mother",
+      "namelocal": "മാതാവ്‌",
+      "code": "MOTHER",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Grandparents",
+      "namelocal": "മുത്തച്ഛൻ / മുത്തശ്ശി",
+      "code": "GRAND_PARENTS",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Self",
+      "namelocal": "സ്വയം",
+      "code": "SELF",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Siblings",
+      "namelocal": "സഹോദരങ്ങൾ",
+      "code": "SIBLINGS",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Guardian",
+      "namelocal": "രക്ഷാകര്‍ത്താവ്‌",
+      "code": "GUARDIAN",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Institutional Care Taker",
+      "namelocal": "സ്ഥാപന സംബന്ധിയായ സംരക്ഷകന്‍",
+      "code": "INST_CARE_TAKER",
+      "active": "true",
+      "type": "BND"
+    }
+  ]
+}

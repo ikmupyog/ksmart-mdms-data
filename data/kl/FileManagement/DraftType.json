@@ -1,0 +1,55 @@
+{
+  "tenantId": "kl",
+  "moduleName": "FileManagement",
+  "DraftType": [
+    {
+      "id": 1,
+      "code": "DF001",
+      "name": "Official Letter",
+      "localName": "",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "DF002",
+      "name": "Demi Official Letter",
+      "localName": "",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "DF003",
+      "name": "Proceedings",
+      "localName": "",
+      "active": true
+    },
+    {
+      "id": 4,
+      "code": "DF004",
+      "name": "Notice",
+      "localName": "",
+      "active": true
+    },
+    {
+      "id": 5,
+      "code": "DF005",
+      "name": "Memo",
+      "localName": "",
+      "active": true
+    },
+    {
+      "id": 6,
+      "code": "DF006",
+      "name": "Statement of Allegation",
+      "localName": "",
+      "active": true
+    },
+    {
+      "id": 7,
+      "code": "DF007",
+      "name": "Statement of Fact",
+      "localName": "",
+      "active": true
+    }
+  ]
+}

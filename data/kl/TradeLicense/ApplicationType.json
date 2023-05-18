@@ -9,6 +9,10 @@
         {
             "code": "APPLICATIONTYPE.RENEWAL",
             "active": true
+        },
+		{
+            "code": "APPLICATIONTYPE.CORRECTION",
+            "active": true
         }
     ]
 }

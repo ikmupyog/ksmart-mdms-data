@@ -557,11 +557,7 @@
         {
             "format": "PG-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
             "idname": "noc.application.number"
-        },
-       {
-            "format": "KL-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
-            "idname": "pgr.servicerequestid"
-        },
+        },      
         {
             "idname": "bs.amendment.id",
             "format": "NOTETYPE-CONSUMERCODE-[SEQ_BS_MUTATION_[tenant_id]]"
@@ -789,6 +785,10 @@
         {
             "format": "KSSM-SNP-[cy:yyyy-MM-dd]-[SEQ_EG_FM_APL]",
             "idname": "kssm.pensniorid"
+        },
+        {
+            "format": "KL-[city]-PGR-[fntype]-[SEQ_EG_PGR_ID]-[cy:yyyy-MM-dd]",   
+            "idname": "pgr.servicerequestid"
         }
        
     ]

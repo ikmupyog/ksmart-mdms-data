@@ -1,0 +1,41 @@
+{
+  "tenantId": "kl",
+  "moduleName": "birth-death-service",
+  "CareTakerDesignation": [
+    {
+      "name": "Manager",
+      "namelocal": "മാനേജർ",
+      "code": "MANAGER",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Secretary",
+      "namelocal": "സെക്രട്ടറി",
+      "code": "SECRETARY",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Administrator",
+      "namelocal": "അധികാരി",
+      "code": "ADMINISTRATOR",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Executive Officer",
+      "namelocal": "ഉദ്യോഗസ്ഥന്‍",
+      "code": "EXECUTIVE_OFFICER",
+      "active": "true",
+      "type": "BND"
+    },
+    {
+      "name": "Warden",
+      "namelocal": "വാർഡൻ",
+      "code": "WARDEN",
+      "active": "true",
+      "type": "BND"
+    }
+  ]
+}
