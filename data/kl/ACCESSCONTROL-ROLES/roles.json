@@ -706,22 +706,22 @@
      {
       "code": "HOSPITAL_OPERATOR",
       "name": "Hospital Operator Test",
-      "description": "Hospital Operator" 
+      "description": "Hospital" 
     },
      {
       "code": "HOSPITAL_APPROVER",
       "name": "Hospital Approver",
-      "description": "Hospital Approver" 
+      "description": "Hospital" 
     },
      {
       "code": "INSTITUTION_OPERATOR",
       "name": "Institution Operator",
-      "description": "Institution Operator"
+      "description": "Institution"
     },
     {
       "code": "INSTITUTION_APPROVER",
       "name": "Institution Approver",
-      "description": "Institution Approver"
+      "description": "Institution"
     },
         {
       "code": "WARD_OVERSEER",
