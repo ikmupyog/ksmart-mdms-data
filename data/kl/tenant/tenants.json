@@ -548,12 +548,11 @@
       "contactNumber": "04923-222343",
       "pdfHeader": ""
     },
-
     {
       "code": "kl.cochin",
       "lbid": 169,
       "name": "Kochi Corporation",
-      "description": "Kochi Corporation",
+      "description": "Cochin",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/cochin.jpg",
       "imageId": null,
       "domainUrl": "https://kochicorporation.lsgkerala.gov.in/",
@@ -590,7 +589,6 @@
       ],
       "contactNumber": "4842369007",
       "pdfHeader": ""
-
     },
     {
       "code": "kl.eloor",
@@ -3910,6 +3908,5 @@
       "contactNumber": "04884-232252",
       "pdfHeader": ""
     }
-     
   ]
 }
