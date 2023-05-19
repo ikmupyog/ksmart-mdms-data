@@ -15097,6 +15097,44 @@
          "serviceCode": "egov-filemgmnt",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2539,
+         "name": "death update correction",
+         "url": "/v1/deathdetails/updatedeathcorrectionh",
+         "parentModule": "",
+         "displayName": "update correction",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "death-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2540,
+         "name": "Search death correction",
+         "url": "/death-services/v1/deathdetails/searchdeathcorrection",
+         "parentModule": "",
+         "displayName": "Search death correction",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "death-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2541,
+         "name": "Update birth correction",
+         "url": "/birth-services/cr/updatebirthcorrection",
+         "parentModule": "",
+         "displayName": "Update birth correction",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "birth-services",
+         "code": "null",
+         "path": ""
       }
+      
+     
    ]
 }
