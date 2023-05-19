@@ -775,11 +775,11 @@
             "idname": "br.adptioncertno"
         },
          {
-            "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+            "format": "KL-PG-[cy:yyyy-MM-dd]-[SEQ_EG_PG_TXN]-[d{2}]",
             "idname": "pg.txnid"
         },
          {
-            "format": "KL_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+            "format": "KL-PG-[cy:yyyy-MM-dd]-[SEQ_EG_PG_TXN]-[d{2}]",
             "idname": "receipt.id"
         },
         {
