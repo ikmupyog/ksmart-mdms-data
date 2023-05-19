@@ -284,7 +284,7 @@
       "payment": true,
       "amount": 10,
       "active": true
-    },
+    },    
      {
       "tenantId": "kl",
       "ApplicationType": "CRBRCN",
@@ -292,8 +292,8 @@
       "DeathPlace": "HOME",
       "WorkflowCode": "BIRTHCORRECTION",
       "SubType":"CORRECTION",
-      "startdateperiod": null,
-      "enddateperiod": null,
+      "startdateperiod": 0,
+      "enddateperiod": 31449600000000,
       "payment": true,
       "amount": 5,
       "active": true
