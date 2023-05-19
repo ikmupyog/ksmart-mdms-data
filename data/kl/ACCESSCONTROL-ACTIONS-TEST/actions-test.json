@@ -15113,7 +15113,7 @@
       {
          "id": 2540,
          "name": "Search death correction",
-         "url": "/v1/deathdetails/searchdeathcorrection",
+         "url": "/death-services/v1/deathdetails/searchdeathcorrection",
          "parentModule": "",
          "displayName": "Search death correction",
          "orderNumber": 0,
