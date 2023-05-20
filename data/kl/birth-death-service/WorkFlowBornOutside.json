@@ -13,6 +13,30 @@
       "payment": false,
       "amount": 0,
       "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRBO",
+      "BusinessService": "CR",
+      "BirtPlace": "OUTSIDE_COUNTRY",
+      "WorkflowCode": "BORNOUTSIDE45TO1YR",
+      "startdateperiod": 3888000000,
+      "enddateperiod": 31622400000,
+      "payment": true,
+      "amount": 2,
+      "active": true
+    },
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRBO",
+      "BusinessService": "CR",
+      "BirtPlace": "OUTSIDE_COUNTRY",
+      "WorkflowCode": "BORNOUTSIDE1YR",
+      "startdateperiod": 31622400000,
+      "enddateperiod": 0,
+      "payment": true,
+      "amount": 5,
+      "active": true
     }
   ]
 }
