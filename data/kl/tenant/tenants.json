@@ -5,6 +5,7 @@
     {
       "code": "kl.adoor",
       "lbid": 178,
+      "nationalLgdId": 252253,
       "name": "Adoor Municipality",
       "description": "Adoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/adoor.jpg",
@@ -13,6 +14,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secyadr@gmail.com",
+      "localName": "അടൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -42,11 +44,26 @@
         691523
       ],
       "contactNumber": "04734-228362",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ADOOR",
+        "VILLAGE_PERINGANAD"
+      ],
+      "poList": [
+        "POSTOFFICE_PARANTHAL",
+        "POSTOFFICE_ADOOR",
+        "POSTOFFICE_KARUVATTA_ADOOR",
+        "POSTOFFICE_ANANDAPALLY",
+        "POSTOFFICE_PARAKODE"
+      ],
+      "talukList": [
+        "TALUK_ADOOR"
+      ]
     },
     {
       "code": "kl.alappuzha",
       "lbid": 185,
+      "nationalLgdId": 252247,
       "name": "Alappuzha Municipality",
       "description": "Alappuzha",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/alappuzha.jpg",
@@ -55,6 +72,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryalappuzha@gmail.com",
+      "localName": "ആലപ്പുഴ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -84,11 +102,43 @@
         688001
       ],
       "contactNumber": "0477-2251123",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ARYAD_SOUTH",
+        "VILLAGE_MULLACKAL"
+      ],
+      "poList": [
+        "POSTOFFICE_ALAPPUZHA",
+        "POSTOFFICE_ALAPPUZHA_DISTRICT_HOSPITAL",
+        "POSTOFFICE_ALAPPUZHA_COLLECTORATE",
+        "POSTOFFICE_THIRUVAMBADI_JUNCTION",
+        "POSTOFFICE_VATTAYAL_WARD",
+        "POSTOFFICE_VADACKAL",
+        "POSTOFFICE_SANATHANAPURAM",
+        "POSTOFFICE_ALAPPUZHA_MEDICAL_COLLEGE,T_D_M_C",
+        "POSTOFFICE_KANJIPADOM",
+        "POSTOFFICE_AVALOOKKUNNU",
+        "POSTOFFICE_KOTTANKULANGARA",
+        "POSTOFFICE_ALAPPUZHA_NORTH",
+        "POSTOFFICE_KANJIRAMCHIRA",
+        "POSTOFFICE_KOMMADY_WARD",
+        "POSTOFFICE_THUMPOLY",
+        "POSTOFFICE_PAZHAVEEDU",
+        "POSTOFFICE_ALAPPUZHA_MULLACKAL",
+        "POSTOFFICE_ALAPPUZHA_IRON_BRIDGE",
+        "POSTOFFICE_CHUNGOM",
+        "POSTOFFICE_ALAPPUZHA_BAZAR",
+        "POSTOFFICE_THONDANKULANGARA",
+        "POSTOFFICE_THATHAMPALLY"
+      ],
+      "talukList": [
+        "TALUK_AMBALAPPUZHA"
+      ]
     },
     {
       "code": "kl.aluva",
       "lbid": 198,
+      "nationalLgdId": 252211,
       "name": "Aluva Municipality",
       "description": "Aluva",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/aluva.jpg",
@@ -97,6 +147,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "aluvamunicipaloffice@yahoo.com ",
+      "localName": "ആലുവ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -126,11 +177,26 @@
         null
       ],
       "contactNumber": "0484-2623192",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ALUVA_WEST"
+      ],
+      "poList": [
+        "POSTOFFICE_ALUVA",
+        "POSTOFFICE_ALUVA_BAZAR",
+        "POSTOFFICE_ALUVA_TOWN_BUS_STAND",
+        "POSTOFFICE_UNION_CHRISTIAN_COLLEGE",
+        "POSTOFFICE_THOTTAKKATTUKARA",
+        "POSTOFFICE_EZHATTUMUGHAM"
+      ],
+      "talukList": [
+        "TALUK_ALUVA"
+      ]
     },
     {
       "code": "kl.angamaly",
       "lbid": 193,
+      "nationalLgdId": 252208,
       "name": "Angamaly Municipality",
       "description": "Angamaly",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/angamaly.jpg",
@@ -139,6 +205,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryagly@gmail.com",
+      "localName": "അങ്കമാലി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -168,11 +235,27 @@
         683572
       ],
       "contactNumber": "0484-2459573",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ANGAMALY"
+      ],
+      "poList": [
+        "POSTOFFICE_NAYATHODE",
+        "POSTOFFICE_PULIYANAM",
+        "POSTOFFICE_ANGAMALY",
+        "POSTOFFICE_VAPPALASSERY",
+        "POSTOFFICE_KIDANGOOR",
+        "POSTOFFICE_ANGAMALY_SOUTH",
+        "POSTOFFICE_EZHATTUMUGHAM"
+      ],
+      "talukList": [
+        "TALUK_ALUVA"
+      ]
     },
     {
       "code": "kl.anthoor",
       "lbid": 1287,
+      "nationalLgdId": 272915,
       "name": "Anthoor Municipality",
       "description": "Anthoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/anthoor.jpg",
@@ -181,6 +264,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "anthoormunicipality@gmail.com",
+      "localName": "ആന്തൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -210,11 +294,28 @@
         670567
       ],
       "contactNumber": "0497-2784450",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ANDOOR",
+        "VILLAGE_MORAZHA"
+      ],
+      "poList": [
+        "POSTOFFICE_ANCHAMPEEDIKA",
+        "POSTOFFICE_MORAZHA",
+        "POSTOFFICE_KALLIASSERI",
+        "POSTOFFICE_KANUL",
+        "POSTOFFICE_NANICHERI",
+        "POSTOFFICE_PARASSINIKADAVU",
+        "POSTOFFICE_KANNUR_UNIVERSITY_CAMPUS"
+      ],
+      "talukList": [
+        "TALUK_TALIPARAMBA"
+      ]
     },
     {
       "code": "kl.attingal",
       "lbid": 173,
+      "nationalLgdId": 252258,
       "name": "Attingal Municipality",
       "description": "Attingal",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/attingal.jpg",
@@ -223,6 +324,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryattl@gmail.com",
+      "localName": "ആറ്റിങ്ങല്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -252,11 +354,32 @@
         695101
       ],
       "contactNumber": "0470-2622417",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_AVANAVANCHERRY",
+        "VILLAGE_ALAMCODE",
+        "VILLAGE_ATTINGAL",
+        "VILLAGE_EDAKKODE",
+        "VILLAGE_KIZHUVILAM",
+        "VILLAGE_KEEZHATTINGAL",
+        "VILLAGE_KUNTHALLUR",
+        "VILLAGE_MANAMBOOR"
+      ],
+      "poList": [
+        "POSTOFFICE_ATTINGAL",
+        "POSTOFFICE_VILAYILMOOLA",
+        "POSTOFFICE_ALAMCODE",
+        "POSTOFFICE_AVANAVANCHERRY",
+        "POSTOFFICE_KIZHUVILAM"
+      ],
+      "talukList": [
+        "TALUK_CHIRAYINKEEZHU"
+      ]
     },
     {
       "code": "kl.chalakudy",
       "lbid": 202,
+      "nationalLgdId": 252205,
       "name": "Chalakudy Municipality",
       "description": "Chalakudy",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/chalakudy.jpg",
@@ -265,6 +388,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarycmcchalakudy@gmail.com",
+      "localName": "ചാലക്കുടി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -294,11 +418,31 @@
         680307
       ],
       "contactNumber": "0480-2708152",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_EAST_CHALAKUDY",
+        "VILLAGE_WEST_CHALAKUDY",
+        "VILLAGE_PERAMBRA",
+        "VILLAGE_POTTA"
+      ],
+      "poList": [
+        "POSTOFFICE_CHALAKUDY",
+        "POSTOFFICE_KOTTAT",
+        "POSTOFFICE_CHALAKUDY_SOUTH",
+        "POSTOFFICE_CHALAKUDY_TOWN",
+        "POSTOFFICE_ELINJIPRA",
+        "POSTOFFICE_POTTA",
+        "POSTOFFICE_V_R_PURAM",
+        "POSTOFFICE_CHALAKUDY_RAILWAY_STATION"
+      ],
+      "talukList": [
+        "TALUK_CHALAKUDY"
+      ]
     },
     {
       "code": "kl.changanassery",
       "lbid": 188,
+      "nationalLgdId": 252239,
       "name": "Changanassery Municipality",
       "description": "Changanassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/changanassery.jpg",
@@ -307,6 +451,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarychgry@gmail.com",
+      "localName": "ചങ്ങനാശ്ശേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -336,11 +481,30 @@
         686101
       ],
       "contactNumber": "0481-2420897",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_CHANGANASERI",
+        "VILLAGE_VAZHAPPALLY_WEST"
+      ],
+      "poList": [
+        "POSTOFFICE_CHAKKAMPUZHA",
+        "POSTOFFICE_AMANAKARA",
+        "POSTOFFICE_RAMAPURAM_BAZAR",
+        "POSTOFFICE_KOODAPALAM",
+        "POSTOFFICE_METHIRI",
+        "POSTOFFICE_RAMAPURAM",
+        "POSTOFFICE_CHOONDACHERRY",
+        "POSTOFFICE_PRAVITHANAM",
+        "POSTOFFICE_KAYYOOR"
+      ],
+      "talukList": [
+        "TALUK_CHANGANASERI"
+      ]
     },
     {
       "code": "kl.chavakkad",
       "lbid": 200,
+      "nationalLgdId": 252181,
       "name": "Chavakkad Municipality",
       "description": "Chavakkad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/chavakkad.jpg",
@@ -349,6 +513,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "chavakkadsecretary@gmail.com",
+      "localName": "ചാവക്കാട് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -378,11 +543,33 @@
         680506
       ],
       "contactNumber": "0487-2507367",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_GURUVAYUR",
+        "VILLAGE_MANATHALA"
+      ],
+      "poList": [
+        "POSTOFFICE_GURUVAYUR",
+        "POSTOFFICE_GURUVAYUR_WEST",
+        "POSTOFFICE_POOKKODE",
+        "POSTOFFICE_PALAYUR",
+        "POSTOFFICE_BLANGAD",
+        "POSTOFFICE_MUDUVATTUR",
+        "POSTOFFICE_CHAVAKKAD",
+        "POSTOFFICE_PERAKAM",
+        "POSTOFFICE_THIRUVATHRA",
+        "POSTOFFICE_CHULUR",
+        "POSTOFFICE_KANNAMPALLIPURAM",
+        "POSTOFFICE_CHENTHRAPPINNI_EAST"
+      ],
+      "talukList": [
+        "TALUK_CHAVAKKAD"
+      ]
     },
     {
       "code": "kl.chengannur",
       "lbid": 181,
+      "nationalLgdId": 252249,
       "name": "Chengannur Municipality",
       "description": "Chengannur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/chengannur.jpg",
@@ -391,6 +578,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "seccgnrmlty@gmail.com",
+      "localName": "ചെങ്ങന്നൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -420,11 +608,32 @@
         689121
       ],
       "contactNumber": "0479-2452260",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ALA",
+        "VILLAGE_CHENGANNUR",
+        "VILLAGE_PANDANAD",
+        "VILLAGE_PULIYOOR",
+        "VILLAGE_MULAKUZHA"
+      ],
+      "poList": [
+        "POSTOFFICE_CHENGANNUR",
+        "POSTOFFICE_CHENGANNUR_R_S",
+        "POSTOFFICE_NEERVILAKOM",
+        "POSTOFFICE_ANGADICAL-CHENGANNUR",
+        "POSTOFFICE_PUTHENCAVU",
+        "POSTOFFICE_EDANAD",
+        "POSTOFFICE_MUNDENCAVU",
+        "POSTOFFICE_VAZHARMANGALAM"
+      ],
+      "talukList": [
+        "TALUK_CHENGANNUR"
+      ]
     },
     {
       "code": "kl.cherpulassery",
       "lbid": 1270,
+      "nationalLgdId": 272906,
       "name": "Cherpulassery Municipality",
       "description": "Cherpulassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/cherpulassery.jpg",
@@ -433,6 +642,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "seccpymun@gmail.com",
+      "localName": "ചെര്‍പുളശ്ശേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -462,11 +672,28 @@
         679503
       ],
       "contactNumber": "0466-2282238",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_CHERPULASSERY",
+        "VILLAGE_TRIKKADERI_II"
+      ],
+      "poList": [
+        "POSTOFFICE_TRIKKADERI",
+        "POSTOFFICE_VEERAMANGALAM",
+        "POSTOFFICE_PANNIYAMKURISSI",
+        "POSTOFFICE_CHERPULASSERY",
+        "POSTOFFICE_KARUMANAMKURISSI",
+        "POSTOFFICE_KARALMANNA",
+        "POSTOFFICE_THEKKUMMURI"
+      ],
+      "talukList": [
+        "TALUK_OTTAPALAM"
+      ]
     },
     {
       "code": "kl.cherthala",
       "lbid": 183,
+      "nationalLgdId": 272906,
       "name": "Cherthala Municipality",
       "description": "Cherthala",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/cherthala.jpg",
@@ -475,6 +702,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarycmc1@gmail.com",
+      "localName": "ചേര്‍ത്തല മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -504,11 +732,27 @@
         688524
       ],
       "contactNumber": "0478 - 2822536",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KOKKOTHAMANGALAM",
+        "VILLAGE_CHERTHALA_SOUTH",
+        "VILLAGE_CHERTHALA_NORTH"
+      ],
+      "poList": [
+        "POSTOFFICE_MARARIKULAM_NORTH",
+        "POSTOFFICE_CHERTHALA",
+        "POSTOFFICE_CHERTHALA_CUTCHERRY",
+        "POSTOFFICE_VARANAD",
+        "POSTOFFICE_MARUTHORVATTOM"
+      ],
+      "talukList": [
+        "TALUK_CHERTHALA"
+      ]
     },
     {
       "code": "kl.chittur",
       "lbid": 207,
+      "nationalLgdId": 252178,
       "name": "Chittur Tattamangalam Municipality",
       "description": "Chittur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/chittur.jpg",
@@ -517,6 +761,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretary.chittur@rediffmail.com",
+      "localName": "ചിറ്റൂര്‍ തത്തമംഗലം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -546,11 +791,30 @@
         678104
       ],
       "contactNumber": "04923-222343",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_CHITTUR",
+        "VILLAGE_TATTAMANGALAM"
+      ],
+      "poList": [
+        "POSTOFFICE_CHITTUR_PALAKKAD",
+        "POSTOFFICE_CHITTUR_COURTS",
+        "POSTOFFICE_TATTAMANGALAM",
+        "POSTOFFICE_CHENTHAMARANAGAR",
+        "POSTOFFICE_TATTAMANGALAM_SOUTH",
+        "POSTOFFICE_THEKKEGRAMAM",
+        "POSTOFFICE_CHITTUR_COLLEGE",
+        "POSTOFFICE_PERUVEMBA",
+        "POSTOFFICE_PANAYUR"
+      ],
+      "talukList": [
+        "TALUK_CHITTUR"
+      ]
     },
     {
       "code": "kl.cochin",
       "lbid": 169,
+      "nationalLgdId": 252220,
       "name": "Kochi Corporation",
       "description": "Cochin",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/cochin.jpg",
@@ -559,6 +823,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "epayhelpkochi@gmail.com",
+      "localName": "കൊച്ചി കോര്‍പ്പറേഷന്‍",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -588,11 +853,84 @@
         682011
       ],
       "contactNumber": "4842369007",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_EDAKOCHI",
+        "VILLAGE_EDAPALLY_NORTH",
+        "VILLAGE_EDAPALLY_SOUTH",
+        "VILLAGE_ELAMKULAM",
+        "VILLAGE_ERNAKULAM",
+        "VILLAGE_KANAYANNUR",
+        "VILLAGE_KOCHI",
+        "VILLAGE_CHERANALLOOR",
+        "VILLAGE_THOPPUMPADY",
+        "VILLAGE_PALLURUTHY",
+        "VILLAGE_POONITHURA",
+        "VILLAGE_FORTKOCHI",
+        "VILLAGE_MATTANCHERRY",
+        "VILLAGE_MULAVUKAD",
+        "VILLAGE_RAMESWARAM"
+      ],
+      "poList": [
+        "POSTOFFICE_KOCHI",
+        "POSTOFFICE_VELI_KOCHI",
+        "POSTOFFICE_MATSYAPURI_BAZAR",
+        "POSTOFFICE_PANAYAPPILLY",
+        "POSTOFFICE_MATTANCHERRY",
+        "POSTOFFICE_MATTANCHERRY_BAZAR",
+        "POSTOFFICE_MATTANCHERRY_JETTY",
+        "POSTOFFICE_MATTANCHERRY_TOWN",
+        "POSTOFFICE_WILLINGDON_ISLAND",
+        "POSTOFFICE_KOCHI_NAVAL_BASE",
+        "POSTOFFICE_THOPPUMPADY",
+        "POSTOFFICE_PALLURUTHY_SOUTH",
+        "POSTOFFICE_PALLURUTHY",
+        "POSTOFFICE_KANNAMALI",
+        "POSTOFFICE_NORTH_END",
+        "POSTOFFICE_EDAKOCHI",
+        "POSTOFFICE_ERNAKULAM",
+        "POSTOFFICE_PACHALAM",
+        "POSTOFFICE_THEVARA",
+        "POSTOFFICE_TATAPURAM",
+        "POSTOFFICE_PERUMANUR",
+        "POSTOFFICE_KOCHI_M.G.ROAD",
+        "POSTOFFICE_ERNAKULAM_HINDI_PRACHAR_SABHA",
+        "POSTOFFICE_KALOOR",
+        "POSTOFFICE_ERNAKULAM_NORTH",
+        "POSTOFFICE_BANERJI_ROAD",
+        "POSTOFFICE_VYTTILA",
+        "POSTOFFICE_KADAVANTHARA",
+        "POSTOFFICE_VADUTHALA",
+        "POSTOFFICE_EDAPALLY",
+        "POSTOFFICE_EDAPALLY_NORTH",
+        "POSTOFFICE_PALARIVATTOM",
+        "POSTOFFICE_ELAMAKKARA",
+        "POSTOFFICE_VENNALA",
+        "POSTOFFICE_MATSYAPURI",
+        "POSTOFFICE_DRY_DOCK",
+        "POSTOFFICE_SHANMUGHAM_ROAD",
+        "POSTOFFICE_ERNAKULAM_HIGH_COURT",
+        "POSTOFFICE_THAMMANAM",
+        "POSTOFFICE_ERNAKULAM_COLLEGE",
+        "POSTOFFICE_PANAMPILLY_NAGAR",
+        "POSTOFFICE_KOCHI_SPECIAL_ECONOMIC_ZONE",
+        "POSTOFFICE_POONITHURA",
+        "POSTOFFICE_RAJAGIRI_VALLEY",
+        "POSTOFFICE_AIMS_PONEKKARA",
+        "POSTOFFICE_NAZRETH",
+        "POSTOFFICE_MUNDAMVELI",
+        "POSTOFFICE_AZHEEKAL",
+        "POSTOFFICE_MALIPURAM"
+      ],
+      "talukList": [
+        "TALUK_KOCHI",
+        "TALUK_KANAYANNUR"
+      ]
     },
     {
       "code": "kl.eloor",
       "lbid": 1246,
+      "nationalLgdId": 252218,
       "name": "Eloor Municipality",
       "description": "Eloor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/eloor.jpg",
@@ -601,6 +939,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "eloortax@gmail.com",
+      "localName": "ഏലൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -630,11 +969,25 @@
         683501
       ],
       "contactNumber": "0484-2545559",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ELOOR",
+        "VILLAGE_KADUNGALLOOR"
+      ],
+      "poList": [
+        "POSTOFFICE_MANJUMMEL",
+        "POSTOFFICE_UDYOGAMANDAL",
+        "POSTOFFICE_KUTTIKKATTUKARA",
+        "POSTOFFICE_VARAPUZHA"
+      ],
+      "talukList": [
+        "TALUK_NORTH_PARAVUR"
+      ]
     },
     {
       "code": "kl.erattupetta",
       "lbid": 1264,
+      "nationalLgdId": 272892,
       "name": "Erattupetta Municipality",
       "description": "Erattupetta",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/erattupetta.jpg",
@@ -643,6 +996,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "etpamun@gmail.com",
+      "localName": "ഈരാറ്റുപേട്ട മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -672,11 +1026,23 @@
         686121
       ],
       "contactNumber": "0482-2272063",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ERATTUPETTA"
+      ],
+      "poList": [
+        "POSTOFFICE_ERATTUPETTA_-_1",
+        "POSTOFFICE_NADACKAL",
+        "POSTOFFICE_ARUVITHURA"
+      ],
+      "talukList": [
+        "TALUK_MEENACHIL"
+      ]
     },
     {
       "code": "kl.ettumanoor",
       "lbid": 1263,
+      "nationalLgdId": 272891,
       "name": "Ettumanoor Municipality",
       "description": "Ettumanoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/ettumanoor.jpg",
@@ -685,6 +1051,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "etmrmunicipality@gmail.com",
+      "localName": "ഏറ്റുമാനൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -714,11 +1081,38 @@
         686631
       ],
       "contactNumber": "0481-2535565",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ATHIRAMPUZHA",
+        "VILLAGE_ETTUMANOOR",
+        "VILLAGE_PERUMBAIKKAD",
+        "VILLAGE_PEROOR"
+      ],
+      "poList": [
+        "POSTOFFICE_DEVALOKAM",
+        "POSTOFFICE_PERUMBAIKKAD",
+        "POSTOFFICE_MARIATHURUTHU",
+        "POSTOFFICE_PRIYADARSINI_HILLS",
+        "POSTOFFICE_KATTACHIRA",
+        "POSTOFFICE_PUNNATHURA_EAST",
+        "POSTOFFICE_THELLAKOM",
+        "POSTOFFICE_PATTITHANAM",
+        "POSTOFFICE_PUNNATHURA_WEST",
+        "POSTOFFICE_ETTUMANOOR",
+        "POSTOFFICE_VETTIMUKAL",
+        "POSTOFFICE_ETTUMANOOR_JUNCTION",
+        "POSTOFFICE_KOTTAKKAPURAM",
+        "POSTOFFICE_KANAKKARY",
+        "POSTOFFICE_PEROOR"
+      ],
+      "talukList": [
+        "TALUK_KOTTAYAM"
+      ]
     },
     {
       "code": "kl.feroke",
       "lbid": 1281,
+      "nationalLgdId": 272900,
       "name": "Feroke Municipality",
       "description": "Feroke",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/feroke.jpg",
@@ -727,6 +1121,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "ferokemunicipality@gmail.com",
+      "localName": "ഫറോക്ക് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -756,11 +1151,26 @@
         673631
       ],
       "contactNumber": "04952-482243",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KARUVANTHIRUTHY",
+        "VILLAGE_FEROKE"
+      ],
+      "poList": [
+        "POSTOFFICE_PERUMUKHAM",
+        "POSTOFFICE_FEROKE",
+        "POSTOFFICE_KARUVANTHIRUTHY",
+        "POSTOFFICE_FEROKE_PETTAH",
+        "POSTOFFICE_PUTHUCODE"
+      ],
+      "talukList": [
+        "TALUK_KOZHIKKODE"
+      ]
     },
     {
       "code": "kl.guruvayur",
       "lbid": 199,
+      "nationalLgdId": 252184,
       "name": "Guruvayur Municipality",
       "description": "Guruvayur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/guruvayur.jpg",
@@ -769,6 +1179,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "guruvayursecretary@gmail.com",
+      "localName": "ഗുരുവായൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -798,11 +1209,47 @@
         680101
       ],
       "contactNumber": "4872556375",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_IRINGAPURAM",
+        "VILLAGE_GURUVAYUR",
+        "VILLAGE_CHAVAKKAD",
+        "VILLAGE_THAIKKAD",
+        "VILLAGE_POOKKODE",
+        "VILLAGE_PERAKAM"
+      ],
+      "poList": [
+        "POSTOFFICE_GURUVAYUR",
+        "POSTOFFICE_GURUVAYUR_WEST",
+        "POSTOFFICE_GURUVAYUR-TEMPLE",
+        "POSTOFFICE_THIRUVENKETAM",
+        "POSTOFFICE_PUTHANPALLI",
+        "POSTOFFICE_IRINGAPURAM",
+        "POSTOFFICE_BRAHMAKULAM",
+        "POSTOFFICE_NENMINI",
+        "POSTOFFICE_THAIKKAD",
+        "POSTOFFICE_POOKKODE",
+        "POSTOFFICE_KAVEEDU",
+        "POSTOFFICE_KOTTAPADI",
+        "POSTOFFICE_THAMARAYUR",
+        "POSTOFFICE_MUDUVATTUR",
+        "POSTOFFICE_CHAVAKKAD",
+        "POSTOFFICE_PERAKAM",
+        "POSTOFFICE_THOZHIYUR",
+        "POSTOFFICE_PALUVAI",
+        "POSTOFFICE_CHAKKAMKANDAM",
+        "POSTOFFICE_CHULUR",
+        "POSTOFFICE_KANNAMPALLIPURAM",
+        "POSTOFFICE_CHENTHRAPPINNI_EAST"
+      ],
+      "talukList": [
+        "TALUK_CHAVAKKAD"
+      ]
     },
     {
       "code": "kl.haripad",
       "lbid": 1262,
+      "nationalLgdId": 272880,
       "name": "Haripad Municipality",
       "description": "Haripad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/haripad.jpg",
@@ -811,6 +1258,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryharipad@gmail.com",
+      "localName": "ഹരിപ്പാട് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -840,11 +1288,31 @@
         690514
       ],
       "contactNumber": " 0479-2412766",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KARTHIKAPPALLY",
+        "VILLAGE_CHINGOLI",
+        "VILLAGE_PALLIPPAD",
+        "VILLAGE_HARIPAD"
+      ],
+      "poList": [
+        "POSTOFFICE_NADUVATTOM",
+        "POSTOFFICE_PALLIPPAD",
+        "POSTOFFICE_NANGIARKULANGARA",
+        "POSTOFFICE_VEEYAPURAM",
+        "POSTOFFICE_HARIPAD",
+        "POSTOFFICE_MANNARASALA",
+        "POSTOFFICE_KARTHIKAPPALLY",
+        "POSTOFFICE_CHINGOLI"
+      ],
+      "talukList": [
+        "TALUK_KARTHIKAPPALLY"
+      ]
     },
     {
       "code": "kl.irinjalakuda",
       "lbid": 203,
+      "nationalLgdId": 252204,
       "name": "Irinjalakuda Municipality",
       "description": "Irinjalakuda",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/irinjalakuda.jpg",
@@ -853,6 +1321,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryijk@gmail.com",
+      "localName": "ഇരിങ്ങാലക്കുട മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -882,11 +1351,33 @@
         null
       ],
       "contactNumber": "0480 2825238",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_IRINJALAKUDA",
+        "VILLAGE_EDATHIRINJI",
+        "VILLAGE_KARALAM",
+        "VILLAGE_PULLUR",
+        "VILLAGE_PORATHISSERY",
+        "VILLAGE_MANAVALASSERY",
+        "VILLAGE_MADAYIKONAM"
+      ],
+      "poList": [
+        "POSTOFFICE_IRINJALAKUDA",
+        "POSTOFFICE_PORATHISSERY",
+        "POSTOFFICE_IRINJALAKUDA_NORTH",
+        "POSTOFFICE_MOORKANAD",
+        "POSTOFFICE_KARUVANNUR",
+        "POSTOFFICE_PANAMKULAM",
+        "POSTOFFICE_MADAYIKONAM"
+      ],
+      "talukList": [
+        "TALUK_MUKUNDAPURAM"
+      ]
     },
     {
       "code": "kl.iritty",
       "lbid": 1286,
+      "nationalLgdId": 272890,
       "name": "Iritty Municipality",
       "description": "Iritty",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/iritty.jpg",
@@ -895,6 +1386,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "irittymunicipality@gmail.com",
+      "localName": "ഇരിട്ടി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -924,11 +1416,29 @@
         670703
       ],
       "contactNumber": "0490-2433344",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KEEZHUR",
+        "VILLAGE_CHAVASSERY",
+        "VILLAGE_PAYAM"
+      ],
+      "poList": [
+        "POSTOFFICE_NADUVANAD",
+        "POSTOFFICE_PAZHASSI_RAJA_NAGAR",
+        "POSTOFFICE_ULIYIL",
+        "POSTOFFICE_CHAVASSERY",
+        "POSTOFFICE_PUNNAD",
+        "POSTOFFICE_IRITTY",
+        "POSTOFFICE_KEEZHUR-IRITTY"
+      ],
+      "talukList": [
+        "TALUK_IRITTY"
+      ]
     },
     {
       "code": "kl.kalamassery",
       "lbid": 191,
+      "nationalLgdId": 252224,
       "name": "Kalamassery Municipality",
       "description": "Kalamassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/kalamassery.jpg",
@@ -937,6 +1447,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarykalamassery@gmail.com",
+      "localName": "കളമശ്ശേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -966,11 +1477,35 @@
         null
       ],
       "contactNumber": "0484 2532026",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_THRIKKAKARA_NORTH",
+        "VILLAGE_VAZHAKKALA"
+      ],
+      "poList": [
+        "POSTOFFICE_VADACODE",
+        "POSTOFFICE_VADACODE-KAILAS_COLONY",
+        "POSTOFFICE_KOCHI_UNIVERSITY",
+        "POSTOFFICE_EDAPALLY",
+        "POSTOFFICE_EDAPALLY_NORTH",
+        "POSTOFFICE_CHANGAMPUZHA_NAGAR",
+        "POSTOFFICE_KOCHI_SPECIAL_ECONOMIC_ZONE",
+        "POSTOFFICE_RAJAGIRI_VALLEY",
+        "POSTOFFICE_RAJAGIRI",
+        "POSTOFFICE_KALAMASSERY",
+        "POSTOFFICE_KALAMASSERY_DEVELOPMENT_PLOT",
+        "POSTOFFICE_THAIKKATTUKARA",
+        "POSTOFFICE_HMT_COLONY",
+        "POSTOFFICE_NAVAL_ARMAMENT_DEPOT_-_ALUVA"
+      ],
+      "talukList": [
+        "TALUK_KANAYANNUR"
+      ]
     },
     {
       "code": "kl.kalpetta",
       "lbid": 216,
+      "nationalLgdId": 252155,
       "name": "Kalpetta Municipality",
       "description": "Kalpetta",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/wayanad/kalpetta.jpg",
@@ -979,6 +1514,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kalpettamunicipality@gmail.com",
+      "localName": "കല്‍പ്പറ്റ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1008,11 +1544,28 @@
         673121
       ],
       "contactNumber": "04936-202349",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KALPETTA",
+        "VILLAGE_KOTTAPPADI",
+        "VILLAGE_THRIKKAIPETTA"
+      ],
+      "poList": [
+        "POSTOFFICE_KALPETTA",
+        "POSTOFFICE_PUZHAMUDI",
+        "POSTOFFICE_MANIYANKODE",
+        "POSTOFFICE_KALPETTA_NORTH",
+        "POSTOFFICE_CHUNDALE",
+        "POSTOFFICE_PUTHOORVAYAL"
+      ],
+      "talukList": [
+        "TALUK_VYTHIRI"
+      ]
     },
     {
       "code": "kl.kanhangad",
       "lbid": 223,
+      "nationalLgdId": 252110,
       "name": "Kanhangad Municipality",
       "description": "Kanhangad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kasargode/kanhangad.jpg",
@@ -1021,6 +1574,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "knhdmlty@gmail.com",
+      "localName": "കാഞ്ഞങ്ങാട് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1050,11 +1604,34 @@
         671315
       ],
       "contactNumber": "04672-204530",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KANHANGAD",
+        "VILLAGE_PUDUKAI",
+        "VILLAGE_BALLA",
+        "VILLAGE_HOSDURG"
+      ],
+      "poList": [
+        "POSTOFFICE_PUDUKAI",
+        "POSTOFFICE_UPPILIKAI",
+        "POSTOFFICE_OZHINHAVALAPPU",
+        "POSTOFFICE_THAIKADAPURAM",
+        "POSTOFFICE_PADNEKKAD",
+        "POSTOFFICE_KANHANGAD",
+        "POSTOFFICE_KOTTACHERRY",
+        "POSTOFFICE_KANHANGAD_SOUTH",
+        "POSTOFFICE_BALLA",
+        "POSTOFFICE_ACHIKANAM",
+        "POSTOFFICE_AJANUR"
+      ],
+      "talukList": [
+        "TALUK_HOSDURG"
+      ]
     },
     {
       "code": "kl.kannur",
       "lbid": 1259,
+      "nationalLgdId": 252125,
       "name": "Kannur Corporation",
       "description": "Kannur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/kannur.jpg",
@@ -1063,6 +1640,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kannurmunicipalcorporation@gmail.com",
+      "localName": "കണ്ണൂര്‍ കോര്‍പ്പറേഷന്‍",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1092,11 +1670,56 @@
         null
       ],
       "contactNumber": "4972700142",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_EDAKKAD",
+        "VILLAGE_ELAYAVOOR",
+        "VILLAGE_KANNUR_I",
+        "VILLAGE_KANNUR_II",
+        "VILLAGE_CHELORA",
+        "VILLAGE_PALLIKKUNNU",
+        "VILLAGE_PUZHATHI",
+        "VILLAGE_VALIYANNUR"
+      ],
+      "poList": [
+        "POSTOFFICE_KANNUR",
+        "POSTOFFICE_PAYYAMBALAM",
+        "POSTOFFICE_KANNUR_R_S",
+        "POSTOFFICE_CIVIL_STATION_KANNUR",
+        "POSTOFFICE_TALAP",
+        "POSTOFFICE_KANNUR_CITY",
+        "POSTOFFICE_KADALAYI",
+        "POSTOFFICE_THAYYIL",
+        "POSTOFFICE_PALLIKKUNNU",
+        "POSTOFFICE_KAKKAT",
+        "POSTOFFICE_KOTTALI",
+        "POSTOFFICE_ATTADAPPA",
+        "POSTOFFICE_KAPPAD",
+        "POSTOFFICE_CHOVVA",
+        "POSTOFFICE_KIZHUNNA",
+        "POSTOFFICE_THOTTADA",
+        "POSTOFFICE_ALAVIL",
+        "POSTOFFICE_KANNOOKARA",
+        "POSTOFFICE_KANNUR-THANA",
+        "POSTOFFICE_CHALAD",
+        "POSTOFFICE_KANNUR_DISTRICT_HOSPITAL",
+        "POSTOFFICE_THAZHE_CHOVVA",
+        "POSTOFFICE_EACHUR",
+        "POSTOFFICE_VARAM",
+        "POSTOFFICE_MUNDAYAD",
+        "POSTOFFICE_KUTTIATTOOR",
+        "POSTOFFICE_MOWANCHERRY",
+        "POSTOFFICE_EDAKKAD",
+        "POSTOFFICE_KUTTIKKAKAM"
+      ],
+      "talukList": [
+        "TALUK_KANNUR"
+      ]
     },
     {
       "code": "kl.karunagappally",
       "lbid": 1244,
+      "nationalLgdId": 259707,
       "name": "Karunagappally Municipality",
       "description": "Karunagappally",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/karunagappally.jpg",
@@ -1105,6 +1728,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secknpym07@gmail.com",
+      "localName": "കരുനാഗപ്പള്ളി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1134,11 +1758,24 @@
         690518
       ],
       "contactNumber": "0476-2620243",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_AYANIVELIKULANGARA",
+        "VILLAGE_KARUNAGAPPALLY"
+      ],
+      "poList": [
+        "POSTOFFICE_KARUNAGAPPALLY",
+        "POSTOFFICE_ALUMKADAVU",
+        "POSTOFFICE_S_V_MARKET"
+      ],
+      "talukList": [
+        "TALUK_KARUNAGAPPALLY"
+      ]
     },
     {
       "code": "kl.kasaragod",
       "lbid": 224,
+      "nationalLgdId": 252108,
       "name": "Kasaragod Municipality",
       "description": "Kasaragod",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kasargode/kasaragod.jpg",
@@ -1147,6 +1784,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryksdkmc@yahoo.co.in",
+      "localName": "കാസര്‍കോഡ് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1176,11 +1814,29 @@
         null
       ],
       "contactNumber": "04994-230051",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KASARAGOD",
+        "VILLAGE_THALANGARA"
+      ],
+      "poList": [
+        "POSTOFFICE_ADKATH_BAIL",
+        "POSTOFFICE_KASARAGOD",
+        "POSTOFFICE_KASARAGOD_R_S",
+        "POSTOFFICE_THALANGARA",
+        "POSTOFFICE_VIDHYA_NAGAR",
+        "POSTOFFICE_MADHUR",
+        "POSTOFFICE_KUDLU",
+        "POSTOFFICE_RAMDAS_NAGAR"
+      ],
+      "talukList": [
+        "TALUK_KASARAGOD"
+      ]
     },
     {
       "code": "kl.kattappana",
       "lbid": 1265,
+      "nationalLgdId": 272883,
       "name": "Kattappana Municipality",
       "description": "Kattappana",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/idukki/kattappana.jpg",
@@ -1189,6 +1845,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "munsecktpna@gmail.com",
+      "localName": "കട്ടപ്പന മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1218,11 +1875,31 @@
         685508
       ],
       "contactNumber": "0486-8272235",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_AYYAPPAN_COIL",
+        "VILLAGE_KATTAPPANA"
+      ],
+      "poList": [
+        "POSTOFFICE_KATTAPPANA",
+        "POSTOFFICE_NARIAMPARA",
+        "POSTOFFICE_THOVARAYAR",
+        "POSTOFFICE_KOCHUTHOVALA",
+        "POSTOFFICE_PULIYANMALA",
+        "POSTOFFICE_MULAKARAMEDU",
+        "POSTOFFICE_VAZHAVARA",
+        "POSTOFFICE_KATTAPPANA_SOUTH",
+        "POSTOFFICE_KADAMAKKUZHY",
+        "POSTOFFICE_VELLAYAMKUDY"
+      ],
+      "talukList": [
+        "TALUK_IDUKKI"
+      ]
     },
     {
       "code": "kl.kayamkulam",
       "lbid": 184,
+      "nationalLgdId": 252248,
       "name": "Kayamkulam Municipality",
       "description": "Kayamkulam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/kayamkulam.jpg",
@@ -1231,6 +1908,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kylmsecretary@gmail.com",
+      "localName": "കായംകുളം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1260,11 +1938,33 @@
         690502
       ],
       "contactNumber": "0479-2445060",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KAYAMKULAM",
+        "VILLAGE_KEERIKKADU",
+        "VILLAGE_KRISHNAPURAM",
+        "VILLAGE_PATHIYOOR",
+        "VILLAGE_PUTHUPPALLY"
+      ],
+      "poList": [
+        "POSTOFFICE_KAYAMKULAM",
+        "POSTOFFICE_KAYAMKULAM_COLLEGE",
+        "POSTOFFICE_NADUVATTOM",
+        "POSTOFFICE_PALLIPPAD",
+        "POSTOFFICE_KRISHNAPURAM",
+        "POSTOFFICE_PULLIKKANAKKU",
+        "POSTOFFICE_PERUNGALA",
+        "POSTOFFICE_ERUVA",
+        "POSTOFFICE_KAREELAKULANGARA"
+      ],
+      "talukList": [
+        "TALUK_KARTHIKAPPALLY"
+      ]
     },
     {
       "code": "kl.kodungallur",
       "lbid": 201,
+      "nationalLgdId": 252200,
       "name": "Kodungallur Municipality",
       "description": "Kodungallur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/kodungallur.jpg",
@@ -1273,6 +1973,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarykdlrmty@gmail.com",
+      "localName": "കൊടുങ്ങല്ലൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1302,11 +2003,32 @@
         680664
       ],
       "contactNumber": "0480-2802341",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PULLUT",
+        "VILLAGE_METHALA",
+        "VILLAGE_LOKAMALESWARAM"
+      ],
+      "poList": [
+        "POSTOFFICE_PULLUT",
+        "POSTOFFICE_PULLUT_NORTH",
+        "POSTOFFICE_KODUNGALLUR",
+        "POSTOFFICE_THIRUVANCHIKULAM",
+        "POSTOFFICE_SRINGAPURAM",
+        "POSTOFFICE_ANAPUZHA",
+        "POSTOFFICE_KOTTAPURAM",
+        "POSTOFFICE_THURUTHIPPURAM",
+        "POSTOFFICE_KANDAMKULAM",
+        "POSTOFFICE_METHALA"
+      ],
+      "talukList": [
+        "TALUK_KODUNGALLUR"
+      ]
     },
     {
       "code": "kl.koduvally",
       "lbid": 1278,
+      "nationalLgdId": 272897,
       "name": "Koduvally Municipality",
       "description": "Koduvally",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/koduvally.jpg",
@@ -1315,6 +2037,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "koduvallymunicipality@gmail.com",
+      "localName": "കൊടുവള്ളി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1344,11 +2067,26 @@
         673572
       ],
       "contactNumber": "0495-2210238",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KODUVALLY",
+        "VILLAGE_PUTHUR",
+        "VILLAGE_VAVAD"
+      ],
+      "poList": [
+        "POSTOFFICE_VAVAD",
+        "POSTOFFICE_KARUVANPOIL",
+        "POSTOFFICE_KODUVALLY",
+        "POSTOFFICE_MANIPURAM"
+      ],
+      "talukList": [
+        "TALUK_THAMARASSERY"
+      ]
     },
     {
       "code": "kl.kollam",
       "lbid": 168,
+      "nationalLgdId": 252255,
       "name": "Kollam Corporation",
       "description": "Kollam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/kollam.jpg",
@@ -1357,6 +2095,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarykollam@gmail.com",
+      "localName": "കൊല്ലം കോര്‍പ്പറേഷന്‍",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1386,11 +2125,64 @@
         null
       ],
       "contactNumber": "4742768530",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ERAVIPURAM",
+        "VILLAGE_KILIKOLLUR",
+        "VILLAGE_KOLLAM_(EAST)",
+        "VILLAGE_KOLLAM_(WEST)",
+        "VILLAGE_THRIKKADAVOOR",
+        "VILLAGE_MANGAD",
+        "VILLAGE_MAYYANAD",
+        "VILLAGE_MUNDACKAL",
+        "VILLAGE_VADAKKEVILA",
+        "VILLAGE_SHAKTHIKULANGARA"
+      ],
+      "poList": [
+        "POSTOFFICE_KOLLAM",
+        "POSTOFFICE_KOLLAM_BAZAR",
+        "POSTOFFICE_KOLLAM_CANTONMENT",
+        "POSTOFFICE_KOLLAM_TALUK_CUTCHERY",
+        "POSTOFFICE_ASRAMOM",
+        "POSTOFFICE_MARUTHADI",
+        "POSTOFFICE_KAVANAD",
+        "POSTOFFICE_KILIKOLLUR",
+        "POSTOFFICE_KALLUMTHAZHAM",
+        "POSTOFFICE_KILIKOLLUR_EAST",
+        "POSTOFFICE_T_K_M_COLLEGE_(TKMC)",
+        "POSTOFFICE_THATTARKONAM",
+        "POSTOFFICE_PALLITHOTTAM",
+        "POSTOFFICE_THANGASSERI",
+        "POSTOFFICE_KADAPPAKADA",
+        "POSTOFFICE_THEVALLY",
+        "POSTOFFICE_MUNDACKAL",
+        "POSTOFFICE_VADAKKEVILA",
+        "POSTOFFICE_ERAVIPURAM",
+        "POSTOFFICE_VALATHUNGAL",
+        "POSTOFFICE_THIRUMULLAVARAM",
+        "POSTOFFICE_KOLLAM_CUTCHERY",
+        "POSTOFFICE_KOLLAM_CIVIL_STATION",
+        "POSTOFFICE_CHANDANATHOPE",
+        "POSTOFFICE_MANGAD",
+        "POSTOFFICE_THEKKEVILA",
+        "POSTOFFICE_ULIYAKOVIL",
+        "POSTOFFICE_KOOTTIKKADA",
+        "POSTOFFICE_THATTAMALA",
+        "POSTOFFICE_AYATHIL",
+        "POSTOFFICE_PATTATHANAM",
+        "POSTOFFICE_SHAKTHIKULANGARA",
+        "POSTOFFICE_MATHILIL",
+        "POSTOFFICE_PERINAD",
+        "POSTOFFICE_KUREEPUZHA"
+      ],
+      "talukList": [
+        "TALUK_KOLLAM"
+      ]
     },
     {
       "code": "kl.kondotty",
       "lbid": 1272,
+      "nationalLgdId": 272901,
       "name": "Kondotty Municipality",
       "description": "Kondotty",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/kondotty.jpg",
@@ -1399,6 +2191,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kondottynagarasabha@gmail.com",
+      "localName": "കൊണ്ടോട്ടി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1428,11 +2221,29 @@
         673638
       ],
       "contactNumber": "0483-2712037",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KONDOTTY",
+        "VILLAGE_NEDIYIRUPPU"
+      ],
+      "poList": [
+        "POSTOFFICE_ARIMBRA",
+        "POSTOFFICE_MUTHUVALLOOR",
+        "POSTOFFICE_CHIRAYIL",
+        "POSTOFFICE_NEDIYIRUPPU",
+        "POSTOFFICE_KONDOTTY",
+        "POSTOFFICE_THURAKKAL",
+        "POSTOFFICE_MELANGADI",
+        "POSTOFFICE_CALICUT_AIRPORT"
+      ],
+      "talukList": [
+        "TALUK_KONDOTTY"
+      ]
     },
     {
       "code": "kl.koothattukulam",
       "lbid": 1266,
+      "nationalLgdId": 272881,
       "name": "Koothattukulam Municipality",
       "description": "Koothattukulam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/koothattukulam.jpg",
@@ -1441,6 +2252,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kklmmunicipality@gmail.com",
+      "localName": "കൂത്താട്ടുകുളം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1470,11 +2282,27 @@
         686662
       ],
       "contactNumber": "4852252350",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ONAKKOOR",
+        "VILLAGE_KOOTHATTUKULAM",
+        "VILLAGE_MUVATTUPUZHA",
+        "VILLAGE_VALAKOM"
+      ],
+      "poList": [
+        "POSTOFFICE_EDAYAR",
+        "POSTOFFICE_KARIMPANA",
+        "POSTOFFICE_KIZHAKOMBU",
+        "POSTOFFICE_KOOTHATTUKULAM"
+      ],
+      "talukList": [
+        "TALUK_MUVATTUPUZHA"
+      ]
     },
     {
       "code": "kl.kothamangalam",
       "lbid": 192,
+      "nationalLgdId": 252231,
       "name": "Kothamangalam Municipality",
       "description": "Kothamangalam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/kothamangalam.jpg",
@@ -1483,6 +2311,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarykothamangalam@gmail.com",
+      "localName": "കോതമംഗലം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1512,11 +2341,37 @@
         686691
       ],
       "contactNumber": "0485-2822160",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ERAMALLOOR",
+        "VILLAGE_KUTTAMANGALAM",
+        "VILLAGE_KOTTAPPADY",
+        "VILLAGE_KOTHAMANGALAM",
+        "VILLAGE_THRIKKARIYOOR",
+        "VILLAGE_PINDIMANA"
+      ],
+      "poList": [
+        "POSTOFFICE_KOTHAMANGALAM_COLLEGE",
+        "POSTOFFICE_NIRMALA",
+        "POSTOFFICE_PUTHUPPADY",
+        "POSTOFFICE_THEKKENMARADY",
+        "POSTOFFICE_CHELAD_JUNCTION",
+        "POSTOFFICE_NADUKANI",
+        "POSTOFFICE_KARUKADOM",
+        "POSTOFFICE_KUTHUKUZHI",
+        "POSTOFFICE_KOZHIPPILLY",
+        "POSTOFFICE_KOTHAMANGALAM",
+        "POSTOFFICE_KOTHAMANGALAM_BAZAR",
+        "POSTOFFICE_THRIKKARIYOOR"
+      ],
+      "talukList": [
+        "TALUK_KOTHAMANGALAM"
+      ]
     },
     {
       "code": "kl.kottakkal",
       "lbid": 1248,
+      "nationalLgdId": 259709,
       "name": "Kottakkal Municipality",
       "description": "Kottakkal",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/kottakkal.jpg",
@@ -1525,6 +2380,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "sectretarykottakkal@gmail.com",
+      "localName": "കോട്ടക്കല്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1554,11 +2410,26 @@
         676503
       ],
       "contactNumber": "0483-2742271",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KOTTAKKAL"
+      ],
+      "poList": [
+        "POSTOFFICE_EDARIKODE",
+        "POSTOFFICE_PANDAMANGALAM",
+        "POSTOFFICE_INDIANOOR",
+        "POSTOFFICE_KUTTIPURAM-KOTTAKKAL",
+        "POSTOFFICE_KOTTAKKAL",
+        "POSTOFFICE_KADAMPUZHA"
+      ],
+      "talukList": [
+        "TALUK_TIRUR"
+      ]
     },
     {
       "code": "kl.kottarakara",
       "lbid": 1260,
+      "nationalLgdId": 272889,
       "name": "Kottarakara Municipality",
       "description": "Kottarakara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/kottarakara.jpg",
@@ -1567,6 +2438,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kottarakaramp@gmail.com",
+      "localName": "കൊട്ടാരക്കര മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1596,11 +2468,27 @@
         691531
       ],
       "contactNumber": "0474-2452366",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KOTTARAKARA",
+        "VILLAGE_MELILA"
+      ],
+      "poList": [
+        "POSTOFFICE_NEELESWARAM",
+        "POSTOFFICE_KOTTARAKARA",
+        "POSTOFFICE_NELLIKUNNAM",
+        "POSTOFFICE_PULAMON",
+        "POSTOFFICE_EXTENSION_TRAINING_CENTRE_(E_T_C)",
+        "POSTOFFICE_KIZHAKKETHERUVU"
+      ],
+      "talukList": [
+        "TALUK_KOTTARAKARA"
+      ]
     },
     {
       "code": "kl.kottayam",
       "lbid": 189,
+      "nationalLgdId": 252238,
       "name": "Kottayam Municipality",
       "description": "Kottayam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/kottayam.jpg",
@@ -1609,6 +2497,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "ktmmunicipality@gmail.com",
+      "localName": "കോട്ടയം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1638,11 +2527,54 @@
         686001
       ],
       "contactNumber": "0481-2561002",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ATHIRAMPUZHA",
+        "VILLAGE_KURICHY",
+        "VILLAGE_KOTTAYAM",
+        "VILLAGE_NATTAKOM",
+        "VILLAGE_PANACHIKKAD",
+        "VILLAGE_PERUMBAIKKAD",
+        "VILLAGE_MUTTAMBALAM",
+        "VILLAGE_VELOOR"
+      ],
+      "poList": [
+        "POSTOFFICE_KOTTAYAM",
+        "POSTOFFICE_KOTTAYAM_NORTH",
+        "POSTOFFICE_THIRUNAKKARA",
+        "POSTOFFICE_KOTTAYAM_COLLECTORATE",
+        "POSTOFFICE_KOTTAYAM_WEST",
+        "POSTOFFICE_VELOOR",
+        "POSTOFFICE_MUTTAMBALAM",
+        "POSTOFFICE_DEVALOKAM",
+        "POSTOFFICE_THAZHATHANGADI",
+        "POSTOFFICE_S_H_MOUNT",
+        "POSTOFFICE_PALLOM",
+        "POSTOFFICE_GANDHI_NAGAR",
+        "POSTOFFICE_PAKKIL",
+        "POSTOFFICE_POOVANTHURUTH",
+        "POSTOFFICE_MOOLAVATTOM",
+        "POSTOFFICE_NATTAKOM",
+        "POSTOFFICE_MARIAPPALLY",
+        "POSTOFFICE_KOTTAYAM_SOUTH",
+        "POSTOFFICE_KUMARANALLOOR",
+        "POSTOFFICE_PERUMBAIKKAD",
+        "POSTOFFICE_MARIATHURUTHU",
+        "POSTOFFICE_MALLOOSSERY",
+        "POSTOFFICE_CHINGAVANAM",
+        "POSTOFFICE_CHANNANIKADU",
+        "POSTOFFICE_PRIYADARSINI_HILLS",
+        "POSTOFFICE_AMALAGIRI"
+      ],
+      "talukList": [
+        "TALUK_KOTTAYAM",
+        "TALUK_CHANGANASERI"
+      ]
     },
     {
       "code": "kl.koyilandy",
       "lbid": 215,
+      "nationalLgdId": 252159,
       "name": "Koyilandy Municipality",
       "description": "Koyilandy",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/koyilandy.jpg",
@@ -1651,6 +2583,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarykldy@rediffmail.com",
+      "localName": "കൊയിലാണ്ടി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1680,11 +2613,31 @@
         673305
       ],
       "contactNumber": "0496-2620244",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ARIKKULAM",
+        "VILLAGE_PANTHALAYANI",
+        "VILLAGE_VIYYUR"
+      ],
+      "poList": [
+        "POSTOFFICE_KOYILANDY",
+        "POSTOFFICE_MUCHUKUNNU",
+        "POSTOFFICE_KOLLAM",
+        "POSTOFFICE_MOODADI",
+        "POSTOFFICE_CHERUVANNUR_MEPPAYUR",
+        "POSTOFFICE_NADERI",
+        "POSTOFFICE_KURUVANGAD",
+        "POSTOFFICE_PERUVATTUR",
+        "POSTOFFICE_KOYILANDY_BAZAR"
+      ],
+      "talukList": [
+        "TALUK_KOYILANDY"
+      ]
     },
     {
       "code": "kl.kozhikode",
       "lbid": 171,
+      "nationalLgdId": 252160,
       "name": "Kozhikode Corporation",
       "description": "Kozhikode",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/kozhikode.jpg",
@@ -1693,6 +2646,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarykkd@gmail.com",
+      "localName": "കോഴിക്കോട് കോര്‍പ്പറേഷന്‍",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1722,11 +2676,102 @@
         673032
       ],
       "contactNumber": "4952365040",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ELATHUR",
+        "VILLAGE_KATCHERI",
+        "VILLAGE_KASABA",
+        "VILLAGE_KOTTULI",
+        "VILLAGE_CHELAVUR",
+        "VILLAGE_CHERUVANNUR",
+        "VILLAGE_CHEVAYUR",
+        "VILLAGE_NAGARAM",
+        "VILLAGE_NELLIKODE",
+        "VILLAGE_PANNIANKARA",
+        "VILLAGE_PUTHIYANGADI",
+        "VILLAGE_BEYPORE",
+        "VILLAGE_VALAYANAD",
+        "VILLAGE_VENGERI"
+      ],
+      "poList": [
+        "POSTOFFICE_CALICUT",
+        "POSTOFFICE_CALICUT_R_S",
+        "POSTOFFICE_PARAPPIL",
+        "POSTOFFICE_CHALAPURAM",
+        "POSTOFFICE_THALI",
+        "POSTOFFICE_KALLAI",
+        "POSTOFFICE_KUNDUNGAL",
+        "POSTOFFICE_KANNANCHERI",
+        "POSTOFFICE_SREERAMA_KRISHNA_MISSION",
+        "POSTOFFICE_PUTHIYARA",
+        "POSTOFFICE_THIRUTHIYAD",
+        "POSTOFFICE_CALICUT_CITY",
+        "POSTOFFICE_EDAKKAD-WEST_HILL",
+        "POSTOFFICE_WEST_HILL",
+        "POSTOFFICE_WEST_HILL_CHUNGAM",
+        "POSTOFFICE_WEST_HILL_BEACH",
+        "POSTOFFICE_EAST_HILL",
+        "POSTOFFICE_ERANHIPALAM",
+        "POSTOFFICE_ST_VINCENT_COLONY",
+        "POSTOFFICE_MANKAVU",
+        "POSTOFFICE_MANKAVU_EAST",
+        "POSTOFFICE_KOMMERI",
+        "POSTOFFICE_POKKUNNU",
+        "POSTOFFICE_MAYANAD",
+        "POSTOFFICE_CALICUT_MEDICAL_COLLEGE",
+        "POSTOFFICE_KOTTAMPARAMBA",
+        "POSTOFFICE_DEVAGIRI_COLLEGE",
+        "POSTOFFICE_MALAPARAMBA",
+        "POSTOFFICE_PAROPADI",
+        "POSTOFFICE_KARUVASSERI",
+        "POSTOFFICE_KARAPARAMBA",
+        "POSTOFFICE_VENGERI",
+        "POSTOFFICE_NEDUNGOTTUR",
+        "POSTOFFICE_NADAKKAVU",
+        "POSTOFFICE_VELLAYIL",
+        "POSTOFFICE_MERIKKUNNU",
+        "POSTOFFICE_IRINGALLUR",
+        "POSTOFFICE_GURUVAYURAPPAN_COLLEGE",
+        "POSTOFFICE_BEYPORE",
+        "POSTOFFICE_BEYPORE_NORTH",
+        "POSTOFFICE_KUTHIRAVATTAM",
+        "POSTOFFICE_NELLIKODE",
+        "POSTOFFICE_KOTTULI",
+        "POSTOFFICE_GOVINDAPURAM",
+        "POSTOFFICE_CHEVARAMBALAM",
+        "POSTOFFICE_CHEVAYUR",
+        "POSTOFFICE_VRINDAVAN_COLONY",
+        "POSTOFFICE_CALICUT_ARTS_&_SCIENCE_COLLEGE",
+        "POSTOFFICE_CALICUT_CIVIL_STATION",
+        "POSTOFFICE_CALICUT_COLLECTORATE",
+        "POSTOFFICE_PUTHIYANGADI",
+        "POSTOFFICE_NALLALAM",
+        "POSTOFFICE_ARAKKINAR",
+        "POSTOFFICE_TIRUVANNUR",
+        "POSTOFFICE_TIRUVANNURNADA",
+        "POSTOFFICE_CALICUT_BEACH",
+        "POSTOFFICE_CALICUT_COURTS",
+        "POSTOFFICE_PUTHIYANIRATH",
+        "POSTOFFICE_ERANHIKKAL",
+        "POSTOFFICE_ELATHUR",
+        "POSTOFFICE_IIM_KOZHIKKODE_CAMPUS",
+        "POSTOFFICE_CHELAVUR",
+        "POSTOFFICE_CALICUT_REGIONAL_ENGINEERING_COLLEGE",
+        "POSTOFFICE_NIT_CAMPUS_KOZHIKKODE",
+        "POSTOFFICE_FEROKE",
+        "POSTOFFICE_CALICUT_UNIVERSITY",
+        "POSTOFFICE_CALICUT_AIRPORT",
+        "POSTOFFICE_KOLATHARA",
+        "POSTOFFICE_CHERUVANNUR"
+      ],
+      "talukList": [
+        "TALUK_KOZHIKKODE"
+      ]
     },
     {
       "code": "kl.kunnamkulam",
       "lbid": 204,
+      "nationalLgdId": 252180,
       "name": "Kunnamkulam Municipality",
       "description": "Kunnamkulam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/kunnamkulam.jpg",
@@ -1735,6 +2780,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kunnamkulamsecretary@gmail.com",
+      "localName": "കുന്നംകുളം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1764,11 +2810,40 @@
         680503
       ],
       "contactNumber": "04885-222221",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ANJUR",
+        "VILLAGE_ARTHAT",
+        "VILLAGE_KANIPPAYYUR",
+        "VILLAGE_KUNNAMKULAM",
+        "VILLAGE_CHOWANNUR",
+        "VILLAGE_PORKULAM"
+      ],
+      "poList": [
+        "POSTOFFICE_KOCHANNUR",
+        "POSTOFFICE_PARAYIL_BAZAR",
+        "POSTOFFICE_KUNNAMKULAM",
+        "POSTOFFICE_CHOWANNUR",
+        "POSTOFFICE_KANIPPAYYUR",
+        "POSTOFFICE_CHEMMANNUR",
+        "POSTOFFICE_PORKOLANGAD",
+        "POSTOFFICE_AKATHIYOOR",
+        "POSTOFFICE_ARTHAT",
+        "POSTOFFICE_ANJUR-_KUNNAMKULAM",
+        "POSTOFFICE_KIZHUR",
+        "POSTOFFICE_KUNNAMKULAM_CITY",
+        "POSTOFFICE_CHITTANJUR",
+        "POSTOFFICE_MUNDATHICODE",
+        "POSTOFFICE_ALOOR_MATTAM"
+      ],
+      "talukList": [
+        "TALUK_KUNNAMKULAM"
+      ]
     },
     {
       "code": "kl.kuthuparamba",
       "lbid": 219,
+      "nationalLgdId": 252144,
       "name": "Kuthuparamba Municipality",
       "description": "Kuthuparamba",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/kuthuparamba.jpg",
@@ -1777,6 +2852,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "kpbamly@gmail.com",
+      "localName": "കൂത്തുപറമ്പ് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1806,11 +2882,27 @@
         670643
       ],
       "contactNumber": "0490-2361246",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KUTHUPARAMBA"
+      ],
+      "poList": [
+        "POSTOFFICE_MOORIYAD",
+        "POSTOFFICE_KUTHUPARAMBA",
+        "POSTOFFICE_KOTTAYAM_MALABAR",
+        "POSTOFFICE_POOKODE",
+        "POSTOFFICE_NIRMALAGIRI",
+        "POSTOFFICE_PALAPARAMBA",
+        "POSTOFFICE_AMBILAT"
+      ],
+      "talukList": [
+        "TALUK_THALASSERY"
+      ]
     },
     {
       "code": "kl.malappuram",
       "lbid": 213,
+      "nationalLgdId": 252170,
       "name": "Malappuram Municipality",
       "description": "Malappuram",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/malappuram.jpg",
@@ -1819,6 +2911,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "mlpmmunci@gmail.com",
+      "localName": "മലപ്പുറം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1848,11 +2941,30 @@
         null
       ],
       "contactNumber": "0483 2734228",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PANAKKAD",
+        "VILLAGE_MALAPPURAM",
+        "VILLAGE_MELMURI"
+      ],
+      "poList": [
+        "POSTOFFICE_MALAPPURAM",
+        "POSTOFFICE_MALAPPURAM_CIVIL_STATION",
+        "POSTOFFICE_MUNDUPARAMBA",
+        "POSTOFFICE_MELMURI",
+        "POSTOFFICE_PATTARKADAVU",
+        "POSTOFFICE_HAJIARPALLI",
+        "POSTOFFICE_DOWN_HILL",
+        "POSTOFFICE_OORAKAM_MELMURI"
+      ],
+      "talukList": [
+        "TALUK_ERNAD"
+      ]
     },
     {
       "code": "kl.mananthavady",
       "lbid": 1282,
+      "nationalLgdId": 272910,
       "name": "Mananthavady Municipality",
       "description": "Mananthavady",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/wayanad/mananthavady.jpg",
@@ -1861,6 +2973,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "mndymunicipality@gmail.com",
+      "localName": "മാനന്തവാടി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1890,11 +3003,28 @@
         670645
       ],
       "contactNumber": "04935-240253",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PAYYAMPALLY",
+        "VILLAGE_MANANTHAVADY"
+      ],
+      "poList": [
+        "POSTOFFICE_CHERAKKARA_-_WAYANAD",
+        "POSTOFFICE_THALAPUZHA",
+        "POSTOFFICE_PILAKKAVU",
+        "POSTOFFICE_MANANTHAVADY",
+        "POSTOFFICE_ARATTUTHARA",
+        "POSTOFFICE_VEMOM",
+        "POSTOFFICE_PAYYAMPALLY"
+      ],
+      "talukList": [
+        "TALUK_MANANTHAVADY"
+      ]
     },
     {
       "code": "kl.manjeri",
       "lbid": 211,
+      "nationalLgdId": 252169,
       "name": "Manjeri Municipality",
       "description": "Manjeri",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/manjeri.jpg",
@@ -1903,6 +3033,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "musecmanjeri@gmail.com",
+      "localName": "മഞ്ചേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1932,11 +3063,33 @@
         676121
       ],
       "contactNumber": "0483-2766238",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_NARUKARA",
+        "VILLAGE_PAYYANAD",
+        "VILLAGE_MANJERI"
+      ],
+      "poList": [
+        "POSTOFFICE_MANJERI",
+        "POSTOFFICE_MANJERI_BAZAR",
+        "POSTOFFICE_VAKKETHODI",
+        "POSTOFFICE_NARUKARA",
+        "POSTOFFICE_PAYYANAD",
+        "POSTOFFICE_PULLANCHERI",
+        "POSTOFFICE_MARIYAD",
+        "POSTOFFICE_MANJERI_COLLEGE",
+        "POSTOFFICE_NELLIKUTH",
+        "POSTOFFICE_KARUVAMBRAM",
+        "POSTOFFICE_KARUVAMBRAM_WEST"
+      ],
+      "talukList": [
+        "TALUK_ERNAD"
+      ]
     },
     {
       "code": "kl.mannarkad",
       "lbid": 1271,
+      "nationalLgdId": 272907,
       "name": "Mannarkad Municipality",
       "description": "Mannarkad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/mannarkad.jpg",
@@ -1945,6 +3098,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "ddpmannarkkadpkd@gmail.com",
+      "localName": "മണ്ണാര്‍ക്കാട് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1974,11 +3128,27 @@
         678582
       ],
       "contactNumber": "04924-222336",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PALAKKAYAM",
+        "VILLAGE_MANNARKAD_I",
+        "VILLAGE_MANNARKAD_II"
+      ],
+      "poList": [
+        "POSTOFFICE_PULLISSERI",
+        "POSTOFFICE_MANNARKAD",
+        "POSTOFFICE_CHINDAKI",
+        "POSTOFFICE_PALLIKURUP",
+        "POSTOFFICE_PERIMBADARI"
+      ],
+      "talukList": [
+        "TALUK_MANNARKAD"
+      ]
     },
     {
       "code": "kl.maradu",
       "lbid": 1247,
+      "nationalLgdId": 252226,
       "name": "Maradu Municipality",
       "description": "Maradu",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/maradu.jpg",
@@ -1987,6 +3157,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarymaradu@gmail.com",
+      "localName": "മരട് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2016,11 +3187,24 @@
         682304
       ],
       "contactNumber": "0484-2706544",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_MARADU"
+      ],
+      "poList": [
+        "POSTOFFICE_KOCHI_SPECIAL_ECONOMIC_ZONE",
+        "POSTOFFICE_RAJAGIRI_VALLEY",
+        "POSTOFFICE_NETTOOR",
+        "POSTOFFICE_MARADU"
+      ],
+      "talukList": [
+        "TALUK_KANAYANNUR"
+      ]
     },
     {
       "code": "kl.mattanur",
       "lbid": 217,
+      "nationalLgdId": 252139,
       "name": "Mattanur Municipality",
       "description": "Mattanur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/mattanur.jpg",
@@ -2029,6 +3213,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "munofmtnr@gmail.com ",
+      "localName": "മട്ടന്നൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2058,11 +3243,29 @@
         null
       ],
       "contactNumber": "4902471226",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KOLARI",
+        "VILLAGE_PAZHASSI"
+      ],
+      "poList": [
+        "POSTOFFICE_MATTANUR",
+        "POSTOFFICE_MATTANUR_COLLEGE",
+        "POSTOFFICE_URUVACHAL",
+        "POSTOFFICE_KAYANI",
+        "POSTOFFICE_KARA_PERAVOOR",
+        "POSTOFFICE_PORORA",
+        "POSTOFFICE_KOLARI",
+        "POSTOFFICE_KEECHERI"
+      ],
+      "talukList": [
+        "TALUK_IRITTY"
+      ]
     },
     {
       "code": "kl.mavelikara",
       "lbid": 182,
+      "nationalLgdId": 252250,
       "name": "Mavelikara Municipality",
       "description": "Mavelikara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/alappuzha/mavelikara.jpg",
@@ -2071,6 +3274,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarymmc@gmail.com",
+      "localName": "മാവേലിക്കര മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2100,11 +3304,33 @@
         690101
       ],
       "contactNumber": "0479-2302218",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KANNAMANGALAM",
+        "VILLAGE_THAZHAKARA",
+        "VILLAGE_THEKKEKARA",
+        "VILLAGE_MAVELIKARA"
+      ],
+      "poList": [
+        "POSTOFFICE_PUNNAMOODU",
+        "POSTOFFICE_PUTHIYAKAVU",
+        "POSTOFFICE_MAVELIKARA",
+        "POSTOFFICE_MAVELIKARA_CUTCHERRY",
+        "POSTOFFICE_MAVELIKARA_COURT",
+        "POSTOFFICE_THAZHAKARA",
+        "POSTOFFICE_KANDIYOOR",
+        "POSTOFFICE_THATTARAMBALAM",
+        "POSTOFFICE_MATTAM",
+        "POSTOFFICE_KALLUMALA"
+      ],
+      "talukList": [
+        "TALUK_MAVELIKARA"
+      ]
     },
     {
       "code": "kl.mukkam",
       "lbid": 1279,
+      "nationalLgdId": 272898,
       "name": "Mukkam Municipality",
       "description": "Mukkam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/mukkam.jpg",
@@ -2113,6 +3339,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "mukkammunicipality@gmail.com",
+      "localName": "മുക്കം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2142,11 +3369,30 @@
         673602
       ],
       "contactNumber": "0495-2297132",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_THAZHEKODE",
+        "VILLAGE_NEELESWARAM"
+      ],
+      "poList": [
+        "POSTOFFICE_NEELESWARAM",
+        "POSTOFFICE_OMASSERY",
+        "POSTOFFICE_VENAPPARA",
+        "POSTOFFICE_SANTHINAGAR",
+        "POSTOFFICE_VELIMANNA",
+        "POSTOFFICE_KALLURUTTY",
+        "POSTOFFICE_MUKKAM",
+        "POSTOFFICE_MANASSERI",
+        "POSTOFFICE_CHENNAMANGALLOOR"
+      ],
+      "talukList": [
+        "TALUK_KOZHIKKODE"
+      ]
     },
     {
       "code": "kl.muvattupuzha",
       "lbid": 195,
+      "nationalLgdId": 252230,
       "name": "Muvattupuzha Municipality",
       "description": "Muvattupuzha",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/muvattupuzha.jpg",
@@ -2155,6 +3401,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "muvattupuzhamunicipality@gmail.com",
+      "localName": "മൂവാറ്റുപുഴ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2184,11 +3431,29 @@
         686681
       ],
       "contactNumber": "0485-2835347",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_MARADY",
+        "VILLAGE_MUVATTUPUZHA",
+        "VILLAGE_VELLOORKUNNAM"
+      ],
+      "poList": [
+        "POSTOFFICE_MUVATTUPUZHA",
+        "POSTOFFICE_MUDAVOOR",
+        "POSTOFFICE_NIRMALA",
+        "POSTOFFICE_MUVATTUPUZHA_MARKET",
+        "POSTOFFICE_RANDAR",
+        "POSTOFFICE_THEKKENMARADY",
+        "POSTOFFICE_MUVATTUPUZHA_BAZAR"
+      ],
+      "talukList": [
+        "TALUK_MUVATTUPUZHA"
+      ]
     },
     {
       "code": "kl.nedumangad",
       "lbid": 174,
+      "nationalLgdId": 252259,
       "name": "Nedumangad Municipality",
       "description": "Nedumangad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/nedumangad.jpg",
@@ -2197,6 +3462,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "nddsec@gmail.com",
+      "localName": "നെടുമങ്ങാട് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2226,11 +3492,34 @@
         695541
       ],
       "contactNumber": "04722-802238",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ANAD",
+        "VILLAGE_KARIPPUR",
+        "VILLAGE_NEDUMANGAD",
+        "VILLAGE_VATTAPPARA"
+      ],
+      "poList": [
+        "POSTOFFICE_VENCODE",
+        "POSTOFFICE_PARUTHIKUZHY",
+        "POSTOFFICE_MANCHA",
+        "POSTOFFICE_MANNOORKONAM",
+        "POSTOFFICE_KARIPPUR",
+        "POSTOFFICE_CHULLIMANOOR",
+        "POSTOFFICE_NEDUMANGAD",
+        "POSTOFFICE_VALIYAMALA",
+        "POSTOFFICE_PAZHAKUTTY",
+        "POSTOFFICE_IRINCHAYAM",
+        "POSTOFFICE_POOVATHUR"
+      ],
+      "talukList": [
+        "TALUK_NEDUMANGAD"
+      ]
     },
     {
       "code": "kl.neyyattinkara",
       "lbid": 175,
+      "nationalLgdId": 252261,
       "name": "Neyyattinkara Municipality",
       "description": "Neyyattinkara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/neyyattinkara.jpg",
@@ -2239,6 +3528,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarynytamc@gmail.com",
+      "localName": "നെയ്യാറ്റിന്‍കര മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2268,11 +3558,36 @@
         695121
       ],
       "contactNumber": "0471 2222242",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ATHIYANNOOR",
+        "VILLAGE_KOLLAYIL",
+        "VILLAGE_KOTTUKAL",
+        "VILLAGE_CHENKAL",
+        "VILLAGE_NEYYATTINKARA"
+      ],
+      "poList": [
+        "POSTOFFICE_NEYYATTINKARA",
+        "POSTOFFICE_OLATHANNI",
+        "POSTOFFICE_NEYYATTINKARA_TOWN",
+        "POSTOFFICE_AMARAVILA",
+        "POSTOFFICE_CHAIKOTTUKONAM",
+        "POSTOFFICE_MARIYAPURAM",
+        "POSTOFFICE_ARALUMMOODU",
+        "POSTOFFICE_KODANGAVILA",
+        "POSTOFFICE_ARUVIPURAM",
+        "POSTOFFICE_PERUMPAZHUTHOOR",
+        "POSTOFFICE_BALARAMAPURAM",
+        "POSTOFFICE_VELIYAMCODE"
+      ],
+      "talukList": [
+        "TALUK_NEYYATTINKARA"
+      ]
     },
     {
       "code": "kl.nilambur",
       "lbid": 1249,
+      "nationalLgdId": 259710,
       "name": "Nilambur Municipality",
       "description": "Nilambur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/nilambur.jpg",
@@ -2281,6 +3596,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "nilamburmunicipality@gmail.com",
+      "localName": "നിലമ്പൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2310,11 +3626,26 @@
         679329
       ],
       "contactNumber": "04931-220365",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_NILAMBUR"
+      ],
+      "poList": [
+        "POSTOFFICE_NILAMBUR",
+        "POSTOFFICE_CHANDAKKUNNU",
+        "POSTOFFICE_AURVACODE",
+        "POSTOFFICE_NILAMBUR_R_S",
+        "POSTOFFICE_NALLANTHANNI",
+        "POSTOFFICE_RAMANKUTH"
+      ],
+      "talukList": [
+        "TALUK_NILAMBUR"
+      ]
     },
     {
       "code": "kl.nileshwar",
       "lbid": 1250,
+      "nationalLgdId": 259711,
       "name": "Nileshwar Municipality",
       "description": "Nileshwar",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kasargode/nileshwar.jpg",
@@ -2323,6 +3654,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "nileshwarammlty@gmail.com",
+      "localName": "നീലേശ്വരം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2352,11 +3684,26 @@
         null
       ],
       "contactNumber": "4672280360",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_NILESHWAR",
+        "VILLAGE_PEROLE"
+      ],
+      "poList": [
+        "POSTOFFICE_NILESHWAR",
+        "POSTOFFICE_PUTHARIADUKKAM",
+        "POSTOFFICE_CHATHAMATH",
+        "POSTOFFICE_THAIKADAPURAM",
+        "POSTOFFICE_KOTTAPURAM"
+      ],
+      "talukList": [
+        "TALUK_HOSDURG"
+      ]
     },
     {
       "code": "kl.north",
       "lbid": 196,
+      "nationalLgdId": 252215,
       "name": "North Paravur Municipality",
       "description": "North",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/north.jpg",
@@ -2365,6 +3712,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "nparavurmunicipality@gmail.com",
+      "localName": "വടക്കന്‍ പറവൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2394,11 +3742,28 @@
         683513
       ],
       "contactNumber": "0484-2442327",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KOTTUVALLY",
+        "VILLAGE_NORTH_PARAVUR",
+        "VILLAGE_VADAKKEKKARA"
+      ],
+      "poList": [
+        "POSTOFFICE_CHENDAMANGALAM",
+        "POSTOFFICE_NORTH_PARAVUR",
+        "POSTOFFICE_PARAVUR_MARKET",
+        "POSTOFFICE_PARAVUR_TOWN",
+        "POSTOFFICE_MANNAM_PARAVUR",
+        "POSTOFFICE_VADAKKEKKARA"
+      ],
+      "talukList": [
+        "TALUK_NORTH_PARAVUR"
+      ]
     },
     {
       "code": "kl.ottapalam",
       "lbid": 205,
+      "nationalLgdId": 252175,
       "name": "Ottapalam Municipality",
       "description": "Ottapalam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/ottapalam.jpg",
@@ -2407,6 +3772,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "otplmuncsec@gmail.com",
+      "localName": "ഒറ്റപ്പാലം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2436,11 +3802,29 @@
         null
       ],
       "contactNumber": "4662246549",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_OTTAPALAM_I",
+        "VILLAGE_OTTAPALAM_II"
+      ],
+      "poList": [
+        "POSTOFFICE_OTTAPALAM",
+        "POSTOFFICE_VARODE",
+        "POSTOFFICE_THOTTAKKARA",
+        "POSTOFFICE_VEETAMPARA",
+        "POSTOFFICE_PALAPPURAM",
+        "POSTOFFICE_SREERAMAKRISHNANAGAR",
+        "POSTOFFICE_KANNIYAMPURAM",
+        "POSTOFFICE_PANAMANNA_SOUTH"
+      ],
+      "talukList": [
+        "TALUK_OTTAPALAM"
+      ]
     },
     {
       "code": "kl.pala",
       "lbid": 186,
+      "nationalLgdId": 252234,
       "name": "Pala Municipality",
       "description": "Pala",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/pala.jpg",
@@ -2449,6 +3833,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "munsecpala12@gmail.com",
+      "localName": "പാലാ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2478,11 +3863,35 @@
         686575
       ],
       "contactNumber": "0482-2212328",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PULIYANNOOR",
+        "VILLAGE_MEENACHIL",
+        "VILLAGE_LALAM"
+      ],
+      "poList": [
+        "POSTOFFICE_ARUNAPURAM",
+        "POSTOFFICE_MUNDANKAL",
+        "POSTOFFICE_KIZHATHADIYUR",
+        "POSTOFFICE_KADAPPATTOOR",
+        "POSTOFFICE_CHAKKAMPUZHA",
+        "POSTOFFICE_NECHIPUZHOOR",
+        "POSTOFFICE_PONAD_KAROOR",
+        "POSTOFFICE_VALLICHIRA",
+        "POSTOFFICE_PALA",
+        "POSTOFFICE_PALA_MARKET_JUNCTION",
+        "POSTOFFICE_PALA_TOWN",
+        "POSTOFFICE_MEENACHIL",
+        "POSTOFFICE_KIZHAPARAYAR"
+      ],
+      "talukList": [
+        "TALUK_MEENACHIL"
+      ]
     },
     {
       "code": "kl.palakkad",
       "lbid": 208,
+      "nationalLgdId": 252176,
       "name": "Palakkad Municipality",
       "description": "Palakkad",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/palakkad.jpg",
@@ -2491,6 +3900,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secypkd@gmail.com",
+      "localName": "പാലക്കാട് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2520,11 +3930,44 @@
         null
       ],
       "contactNumber": "0491-2534638",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PALAKKAD_I",
+        "VILLAGE_PALAKKAD_II",
+        "VILLAGE_YAKKARA"
+      ],
+      "poList": [
+        "POSTOFFICE_PALAKKAD",
+        "POSTOFFICE_PALAKKAD_COLLECTORATE",
+        "POSTOFFICE_PALAKKAD_COLLEGE",
+        "POSTOFFICE_PALAKKAD_FORT",
+        "POSTOFFICE_OLAVAKKODE",
+        "POSTOFFICE_NEWKALPATHY",
+        "POSTOFFICE_KALPATHY",
+        "POSTOFFICE_NURANI",
+        "POSTOFFICE_NURANI_AGRAHARAM",
+        "POSTOFFICE_THIRUNELLAYI",
+        "POSTOFFICE_PUTHUR_PALAKKAD",
+        "POSTOFFICE_CHOKKANATHAPURAM",
+        "POSTOFFICE_KALLEPULLY",
+        "POSTOFFICE_PALLIPPURAM_PALAKKAD",
+        "POSTOFFICE_SEKHARIPURAM",
+        "POSTOFFICE_AMBIKAPURAM",
+        "POSTOFFICE_MOOTHANTHARA",
+        "POSTOFFICE_VADAKKANTHARA",
+        "POSTOFFICE_KUNNATHURMEDU",
+        "POSTOFFICE_PALAKKAD_CITY",
+        "POSTOFFICE_YAKKARA",
+        "POSTOFFICE_KOTTEKKAD"
+      ],
+      "talukList": [
+        "TALUK_PALAKKAD"
+      ]
     },
     {
       "code": "kl.pandalam",
       "lbid": 1261,
+      "nationalLgdId": 272908,
       "name": "Pandalam Municipality",
       "description": "Pandalam",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/pandalam.jpg",
@@ -2533,6 +3976,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "pandalammunicipality@gmailc.om",
+      "localName": "പന്തളം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2562,11 +4006,28 @@
         689501
       ],
       "contactNumber": "04734-252251",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KURAMPALA",
+        "VILLAGE_PANDALAM"
+      ],
+      "poList": [
+        "POSTOFFICE_PANDALAM",
+        "POSTOFFICE_PANDALAM_MEDICAL_MISSION",
+        "POSTOFFICE_MANNAM_SUGAR_MILLS",
+        "POSTOFFICE_KURAMPALA_SOUTH",
+        "POSTOFFICE_MUDIYOORKONAM",
+        "POSTOFFICE_PARANTHAL",
+        "POSTOFFICE_KUDASSANAD"
+      ],
+      "talukList": [
+        "TALUK_ADOOR"
+      ]
     },
     {
       "code": "kl.Panoor",
       "lbid": 1285,
+      "nationalLgdId": 272885,
       "name": "Panoor Municipality",
       "description": "Panoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/panoor.jpg",
@@ -2575,6 +4036,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "panoormunicipality2015@gmail.com",
+      "localName": "പാനൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2604,11 +4066,33 @@
         670692
       ],
       "contactNumber": "0490-2311340",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PANOOR",
+        "VILLAGE_PERINGATHUR",
+        "VILLAGE_PERINGALAM"
+      ],
+      "poList": [
+        "POSTOFFICE_ANIYARAM",
+        "POSTOFFICE_PULLOOKKARA",
+        "POSTOFFICE_PULIYANAMBRAM",
+        "POSTOFFICE_KIDANHI",
+        "POSTOFFICE_PERINGATHUR",
+        "POSTOFFICE_MEKKUNNU",
+        "POSTOFFICE_KADAVATHUR",
+        "POSTOFFICE_PANOOR",
+        "POSTOFFICE_ELANGOT",
+        "POSTOFFICE_OLAVILAM",
+        "POSTOFFICE_KARIYAD_SOUTH"
+      ],
+      "talukList": [
+        "TALUK_THALASSERY"
+      ]
     },
     {
       "code": "kl.Parappanangadi",
       "lbid": 1275,
+      "nationalLgdId": 272912,
       "name": "Parappanangadi Municipality",
       "description": "Parappanangadi",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/parappanangadi.jpg",
@@ -2617,6 +4101,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "parappanangadimunicipality@gmail.com",
+      "localName": "പരപ്പനങ്ങാടി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2646,11 +4131,28 @@
         676303
       ],
       "contactNumber": "0494-2410239",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_NEDUVA",
+        "VILLAGE_PARAPPANANGADI"
+      ],
+      "poList": [
+        "POSTOFFICE_PARAPPANANGADI",
+        "POSTOFFICE_ANJAPURA",
+        "POSTOFFICE_ULLANAM",
+        "POSTOFFICE_ULLANAM_NORTH",
+        "POSTOFFICE_NEDUVA",
+        "POSTOFFICE_KODAKKAD",
+        "POSTOFFICE_CHETTIPADI"
+      ],
+      "talukList": [
+        "TALUK_TIRURANGADI"
+      ]
     },
     {
       "code": "kl.paravur",
       "lbid": 176,
+      "nationalLgdId": 252256,
       "name": "Paravur Municipality",
       "description": "Paravur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/paravur.jpg",
@@ -2659,6 +4161,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secyparavur@gmail.com",
+      "localName": "പരവൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2688,11 +4191,25 @@
         695301
       ],
       "contactNumber": "0474-2512340",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KOTTAPPURAM",
+        "VILLAGE_PARAVUR"
+      ],
+      "poList": [
+        "POSTOFFICE_PARAVUR",
+        "POSTOFFICE_POZHIKKARA",
+        "POSTOFFICE_THEKKUMBHAGOM",
+        "POSTOFFICE_NEDUNGOLAM"
+      ],
+      "talukList": [
+        "TALUK_KOLLAM"
+      ]
     },
     {
       "code": "kl.pathanamthitta",
       "lbid": 180,
+      "nationalLgdId": 252252,
       "name": "Pathanamthitta Municipality",
       "description": "Pathanamthitta",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/pathanamthitta.jpg",
@@ -2701,6 +4218,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "pathanamthittamunicipality2011@gmail.com",
+      "localName": "പത്തനംതിട്ട മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2730,11 +4248,28 @@
         689645
       ],
       "contactNumber": "0468-2222249",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PATHANAMTHITTA",
+        "VILLAGE_MALAYALAPUZHA",
+        "VILLAGE_MYLAPRA"
+      ],
+      "poList": [
+        "POSTOFFICE_PATHANAMTHITTA",
+        "POSTOFFICE_MAKKANKUNNU",
+        "POSTOFFICE_MUNDUKOTTACKAL",
+        "POSTOFFICE_KUMBAZHAMURI",
+        "POSTOFFICE_CHURULICODE",
+        "POSTOFFICE_MYLAPRA"
+      ],
+      "talukList": [
+        "TALUK_KOZHENCHERRY"
+      ]
     },
     {
       "code": "kl.pattambi",
       "lbid": 1269,
+      "nationalLgdId": 272905,
       "name": "Pattambi Municipality",
       "description": "Pattambi",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/pattambi.jpg",
@@ -2743,6 +4278,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "pattambimunicipality@gmail.com",
+      "localName": "പട്ടാമ്പി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2772,11 +4308,25 @@
         679303
       ],
       "contactNumber": "0466-2212233",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PATTAMBI"
+      ],
+      "poList": [
+        "POSTOFFICE_PATTAMBI",
+        "POSTOFFICE_SANKARAMANGALAM",
+        "POSTOFFICE_KIZHAYUR",
+        "POSTOFFICE_MELEPATTAMBI",
+        "POSTOFFICE_THIRUNARAYANAPURAM"
+      ],
+      "talukList": [
+        "TALUK_PATTAMBI"
+      ]
     },
     {
       "code": "kl.payyannur",
       "lbid": 220,
+      "nationalLgdId": 252111,
       "name": "Payyannur Municipality",
       "description": "Payyannur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/payyannur.jpg",
@@ -2785,6 +4335,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secypynr@gmail.com",
+      "localName": "പയ്യന്നൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2814,11 +4365,35 @@
         null
       ],
       "contactNumber": "4985202067",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KOROM",
+        "VILLAGE_PAYYANNUR",
+        "VILLAGE_VELLUR"
+      ],
+      "poList": [
+        "POSTOFFICE_KANAYI",
+        "POSTOFFICE_PAYYANNUR",
+        "POSTOFFICE_PAYYANNUR_R_S",
+        "POSTOFFICE_KANDOTH",
+        "POSTOFFICE_CHALAKKODE",
+        "POSTOFFICE_KOROM",
+        "POSTOFFICE_ANNUR",
+        "POSTOFFICE_KANDANKALI",
+        "POSTOFFICE_KANKOL",
+        "POSTOFFICE_KAVVAYI",
+        "POSTOFFICE_MATHIL",
+        "POSTOFFICE_VELLUR",
+        "POSTOFFICE_KOKKANISSERI"
+      ],
+      "talukList": [
+        "TALUK_PAYYANNUR"
+      ]
     },
     {
       "code": "kl.payyoli",
       "lbid": 1277,
+      "nationalLgdId": 272896,
       "name": "Payyoli Municipality",
       "description": "Payyoli",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/payyoli.jpg",
@@ -2827,6 +4402,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "payyolimunicipality@gmail.com",
+      "localName": "പയ്യോളി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2856,11 +4432,28 @@
         673522
       ],
       "contactNumber": "0496-2602043",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_IRINGAL",
+        "VILLAGE_PAYYOLI"
+      ],
+      "poList": [
+        "POSTOFFICE_AYANIKKAD",
+        "POSTOFFICE_IRINGAL",
+        "POSTOFFICE_KOTTAKKAL_IRINGAL",
+        "POSTOFFICE_KIZHUR",
+        "POSTOFFICE_PAYYOLI",
+        "POSTOFFICE_PAYYOLI_MDG",
+        "POSTOFFICE_CHERUVANNUR_MEPPAYUR"
+      ],
+      "talukList": [
+        "TALUK_KOYILANDY"
+      ]
     },
     {
       "code": "kl.perinthalmanna",
       "lbid": 209,
+      "nationalLgdId": 252171,
       "name": "Perinthalmanna Municipality",
       "description": "Perinthalmanna",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/perinthalmanna.jpg",
@@ -2869,6 +4462,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "perinthalmannamunicipality@yahoo.co.in",
+      "localName": "പെരിന്തല്‍മണ്ണ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2898,11 +4492,28 @@
         null
       ],
       "contactNumber": "4933327363",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PATHAIKKARA",
+        "VILLAGE_PERINTHALMANNA"
+      ],
+      "poList": [
+        "POSTOFFICE_PATHAIKKARA",
+        "POSTOFFICE_PERINTHALMANNA",
+        "POSTOFFICE_PERINTHALMANNA_BAZAR",
+        "POSTOFFICE_PONNIAKURSSI",
+        "POSTOFFICE_KUNNAPPALLY",
+        "POSTOFFICE_VALAMBOOR",
+        "POSTOFFICE_ERAVIMANGALAM"
+      ],
+      "talukList": [
+        "TALUK_PERINTHALMANNA"
+      ]
     },
     {
       "code": "kl.perumbavoor",
       "lbid": 197,
+      "nationalLgdId": 252207,
       "name": "Perumbavoor Municipality",
       "description": "Perumbavoor",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/perumbavoor.jpg",
@@ -2911,6 +4522,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "perumbavoormunicipality@gmail.com ",
+      "localName": "പെരുമ്പാവൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2940,11 +4552,25 @@
         683542
       ],
       "contactNumber": "0484-2522230",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_CHELAMATTOM",
+        "VILLAGE_PERUMBAVOOR"
+      ],
+      "poList": [
+        "POSTOFFICE_PERUMBAVOOR",
+        "POSTOFFICE_PERUMBAVOOR_SOUTH",
+        "POSTOFFICE_RAYONPURAM",
+        "POSTOFFICE_IRINGOLE"
+      ],
+      "talukList": [
+        "TALUK_KUNNATHUNAD"
+      ]
     },
     {
       "code": "kl.piravom",
       "lbid": 1267,
+      "nationalLgdId": 272882,
       "name": "Piravom Municipality",
       "description": "Piravom",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/piravom.jpg",
@@ -2953,6 +4579,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "piravommunicipality@gmail.com",
+      "localName": "പിറവം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2982,11 +4609,24 @@
         686664
       ],
       "contactNumber": "0485-2242339",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_PIRAVOM"
+      ],
+      "poList": [
+        "POSTOFFICE_PIRAVOM",
+        "POSTOFFICE_KAKKAD",
+        "POSTOFFICE_KALAMPOOR",
+        "POSTOFFICE_MULAKULAM_NORTH"
+      ],
+      "talukList": [
+        "TALUK_MUVATTUPUZHA"
+      ]
     },
     {
       "code": "kl.ponnani",
       "lbid": 210,
+      "nationalLgdId": 252173,
       "name": "Ponnani Municipality",
       "description": "Ponnani",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/ponnani.jpg",
@@ -2995,6 +4635,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "ponnanisecy@gmail.com",
+      "localName": "പൊന്നാനി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3024,11 +4665,28 @@
         679586
       ],
       "contactNumber": "0494-2666336",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_EZHUVATHIRUTHY",
+        "VILLAGE_PONNANI_NAGARAM"
+      ],
+      "poList": [
+        "POSTOFFICE_ESWARAMANGALAM",
+        "POSTOFFICE_BIYYAM",
+        "POSTOFFICE_PONNANI",
+        "POSTOFFICE_PONNANI_NAGARAM",
+        "POSTOFFICE_PURANGU",
+        "POSTOFFICE_KADAVANAD",
+        "POSTOFFICE_PONNANI_SOUTH"
+      ],
+      "talukList": [
+        "TALUK_PONNANI"
+      ]
     },
     {
       "code": "kl.punalur",
       "lbid": 177,
+      "nationalLgdId": 252254,
       "name": "Punalur Municipality",
       "description": "Punalur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kollam/punalur.jpg",
@@ -3037,6 +4695,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secypnlr@gmail.com",
+      "localName": "പുനലൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3066,11 +4725,33 @@
         691305
       ],
       "contactNumber": "0475-2222683",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KARAVALOOR",
+        "VILLAGE_PUNALUR",
+        "VILLAGE_VALACODE"
+      ],
+      "poList": [
+        "POSTOFFICE_PUNALUR",
+        "POSTOFFICE_NELLIPALLI",
+        "POSTOFFICE_ELAMPAL",
+        "POSTOFFICE_VILAKKUVETTOM",
+        "POSTOFFICE_PLACHERY",
+        "POSTOFFICE_VALACODE",
+        "POSTOFFICE_KAKKODE",
+        "POSTOFFICE_PUNALUR_PAPERMILL(P_P_M)",
+        "POSTOFFICE_MANIYAR-PUNALUR",
+        "POSTOFFICE_THOLICODE",
+        "POSTOFFICE_AVANEESWARAM_R_S"
+      ],
+      "talukList": [
+        "TALUK_PUNALUR"
+      ]
     },
     {
       "code": "kl.ramanattukara",
       "lbid": 1280,
+      "nationalLgdId": 272899,
       "name": "Ramanattukara Municipality",
       "description": "Ramanattukara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/ramanattukara.jpg",
@@ -3079,6 +4760,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "ramanattukaracity@gmail.com ",
+      "localName": "രാമനാട്ടുകര മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3108,11 +4790,28 @@
         673632
       ],
       "contactNumber": "04952440095",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_RAMANATTUKARA"
+      ],
+      "poList": [
+        "POSTOFFICE_PANTHEERANKAVU",
+        "POSTOFFICE_CHELANNUR",
+        "POSTOFFICE_FEROKE_COLLEGE",
+        "POSTOFFICE_KARAD_PARAMBA",
+        "POSTOFFICE_PUTHUCODE",
+        "POSTOFFICE_RAMANATTUKARA",
+        "POSTOFFICE_VAIDYARANGADI",
+        "POSTOFFICE_THENHIPALAM"
+      ],
+      "talukList": [
+        "TALUK_KOZHIKKODE"
+      ]
     },
     {
       "code": "kl.shoranur",
       "lbid": 206,
+      "nationalLgdId": 252174,
       "name": "Shoranur Municipality",
       "description": "Shoranur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/palakkad/shoranur.jpg",
@@ -3121,6 +4820,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryshornur1@gmail.com",
+      "localName": "ഷൊര്‍ണ്ണൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3150,11 +4850,31 @@
         679121
       ],
       "contactNumber": "0466-2222427",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_SREEKRISHNAPURAM_I",
+        "VILLAGE_SHORANUR_I",
+        "VILLAGE_SHORANUR_II"
+      ],
+      "poList": [
+        "POSTOFFICE_PARUTHIPRA",
+        "POSTOFFICE_SHORANUR",
+        "POSTOFFICE_KALLIPADAM",
+        "POSTOFFICE_KULAPPULLI",
+        "POSTOFFICE_SHORANUR_GOVT._PRESS",
+        "POSTOFFICE_KANAYAM",
+        "POSTOFFICE_MET_IND_NAGAR",
+        "POSTOFFICE_GANESHGIRI",
+        "POSTOFFICE_KAVALAPPARA"
+      ],
+      "talukList": [
+        "TALUK_OTTAPALAM"
+      ]
     },
     {
       "code": "kl.sreekandapuram",
       "lbid": 1284,
+      "nationalLgdId": 272884,
       "name": "Sreekandapuram Municipality",
       "description": "Sreekandapuram",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/sreekandapuram.jpg",
@@ -3163,6 +4883,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "skpm.gov@gmail.com",
+      "localName": "ശ്രീകണ്ഠാപുരം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3192,11 +4913,30 @@
         670631
       ],
       "contactNumber": "0460-2230261",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_NEDIYENGA",
+        "VILLAGE_SREEKANDAPURAM"
+      ],
+      "poList": [
+        "POSTOFFICE_SREEKANDAPURAM",
+        "POSTOFFICE_KOOTTUMUGHAM",
+        "POSTOFFICE_NEDIYENGA",
+        "POSTOFFICE_NEDUNGOME",
+        "POSTOFFICE_CHENGALAYI",
+        "POSTOFFICE_CHEMPANTHOTTY",
+        "POSTOFFICE_CHERIKODE",
+        "POSTOFFICE_KAITHAPRAM",
+        "POSTOFFICE_CHEMPERI"
+      ],
+      "talukList": [
+        "TALUK_TALIPARAMBA"
+      ]
     },
     {
       "code": "kl.sulthan",
       "lbid": 1283,
+      "nationalLgdId": 272911,
       "name": "Sulthan Bathery Municipality",
       "description": "Sulthan",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/wayanad/sulthan.jpg",
@@ -3205,6 +4945,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "batherymunicipality@gmail.com",
+      "localName": "സുല്‍ത്താന്‍ ബത്തേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3234,11 +4975,34 @@
         673592
       ],
       "contactNumber": "04936-220240",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KIDANGANADU",
+        "VILLAGE_KUPPADI",
+        "VILLAGE_SULTHAN_BATHERY"
+      ],
+      "poList": [
+        "POSTOFFICE_NATHAMKUNI",
+        "POSTOFFICE_MUNDAKAI",
+        "POSTOFFICE_CHEMBRA",
+        "POSTOFFICE_COTTANAD",
+        "POSTOFFICE_PAZHUPATHUR",
+        "POSTOFFICE_POOMULLA",
+        "POSTOFFICE_BEENACHI",
+        "POSTOFFICE_MOOLANKAVU",
+        "POSTOFFICE_KUPPADI",
+        "POSTOFFICE_SULTHAN_BATHERY",
+        "POSTOFFICE_CHEDALATH",
+        "POSTOFFICE_SULTHAN_BATHERY_EAST"
+      ],
+      "talukList": [
+        "TALUK_SULTHAN_BATHERY"
+      ]
     },
     {
       "code": "kl.tanur",
       "lbid": 1276,
+      "nationalLgdId": 272904,
       "name": "Tanur Municipality",
       "description": "Tanur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/tanur.jpg",
@@ -3247,6 +5011,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "tanurgptanurblock@gmail.com",
+      "localName": "താനൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3276,11 +5041,28 @@
         null
       ],
       "contactNumber": "4942440235",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_TANUR",
+        "VILLAGE_PARAPPANANGADI",
+        "VILLAGE_PARIYAPURAM"
+      ],
+      "poList": [
+        "POSTOFFICE_PANAGATTOOR",
+        "POSTOFFICE_PARIYAPURAM",
+        "POSTOFFICE_PUTHIYAKADAPURAM",
+        "POSTOFFICE_TANUR",
+        "POSTOFFICE_TANUR_NAGARAM"
+      ],
+      "talukList": [
+        "TALUK_TIRUR",
+        "TALUK_TIRURANGADI"
+      ]
     },
     {
       "code": "kl.thalassery",
       "lbid": 221,
+      "nationalLgdId": 252149,
       "name": "Thalassery Municipality",
       "description": "Thalassery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/thalassery.jpg",
@@ -3289,6 +5071,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarythalassery@yahoo.co.in",
+      "localName": "തലശ്ശേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3318,11 +5101,35 @@
         670101
       ],
       "contactNumber": "0490-2320051",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KODIYERI",
+        "VILLAGE_THALASSERY",
+        "VILLAGE_THIRUVANGAD"
+      ],
+      "poList": [
+        "POSTOFFICE_THALASSERY",
+        "POSTOFFICE_THALASSERY_BAZAR",
+        "POSTOFFICE_THALASSERY_COURTS",
+        "POSTOFFICE_PUNNOL",
+        "POSTOFFICE_TEMPLE_GATE",
+        "POSTOFFICE_CHALIL",
+        "POSTOFFICE_THIRUVANGAD",
+        "POSTOFFICE_MOOZHIKKARA",
+        "POSTOFFICE_CHERAKKARA",
+        "POSTOFFICE_NETTUR",
+        "POSTOFFICE_KAVUMBHAGAM",
+        "POSTOFFICE_VAYALALAM",
+        "POSTOFFICE_PARAL"
+      ],
+      "talukList": [
+        "TALUK_THALASSERY"
+      ]
     },
     {
       "code": "kl.thalipparamba",
       "lbid": 218,
+      "nationalLgdId": 252112,
       "name": "Thalipparamba Municipality",
       "description": "Thalipparamba",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kannur/thalipparamba.jpg",
@@ -3331,6 +5138,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secthaliparamba@gmail.com",
+      "localName": "തളിപ്പറമ്പ് മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3360,11 +5168,33 @@
         670141
       ],
       "contactNumber": "0460-2202259",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ANDOOR",
+        "VILLAGE_TALIPARAMBA",
+        "VILLAGE_MORAZHA"
+      ],
+      "poList": [
+        "POSTOFFICE_TALIPARAMBA",
+        "POSTOFFICE_TRICHAMBARAM",
+        "POSTOFFICE_KUTTIYERI",
+        "POSTOFFICE_KARIMBAM",
+        "POSTOFFICE_MORAZHA",
+        "POSTOFFICE_KUPPAM-TALIPARAMBA",
+        "POSTOFFICE_KUTTIKKOL",
+        "POSTOFFICE_KALLIASSERI",
+        "POSTOFFICE_KANUL",
+        "POSTOFFICE_NANICHERI",
+        "POSTOFFICE_PARASSINIKADAVU"
+      ],
+      "talukList": [
+        "TALUK_TALIPARAMBA"
+      ]
     },
     {
       "code": "kl.thiruvalla",
       "lbid": 179,
+      "nationalLgdId": 252251,
       "name": "Thiruvalla Municipality",
       "description": "Thiruvalla",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/pathanamthitta/thiruvalla.jpg",
@@ -3373,6 +5203,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarytvla@yahoo.com",
+      "localName": "തിരുവല്ല മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3402,19 +5233,47 @@
         689101
       ],
       "contactNumber": "04692-701315",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KAVUMBHAGOM",
+        "VILLAGE_KUTTAPUZHA",
+        "VILLAGE_THIRUVALLA"
+      ],
+      "poList": [
+        "POSTOFFICE_THIRUVALLA",
+        "POSTOFFICE_THIRUVALLA_MARKET_JUNCTION",
+        "POSTOFFICE_KAVUMBHAGOM",
+        "POSTOFFICE_KUTTAPUZHA",
+        "POSTOFFICE_CHUMATHRA",
+        "POSTOFFICE_PUSHPAGIRI-THIRUVALLA",
+        "POSTOFFICE_MANJADI",
+        "POSTOFFICE_KATTODE",
+        "POSTOFFICE_MUTHOOR",
+        "POSTOFFICE_PERUMTHURUTHY",
+        "POSTOFFICE_THIRUVALLA_R_S",
+        "POSTOFFICE_AZHIYIDATHUCHIRA",
+        "POSTOFFICE_THIRUMOOLAPURAM",
+        "POSTOFFICE_PANDANAD",
+        "POSTOFFICE_EDATHUA",
+        "POSTOFFICE_URUKARI"
+      ],
+      "talukList": [
+        "TALUK_THIRUVALLA"
+      ]
     },
     {
       "code": "kl.thiruvananthapuram",
       "lbid": 167,
+      "nationalLgdId": 252260,
       "name": "Thiruvananthapuram Corporation",
       "description": "Thiruvananthapuram",
-      "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/thiruvanathapuram.jpg",
+      "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/thiruvananthapuram.jpg",
       "imageId": null,
       "domainUrl": "https://tmc.lsgkerala.gov.in",
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "tvpmcorpn@gmail.com",
+      "localName": "തിരുവനന്തപുരം കോര്‍പ്പറേഷന്‍",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3444,11 +5303,152 @@
         695033
       ],
       "contactNumber": "4712320821",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_AYIROOPPARA",
+        "VILLAGE_ATTIPRA",
+        "VILLAGE_ULIYAZHTHURA",
+        "VILLAGE_ULLOOR",
+        "VILLAGE_KADAKAMPALLI",
+        "VILLAGE_KAWDIAR",
+        "VILLAGE_KAZHAKUTTOM",
+        "VILLAGE_MENAMKULAM",
+        "VILLAGE_KUDAPPANAKUNNU",
+        "VILLAGE_CHERUVACKAL",
+        "VILLAGE_THIRUMALA",
+        "VILLAGE_THIRUVALLAM",
+        "VILLAGE_THYCAUD",
+        "VILLAGE_NEMOM",
+        "VILLAGE_PATTOM",
+        "VILLAGE_PANGAPPARA",
+        "VILLAGE_PETTAH",
+        "VILLAGE_PEROORKADA",
+        "VILLAGE_MANACADU",
+        "VILLAGE_MUTTATHARA",
+        "VILLAGE_VANCHIYOOR",
+        "VILLAGE_VATTIYOORKAVU",
+        "VILLAGE_VIZHINJAM",
+        "VILLAGE_VENGANOOR",
+        "VILLAGE_VEILOOR",
+        "VILLAGE_SASTHAMANGALAM"
+      ],
+      "poList": [
+        "POSTOFFICE_THIRUVANANTHAPURAM_G_P_O",
+        "POSTOFFICE_THIRUVANANTHAPURAM_ACCOUNTANT_GENERAL_OFFICE",
+        "POSTOFFICE_THIRUVANANTHAPURAM_GOVT._PRESS",
+        "POSTOFFICE_KARAMANA",
+        "POSTOFFICE_KARUMAM",
+        "POSTOFFICE_KAWDIAR",
+        "POSTOFFICE_KAWDIAR_SQUARE",
+        "POSTOFFICE_KURAVANKONAM",
+        "POSTOFFICE_PATTOM",
+        "POSTOFFICE_PATTOM_PALACE",
+        "POSTOFFICE_MAHATMA_GANDHI_COLLEGE",
+        "POSTOFFICE_GOUREESAPATTOM",
+        "POSTOFFICE_PTP_JUNCTION",
+        "POSTOFFICE_AMBALAMUKKU",
+        "POSTOFFICE_OOLAMPARA",
+        "POSTOFFICE_PEROORKADA",
+        "POSTOFFICE_VALIAVILA",
+        "POSTOFFICE_THIRUMALA",
+        "POSTOFFICE_THIRUVANANTHAPURAM_BEACH",
+        "POSTOFFICE_VALLAKKADAVU",
+        "POSTOFFICE_VALIATHURA",
+        "POSTOFFICE_THOPE",
+        "POSTOFFICE_BEEMAPALLY",
+        "POSTOFFICE_MANACADU",
+        "POSTOFFICE_ATTUKAL",
+        "POSTOFFICE_THIRUVANANTHAPURAM_R_K_MISSION",
+        "POSTOFFICE_SASTHAMANGALAM",
+        "POSTOFFICE_ULLOOR",
+        "POSTOFFICE_CHERUVACKAL",
+        "POSTOFFICE_THIRUVANANTHAPURAM_MEDICAL_COLLEGE",
+        "POSTOFFICE_THURUVIKKAL",
+        "POSTOFFICE_PRASANTH_NAGAR",
+        "POSTOFFICE_POOJAPURA",
+        "POSTOFFICE_POOJAPURA_JUNCTION",
+        "POSTOFFICE_THAMALAM",
+        "POSTOFFICE_NETTAYAM",
+        "POSTOFFICE_MANIKANTESWARAM",
+        "POSTOFFICE_VATTIYOORKAVU",
+        "POSTOFFICE_KACHANI",
+        "POSTOFFICE_KODUNGANUR",
+        "POSTOFFICE_JAGATHY",
+        "POSTOFFICE_THYCAUD",
+        "POSTOFFICE_COTTON_HILL",
+        "POSTOFFICE_THIRUVANANTHAPURAM_THAMPANOOR",
+        "POSTOFFICE_NALANCHIRA",
+        "POSTOFFICE_MANNANTHALA",
+        "POSTOFFICE_THIRUVANANTHAPURAM_ENGINEERING_COLLEGE",
+        "POSTOFFICE_SREEKARIYAM",
+        "POSTOFFICE_PAPPANAMCODE",
+        "POSTOFFICE_INDUSTRIAL_ESTATE",
+        "POSTOFFICE_PRAVACHAMBALAM",
+        "POSTOFFICE_NEMOM",
+        "POSTOFFICE_VALIAVELI",
+        "POSTOFFICE_TITANIUM",
+        "POSTOFFICE_KARIKKAKOM",
+        "POSTOFFICE_THIRUVANANTHAPURAM_ISRO",
+        "POSTOFFICE_THIRUVANANTHAPURAM_FORT",
+        "POSTOFFICE_ATTAKULANGARA",
+        "POSTOFFICE_THIRUVANANTHAPURAM_PETTAH",
+        "POSTOFFICE_CHAKKAI",
+        "POSTOFFICE_KAITHAMUKKU",
+        "POSTOFFICE_PALKULANGARA",
+        "POSTOFFICE_MUTTADA",
+        "POSTOFFICE_POONTHURA",
+        "POSTOFFICE_AMBALATHARA",
+        "POSTOFFICE_PACHALLUR",
+        "POSTOFFICE_THIRUVALLAM",
+        "POSTOFFICE_ANAYARA",
+        "POSTOFFICE_KANJIRAMPARA",
+        "POSTOFFICE_ARAMADA",
+        "POSTOFFICE_VIKAS_BHAVAN",
+        "POSTOFFICE_PMG_JUNCTION",
+        "POSTOFFICE_PUBLIC_OFFICE",
+        "POSTOFFICE_THIRUVANANTHAPURAM_UNIVERSITY",
+        "POSTOFFICE_VANCHIYOOR",
+        "POSTOFFICE_VANCHIYOOR_JUNCTION",
+        "POSTOFFICE_THIRUVANANTHAPURAM_CHALAI",
+        "POSTOFFICE_PTP_NAGAR",
+        "POSTOFFICE_KAIMANAM",
+        "POSTOFFICE_KUDAPPANAKUNNU",
+        "POSTOFFICE_MUKKOLAKKAL",
+        "POSTOFFICE_KERALA_GOVERNOR'S_CAMP",
+        "POSTOFFICE_CHOWARA",
+        "POSTOFFICE_MULLOOR",
+        "POSTOFFICE_VIZHINJAM",
+        "POSTOFFICE_KOTTAPURAM",
+        "POSTOFFICE_VELLAYANI",
+        "POSTOFFICE_CGO_COMPLEX_POONKULAM",
+        "POSTOFFICE_MUTTAKADU",
+        "POSTOFFICE_KIDARAKUZHI",
+        "POSTOFFICE_VENGANOOR",
+        "POSTOFFICE_KOVALAM",
+        "POSTOFFICE_KOVALAM_BEACH",
+        "POSTOFFICE_PANGAPPARA",
+        "POSTOFFICE_KARYAVATTOM",
+        "POSTOFFICE_THUNDATHIL",
+        "POSTOFFICE_KAZHAKUTTOM",
+        "POSTOFFICE_KARIMANAL",
+        "POSTOFFICE_KULATHOOR",
+        "POSTOFFICE_AYIROOPPARA",
+        "POSTOFFICE_ANDOORKONAM",
+        "POSTOFFICE_KATTAIKONAM",
+        "POSTOFFICE_SAINIK_SCHOOL",
+        "POSTOFFICE_POWDIKONAM",
+        "POSTOFFICE_CHEMPAZHANTHY",
+        "POSTOFFICE_SANTHIGIRI"
+      ],
+      "talukList": [
+        "TALUK_THIRUVANANTHAPURAM",
+        "TALUK_NEYYATTINKARA"
+      ]
     },
     {
       "code": "kl.thodupuzha",
       "lbid": 190,
+      "nationalLgdId": 252233,
       "name": "Thodupuzha Municipality",
       "description": "Thodupuzha",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/idukki/thodupuzha.jpg",
@@ -3457,6 +5457,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "munsectdpa@gmail.com",
+      "localName": "തൊടുപുഴ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3486,11 +5487,36 @@
         685584
       ],
       "contactNumber": "04862-222711",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KARIMKUNNAM",
+        "VILLAGE_KARIKODE",
+        "VILLAGE_KUMARAMANGALAM",
+        "VILLAGE_THODUPUZHA",
+        "VILLAGE_MANAKKAD"
+      ],
+      "poList": [
+        "POSTOFFICE_THODUPUZHA",
+        "POSTOFFICE_THODUPUZHA_BAZAR",
+        "POSTOFFICE_THODUPUZHA_NORTH",
+        "POSTOFFICE_THODUPUZHA_EAST",
+        "POSTOFFICE_KARIMKUNNAM",
+        "POSTOFFICE_MRALA",
+        "POSTOFFICE_EDAVETTY",
+        "POSTOFFICE_MUTHALAKODAM",
+        "POSTOFFICE_MANAKKAD",
+        "POSTOFFICE_NEDIYASALA",
+        "POSTOFFICE_VENGALLOOR",
+        "POSTOFFICE_KOLANI"
+      ],
+      "talukList": [
+        "TALUK_THODUPUZHA"
+      ]
     },
     {
       "code": "kl.thrikkakara",
       "lbid": 1245,
+      "nationalLgdId": 259708,
       "name": "Thrikkakara Municipality",
       "description": "Thrikkakara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/thrikkakara.jpg",
@@ -3499,6 +5525,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "sectkramncplty@gmail.com",
+      "localName": "തൃക്കാക്കര മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3528,11 +5555,29 @@
         682030
       ],
       "contactNumber": "0484-2422383",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KAKKANAD",
+        "VILLAGE_THRIKKAKARA_NORTH",
+        "VILLAGE_VAZHAKKALA"
+      ],
+      "poList": [
+        "POSTOFFICE_THRIKKAKARA",
+        "POSTOFFICE_KAKKANAD",
+        "POSTOFFICE_KAKKANAD_WEST",
+        "POSTOFFICE_KUSUMAGIRI",
+        "POSTOFFICE_THENGOD",
+        "POSTOFFICE_KOCHI_SPECIAL_ECONOMIC_ZONE",
+        "POSTOFFICE_RAJAGIRI_VALLEY"
+      ],
+      "talukList": [
+        "TALUK_KANAYANNUR"
+      ]
     },
     {
       "code": "kl.thrissur",
       "lbid": 170,
+      "nationalLgdId": 252194,
       "name": "Thrissur Corporation",
       "description": "Thrissur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/thrissur.jpg",
@@ -3541,6 +5586,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "thrissursecretary@gmail.com",
+      "localName": "തൃശ്ശൂര്‍ കോര്‍പ്പറേഷന്‍",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3570,11 +5616,77 @@
         680001
       ],
       "contactNumber": "0487-2422020",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_AYYANTHOLE",
+        "VILLAGE_ARANATTUKKARA",
+        "VILLAGE_EDAKUNNI",
+        "VILLAGE_OLLUKKARA",
+        "VILLAGE_OLLUR",
+        "VILLAGE_KANIMANGALAM",
+        "VILLAGE_KOORKKANCHERY",
+        "VILLAGE_CHIYYARAM",
+        "VILLAGE_CHEMBOOKKAVU",
+        "VILLAGE_THRISSUR",
+        "VILLAGE_NADATHARA",
+        "VILLAGE_NETTISSERY",
+        "VILLAGE_PULLAZHI",
+        "VILLAGE_POONKUNNAM",
+        "VILLAGE_PERINGAVU",
+        "VILLAGE_VIYYUR",
+        "VILLAGE_VILVATTOM"
+      ],
+      "poList": [
+        "POSTOFFICE_THRISSUR",
+        "POSTOFFICE_THRISSUR_CENTRAL",
+        "POSTOFFICE_NATIONAL_SPEED_POST_CENTRAL_THRISSUR",
+        "POSTOFFICE_POONKUNNAM",
+        "POSTOFFICE_AYYANTHOLE",
+        "POSTOFFICE_AYYANTHOLE_NORTH",
+        "POSTOFFICE_POOTHOLE",
+        "POSTOFFICE_WEST_FORT",
+        "POSTOFFICE_NELLIKKUNNU",
+        "POSTOFFICE_THRISSUR_EAST",
+        "POSTOFFICE_ANCHERY",
+        "POSTOFFICE_KURIACHIRA",
+        "POSTOFFICE_NEHRU_NAGAR",
+        "POSTOFFICE_VADOOKKARA",
+        "POSTOFFICE_KOORKKANCHERY",
+        "POSTOFFICE_NEDUPUZHA",
+        "POSTOFFICE_CHEROOR",
+        "POSTOFFICE_PERINGAVU",
+        "POSTOFFICE_THRISSUR_ENGINEERING_COLLEGE",
+        "POSTOFFICE_VIYYUR",
+        "POSTOFFICE_KANATTUKARA",
+        "POSTOFFICE_PULLAZHI",
+        "POSTOFFICE_CHETTUPUZHA",
+        "POSTOFFICE_KUTTANELLUR",
+        "POSTOFFICE_THRISSUR_CITY",
+        "POSTOFFICE_THRISSUR_R_S",
+        "POSTOFFICE_THIRUVAMBADY-THRISSUR",
+        "POSTOFFICE_CHIYYARAM",
+        "POSTOFFICE_KANIMANGALAM",
+        "POSTOFFICE_OLLUR",
+        "POSTOFFICE_OLLUR-NORTH",
+        "POSTOFFICE_KONIKARA",
+        "POSTOFFICE_THALORE",
+        "POSTOFFICE_OLLUR-THAIKKATTUSSERY",
+        "POSTOFFICE_AMALANAGAR",
+        "POSTOFFICE_ELTHURUTH",
+        "POSTOFFICE_ARANATTUKKARA",
+        "POSTOFFICE_RAMAVARMAPURAM",
+        "POSTOFFICE_MANNUTHY",
+        "POSTOFFICE_NETTISSERY",
+        "POSTOFFICE_OLLUKKARA"
+      ],
+      "talukList": [
+        "TALUK_THRISSUR"
+      ]
     },
     {
       "code": "kl.tirur",
       "lbid": 212,
+      "nationalLgdId": 252172,
       "name": "Tirur Municipality",
       "description": "Tirur",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/tirur.jpg",
@@ -3583,6 +5695,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretarytirmun@gmail.com",
+      "localName": "തിരൂര്‍ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3612,11 +5725,28 @@
         676104
       ],
       "contactNumber": "0494-2422303",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_TIRUR",
+        "VILLAGE_TRIKANDIYUR"
+      ],
+      "poList": [
+        "POSTOFFICE_TIRUR",
+        "POSTOFFICE_THAZHEPALAM",
+        "POSTOFFICE_TIRUR_EAST_BAZAR",
+        "POSTOFFICE_TRIKANDIYUR",
+        "POSTOFFICE_THEKKUMMURI",
+        "POSTOFFICE_POOKAYIL_BAZAR",
+        "POSTOFFICE_MEENADATHUR"
+      ],
+      "talukList": [
+        "TALUK_TIRUR"
+      ]
     },
     {
       "code": "kl.tirurangadi",
       "lbid": 1274,
+      "nationalLgdId": 272903,
       "name": "Tirurangadi Municipality",
       "description": "Tirurangadi",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/tirurangadi.jpg",
@@ -3625,6 +5755,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "tirurangadiurban@gmail.com",
+      "localName": "തിരൂരങ്ങാടി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3654,11 +5785,27 @@
         676306
       ],
       "contactNumber": "0494-2460339",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_TIRURANGADI"
+      ],
+      "poList": [
+        "POSTOFFICE_PANTHARANGADY",
+        "POSTOFFICE_KAKKAD",
+        "POSTOFFICE_TIRURANGADI",
+        "POSTOFFICE_TIRURANGADI_BAZAR",
+        "POSTOFFICE_VALAKOLAM",
+        "POSTOFFICE_CHULLIPPARA",
+        "POSTOFFICE_VENNIYUR"
+      ],
+      "talukList": [
+        "TALUK_TIRURANGADI"
+      ]
     },
     {
       "code": "kl.tripunithura",
       "lbid": 194,
+      "nationalLgdId": 252227,
       "name": "Tripunithura Municipality",
       "description": "Tripunithura",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/tripunithura.jpg",
@@ -3667,6 +5814,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "musectripunithura@gmail.com",
+      "localName": "തൃപ്പൂണിത്തുറ മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3696,11 +5844,35 @@
         null
       ],
       "contactNumber": "0484-2780318",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_THIRUVANKULAM",
+        "VILLAGE_THEKKUMBHAGOM",
+        "VILLAGE_NADAMA"
+      ],
+      "poList": [
+        "POSTOFFICE_KOCHI_SPECIAL_ECONOMIC_ZONE",
+        "POSTOFFICE_RAJAGIRI_VALLEY",
+        "POSTOFFICE_KOCHI_PALACE",
+        "POSTOFFICE_THEKKUMBHAGOM",
+        "POSTOFFICE_TRIPUNITHURA",
+        "POSTOFFICE_TRIPUNITHURA_FORT",
+        "POSTOFFICE_KADUNGAMANGALAM",
+        "POSTOFFICE_THIRUVANKULAM",
+        "POSTOFFICE_EROOR_SOUTH",
+        "POSTOFFICE_EROOR_WEST",
+        "POSTOFFICE_EROOR",
+        "POSTOFFICE_IRUMPANAM",
+        "POSTOFFICE_CHOTTANIKKARA"
+      ],
+      "talukList": [
+        "TALUK_KANAYANNUR"
+      ]
     },
     {
       "code": "kl.vadakara",
       "lbid": 214,
+      "nationalLgdId": 252157,
       "name": "Vadakara Municipality",
       "description": "Vadakara",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kozhikkode/vadakara.jpg",
@@ -3709,6 +5881,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secretaryvatakara@gmail.com",
+      "localName": "വടകര മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3738,11 +5911,33 @@
         673103
       ],
       "contactNumber": "0496-2512378",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_NADAKKUTHAZHA",
+        "VILLAGE_VATAKARA"
+      ],
+      "poList": [
+        "POSTOFFICE_VATAKARA",
+        "POSTOFFICE_VATAKARA_BEACH",
+        "POSTOFFICE_NUT_STREET",
+        "POSTOFFICE_PUTHUR",
+        "POSTOFFICE_SIDHA_SAMAJAM",
+        "POSTOFFICE_MEPPAYIL",
+        "POSTOFFICE_NADAKKUTHAZHA",
+        "POSTOFFICE_PUTHUPPANAM",
+        "POSTOFFICE_CHORODE_EAST",
+        "POSTOFFICE_MUTTUNGAL",
+        "POSTOFFICE_MAHE",
+        "POSTOFFICE_MUTHUVANA"
+      ],
+      "talukList": [
+        "TALUK_VATAKARA"
+      ]
     },
     {
       "code": "kl.vaikom",
       "lbid": 187,
+      "nationalLgdId": 252236,
       "name": "Vaikom Municipality",
       "description": "Vaikom",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kottayam/vaikom.jpg",
@@ -3751,6 +5946,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "mailtovaikommunicipality@gmail.com",
+      "localName": "വൈക്കം മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3780,11 +5976,27 @@
         null
       ],
       "contactNumber": "9019746581",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_NADUVILE",
+        "VILLAGE_VADAKKEMURI",
+        "VILLAGE_VAIKOM"
+      ],
+      "poList": [
+        "POSTOFFICE_VAIKOM",
+        "POSTOFFICE_VAIKOM_THEKKENADA",
+        "POSTOFFICE_AYYARKULANGARA",
+        "POSTOFFICE_UDAYANAPURAM",
+        "POSTOFFICE_PALLIPPURATHUSSERY"
+      ],
+      "talukList": [
+        "TALUK_VAIKOM"
+      ]
     },
     {
       "code": "kl.valanchery",
       "lbid": 1273,
+      "nationalLgdId": 272902,
       "name": "Valanchery Municipality",
       "description": "Valanchery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/malappuram/valanchery.jpg",
@@ -3793,6 +6005,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "valancherymunicipality@gmail.com",
+      "localName": "വളാഞ്ചേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3822,11 +6035,24 @@
         676552
       ],
       "contactNumber": "0494-2644325",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_KATTIPPARUTHI"
+      ],
+      "poList": [
+        "POSTOFFICE_VALANCHERY",
+        "POSTOFFICE_THOZHUVANOOR",
+        "POSTOFFICE_KADAMPUZHA",
+        "POSTOFFICE_PAINKANNUR"
+      ],
+      "talukList": [
+        "TALUK_TIRUR"
+      ]
     },
     {
       "code": "kl.varkala",
       "lbid": 172,
+      "nationalLgdId": 252257,
       "name": "Varkala Municipality",
       "description": "Varkala",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thiruvananthapuram/varkala.jpg",
@@ -3835,6 +6061,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "secyvarkala@gmail.com",
+      "localName": "വര്‍ക്കല മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3864,11 +6091,30 @@
         695141
       ],
       "contactNumber": "0470-2603115",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_VARKALA"
+      ],
+      "poList": [
+        "POSTOFFICE_VARKALA",
+        "POSTOFFICE_CHILAKKOOR",
+        "POSTOFFICE_JANARDHANAPURAM_N_D_B_O_VARKALA",
+        "POSTOFFICE_VARKALA_SOUTH_PUTHENCHANTHA",
+        "POSTOFFICE_PALACHIRA",
+        "POSTOFFICE_SREENIVASAPURAM",
+        "POSTOFFICE_MUTTAPPALAM",
+        "POSTOFFICE_PULLANICODE",
+        "POSTOFFICE_EDAVA",
+        "POSTOFFICE_ODAYAM"
+      ],
+      "talukList": [
+        "TALUK_VARKALA"
+      ]
     },
     {
       "code": "kl.vadakanchery",
       "lbid": 1268,
+      "nationalLgdId": 272909,
       "name": "Wadakanchery Municipality",
       "description": "Wadakanchery",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/thrissur/wadakanchery.jpg",
@@ -3877,6 +6123,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": "wckymp@gmail.com",
+      "localName": "വടക്കാഞ്ചേരി മുനിസിപ്പാലിറ്റി",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3906,7 +6153,42 @@
         680582
       ],
       "contactNumber": "04884-232252",
-      "pdfHeader": ""
+      "pdfHeader": "",
+      "villageList": [
+        "VILLAGE_ATTUR",
+        "VILLAGE_ENKAKAD",
+        "VILLAGE_KUMARANELLUR",
+        "VILLAGE_PARLIKKAD",
+        "VILLAGE_PUDURUTHY",
+        "VILLAGE_PERINGANDUR",
+        "VILLAGE_MINALUR",
+        "VILLAGE_MUNDATHICODE",
+        "VILLAGE_MULLURKARA",
+        "VILLAGE_WADAKANCHERY"
+      ],
+      "poList": [
+        "POSTOFFICE_MINALUR",
+        "POSTOFFICE_MULAKUNNATHUKAVU",
+        "POSTOFFICE_PERINGANDUR",
+        "POSTOFFICE_CHOTTUPARA",
+        "POSTOFFICE_TIRUR",
+        "POSTOFFICE_ATHANI_-THRISSUR",
+        "POSTOFFICE_WADAKANCHERY",
+        "POSTOFFICE_MANALITHARA",
+        "POSTOFFICE_ENKAKAD",
+        "POSTOFFICE_KARUMATHRA",
+        "POSTOFFICE_KUMARANELLUR-THRISSUR",
+        "POSTOFFICE_MUNDATHICODE",
+        "POSTOFFICE_ALOOR_MATTAM",
+        "POSTOFFICE_PARLIKKAD",
+        "POSTOFFICE_PUDURUTHY",
+        "POSTOFFICE_MUNDATHICODE_WEST",
+        "POSTOFFICE_WADAKANCHERY_RAILWAY_STATION",
+        "POSTOFFICE_VYASAGIRI"
+      ],
+      "talukList": [
+        "TALUK_THALAPPILLY"
+      ]
     }
   ]
 }
