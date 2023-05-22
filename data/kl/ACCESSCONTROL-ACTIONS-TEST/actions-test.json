@@ -15101,7 +15101,7 @@
       {
          "id": 2539,
          "name": "death update correction",
-         "url": "/v1/deathdetails/updatedeathcorrectionh",
+         "url": "/death-services/v1/deathdetails/updatedeathcorrection",
          "parentModule": "",
          "displayName": "update correction",
          "orderNumber": 0,
