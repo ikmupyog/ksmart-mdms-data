@@ -74,7 +74,7 @@
       "BirtPlace": "HOSPITAL",
       "WorkflowCode": "BIRTH30DAYS",    
       "SubType":"BETWEEN21TO30",
-      "startdateperiod": 1814400001,
+      "startdateperiod": 1900800000,
       "enddateperiod": 2592000000,
       "payment": true,
       "amount": 2,
@@ -87,7 +87,7 @@
       "BirtPlace": "HOME",
       "WorkflowCode": "BIRTH30DAYSHOME",    
       "SubType":"BETWEEN21TO30",
-      "startdateperiod": 1814400001,
+      "startdateperiod": 1900800000,
       "enddateperiod": 2592000000,
       "payment": true,
       "amount": 2,
@@ -100,7 +100,7 @@
       "BirtPlace": "INSTITUTION",
       "WorkflowCode": "BIRTH30DAYSHOME",    
       "SubType":"BETWEEN21TO30",
-      "startdateperiod": 1814400001,
+      "startdateperiod": 1900800000,
       "enddateperiod": 2592000000,
       "payment": true,
       "amount": 2,
@@ -113,7 +113,7 @@
       "BirtPlace": "VEHICLE",
       "WorkflowCode": "BIRTH30DAYSHOME",    
       "SubType":"BETWEEN21TO30",
-      "startdateperiod": 1814400001,
+      "startdateperiod": 1900800000,
       "enddateperiod": 2592000000,
       "payment": true,
       "amount": 2,
@@ -126,7 +126,7 @@
       "BirtPlace": "PUBLIC_PLACES",
       "WorkflowCode": "BIRTH30DAYSHOME",    
       "SubType":"BETWEEN21TO30",
-      "startdateperiod": 1814400001,
+      "startdateperiod": 1900800000,
       "enddateperiod": 2592000000,
       "payment": true,
       "amount": 2,
@@ -158,7 +158,19 @@
       "amount": 5,
       "active": true
     },
-     
+     {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRNR",
+      "BusinessService": "CR",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "BIRTH30TO1YRHOME",  
+      "SubType":"BETWEEN30TO1YR",
+      "startdateperiod": 2592000000,
+      "enddateperiod": 31622400000,
+      "payment": true,
+      "amount": 5,
+      "active": true
+    },
      {
       "tenantId": "kl",
       "ApplicationType": "CRBRNR",
@@ -219,12 +231,24 @@
       "WorkflowCode": "ABOVE1YRBIRTHHOME",
       "SubType":"ABOVE1YR",
       "startdateperiod": 31622400000,
-      "enddateperiod": 0,
+      "enddateperiod": 31449600000000,
       "payment": true,
       "amount": 10,
       "active": true
     },
-   {
+    {
+      "tenantId": "kl",
+      "ApplicationType": "CRBRNR",
+      "BusinessService": "CR",
+      "BirtPlace": "HOME",
+      "WorkflowCode": "ABOVE1YRBIRTHHOME",
+      "SubType":"ABOVE1YR",
+      "startdateperiod": 31622400000,
+      "enddateperiod": 31449600000000,
+      "payment": true,
+      "amount": 10,
+      "active": true
+    },{
       "tenantId": "kl",
       "ApplicationType": "CRBRNR",
       "BusinessService": "CR",
@@ -260,7 +284,7 @@
       "payment": true,
       "amount": 10,
       "active": true
-    },    
+    },
      {
       "tenantId": "kl",
       "ApplicationType": "CRBRCN",
