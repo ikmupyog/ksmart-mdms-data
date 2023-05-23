@@ -14,6 +14,30 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+   {
+      "rolecode": "JHI",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "JHI",
+      "actionid": 2425,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "JHI",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "JHI",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
      {
       "rolecode": "EMPLOYEE",
       "actionid": 2413,
@@ -24256,6 +24280,12 @@
     {
       "rolecode": "BND_CEMP",
       "actionid": 2353,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+  {
+      "rolecode": "BND_DISTRICT_REGISTRAR",
+      "actionid": 1752,
       "actioncode": "",
       "tenantId": "kl"
     },
