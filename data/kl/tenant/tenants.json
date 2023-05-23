@@ -49,12 +49,14 @@
         {
           "code": "VILLAGE_ADOOR",
           "name": "Adoor",
-          "namelocal": "അടൂര്‍"
+          "namelocal": "അടൂര്‍",
+          "talukCode": "TALUK_ADOOR"
         },
         {
           "code": "VILLAGE_PERINGANAD",
           "name": "Peringanad",
-          "namelocal": "പെരിങ്ങനാട്"
+          "namelocal": "പെരിങ്ങനാട്",
+          "talukCode": "TALUK_ADOOR"
         }
       ],
       "poList": [
@@ -149,12 +151,14 @@
         {
           "code": "VILLAGE_ARYAD_SOUTH",
           "name": "Aryad South",
-          "namelocal": "ആര്യാട് സൗത്ത്"
+          "namelocal": "ആര്യാട് സൗത്ത്",
+          "talukCode": "TALUK_AMBALAPPUZHA"
         },
         {
           "code": "VILLAGE_MULLACKAL",
           "name": "Mullackal",
-          "namelocal": "മുല്ലയ്ക്കല്‍"
+          "namelocal": "മുല്ലയ്ക്കല്‍",
+          "talukCode": "TALUK_AMBALAPPUZHA"
         }
       ],
       "poList": [
@@ -351,7 +355,8 @@
         {
           "code": "VILLAGE_ALUVA_WEST",
           "name": "Aluva West",
-          "namelocal": "ആലുവ വെസ്റ്റ്"
+          "namelocal": "ആലുവ വെസ്റ്റ്",
+          "talukCode": "TALUK_ALUVA"
         }
       ],
       "poList": [
@@ -447,7 +452,8 @@
         {
           "code": "VILLAGE_ANGAMALY",
           "name": "Angamaly",
-          "namelocal": "അങ്കമാലി"
+          "namelocal": "അങ്കമാലി",
+          "talukCode": "TALUK_ALUVA"
         }
       ],
       "poList": [
@@ -549,12 +555,14 @@
         {
           "code": "VILLAGE_ANDOOR",
           "name": "Andoor",
-          "namelocal": "ആന്തൂര്‍"
+          "namelocal": "ആന്തൂര്‍",
+          "talukCode": "TALUK_TALIPARAMBA"
         },
         {
           "code": "VILLAGE_MORAZHA",
           "name": "Morazha",
-          "namelocal": "മൊറാഴ"
+          "namelocal": "മൊറാഴ",
+          "talukCode": "TALUK_TALIPARAMBA"
         }
       ],
       "poList": [
@@ -661,42 +669,50 @@
         {
           "code": "VILLAGE_AVANAVANCHERRY",
           "name": "Avanavancherry",
-          "namelocal": "അവനവഞ്ചേരി"
+          "namelocal": "അവനവഞ്ചേരി",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         },
         {
           "code": "VILLAGE_ALAMCODE",
           "name": "Alamcode",
-          "namelocal": "ആലംകോട്"
+          "namelocal": "ആലംകോട്",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         },
         {
           "code": "VILLAGE_ATTINGAL",
           "name": "Attingal",
-          "namelocal": "ആറ്റിങ്ങല്‍"
+          "namelocal": "ആറ്റിങ്ങല്‍",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         },
         {
           "code": "VILLAGE_EDAKKODE",
           "name": "Edakkode",
-          "namelocal": "ഇടയ്ക്കോട്"
+          "namelocal": "ഇടയ്ക്കോട്",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         },
         {
           "code": "VILLAGE_KIZHUVILAM",
           "name": "Kizhuvilam",
-          "namelocal": "കിഴുവിലം"
+          "namelocal": "കിഴുവിലം",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         },
         {
           "code": "VILLAGE_KEEZHATTINGAL",
           "name": "Keezhattingal",
-          "namelocal": "കീഴാറ്റിങ്ങല്‍"
+          "namelocal": "കീഴാറ്റിങ്ങല്‍",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         },
         {
           "code": "VILLAGE_KUNTHALLUR",
           "name": "Kunthallur",
-          "namelocal": "കുന്തള്ളൂര്‍"
+          "namelocal": "കുന്തള്ളൂര്‍",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         },
         {
           "code": "VILLAGE_MANAMBOOR",
           "name": "Manamboor",
-          "namelocal": "മണമ്പൂര്‍"
+          "namelocal": "മണമ്പൂര്‍",
+          "talukCode": "TALUK_CHIRAYINKEEZHU"
         }
       ],
       "poList": [
@@ -821,22 +837,26 @@
         {
           "code": "VILLAGE_EAST_CHALAKUDY",
           "name": "East Chalakudy",
-          "namelocal": "കിഴക്കെ ചാലക്കുടി"
+          "namelocal": "കിഴക്കെ ചാലക്കുടി",
+          "talukCode": "TALUK_CHALAKUDY"
         },
         {
           "code": "VILLAGE_WEST_CHALAKUDY",
           "name": "West Chalakudy",
-          "namelocal": "പടിഞ്ഞാറെ ചാലക്കുടി"
+          "namelocal": "പടിഞ്ഞാറെ ചാലക്കുടി",
+          "talukCode": "TALUK_CHALAKUDY"
         },
         {
           "code": "VILLAGE_PERAMBRA",
           "name": "Perambra",
-          "namelocal": "പേരാമ്പ്ര"
+          "namelocal": "പേരാമ്പ്ര",
+          "talukCode": "TALUK_CHALAKUDY"
         },
         {
           "code": "VILLAGE_POTTA",
           "name": "Potta",
-          "namelocal": "പോട്ട"
+          "namelocal": "പോട്ട",
+          "talukCode": "TALUK_CHALAKUDY"
         }
       ],
       "poList": [
@@ -959,12 +979,14 @@
         {
           "code": "VILLAGE_CHANGANASERI",
           "name": "Changanaseri",
-          "namelocal": "ചങ്ങനാശ്ശേരി"
+          "namelocal": "ചങ്ങനാശ്ശേരി",
+          "talukCode": "TALUK_CHANGANASERI"
         },
         {
           "code": "VILLAGE_VAZHAPPALLY_WEST",
           "name": "Vazhappally West",
-          "namelocal": "വാഴപ്പള്ളി വെസ്റ്റ്"
+          "namelocal": "വാഴപ്പള്ളി വെസ്റ്റ്",
+          "talukCode": "TALUK_CHANGANASERI"
         }
       ],
       "poList": [
@@ -1083,12 +1105,14 @@
         {
           "code": "VILLAGE_GURUVAYUR",
           "name": "Guruvayur",
-          "namelocal": "ഗുരുവായൂര്‍"
+          "namelocal": "ഗുരുവായൂര്‍",
+          "talukCode": "TALUK_CHAVAKKAD"
         },
         {
           "code": "VILLAGE_MANATHALA",
           "name": "Manathala",
-          "namelocal": "മണത്തല"
+          "namelocal": "മണത്തല",
+          "talukCode": "TALUK_CHAVAKKAD"
         }
       ],
       "poList": [
@@ -1225,27 +1249,32 @@
         {
           "code": "VILLAGE_ALA",
           "name": "Ala",
-          "namelocal": "ആല"
+          "namelocal": "ആല",
+          "talukCode": "TALUK_CHENGANNUR"
         },
         {
           "code": "VILLAGE_CHENGANNUR",
           "name": "Chengannur",
-          "namelocal": "ചെങ്ങന്നൂര്‍"
+          "namelocal": "ചെങ്ങന്നൂര്‍",
+          "talukCode": "TALUK_CHENGANNUR"
         },
         {
           "code": "VILLAGE_PANDANAD",
           "name": "Pandanad",
-          "namelocal": "പാണ്ടനാട്"
+          "namelocal": "പാണ്ടനാട്",
+          "talukCode": "TALUK_CHENGANNUR"
         },
         {
           "code": "VILLAGE_PULIYOOR",
           "name": "Puliyoor",
-          "namelocal": "പുലിയൂര്‍"
+          "namelocal": "പുലിയൂര്‍",
+          "talukCode": "TALUK_CHENGANNUR"
         },
         {
           "code": "VILLAGE_MULAKUZHA",
           "name": "Mulakuzha",
-          "namelocal": "മുളക്കുഴ"
+          "namelocal": "മുളക്കുഴ",
+          "talukCode": "TALUK_CHENGANNUR"
         }
       ],
       "poList": [
@@ -1373,12 +1402,14 @@
         {
           "code": "VILLAGE_CHERPULASSERY",
           "name": "Cherpulassery",
-          "namelocal": "ചെര്‍പുളശ്ശേരി"
+          "namelocal": "ചെര്‍പുളശ്ശേരി",
+          "talukCode": "TALUK_OTTAPALAM"
         },
         {
           "code": "VILLAGE_TRIKKADERI_II",
           "name": "Trikkaderi II",
-          "namelocal": "തൃക്കടീരി II"
+          "namelocal": "തൃക്കടീരി II",
+          "talukCode": "TALUK_OTTAPALAM"
         }
       ],
       "poList": [
@@ -1485,17 +1516,20 @@
         {
           "code": "VILLAGE_KOKKOTHAMANGALAM",
           "name": "Kokkothamangalam",
-          "namelocal": "കൊക്കോതമംഗലം"
+          "namelocal": "കൊക്കോതമംഗലം",
+          "talukCode": "TALUK_CHERTHALA"
         },
         {
           "code": "VILLAGE_CHERTHALA_SOUTH",
           "name": "Cherthala South",
-          "namelocal": "ചേര്‍ത്തല തെക്ക്"
+          "namelocal": "ചേര്‍ത്തല തെക്ക്",
+          "talukCode": "TALUK_CHERTHALA"
         },
         {
           "code": "VILLAGE_CHERTHALA_NORTH",
           "name": "Cherthala North",
-          "namelocal": "ചേര്‍ത്തല നോര്‍ത്ത്"
+          "namelocal": "ചേര്‍ത്തല നോര്‍ത്ത്",
+          "talukCode": "TALUK_CHERTHALA"
         }
       ],
       "poList": [
@@ -1595,12 +1629,14 @@
         {
           "code": "VILLAGE_CHITTUR",
           "name": "Chittur",
-          "namelocal": "ചിറ്റൂര്‍"
+          "namelocal": "ചിറ്റൂര്‍",
+          "talukCode": "TALUK_CHITTUR"
         },
         {
           "code": "VILLAGE_TATTAMANGALAM",
           "name": "Tattamangalam",
-          "namelocal": "തത്തമംഗലം"
+          "namelocal": "തത്തമംഗലം",
+          "talukCode": "TALUK_CHITTUR"
         }
       ],
       "poList": [
@@ -1719,77 +1755,92 @@
         {
           "code": "VILLAGE_EDAKOCHI",
           "name": "Edakochi",
-          "namelocal": "ഇടക്കൊച്ചി"
+          "namelocal": "ഇടക്കൊച്ചി",
+          "talukCode": "TALUK_KOCHI"
         },
         {
           "code": "VILLAGE_EDAPALLY_NORTH",
           "name": "Edapally North",
-          "namelocal": "ഇടപ്പള്ളി നോര്‍ത്ത്"
+          "namelocal": "ഇടപ്പള്ളി നോര്‍ത്ത്",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_EDAPALLY_SOUTH",
           "name": "Edapally South",
-          "namelocal": "ഇടപ്പള്ളി സൗത്ത്"
+          "namelocal": "ഇടപ്പള്ളി സൗത്ത്",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_ELAMKULAM",
           "name": "Elamkulam",
-          "namelocal": "എളംകുളം"
+          "namelocal": "എളംകുളം",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_ERNAKULAM",
           "name": "Ernakulam",
-          "namelocal": "എറണാകുളം"
+          "namelocal": "എറണാകുളം",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_KANAYANNUR",
           "name": "Kanayannur",
-          "namelocal": "കണയന്നൂര്‍"
+          "namelocal": "കണയന്നൂര്‍",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_KOCHI",
           "name": "Kochi",
-          "namelocal": "കൊച്ചി"
+          "namelocal": "കൊച്ചി",
+          "talukCode": "TALUK_KOCHI"
         },
         {
           "code": "VILLAGE_CHERANALLOOR",
           "name": "Cheranalloor",
-          "namelocal": "ചേരാനല്ലൂര്‍"
+          "namelocal": "ചേരാനല്ലൂര്‍",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_THOPPUMPADY",
           "name": "Thoppumpady",
-          "namelocal": "തോപ്പുംപടി"
+          "namelocal": "തോപ്പുംപടി",
+          "talukCode": "TALUK_KOCHI"
         },
         {
           "code": "VILLAGE_PALLURUTHY",
           "name": "Palluruthy",
-          "namelocal": "പള്ളുരുത്തി"
+          "namelocal": "പള്ളുരുത്തി",
+          "talukCode": "TALUK_KOCHI"
         },
         {
           "code": "VILLAGE_POONITHURA",
           "name": "Poonithura",
-          "namelocal": "പൂണിത്തുറ"
+          "namelocal": "പൂണിത്തുറ",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_FORTKOCHI",
           "name": "Fortkochi",
-          "namelocal": "ഫോര്‍ട്ട്കൊച്ചി"
+          "namelocal": "ഫോര്‍ട്ട്കൊച്ചി",
+          "talukCode": "TALUK_KOCHI"
         },
         {
           "code": "VILLAGE_MATTANCHERRY",
           "name": "Mattancherry",
-          "namelocal": "മട്ടാഞ്ചേരി"
+          "namelocal": "മട്ടാഞ്ചേരി",
+          "talukCode": "TALUK_KOCHI"
         },
         {
           "code": "VILLAGE_MULAVUKAD",
           "name": "Mulavukad",
-          "namelocal": "മുളവുകാട്"
+          "namelocal": "മുളവുകാട്",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_RAMESWARAM",
           "name": "Rameswaram",
-          "namelocal": "രാമേശ്വരം"
+          "namelocal": "രാമേശ്വരം",
+          "talukCode": "TALUK_KOCHI"
         }
       ],
       "poList": [
@@ -2213,12 +2264,14 @@
         {
           "code": "VILLAGE_ELOOR",
           "name": "Eloor",
-          "namelocal": "ഏലൂര്‍"
+          "namelocal": "ഏലൂര്‍",
+          "talukCode": "TALUK_NORTH_PARAVUR"
         },
         {
           "code": "VILLAGE_KADUNGALLOOR",
           "name": "Kadungalloor",
-          "namelocal": "കടുങ്ങല്ലൂര്‍"
+          "namelocal": "കടുങ്ങല്ലൂര്‍",
+          "talukCode": "TALUK_NORTH_PARAVUR"
         }
       ],
       "poList": [
@@ -2307,7 +2360,8 @@
         {
           "code": "VILLAGE_ERATTUPETTA",
           "name": "Erattupetta",
-          "namelocal": "ഈരാറ്റുപേട്ട"
+          "namelocal": "ഈരാറ്റുപേട്ട",
+          "talukCode": "TALUK_MEENACHIL"
         }
       ],
       "poList": [
@@ -2385,22 +2439,26 @@
         {
           "code": "VILLAGE_ATHIRAMPUZHA",
           "name": "Athirampuzha",
-          "namelocal": "അതിരമ്പുഴ"
+          "namelocal": "അതിരമ്പുഴ",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_ETTUMANOOR",
           "name": "Ettumanoor",
-          "namelocal": "ഏറ്റുമാനൂര്‍"
+          "namelocal": "ഏറ്റുമാനൂര്‍",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_PERUMBAIKKAD",
           "name": "Perumbaikkad",
-          "namelocal": "പെരുമ്പായിക്കാട്"
+          "namelocal": "പെരുമ്പായിക്കാട്",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_PEROOR",
           "name": "Peroor",
-          "namelocal": "പേരൂര്‍"
+          "namelocal": "പേരൂര്‍",
+          "talukCode": "TALUK_KOTTAYAM"
         }
       ],
       "poList": [
@@ -2565,12 +2623,14 @@
         {
           "code": "VILLAGE_KARUVANTHIRUTHY",
           "name": "Karuvanthiruthy",
-          "namelocal": "കരുവന്‍തിരുത്തി"
+          "namelocal": "കരുവന്‍തിരുത്തി",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_FEROKE",
           "name": "Feroke",
-          "namelocal": "ഫറോക്ക്"
+          "namelocal": "ഫറോക്ക്",
+          "talukCode": "TALUK_KOZHIKKODE"
         }
       ],
       "poList": [
@@ -2665,32 +2725,38 @@
         {
           "code": "VILLAGE_IRINGAPURAM",
           "name": "Iringapuram",
-          "namelocal": "ഇരിങ്ങപ്പുറം"
+          "namelocal": "ഇരിങ്ങപ്പുറം",
+          "talukCode": "TALUK_CHAVAKKAD"
         },
         {
           "code": "VILLAGE_GURUVAYUR",
           "name": "Guruvayur",
-          "namelocal": "ഗുരുവായൂര്‍"
+          "namelocal": "ഗുരുവായൂര്‍",
+          "talukCode": "TALUK_CHAVAKKAD"
         },
         {
           "code": "VILLAGE_CHAVAKKAD",
           "name": "Chavakkad",
-          "namelocal": "ചാവക്കാട്"
+          "namelocal": "ചാവക്കാട്",
+          "talukCode": "TALUK_CHAVAKKAD"
         },
         {
           "code": "VILLAGE_THAIKKAD",
           "name": "Thaikkad",
-          "namelocal": "തൈക്കാട്"
+          "namelocal": "തൈക്കാട്",
+          "talukCode": "TALUK_CHAVAKKAD"
         },
         {
           "code": "VILLAGE_POOKKODE",
           "name": "Pookkode",
-          "namelocal": "പൂക്കോട്"
+          "namelocal": "പൂക്കോട്",
+          "talukCode": "TALUK_CHAVAKKAD"
         },
         {
           "code": "VILLAGE_PERAKAM",
           "name": "Perakam",
-          "namelocal": "പേരകം"
+          "namelocal": "പേരകം",
+          "talukCode": "TALUK_CHAVAKKAD"
         }
       ],
       "poList": [
@@ -2907,22 +2973,26 @@
         {
           "code": "VILLAGE_KARTHIKAPPALLY",
           "name": "Karthikappally",
-          "namelocal": "കാര്‍ത്തികപ്പള്ളി"
+          "namelocal": "കാര്‍ത്തികപ്പള്ളി",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         },
         {
           "code": "VILLAGE_CHINGOLI",
           "name": "Chingoli",
-          "namelocal": "ചിങ്ങോലി"
+          "namelocal": "ചിങ്ങോലി",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         },
         {
           "code": "VILLAGE_PALLIPPAD",
           "name": "Pallippad",
-          "namelocal": "പള്ളിപ്പാട്"
+          "namelocal": "പള്ളിപ്പാട്",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         },
         {
           "code": "VILLAGE_HARIPAD",
           "name": "Haripad",
-          "namelocal": "ഹരിപ്പാട്"
+          "namelocal": "ഹരിപ്പാട്",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         }
       ],
       "poList": [
@@ -3045,37 +3115,44 @@
         {
           "code": "VILLAGE_IRINJALAKUDA",
           "name": "Irinjalakuda",
-          "namelocal": "ഇരിങ്ങാലക്കുട"
+          "namelocal": "ഇരിങ്ങാലക്കുട",
+          "talukCode": "TALUK_MUKUNDAPURAM"
         },
         {
           "code": "VILLAGE_EDATHIRINJI",
           "name": "Edathirinji",
-          "namelocal": "എടതിരിഞ്ഞി"
+          "namelocal": "എടതിരിഞ്ഞി",
+          "talukCode": "TALUK_MUKUNDAPURAM"
         },
         {
           "code": "VILLAGE_KARALAM",
           "name": "Karalam",
-          "namelocal": "കാറളം"
+          "namelocal": "കാറളം",
+          "talukCode": "TALUK_MUKUNDAPURAM"
         },
         {
           "code": "VILLAGE_PULLUR",
           "name": "Pullur",
-          "namelocal": "പുല്ലൂര്‍"
+          "namelocal": "പുല്ലൂര്‍",
+          "talukCode": "TALUK_MUKUNDAPURAM"
         },
         {
           "code": "VILLAGE_PORATHISSERY",
           "name": "Porathissery",
-          "namelocal": "പൊറത്തിശ്ശേരി"
+          "namelocal": "പൊറത്തിശ്ശേരി",
+          "talukCode": "TALUK_MUKUNDAPURAM"
         },
         {
           "code": "VILLAGE_MANAVALASSERY",
           "name": "Manavalassery",
-          "namelocal": "മനവലശ്ശേരി"
+          "namelocal": "മനവലശ്ശേരി",
+          "talukCode": "TALUK_MUKUNDAPURAM"
         },
         {
           "code": "VILLAGE_MADAYIKONAM",
           "name": "Madayikonam",
-          "namelocal": "മാടായിക്കോണം"
+          "namelocal": "മാടായിക്കോണം",
+          "talukCode": "TALUK_MUKUNDAPURAM"
         }
       ],
       "poList": [
@@ -3207,17 +3284,20 @@
         {
           "code": "VILLAGE_KEEZHUR",
           "name": "Keezhur",
-          "namelocal": "കീഴൂര്‍"
+          "namelocal": "കീഴൂര്‍",
+          "talukCode": "TALUK_IRITTY"
         },
         {
           "code": "VILLAGE_CHAVASSERY",
           "name": "Chavassery",
-          "namelocal": "ചാവശ്ശേരി"
+          "namelocal": "ചാവശ്ശേരി",
+          "talukCode": "TALUK_IRITTY"
         },
         {
           "code": "VILLAGE_PAYAM",
           "name": "Payam",
-          "namelocal": "പായം"
+          "namelocal": "പായം",
+          "talukCode": "TALUK_IRITTY"
         }
       ],
       "poList": [
@@ -3329,12 +3409,14 @@
         {
           "code": "VILLAGE_THRIKKAKARA_NORTH",
           "name": "Thrikkakara North",
-          "namelocal": "തൃക്കാക്കര നോര്‍ത്ത്"
+          "namelocal": "തൃക്കാക്കര നോര്‍ത്ത്",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_VAZHAKKALA",
           "name": "Vazhakkala",
-          "namelocal": "വാഴക്കാല"
+          "namelocal": "വാഴക്കാല",
+          "talukCode": "TALUK_KANAYANNUR"
         }
       ],
       "poList": [
@@ -3483,17 +3565,20 @@
         {
           "code": "VILLAGE_KALPETTA",
           "name": "Kalpetta",
-          "namelocal": "കല്‍പ്പറ്റ"
+          "namelocal": "കല്‍പ്പറ്റ",
+          "talukCode": "TALUK_VYTHIRI"
         },
         {
           "code": "VILLAGE_KOTTAPPADI",
           "name": "Kottappadi",
-          "namelocal": "കോട്ടപ്പടി"
+          "namelocal": "കോട്ടപ്പടി",
+          "talukCode": "TALUK_VYTHIRI"
         },
         {
           "code": "VILLAGE_THRIKKAIPETTA",
           "name": "Thrikkaipetta",
-          "namelocal": "തൃക്കൈപ്പറ്റ"
+          "namelocal": "തൃക്കൈപ്പറ്റ",
+          "talukCode": "TALUK_VYTHIRI"
         }
       ],
       "poList": [
@@ -3599,22 +3684,26 @@
         {
           "code": "VILLAGE_KANHANGAD",
           "name": "Kanhangad",
-          "namelocal": "കാഞ്ഞങ്ങാട്"
+          "namelocal": "കാഞ്ഞങ്ങാട്",
+          "talukCode": "TALUK_HOSDURG"
         },
         {
           "code": "VILLAGE_PUDUKAI",
           "name": "Pudukai",
-          "namelocal": "പുതുക്കൈ"
+          "namelocal": "പുതുക്കൈ",
+          "talukCode": "TALUK_HOSDURG"
         },
         {
           "code": "VILLAGE_BALLA",
           "name": "Balla",
-          "namelocal": "ബല്ല"
+          "namelocal": "ബല്ല",
+          "talukCode": "TALUK_HOSDURG"
         },
         {
           "code": "VILLAGE_HOSDURG",
           "name": "Hosdurg",
-          "namelocal": "ഹോസ്ദുര്‍ഗ്"
+          "namelocal": "ഹോസ്ദുര്‍ഗ്",
+          "talukCode": "TALUK_HOSDURG"
         }
       ],
       "poList": [
@@ -3755,42 +3844,50 @@
         {
           "code": "VILLAGE_EDAKKAD",
           "name": "Edakkad",
-          "namelocal": "എടക്കാട്"
+          "namelocal": "എടക്കാട്",
+          "talukCode": "TALUK_KANNUR"
         },
         {
           "code": "VILLAGE_ELAYAVOOR",
           "name": "Elayavoor",
-          "namelocal": "എളയാവൂര്‍"
+          "namelocal": "എളയാവൂര്‍",
+          "talukCode": "TALUK_KANNUR"
         },
         {
           "code": "VILLAGE_KANNUR_I",
           "name": "Kannur I",
-          "namelocal": "കണ്ണൂര്‍ I"
+          "namelocal": "കണ്ണൂര്‍ I",
+          "talukCode": "TALUK_KANNUR"
         },
         {
           "code": "VILLAGE_KANNUR_II",
           "name": "Kannur II",
-          "namelocal": "കണ്ണൂര്‍ II"
+          "namelocal": "കണ്ണൂര്‍ II",
+          "talukCode": "TALUK_KANNUR"
         },
         {
           "code": "VILLAGE_CHELORA",
           "name": "Chelora",
-          "namelocal": "ചേലോറ"
+          "namelocal": "ചേലോറ",
+          "talukCode": "TALUK_KANNUR"
         },
         {
           "code": "VILLAGE_PALLIKKUNNU",
           "name": "Pallikkunnu",
-          "namelocal": "പള്ളിക്കുന്ന്"
+          "namelocal": "പള്ളിക്കുന്ന്",
+          "talukCode": "TALUK_KANNUR"
         },
         {
           "code": "VILLAGE_PUZHATHI",
           "name": "Puzhathi",
-          "namelocal": "പുഴാതി"
+          "namelocal": "പുഴാതി",
+          "talukCode": "TALUK_KANNUR"
         },
         {
           "code": "VILLAGE_VALIYANNUR",
           "name": "Valiyannur",
-          "namelocal": "വലിയന്നൂര്‍"
+          "namelocal": "വലിയന്നൂര്‍",
+          "talukCode": "TALUK_KANNUR"
         }
       ],
       "poList": [
@@ -4059,12 +4156,14 @@
         {
           "code": "VILLAGE_AYANIVELIKULANGARA",
           "name": "Ayanivelikulangara",
-          "namelocal": "അയണിവേലികുളങ്ങര"
+          "namelocal": "അയണിവേലികുളങ്ങര",
+          "talukCode": "TALUK_KARUNAGAPPALLY"
         },
         {
           "code": "VILLAGE_KARUNAGAPPALLY",
           "name": "Karunagappally",
-          "namelocal": "കരുനാഗപ്പള്ളി"
+          "namelocal": "കരുനാഗപ്പള്ളി",
+          "talukCode": "TALUK_KARUNAGAPPALLY"
         }
       ],
       "poList": [
@@ -4147,12 +4246,14 @@
         {
           "code": "VILLAGE_KASARAGOD",
           "name": "Kasaragod",
-          "namelocal": "കാസര്‍കോഡ്"
+          "namelocal": "കാസര്‍കോഡ്",
+          "talukCode": "TALUK_KASARAGOD"
         },
         {
           "code": "VILLAGE_THALANGARA",
           "name": "Thalangara",
-          "namelocal": "തളങ്കര"
+          "namelocal": "തളങ്കര",
+          "talukCode": "TALUK_KASARAGOD"
         }
       ],
       "poList": [
@@ -4265,12 +4366,14 @@
         {
           "code": "VILLAGE_AYYAPPAN_COIL",
           "name": "Ayyappan Coil",
-          "namelocal": "അയ്യപ്പന്‍ കോവില്‍"
+          "namelocal": "അയ്യപ്പന്‍ കോവില്‍",
+          "talukCode": "TALUK_IDUKKI"
         },
         {
           "code": "VILLAGE_KATTAPPANA",
           "name": "Kattappana",
-          "namelocal": "കട്ടപ്പന"
+          "namelocal": "കട്ടപ്പന",
+          "talukCode": "TALUK_IDUKKI"
         }
       ],
       "poList": [
@@ -4395,27 +4498,32 @@
         {
           "code": "VILLAGE_KAYAMKULAM",
           "name": "Kayamkulam",
-          "namelocal": "കായംകുളം"
+          "namelocal": "കായംകുളം",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         },
         {
           "code": "VILLAGE_KEERIKKADU",
           "name": "Keerikkadu",
-          "namelocal": "കീരിക്കാട്"
+          "namelocal": "കീരിക്കാട്",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         },
         {
           "code": "VILLAGE_KRISHNAPURAM",
           "name": "Krishnapuram",
-          "namelocal": "കൃഷ്ണപുരം"
+          "namelocal": "കൃഷ്ണപുരം",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         },
         {
           "code": "VILLAGE_PATHIYOOR",
           "name": "Pathiyoor",
-          "namelocal": "പത്തിയൂര്‍"
+          "namelocal": "പത്തിയൂര്‍",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         },
         {
           "code": "VILLAGE_PUTHUPPALLY",
           "name": "Puthuppally",
-          "namelocal": "പുതുപ്പള്ളി"
+          "namelocal": "പുതുപ്പള്ളി",
+          "talukCode": "TALUK_KARTHIKAPPALLY"
         }
       ],
       "poList": [
@@ -4549,17 +4657,20 @@
         {
           "code": "VILLAGE_PULLUT",
           "name": "Pullut",
-          "namelocal": "പുല്ലൂറ്റ്"
+          "namelocal": "പുല്ലൂറ്റ്",
+          "talukCode": "TALUK_KODUNGALLUR"
         },
         {
           "code": "VILLAGE_METHALA",
           "name": "Methala",
-          "namelocal": "മേത്തല"
+          "namelocal": "മേത്തല",
+          "talukCode": "TALUK_KODUNGALLUR"
         },
         {
           "code": "VILLAGE_LOKAMALESWARAM",
           "name": "Lokamaleswaram",
-          "namelocal": "ലോകമലേശ്വരം"
+          "namelocal": "ലോകമലേശ്വരം",
+          "talukCode": "TALUK_KODUNGALLUR"
         }
       ],
       "poList": [
@@ -4689,17 +4800,20 @@
         {
           "code": "VILLAGE_KODUVALLY",
           "name": "Koduvally",
-          "namelocal": "കൊടുവള്ളി"
+          "namelocal": "കൊടുവള്ളി",
+          "talukCode": "TALUK_THAMARASSERY"
         },
         {
           "code": "VILLAGE_PUTHUR",
           "name": "Puthur",
-          "namelocal": "പുത്തൂര്‍"
+          "namelocal": "പുത്തൂര്‍",
+          "talukCode": "TALUK_THAMARASSERY"
         },
         {
           "code": "VILLAGE_VAVAD",
           "name": "Vavad",
-          "namelocal": "വാവാട്"
+          "namelocal": "വാവാട്",
+          "talukCode": "TALUK_THAMARASSERY"
         }
       ],
       "poList": [
@@ -4793,52 +4907,62 @@
         {
           "code": "VILLAGE_ERAVIPURAM",
           "name": "Eravipuram",
-          "namelocal": "ഇരവിപുരം"
+          "namelocal": "ഇരവിപുരം",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_KILIKOLLUR",
           "name": "Kilikollur",
-          "namelocal": "കിളിക്കൊല്ലൂര്‍"
+          "namelocal": "കിളിക്കൊല്ലൂര്‍",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_KOLLAM_(EAST)",
           "name": "Kollam (East)",
-          "namelocal": "കൊല്ലം (ഈസ്റ്റ്)"
+          "namelocal": "കൊല്ലം (ഈസ്റ്റ്)",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_KOLLAM_(WEST)",
           "name": "Kollam (West)",
-          "namelocal": "കൊല്ലം (വെസ്റ്റ്)"
+          "namelocal": "കൊല്ലം (വെസ്റ്റ്)",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_THRIKKADAVOOR",
           "name": "Thrikkadavoor",
-          "namelocal": "തൃക്കടവൂര്‍"
+          "namelocal": "തൃക്കടവൂര്‍",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_MANGAD",
           "name": "Mangad",
-          "namelocal": "മങ്ങാട്"
+          "namelocal": "മങ്ങാട്",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_MAYYANAD",
           "name": "Mayyanad",
-          "namelocal": "മയ്യനാട്"
+          "namelocal": "മയ്യനാട്",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_MUNDACKAL",
           "name": "Mundackal",
-          "namelocal": "മുണ്ടയ്ക്കല്‍"
+          "namelocal": "മുണ്ടയ്ക്കല്‍",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_VADAKKEVILA",
           "name": "Vadakkevila",
-          "namelocal": "വടക്കേവിള"
+          "namelocal": "വടക്കേവിള",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_SHAKTHIKULANGARA",
           "name": "Shakthikulangara",
-          "namelocal": "ശക്തികുളങ്ങര"
+          "namelocal": "ശക്തികുളങ്ങര",
+          "talukCode": "TALUK_KOLLAM"
         }
       ],
       "poList": [
@@ -5153,12 +5277,14 @@
         {
           "code": "VILLAGE_KONDOTTY",
           "name": "Kondotty",
-          "namelocal": "കൊണ്ടോട്ടി"
+          "namelocal": "കൊണ്ടോട്ടി",
+          "talukCode": "TALUK_KONDOTTY"
         },
         {
           "code": "VILLAGE_NEDIYIRUPPU",
           "name": "Nediyiruppu",
-          "namelocal": "നെടിയിരുപ്പ്"
+          "namelocal": "നെടിയിരുപ്പ്",
+          "talukCode": "TALUK_KONDOTTY"
         }
       ],
       "poList": [
@@ -5271,22 +5397,26 @@
         {
           "code": "VILLAGE_ONAKKOOR",
           "name": "Onakkoor",
-          "namelocal": "ഓണക്കൂര്‍"
+          "namelocal": "ഓണക്കൂര്‍",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         },
         {
           "code": "VILLAGE_KOOTHATTUKULAM",
           "name": "Koothattukulam",
-          "namelocal": "കൂത്താട്ടുകുളം"
+          "namelocal": "കൂത്താട്ടുകുളം",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         },
         {
           "code": "VILLAGE_MUVATTUPUZHA",
           "name": "Muvattupuzha",
-          "namelocal": "മൂവാറ്റുപുഴ"
+          "namelocal": "മൂവാറ്റുപുഴ",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         },
         {
           "code": "VILLAGE_VALAKOM",
           "name": "Valakom",
-          "namelocal": "വാളകം"
+          "namelocal": "വാളകം",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         }
       ],
       "poList": [
@@ -5385,32 +5515,38 @@
         {
           "code": "VILLAGE_ERAMALLOOR",
           "name": "Eramalloor",
-          "namelocal": "ഇരമല്ലൂര്‍"
+          "namelocal": "ഇരമല്ലൂര്‍",
+          "talukCode": "TALUK_KOTHAMANGALAM"
         },
         {
           "code": "VILLAGE_KUTTAMANGALAM",
           "name": "Kuttamangalam",
-          "namelocal": "കുട്ടമംഗലം"
+          "namelocal": "കുട്ടമംഗലം",
+          "talukCode": "TALUK_KOTHAMANGALAM"
         },
         {
           "code": "VILLAGE_KOTTAPPADY",
           "name": "Kottappady",
-          "namelocal": "കോട്ടപ്പടി"
+          "namelocal": "കോട്ടപ്പടി",
+          "talukCode": "TALUK_KOTHAMANGALAM"
         },
         {
           "code": "VILLAGE_KOTHAMANGALAM",
           "name": "Kothamangalam",
-          "namelocal": "കോതമംഗലം"
+          "namelocal": "കോതമംഗലം",
+          "talukCode": "TALUK_KOTHAMANGALAM"
         },
         {
           "code": "VILLAGE_THRIKKARIYOOR",
           "name": "Thrikkariyoor",
-          "namelocal": "തൃക്കാരിയൂര്‍"
+          "namelocal": "തൃക്കാരിയൂര്‍",
+          "talukCode": "TALUK_KOTHAMANGALAM"
         },
         {
           "code": "VILLAGE_PINDIMANA",
           "name": "Pindimana",
-          "namelocal": "പിണ്ടിമന"
+          "namelocal": "പിണ്ടിമന",
+          "talukCode": "TALUK_KOTHAMANGALAM"
         }
       ],
       "poList": [
@@ -5567,7 +5703,8 @@
         {
           "code": "VILLAGE_KOTTAKKAL",
           "name": "Kottakkal",
-          "namelocal": "കോട്ടക്കല്‍"
+          "namelocal": "കോട്ടക്കല്‍",
+          "talukCode": "TALUK_TIRUR"
         }
       ],
       "poList": [
@@ -5663,12 +5800,14 @@
         {
           "code": "VILLAGE_KOTTARAKARA",
           "name": "Kottarakara",
-          "namelocal": "കൊട്ടാരക്കര"
+          "namelocal": "കൊട്ടാരക്കര",
+          "talukCode": "TALUK_KOTTARAKARA"
         },
         {
           "code": "VILLAGE_MELILA",
           "name": "Melila",
-          "namelocal": "മേലില"
+          "namelocal": "മേലില",
+          "talukCode": "TALUK_KOTTARAKARA"
         }
       ],
       "poList": [
@@ -5769,42 +5908,50 @@
         {
           "code": "VILLAGE_ATHIRAMPUZHA",
           "name": "Athirampuzha",
-          "namelocal": "അതിരമ്പുഴ"
+          "namelocal": "അതിരമ്പുഴ",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_KURICHY",
           "name": "Kurichy",
-          "namelocal": "കുറിച്ചി"
+          "namelocal": "കുറിച്ചി",
+          "talukCode": "TALUK_CHANGANASERI"
         },
         {
           "code": "VILLAGE_KOTTAYAM",
           "name": "Kottayam",
-          "namelocal": "കോട്ടയം"
+          "namelocal": "കോട്ടയം",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_NATTAKOM",
           "name": "Nattakom",
-          "namelocal": "നാട്ടകം"
+          "namelocal": "നാട്ടകം",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_PANACHIKKAD",
           "name": "Panachikkad",
-          "namelocal": "പനച്ചിക്കാട്"
+          "namelocal": "പനച്ചിക്കാട്",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_PERUMBAIKKAD",
           "name": "Perumbaikkad",
-          "namelocal": "പെരുമ്പായിക്കാട്"
+          "namelocal": "പെരുമ്പായിക്കാട്",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_MUTTAMBALAM",
           "name": "Muttambalam",
-          "namelocal": "മുട്ടമ്പലം"
+          "namelocal": "മുട്ടമ്പലം",
+          "talukCode": "TALUK_KOTTAYAM"
         },
         {
           "code": "VILLAGE_VELOOR",
           "name": "Veloor",
-          "namelocal": "വേളൂര്‍"
+          "namelocal": "വേളൂര്‍",
+          "talukCode": "TALUK_KOTTAYAM"
         }
       ],
       "poList": [
@@ -6055,17 +6202,20 @@
         {
           "code": "VILLAGE_ARIKKULAM",
           "name": "Arikkulam",
-          "namelocal": "അരിക്കുളം"
+          "namelocal": "അരിക്കുളം",
+          "talukCode": "TALUK_KOYILANDY"
         },
         {
           "code": "VILLAGE_PANTHALAYANI",
           "name": "Panthalayani",
-          "namelocal": "പന്തലായനി"
+          "namelocal": "പന്തലായനി",
+          "talukCode": "TALUK_KOYILANDY"
         },
         {
           "code": "VILLAGE_VIYYUR",
           "name": "Viyyur",
-          "namelocal": "വിയ്യൂര്‍"
+          "namelocal": "വിയ്യൂര്‍",
+          "talukCode": "TALUK_KOYILANDY"
         }
       ],
       "poList": [
@@ -6189,72 +6339,86 @@
         {
           "code": "VILLAGE_ELATHUR",
           "name": "Elathur",
-          "namelocal": "എലത്തൂര്‍"
+          "namelocal": "എലത്തൂര്‍",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_KATCHERI",
           "name": "Katcheri",
-          "namelocal": "കച്ചേരി"
+          "namelocal": "കച്ചേരി",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_KASABA",
           "name": "Kasaba",
-          "namelocal": "കസബ"
+          "namelocal": "കസബ",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_KOTTULI",
           "name": "Kottuli",
-          "namelocal": "കോട്ടൂളി"
+          "namelocal": "കോട്ടൂളി",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_CHELAVUR",
           "name": "Chelavur",
-          "namelocal": "ചെലവൂര്‍"
+          "namelocal": "ചെലവൂര്‍",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_CHERUVANNUR",
           "name": "Cheruvannur",
-          "namelocal": "ചെറുവണ്ണൂര്‍"
+          "namelocal": "ചെറുവണ്ണൂര്‍",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_CHEVAYUR",
           "name": "Chevayur",
-          "namelocal": "ചേവായൂര്‍"
+          "namelocal": "ചേവായൂര്‍",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_NAGARAM",
           "name": "Nagaram",
-          "namelocal": "നഗരം"
+          "namelocal": "നഗരം",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_NELLIKODE",
           "name": "Nellikode",
-          "namelocal": "നെല്ലിക്കോട്"
+          "namelocal": "നെല്ലിക്കോട്",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_PANNIANKARA",
           "name": "Panniankara",
-          "namelocal": "പന്നിയങ്കര"
+          "namelocal": "പന്നിയങ്കര",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_PUTHIYANGADI",
           "name": "Puthiyangadi",
-          "namelocal": "പുതിയങ്ങാടി"
+          "namelocal": "പുതിയങ്ങാടി",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_BEYPORE",
           "name": "Beypore",
-          "namelocal": "ബേപ്പൂര്‍"
+          "namelocal": "ബേപ്പൂര്‍",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_VALAYANAD",
           "name": "Valayanad",
-          "namelocal": "വളയനാട്"
+          "namelocal": "വളയനാട്",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_VENGERI",
           "name": "Vengeri",
-          "namelocal": "വേങ്ങേരി"
+          "namelocal": "വേങ്ങേരി",
+          "talukCode": "TALUK_KOZHIKKODE"
         }
       ],
       "poList": [
@@ -6793,32 +6957,38 @@
         {
           "code": "VILLAGE_ANJUR",
           "name": "Anjur",
-          "namelocal": "അഞ്ഞൂര്‍"
+          "namelocal": "അഞ്ഞൂര്‍",
+          "talukCode": "TALUK_KUNNAMKULAM"
         },
         {
           "code": "VILLAGE_ARTHAT",
           "name": "Arthat",
-          "namelocal": "ആര്‍ത്താറ്റ്"
+          "namelocal": "ആര്‍ത്താറ്റ്",
+          "talukCode": "TALUK_KUNNAMKULAM"
         },
         {
           "code": "VILLAGE_KANIPPAYYUR",
           "name": "Kanippayyur",
-          "namelocal": "കാണിപ്പയ്യൂര്‍"
+          "namelocal": "കാണിപ്പയ്യൂര്‍",
+          "talukCode": "TALUK_KUNNAMKULAM"
         },
         {
           "code": "VILLAGE_KUNNAMKULAM",
           "name": "Kunnamkulam",
-          "namelocal": "കുന്നംകുളം"
+          "namelocal": "കുന്നംകുളം",
+          "talukCode": "TALUK_KUNNAMKULAM"
         },
         {
           "code": "VILLAGE_CHOWANNUR",
           "name": "Chowannur",
-          "namelocal": "ചൊവ്വന്നൂര്‍"
+          "namelocal": "ചൊവ്വന്നൂര്‍",
+          "talukCode": "TALUK_KUNNAMKULAM"
         },
         {
           "code": "VILLAGE_PORKULAM",
           "name": "Porkulam",
-          "namelocal": "പോര്‍ക്കുളം"
+          "namelocal": "പോര്‍ക്കുളം",
+          "talukCode": "TALUK_KUNNAMKULAM"
         }
       ],
       "poList": [
@@ -6993,7 +7163,8 @@
         {
           "code": "VILLAGE_KUTHUPARAMBA",
           "name": "Kuthuparamba",
-          "namelocal": "കൂത്തുപറമ്പ്"
+          "namelocal": "കൂത്തുപറമ്പ്",
+          "talukCode": "TALUK_THALASSERY"
         }
       ],
       "poList": [
@@ -7095,17 +7266,20 @@
         {
           "code": "VILLAGE_PANAKKAD",
           "name": "Panakkad",
-          "namelocal": "പാണക്കാട്"
+          "namelocal": "പാണക്കാട്",
+          "talukCode": "TALUK_ERNAD"
         },
         {
           "code": "VILLAGE_MALAPPURAM",
           "name": "Malappuram",
-          "namelocal": "മലപ്പുറം"
+          "namelocal": "മലപ്പുറം",
+          "talukCode": "TALUK_ERNAD"
         },
         {
           "code": "VILLAGE_MELMURI",
           "name": "Melmuri",
-          "namelocal": "മേല്‍മുറി"
+          "namelocal": "മേല്‍മുറി",
+          "talukCode": "TALUK_ERNAD"
         }
       ],
       "poList": [
@@ -7223,12 +7397,14 @@
         {
           "code": "VILLAGE_PAYYAMPALLY",
           "name": "Payyampally",
-          "namelocal": "പയ്യമ്പള്ളി"
+          "namelocal": "പയ്യമ്പള്ളി",
+          "talukCode": "TALUK_MANANTHAVADY"
         },
         {
           "code": "VILLAGE_MANANTHAVADY",
           "name": "Mananthavady",
-          "namelocal": "മാനന്തവാടി"
+          "namelocal": "മാനന്തവാടി",
+          "talukCode": "TALUK_MANANTHAVADY"
         }
       ],
       "poList": [
@@ -7335,17 +7511,20 @@
         {
           "code": "VILLAGE_NARUKARA",
           "name": "Narukara",
-          "namelocal": "നറുകര"
+          "namelocal": "നറുകര",
+          "talukCode": "TALUK_ERNAD"
         },
         {
           "code": "VILLAGE_PAYYANAD",
           "name": "Payyanad",
-          "namelocal": "പയ്യനാട്"
+          "namelocal": "പയ്യനാട്",
+          "talukCode": "TALUK_ERNAD"
         },
         {
           "code": "VILLAGE_MANJERI",
           "name": "Manjeri",
-          "namelocal": "മഞ്ചേരി"
+          "namelocal": "മഞ്ചേരി",
+          "talukCode": "TALUK_ERNAD"
         }
       ],
       "poList": [
@@ -7481,17 +7660,20 @@
         {
           "code": "VILLAGE_PALAKKAYAM",
           "name": "Palakkayam",
-          "namelocal": "പാലക്കയം"
+          "namelocal": "പാലക്കയം",
+          "talukCode": "TALUK_MANNARKAD"
         },
         {
           "code": "VILLAGE_MANNARKAD_I",
           "name": "Mannarkad I",
-          "namelocal": "മണ്ണാര്‍ക്കാട് I"
+          "namelocal": "മണ്ണാര്‍ക്കാട് I",
+          "talukCode": "TALUK_MANNARKAD"
         },
         {
           "code": "VILLAGE_MANNARKAD_II",
           "name": "Mannarkad II",
-          "namelocal": "മണ്ണാര്‍ക്കാട് II"
+          "namelocal": "മണ്ണാര്‍ക്കാട് II",
+          "talukCode": "TALUK_MANNARKAD"
         }
       ],
       "poList": [
@@ -7591,7 +7773,8 @@
         {
           "code": "VILLAGE_MARADU",
           "name": "Maradu",
-          "namelocal": "മരട്"
+          "namelocal": "മരട്",
+          "talukCode": "TALUK_KANAYANNUR"
         }
       ],
       "poList": [
@@ -7675,12 +7858,14 @@
         {
           "code": "VILLAGE_KOLARI",
           "name": "Kolari",
-          "namelocal": "കോളാരി"
+          "namelocal": "കോളാരി",
+          "talukCode": "TALUK_IRITTY"
         },
         {
           "code": "VILLAGE_PAZHASSI",
           "name": "Pazhassi",
-          "namelocal": "പഴശ്ശി"
+          "namelocal": "പഴശ്ശി",
+          "talukCode": "TALUK_IRITTY"
         }
       ],
       "poList": [
@@ -7793,22 +7978,26 @@
         {
           "code": "VILLAGE_KANNAMANGALAM",
           "name": "Kannamangalam",
-          "namelocal": "കണ്ണമംഗലം"
+          "namelocal": "കണ്ണമംഗലം",
+          "talukCode": "TALUK_MAVELIKARA"
         },
         {
           "code": "VILLAGE_THAZHAKARA",
           "name": "Thazhakara",
-          "namelocal": "തഴക്കര"
+          "namelocal": "തഴക്കര",
+          "talukCode": "TALUK_MAVELIKARA"
         },
         {
           "code": "VILLAGE_THEKKEKARA",
           "name": "Thekkekara",
-          "namelocal": "തെക്കേക്കര"
+          "namelocal": "തെക്കേക്കര",
+          "talukCode": "TALUK_MAVELIKARA"
         },
         {
           "code": "VILLAGE_MAVELIKARA",
           "name": "Mavelikara",
-          "namelocal": "മാവേലിക്കര"
+          "namelocal": "മാവേലിക്കര",
+          "talukCode": "TALUK_MAVELIKARA"
         }
       ],
       "poList": [
@@ -7943,12 +8132,14 @@
         {
           "code": "VILLAGE_THAZHEKODE",
           "name": "Thazhekode",
-          "namelocal": "താഴെക്കോട്"
+          "namelocal": "താഴെക്കോട്",
+          "talukCode": "TALUK_KOZHIKKODE"
         },
         {
           "code": "VILLAGE_NEELESWARAM",
           "name": "Neeleswaram",
-          "namelocal": "നീലേശ്വരം"
+          "namelocal": "നീലേശ്വരം",
+          "talukCode": "TALUK_KOZHIKKODE"
         }
       ],
       "poList": [
@@ -8067,17 +8258,20 @@
         {
           "code": "VILLAGE_MARADY",
           "name": "Marady",
-          "namelocal": "മാറാടി"
+          "namelocal": "മാറാടി",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         },
         {
           "code": "VILLAGE_MUVATTUPUZHA",
           "name": "Muvattupuzha",
-          "namelocal": "മൂവാറ്റുപുഴ"
+          "namelocal": "മൂവാറ്റുപുഴ",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         },
         {
           "code": "VILLAGE_VELLOORKUNNAM",
           "name": "Velloorkunnam",
-          "namelocal": "വെള്ളൂര്‍ക്കുന്നം"
+          "namelocal": "വെള്ളൂര്‍ക്കുന്നം",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         }
       ],
       "poList": [
@@ -8189,22 +8383,26 @@
         {
           "code": "VILLAGE_ANAD",
           "name": "Anad",
-          "namelocal": "ആനാട്"
+          "namelocal": "ആനാട്",
+          "talukCode": "TALUK_NEDUMANGAD"
         },
         {
           "code": "VILLAGE_KARIPPUR",
           "name": "Karippur",
-          "namelocal": "കരിപ്പൂര്"
+          "namelocal": "കരിപ്പൂര്",
+          "talukCode": "TALUK_NEDUMANGAD"
         },
         {
           "code": "VILLAGE_NEDUMANGAD",
           "name": "Nedumangad",
-          "namelocal": "നെടുമങ്ങാട്"
+          "namelocal": "നെടുമങ്ങാട്",
+          "talukCode": "TALUK_NEDUMANGAD"
         },
         {
           "code": "VILLAGE_VATTAPPARA",
           "name": "Vattappara",
-          "namelocal": "വട്ടപ്പാറ"
+          "namelocal": "വട്ടപ്പാറ",
+          "talukCode": "TALUK_NEDUMANGAD"
         }
       ],
       "poList": [
@@ -8345,27 +8543,32 @@
         {
           "code": "VILLAGE_ATHIYANNOOR",
           "name": "Athiyannoor",
-          "namelocal": "അതിയന്നൂര്‍"
+          "namelocal": "അതിയന്നൂര്‍",
+          "talukCode": "TALUK_NEYYATTINKARA"
         },
         {
           "code": "VILLAGE_KOLLAYIL",
           "name": "Kollayil",
-          "namelocal": "കൊല്ലയില്‍"
+          "namelocal": "കൊല്ലയില്‍",
+          "talukCode": "TALUK_NEYYATTINKARA"
         },
         {
           "code": "VILLAGE_KOTTUKAL",
           "name": "Kottukal",
-          "namelocal": "കോട്ടുകാല്‍"
+          "namelocal": "കോട്ടുകാല്‍",
+          "talukCode": "TALUK_NEYYATTINKARA"
         },
         {
           "code": "VILLAGE_CHENKAL",
           "name": "Chenkal",
-          "namelocal": "ചെങ്കല്‍"
+          "namelocal": "ചെങ്കല്‍",
+          "talukCode": "TALUK_NEYYATTINKARA"
         },
         {
           "code": "VILLAGE_NEYYATTINKARA",
           "name": "Neyyattinkara",
-          "namelocal": "നെയ്യാറ്റിന്‍കര"
+          "namelocal": "നെയ്യാറ്റിന്‍കര",
+          "talukCode": "TALUK_NEYYATTINKARA"
         }
       ],
       "poList": [
@@ -8517,7 +8720,8 @@
         {
           "code": "VILLAGE_NILAMBUR",
           "name": "Nilambur",
-          "namelocal": "നിലമ്പൂര്‍"
+          "namelocal": "നിലമ്പൂര്‍",
+          "talukCode": "TALUK_NILAMBUR"
         }
       ],
       "poList": [
@@ -8613,12 +8817,14 @@
         {
           "code": "VILLAGE_NILESHWAR",
           "name": "Nileshwar",
-          "namelocal": "നീലേശ്വരം"
+          "namelocal": "നീലേശ്വരം",
+          "talukCode": "TALUK_HOSDURG"
         },
         {
           "code": "VILLAGE_PEROLE",
           "name": "Perole",
-          "namelocal": "പേരോല്‍"
+          "namelocal": "പേരോല്‍",
+          "talukCode": "TALUK_HOSDURG"
         }
       ],
       "poList": [
@@ -8713,17 +8919,20 @@
         {
           "code": "VILLAGE_KOTTUVALLY",
           "name": "Kottuvally",
-          "namelocal": "കോട്ടുവള്ളി"
+          "namelocal": "കോട്ടുവള്ളി",
+          "talukCode": "TALUK_NORTH_PARAVUR"
         },
         {
           "code": "VILLAGE_NORTH_PARAVUR",
           "name": "North Paravur",
-          "namelocal": "നോര്‍ത്ത് പരവൂര്‍"
+          "namelocal": "നോര്‍ത്ത് പരവൂര്‍",
+          "talukCode": "TALUK_NORTH_PARAVUR"
         },
         {
           "code": "VILLAGE_VADAKKEKKARA",
           "name": "Vadakkekkara",
-          "namelocal": "വടക്കേക്കര"
+          "namelocal": "വടക്കേക്കര",
+          "talukCode": "TALUK_NORTH_PARAVUR"
         }
       ],
       "poList": [
@@ -8829,12 +9038,14 @@
         {
           "code": "VILLAGE_OTTAPALAM_I",
           "name": "Ottapalam I",
-          "namelocal": "ഒറ്റപ്പാലം I"
+          "namelocal": "ഒറ്റപ്പാലം I",
+          "talukCode": "TALUK_OTTAPALAM"
         },
         {
           "code": "VILLAGE_OTTAPALAM_II",
           "name": "Ottapalam II",
-          "namelocal": "ഒറ്റപ്പാലം II"
+          "namelocal": "ഒറ്റപ്പാലം II",
+          "talukCode": "TALUK_OTTAPALAM"
         }
       ],
       "poList": [
@@ -8947,17 +9158,20 @@
         {
           "code": "VILLAGE_PULIYANNOOR",
           "name": "Puliyannoor",
-          "namelocal": "പുലിയന്നൂര്‍"
+          "namelocal": "പുലിയന്നൂര്‍",
+          "talukCode": "TALUK_MEENACHIL"
         },
         {
           "code": "VILLAGE_MEENACHIL",
           "name": "Meenachil",
-          "namelocal": "മീനച്ചില്‍"
+          "namelocal": "മീനച്ചില്‍",
+          "talukCode": "TALUK_MEENACHIL"
         },
         {
           "code": "VILLAGE_LALAM",
           "name": "Lalam",
-          "namelocal": "ളാലം"
+          "namelocal": "ളാലം",
+          "talukCode": "TALUK_MEENACHIL"
         }
       ],
       "poList": [
@@ -9105,17 +9319,20 @@
         {
           "code": "VILLAGE_PALAKKAD_I",
           "name": "Palakkad I",
-          "namelocal": "പാലക്കാട് I"
+          "namelocal": "പാലക്കാട് I",
+          "talukCode": "TALUK_PALAKKAD"
         },
         {
           "code": "VILLAGE_PALAKKAD_II",
           "name": "Palakkad II",
-          "namelocal": "പാലക്കാട് II"
+          "namelocal": "പാലക്കാട് II",
+          "talukCode": "TALUK_PALAKKAD"
         },
         {
           "code": "VILLAGE_YAKKARA",
           "name": "Yakkara",
-          "namelocal": "യാക്കര"
+          "namelocal": "യാക്കര",
+          "talukCode": "TALUK_PALAKKAD"
         }
       ],
       "poList": [
@@ -9317,12 +9534,14 @@
         {
           "code": "VILLAGE_KURAMPALA",
           "name": "Kurampala",
-          "namelocal": "കുരമ്പാല"
+          "namelocal": "കുരമ്പാല",
+          "talukCode": "TALUK_ADOOR"
         },
         {
           "code": "VILLAGE_PANDALAM",
           "name": "Pandalam",
-          "namelocal": "പന്തളം"
+          "namelocal": "പന്തളം",
+          "talukCode": "TALUK_ADOOR"
         }
       ],
       "poList": [
@@ -9429,17 +9648,20 @@
         {
           "code": "VILLAGE_PANOOR",
           "name": "Panoor",
-          "namelocal": "പാനൂര്‍"
+          "namelocal": "പാനൂര്‍",
+          "talukCode": "TALUK_THALASSERY"
         },
         {
           "code": "VILLAGE_PERINGATHUR",
           "name": "Peringathur",
-          "namelocal": "പെരിങ്ങത്തൂര്‍"
+          "namelocal": "പെരിങ്ങത്തൂര്‍",
+          "talukCode": "TALUK_THALASSERY"
         },
         {
           "code": "VILLAGE_PERINGALAM",
           "name": "Peringalam",
-          "namelocal": "പെരിങ്ങളം"
+          "namelocal": "പെരിങ്ങളം",
+          "talukCode": "TALUK_THALASSERY"
         }
       ],
       "poList": [
@@ -9575,12 +9797,14 @@
         {
           "code": "VILLAGE_NEDUVA",
           "name": "Neduva",
-          "namelocal": "നെടുവ"
+          "namelocal": "നെടുവ",
+          "talukCode": "TALUK_TIRURANGADI"
         },
         {
           "code": "VILLAGE_PARAPPANANGADI",
           "name": "Parappanangadi",
-          "namelocal": "പരപ്പനങ്ങാടി"
+          "namelocal": "പരപ്പനങ്ങാടി",
+          "talukCode": "TALUK_TIRURANGADI"
         }
       ],
       "poList": [
@@ -9687,12 +9911,14 @@
         {
           "code": "VILLAGE_KOTTAPPURAM",
           "name": "Kottappuram",
-          "namelocal": "കോട്ടപ്പുറം"
+          "namelocal": "കോട്ടപ്പുറം",
+          "talukCode": "TALUK_KOLLAM"
         },
         {
           "code": "VILLAGE_PARAVUR",
           "name": "Paravur",
-          "namelocal": "പരവൂര്‍"
+          "namelocal": "പരവൂര്‍",
+          "talukCode": "TALUK_KOLLAM"
         }
       ],
       "poList": [
@@ -9781,17 +10007,20 @@
         {
           "code": "VILLAGE_PATHANAMTHITTA",
           "name": "Pathanamthitta",
-          "namelocal": "പത്തനംതിട്ട"
+          "namelocal": "പത്തനംതിട്ട",
+          "talukCode": "TALUK_KOZHENCHERRY"
         },
         {
           "code": "VILLAGE_MALAYALAPUZHA",
           "name": "Malayalapuzha",
-          "namelocal": "മലയാലപ്പുഴ"
+          "namelocal": "മലയാലപ്പുഴ",
+          "talukCode": "TALUK_KOZHENCHERRY"
         },
         {
           "code": "VILLAGE_MYLAPRA",
           "name": "Mylapra",
-          "namelocal": "മൈലപ്രാ"
+          "namelocal": "മൈലപ്രാ",
+          "talukCode": "TALUK_KOZHENCHERRY"
         }
       ],
       "poList": [
@@ -9897,7 +10126,8 @@
         {
           "code": "VILLAGE_PATTAMBI",
           "name": "Pattambi",
-          "namelocal": "പട്ടാമ്പി"
+          "namelocal": "പട്ടാമ്പി",
+          "talukCode": "TALUK_PATTAMBI"
         }
       ],
       "poList": [
@@ -9987,17 +10217,20 @@
         {
           "code": "VILLAGE_KOROM",
           "name": "Korom",
-          "namelocal": "കോറോം"
+          "namelocal": "കോറോം",
+          "talukCode": "TALUK_PAYYANNUR"
         },
         {
           "code": "VILLAGE_PAYYANNUR",
           "name": "Payyannur",
-          "namelocal": "പയ്യന്നൂര്‍"
+          "namelocal": "പയ്യന്നൂര്‍",
+          "talukCode": "TALUK_PAYYANNUR"
         },
         {
           "code": "VILLAGE_VELLUR",
           "name": "Vellur",
-          "namelocal": "വെള്ളൂര്‍"
+          "namelocal": "വെള്ളൂര്‍",
+          "talukCode": "TALUK_PAYYANNUR"
         }
       ],
       "poList": [
@@ -10145,12 +10378,14 @@
         {
           "code": "VILLAGE_IRINGAL",
           "name": "Iringal",
-          "namelocal": "ഇരിങ്ങല്‍"
+          "namelocal": "ഇരിങ്ങല്‍",
+          "talukCode": "TALUK_KOYILANDY"
         },
         {
           "code": "VILLAGE_PAYYOLI",
           "name": "Payyoli",
-          "namelocal": "പയ്യോളി"
+          "namelocal": "പയ്യോളി",
+          "talukCode": "TALUK_KOYILANDY"
         }
       ],
       "poList": [
@@ -10257,12 +10492,14 @@
         {
           "code": "VILLAGE_PATHAIKKARA",
           "name": "Pathaikkara",
-          "namelocal": "പാതായ്ക്കര"
+          "namelocal": "പാതായ്ക്കര",
+          "talukCode": "TALUK_PERINTHALMANNA"
         },
         {
           "code": "VILLAGE_PERINTHALMANNA",
           "name": "Perinthalmanna",
-          "namelocal": "പെരിന്തല്‍മണ്ണ"
+          "namelocal": "പെരിന്തല്‍മണ്ണ",
+          "talukCode": "TALUK_PERINTHALMANNA"
         }
       ],
       "poList": [
@@ -10369,12 +10606,14 @@
         {
           "code": "VILLAGE_CHELAMATTOM",
           "name": "Chelamattom",
-          "namelocal": "ചേലാമറ്റം"
+          "namelocal": "ചേലാമറ്റം",
+          "talukCode": "TALUK_KUNNATHUNAD"
         },
         {
           "code": "VILLAGE_PERUMBAVOOR",
           "name": "Perumbavoor",
-          "namelocal": "പെരുമ്പാവൂര്‍"
+          "namelocal": "പെരുമ്പാവൂര്‍",
+          "talukCode": "TALUK_KUNNATHUNAD"
         }
       ],
       "poList": [
@@ -10463,7 +10702,8 @@
         {
           "code": "VILLAGE_PIRAVOM",
           "name": "Piravom",
-          "namelocal": "പിറവം"
+          "namelocal": "പിറവം",
+          "talukCode": "TALUK_MUVATTUPUZHA"
         }
       ],
       "poList": [
@@ -10547,12 +10787,14 @@
         {
           "code": "VILLAGE_EZHUVATHIRUTHY",
           "name": "Ezhuvathiruthy",
-          "namelocal": "ഈഴുവത്തിരുത്തി"
+          "namelocal": "ഈഴുവത്തിരുത്തി",
+          "talukCode": "TALUK_PONNANI"
         },
         {
           "code": "VILLAGE_PONNANI_NAGARAM",
           "name": "Ponnani Nagaram",
-          "namelocal": "പൊന്നാനി നഗരം"
+          "namelocal": "പൊന്നാനി നഗരം",
+          "talukCode": "TALUK_PONNANI"
         }
       ],
       "poList": [
@@ -10659,17 +10901,20 @@
         {
           "code": "VILLAGE_KARAVALOOR",
           "name": "Karavaloor",
-          "namelocal": "കരവാളൂര്‍"
+          "namelocal": "കരവാളൂര്‍",
+          "talukCode": "TALUK_PUNALUR"
         },
         {
           "code": "VILLAGE_PUNALUR",
           "name": "Punalur",
-          "namelocal": "പുനലൂര്‍"
+          "namelocal": "പുനലൂര്‍",
+          "talukCode": "TALUK_PUNALUR"
         },
         {
           "code": "VILLAGE_VALACODE",
           "name": "Valacode",
-          "namelocal": "വാളക്കോട്"
+          "namelocal": "വാളക്കോട്",
+          "talukCode": "TALUK_PUNALUR"
         }
       ],
       "poList": [
@@ -10805,7 +11050,8 @@
         {
           "code": "VILLAGE_RAMANATTUKARA",
           "name": "Ramanattukara",
-          "namelocal": "രാമനാട്ടുകര"
+          "namelocal": "രാമനാട്ടുകര",
+          "talukCode": "TALUK_KOZHIKKODE"
         }
       ],
       "poList": [
@@ -10913,17 +11159,20 @@
         {
           "code": "VILLAGE_SREEKRISHNAPURAM_I",
           "name": "Sreekrishnapuram I",
-          "namelocal": "ശ്രീകൃഷ്ണപുരം I"
+          "namelocal": "ശ്രീകൃഷ്ണപുരം I",
+          "talukCode": "TALUK_OTTAPALAM"
         },
         {
           "code": "VILLAGE_SHORANUR_I",
           "name": "Shoranur I",
-          "namelocal": "ഷൊര്‍ണ്ണൂര്‍ I"
+          "namelocal": "ഷൊര്‍ണ്ണൂര്‍ I",
+          "talukCode": "TALUK_OTTAPALAM"
         },
         {
           "code": "VILLAGE_SHORANUR_II",
           "name": "Shoranur II",
-          "namelocal": "ഷൊര്‍ണ്ണൂര്‍ II"
+          "namelocal": "ഷൊര്‍ണ്ണൂര്‍ II",
+          "talukCode": "TALUK_OTTAPALAM"
         }
       ],
       "poList": [
@@ -11047,12 +11296,14 @@
         {
           "code": "VILLAGE_NEDIYENGA",
           "name": "Nediyenga",
-          "namelocal": "നെടിയേങ്ങ"
+          "namelocal": "നെടിയേങ്ങ",
+          "talukCode": "TALUK_TALIPARAMBA"
         },
         {
           "code": "VILLAGE_SREEKANDAPURAM",
           "name": "Sreekandapuram",
-          "namelocal": "ശ്രീകണ്ഠാപുരം"
+          "namelocal": "ശ്രീകണ്ഠാപുരം",
+          "talukCode": "TALUK_TALIPARAMBA"
         }
       ],
       "poList": [
@@ -11171,17 +11422,20 @@
         {
           "code": "VILLAGE_KIDANGANADU",
           "name": "Kidanganadu",
-          "namelocal": "കിടങ്ങനാട്"
+          "namelocal": "കിടങ്ങനാട്",
+          "talukCode": "TALUK_SULTHAN_BATHERY"
         },
         {
           "code": "VILLAGE_KUPPADI",
           "name": "Kuppadi",
-          "namelocal": "കുപ്പാടി"
+          "namelocal": "കുപ്പാടി",
+          "talukCode": "TALUK_SULTHAN_BATHERY"
         },
         {
           "code": "VILLAGE_SULTHAN_BATHERY",
           "name": "Sulthan Bathery",
-          "namelocal": "സുല്‍ത്താന്‍ ബത്തേരി"
+          "namelocal": "സുല്‍ത്താന്‍ ബത്തേരി",
+          "talukCode": "TALUK_SULTHAN_BATHERY"
         }
       ],
       "poList": [
@@ -11323,17 +11577,20 @@
         {
           "code": "VILLAGE_TANUR",
           "name": "Tanur",
-          "namelocal": "താനൂര്‍"
+          "namelocal": "താനൂര്‍",
+          "talukCode": "TALUK_TIRUR"
         },
         {
           "code": "VILLAGE_PARAPPANANGADI",
           "name": "Parappanangadi",
-          "namelocal": "പരപ്പനങ്ങാടി"
+          "namelocal": "പരപ്പനങ്ങാടി",
+          "talukCode": "TALUK_TIRURANGADI"
         },
         {
           "code": "VILLAGE_PARIYAPURAM",
           "name": "Pariyapuram",
-          "namelocal": "പരിയാപുരം"
+          "namelocal": "പരിയാപുരം",
+          "talukCode": "TALUK_TIRUR"
         }
       ],
       "poList": [
@@ -11433,17 +11690,20 @@
         {
           "code": "VILLAGE_KODIYERI",
           "name": "Kodiyeri",
-          "namelocal": "കോടിയേരി"
+          "namelocal": "കോടിയേരി",
+          "talukCode": "TALUK_THALASSERY"
         },
         {
           "code": "VILLAGE_THALASSERY",
           "name": "Thalassery",
-          "namelocal": "തലശ്ശേരി"
+          "namelocal": "തലശ്ശേരി",
+          "talukCode": "TALUK_THALASSERY"
         },
         {
           "code": "VILLAGE_THIRUVANGAD",
           "name": "Thiruvangad",
-          "namelocal": "തിരുവങ്ങാട്"
+          "namelocal": "തിരുവങ്ങാട്",
+          "talukCode": "TALUK_THALASSERY"
         }
       ],
       "poList": [
@@ -11591,17 +11851,20 @@
         {
           "code": "VILLAGE_ANDOOR",
           "name": "Andoor",
-          "namelocal": "ആന്തൂര്‍"
+          "namelocal": "ആന്തൂര്‍",
+          "talukCode": "TALUK_TALIPARAMBA"
         },
         {
           "code": "VILLAGE_TALIPARAMBA",
           "name": "Taliparamba",
-          "namelocal": "തളിപ്പറമ്പ്"
+          "namelocal": "തളിപ്പറമ്പ്",
+          "talukCode": "TALUK_TALIPARAMBA"
         },
         {
           "code": "VILLAGE_MORAZHA",
           "name": "Morazha",
-          "namelocal": "മൊറാഴ"
+          "namelocal": "മൊറാഴ",
+          "talukCode": "TALUK_TALIPARAMBA"
         }
       ],
       "poList": [
@@ -11737,17 +12000,20 @@
         {
           "code": "VILLAGE_KAVUMBHAGOM",
           "name": "Kavumbhagom",
-          "namelocal": "കാവുംഭാഗം"
+          "namelocal": "കാവുംഭാഗം",
+          "talukCode": "TALUK_THIRUVALLA"
         },
         {
           "code": "VILLAGE_KUTTAPUZHA",
           "name": "Kuttapuzha",
-          "namelocal": "കുറ്റപ്പുഴ"
+          "namelocal": "കുറ്റപ്പുഴ",
+          "talukCode": "TALUK_THIRUVALLA"
         },
         {
           "code": "VILLAGE_THIRUVALLA",
           "name": "Thiruvalla",
-          "namelocal": "തിരുവല്ല"
+          "namelocal": "തിരുവല്ല",
+          "talukCode": "TALUK_THIRUVALLA"
         }
       ],
       "poList": [
@@ -11913,132 +12179,158 @@
         {
           "code": "VILLAGE_AYIROOPPARA",
           "name": "Ayirooppara",
-          "namelocal": "അയിരൂപ്പാറ"
+          "namelocal": "അയിരൂപ്പാറ",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_ATTIPRA",
           "name": "Attipra",
-          "namelocal": "ആറ്റിപ്ര"
+          "namelocal": "ആറ്റിപ്ര",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_ULIYAZHTHURA",
           "name": "Uliyazhthura",
-          "namelocal": "ഉളിയാഴ്ത്തുറ"
+          "namelocal": "ഉളിയാഴ്ത്തുറ",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_ULLOOR",
           "name": "Ulloor",
-          "namelocal": "ഉള്ളൂര്‍‌"
+          "namelocal": "ഉള്ളൂര്‍‌",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_KADAKAMPALLI",
           "name": "Kadakampalli",
-          "namelocal": "കടകംപള്ളി"
+          "namelocal": "കടകംപള്ളി",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_KAWDIAR",
           "name": "Kawdiar",
-          "namelocal": "കവടിയാര്‍"
+          "namelocal": "കവടിയാര്‍",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_KAZHAKUTTOM",
           "name": "Kazhakuttom",
-          "namelocal": "കഴക്കൂട്ടം"
+          "namelocal": "കഴക്കൂട്ടം",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_MENAMKULAM",
           "name": "Menamkulam",
-          "namelocal": "കഴക്കൂട്ടം-മേനംകുളം"
+          "namelocal": "കഴക്കൂട്ടം-മേനംകുളം",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_KUDAPPANAKUNNU",
           "name": "Kudappanakunnu",
-          "namelocal": "കുടപ്പനക്കുന്ന്"
+          "namelocal": "കുടപ്പനക്കുന്ന്",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_CHERUVACKAL",
           "name": "Cheruvackal",
-          "namelocal": "ചെറുവയ്ക്കല്‍"
+          "namelocal": "ചെറുവയ്ക്കല്‍",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_THIRUMALA",
           "name": "Thirumala",
-          "namelocal": "തിരുമല"
+          "namelocal": "തിരുമല",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_THIRUVALLAM",
           "name": "Thiruvallam",
-          "namelocal": "തിരുവല്ലം"
+          "namelocal": "തിരുവല്ലം",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_THYCAUD",
           "name": "Thycaud",
-          "namelocal": "തൈക്കാട്"
+          "namelocal": "തൈക്കാട്",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_NEMOM",
           "name": "Nemom",
-          "namelocal": "നേമം"
+          "namelocal": "നേമം",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_PATTOM",
           "name": "Pattom",
-          "namelocal": "പട്ടം"
+          "namelocal": "പട്ടം",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_PANGAPPARA",
           "name": "Pangappara",
-          "namelocal": "പാങ്ങപ്പാറ"
+          "namelocal": "പാങ്ങപ്പാറ",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_PETTAH",
           "name": "Pettah",
-          "namelocal": "പേട്ട"
+          "namelocal": "പേട്ട",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_PEROORKADA",
           "name": "Peroorkada",
-          "namelocal": "പേരൂര്‍ക്കട"
+          "namelocal": "പേരൂര്‍ക്കട",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_MANACADU",
           "name": "Manacadu",
-          "namelocal": "മണക്കാട്"
+          "namelocal": "മണക്കാട്",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_MUTTATHARA",
           "name": "Muttathara",
-          "namelocal": "മുട്ടത്തറ"
+          "namelocal": "മുട്ടത്തറ",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_VANCHIYOOR",
           "name": "Vanchiyoor",
-          "namelocal": "വഞ്ചിയൂര്‍"
+          "namelocal": "വഞ്ചിയൂര്‍",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_VATTIYOORKAVU",
           "name": "Vattiyoorkavu",
-          "namelocal": "വട്ടിയൂര്‍ക്കാവ്"
+          "namelocal": "വട്ടിയൂര്‍ക്കാവ്",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_VIZHINJAM",
           "name": "Vizhinjam",
-          "namelocal": "വിഴിഞ്ഞം"
+          "namelocal": "വിഴിഞ്ഞം",
+          "talukCode": "TALUK_NEYYATTINKARA"
         },
         {
           "code": "VILLAGE_VENGANOOR",
           "name": "Venganoor",
-          "namelocal": "വെങ്ങാനൂര്‍"
+          "namelocal": "വെങ്ങാനൂര്‍",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_VEILOOR",
           "name": "Veiloor",
-          "namelocal": "വെയിലൂര്‍"
+          "namelocal": "വെയിലൂര്‍",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         },
         {
           "code": "VILLAGE_SASTHAMANGALAM",
           "name": "Sasthamangalam",
-          "namelocal": "ശാസ്തമംഗലം"
+          "namelocal": "ശാസ്തമംഗലം",
+          "talukCode": "TALUK_THIRUVANANTHAPURAM"
         }
       ],
       "poList": [
@@ -12859,27 +13151,32 @@
         {
           "code": "VILLAGE_KARIMKUNNAM",
           "name": "Karimkunnam",
-          "namelocal": "കരിങ്കുന്നം"
+          "namelocal": "കരിങ്കുന്നം",
+          "talukCode": "TALUK_THODUPUZHA"
         },
         {
           "code": "VILLAGE_KARIKODE",
           "name": "Karikode",
-          "namelocal": "കാരിക്കോട്"
+          "namelocal": "കാരിക്കോട്",
+          "talukCode": "TALUK_THODUPUZHA"
         },
         {
           "code": "VILLAGE_KUMARAMANGALAM",
           "name": "Kumaramangalam",
-          "namelocal": "കുമാരമംഗലം"
+          "namelocal": "കുമാരമംഗലം",
+          "talukCode": "TALUK_THODUPUZHA"
         },
         {
           "code": "VILLAGE_THODUPUZHA",
           "name": "Thodupuzha",
-          "namelocal": "തൊടുപുഴ"
+          "namelocal": "തൊടുപുഴ",
+          "talukCode": "TALUK_THODUPUZHA"
         },
         {
           "code": "VILLAGE_MANAKKAD",
           "name": "Manakkad",
-          "namelocal": "മണക്കാട്"
+          "namelocal": "മണക്കാട്",
+          "talukCode": "TALUK_THODUPUZHA"
         }
       ],
       "poList": [
@@ -13031,17 +13328,20 @@
         {
           "code": "VILLAGE_KAKKANAD",
           "name": "Kakkanad",
-          "namelocal": "കാക്കനാട്"
+          "namelocal": "കാക്കനാട്",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_THRIKKAKARA_NORTH",
           "name": "Thrikkakara North",
-          "namelocal": "തൃക്കാക്കര നോര്‍ത്ത്"
+          "namelocal": "തൃക്കാക്കര നോര്‍ത്ത്",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_VAZHAKKALA",
           "name": "Vazhakkala",
-          "namelocal": "വാഴക്കാല"
+          "namelocal": "വാഴക്കാല",
+          "talukCode": "TALUK_KANAYANNUR"
         }
       ],
       "poList": [
@@ -13153,87 +13453,104 @@
         {
           "code": "VILLAGE_AYYANTHOLE",
           "name": "Ayyanthole",
-          "namelocal": "അയ്യന്തോള്‍"
+          "namelocal": "അയ്യന്തോള്‍",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_ARANATTUKKARA",
           "name": "Aranattukkara",
-          "namelocal": "അരണാട്ടുകര"
+          "namelocal": "അരണാട്ടുകര",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_EDAKUNNI",
           "name": "Edakunni",
-          "namelocal": "എടക്കുന്നി"
+          "namelocal": "എടക്കുന്നി",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_OLLUKKARA",
           "name": "Ollukkara",
-          "namelocal": "ഒല്ലൂക്കര"
+          "namelocal": "ഒല്ലൂക്കര",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_OLLUR",
           "name": "Ollur",
-          "namelocal": "ഒല്ലൂര്‍"
+          "namelocal": "ഒല്ലൂര്‍",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_KANIMANGALAM",
           "name": "Kanimangalam",
-          "namelocal": "കണിമംഗലം"
+          "namelocal": "കണിമംഗലം",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_KOORKKANCHERY",
           "name": "Koorkkanchery",
-          "namelocal": "കൂര്‍ക്കഞ്ചേരി"
+          "namelocal": "കൂര്‍ക്കഞ്ചേരി",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_CHIYYARAM",
           "name": "Chiyyaram",
-          "namelocal": "ചിയ്യാരം"
+          "namelocal": "ചിയ്യാരം",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_CHEMBOOKKAVU",
           "name": "Chembookkavu",
-          "namelocal": "ചെമ്പുക്കാവ്"
+          "namelocal": "ചെമ്പുക്കാവ്",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_THRISSUR",
           "name": "Thrissur",
-          "namelocal": "തൃശ്ശൂര്‍"
+          "namelocal": "തൃശ്ശൂര്‍",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_NADATHARA",
           "name": "Nadathara",
-          "namelocal": "നടത്തറ"
+          "namelocal": "നടത്തറ",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_NETTISSERY",
           "name": "Nettissery",
-          "namelocal": "നെട്ടിശ്ശേരി"
+          "namelocal": "നെട്ടിശ്ശേരി",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_PULLAZHI",
           "name": "Pullazhi",
-          "namelocal": "പുല്ലഴി"
+          "namelocal": "പുല്ലഴി",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_POONKUNNAM",
           "name": "Poonkunnam",
-          "namelocal": "പൂങ്കുന്നം"
+          "namelocal": "പൂങ്കുന്നം",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_PERINGAVU",
           "name": "Peringavu",
-          "namelocal": "പെരിങ്ങാവ്"
+          "namelocal": "പെരിങ്ങാവ്",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_VIYYUR",
           "name": "Viyyur",
-          "namelocal": "വിയ്യൂര്‍"
+          "namelocal": "വിയ്യൂര്‍",
+          "talukCode": "TALUK_THRISSUR"
         },
         {
           "code": "VILLAGE_VILVATTOM",
           "name": "Vilvattom",
-          "namelocal": "വില്‍വട്ടം"
+          "namelocal": "വില്‍വട്ടം",
+          "talukCode": "TALUK_THRISSUR"
         }
       ],
       "poList": [
@@ -13619,12 +13936,14 @@
         {
           "code": "VILLAGE_TIRUR",
           "name": "Tirur",
-          "namelocal": "തിരൂര്‍"
+          "namelocal": "തിരൂര്‍",
+          "talukCode": "TALUK_TIRUR"
         },
         {
           "code": "VILLAGE_TRIKANDIYUR",
           "name": "Trikandiyur",
-          "namelocal": "തൃക്കണ്ടിയൂര്‍"
+          "namelocal": "തൃക്കണ്ടിയൂര്‍",
+          "talukCode": "TALUK_TIRUR"
         }
       ],
       "poList": [
@@ -13731,7 +14050,8 @@
         {
           "code": "VILLAGE_TIRURANGADI",
           "name": "Tirurangadi",
-          "namelocal": "തിരൂരങ്ങാടി"
+          "namelocal": "തിരൂരങ്ങാടി",
+          "talukCode": "TALUK_TIRURANGADI"
         }
       ],
       "poList": [
@@ -13833,17 +14153,20 @@
         {
           "code": "VILLAGE_THIRUVANKULAM",
           "name": "Thiruvankulam",
-          "namelocal": "തിരുവാങ്കുളം"
+          "namelocal": "തിരുവാങ്കുളം",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_THEKKUMBHAGOM",
           "name": "Thekkumbhagom",
-          "namelocal": "തെക്കുംഭാഗം"
+          "namelocal": "തെക്കുംഭാഗം",
+          "talukCode": "TALUK_KANAYANNUR"
         },
         {
           "code": "VILLAGE_NADAMA",
           "name": "Nadama",
-          "namelocal": "നടമ"
+          "namelocal": "നടമ",
+          "talukCode": "TALUK_KANAYANNUR"
         }
       ],
       "poList": [
@@ -13991,12 +14314,14 @@
         {
           "code": "VILLAGE_NADAKKUTHAZHA",
           "name": "Nadakkuthazha",
-          "namelocal": "നടക്കുത്താഴ"
+          "namelocal": "നടക്കുത്താഴ",
+          "talukCode": "TALUK_VATAKARA"
         },
         {
           "code": "VILLAGE_VATAKARA",
           "name": "Vatakara",
-          "namelocal": "വടകര"
+          "namelocal": "വടകര",
+          "talukCode": "TALUK_VATAKARA"
         }
       ],
       "poList": [
@@ -14133,17 +14458,20 @@
         {
           "code": "VILLAGE_NADUVILE",
           "name": "Naduvile",
-          "namelocal": "നടുവിലെ"
+          "namelocal": "നടുവിലെ",
+          "talukCode": "TALUK_VAIKOM"
         },
         {
           "code": "VILLAGE_VADAKKEMURI",
           "name": "Vadakkemuri",
-          "namelocal": "വടക്കേമുറി"
+          "namelocal": "വടക്കേമുറി",
+          "talukCode": "TALUK_VAIKOM"
         },
         {
           "code": "VILLAGE_VAIKOM",
           "name": "Vaikom",
-          "namelocal": "വൈക്കം"
+          "namelocal": "വൈക്കം",
+          "talukCode": "TALUK_VAIKOM"
         }
       ],
       "poList": [
@@ -14243,7 +14571,8 @@
         {
           "code": "VILLAGE_KATTIPPARUTHI",
           "name": "Kattipparuthi",
-          "namelocal": "കാട്ടിപ്പരുത്തി"
+          "namelocal": "കാട്ടിപ്പരുത്തി",
+          "talukCode": "TALUK_TIRUR"
         }
       ],
       "poList": [
@@ -14327,7 +14656,8 @@
         {
           "code": "VILLAGE_VARKALA",
           "name": "Varkala",
-          "namelocal": "വര്‍ക്കല"
+          "namelocal": "വര്‍ക്കല",
+          "talukCode": "TALUK_VARKALA"
         }
       ],
       "poList": [
@@ -14447,52 +14777,62 @@
         {
           "code": "VILLAGE_ATTUR",
           "name": "Attur",
-          "namelocal": "ആറ്റൂര്‍"
+          "namelocal": "ആറ്റൂര്‍",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_ENKAKAD",
           "name": "Enkakad",
-          "namelocal": "എങ്കക്കാട്"
+          "namelocal": "എങ്കക്കാട്",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_KUMARANELLUR",
           "name": "Kumaranellur",
-          "namelocal": "കുമരനെല്ലൂര്‍"
+          "namelocal": "കുമരനെല്ലൂര്‍",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_PARLIKKAD",
           "name": "Parlikkad",
-          "namelocal": "പാര്‍ളിക്കാട്"
+          "namelocal": "പാര്‍ളിക്കാട്",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_PUDURUTHY",
           "name": "Puduruthy",
-          "namelocal": "പുതുരുത്തി"
+          "namelocal": "പുതുരുത്തി",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_PERINGANDUR",
           "name": "Peringandur",
-          "namelocal": "പെരിങ്ങണ്ട‍ൂര്‍"
+          "namelocal": "പെരിങ്ങണ്ട‍ൂര്‍",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_MINALUR",
           "name": "Minalur",
-          "namelocal": "മിണാലൂര്‍"
+          "namelocal": "മിണാലൂര്‍",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_MUNDATHICODE",
           "name": "Mundathicode",
-          "namelocal": "മുണ്ടത്തിക്കോട്"
+          "namelocal": "മുണ്ടത്തിക്കോട്",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_MULLURKARA",
           "name": "Mullurkara",
-          "namelocal": "മുള്ളൂര്‍ക്കര"
+          "namelocal": "മുള്ളൂര്‍ക്കര",
+          "talukCode": "TALUK_THALAPPILLY"
         },
         {
           "code": "VILLAGE_WADAKANCHERY",
           "name": "Wadakanchery",
-          "namelocal": "വടക്കാഞ്ചേരി"
+          "namelocal": "വടക്കാഞ്ചേരി",
+          "talukCode": "TALUK_THALAPPILLY"
         }
       ],
       "poList": [
