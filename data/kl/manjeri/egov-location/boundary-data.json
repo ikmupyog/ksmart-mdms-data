@@ -1,0 +1,1537 @@
+{
+  "tenantId": "kl.manjeri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "d3e4afb5-e10d-4b49-a77d-0f918967dc39",
+        "boundaryNum": 1,
+        "name": "Manjeri",
+        "localname": "മഞ്ചേരി മുനിസിപ്പാലിറ്റി",
+        "longitude": null,
+        "latitude": null,
+        "label": "Municipality",
+        "code": "kl.manjeri",
+        "children": [
+          {
+            "id": "e46f55b1-3edc-4254-9632-aeed7c45b4a1",
+            "boundaryNum": 1,
+            "name": "Main Office",
+            "localname": "മുഖ്യ ഓഫീസ് ",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "3021101",
+            "assesmentyear": "None",
+            "children": [
+              {
+                "id": "233e5363-f149-46f1-a229-3e8910122040",
+                "boundaryNum": 1,
+                "name": "KIDANGAZHI",
+                "localname": "കിടങ്ങഴി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "1",
+                "code": "1021101080",
+                "children": [
+                  {
+                    "id": "c942e7b0-4c72-44b9-b478-7e0fc5d871ff",
+                    "boundaryNum": 1,
+                    "name": "KIDANGAZHI",
+                    "localname": "കിടങ്ങഴി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "1",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2539031a-8213-4b36-8763-bdd35b2add14",
+                "boundaryNum": 2,
+                "name": "ERAMBRA",
+                "localname": "എരാമ്പ്ര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "2",
+                "code": "1021101081",
+                "children": [
+                  {
+                    "id": "cd69eaeb-7a9d-4c2f-be8d-b9642bd44716",
+                    "boundaryNum": 2,
+                    "name": "ERAMBRA",
+                    "localname": "എരാമ്പ്ര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "2",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7758b83c-2268-42f5-bfbf-0e7f7f5ee1e9",
+                "boundaryNum": 3,
+                "name": "PULLOOR",
+                "localname": "പുല്ലൂര്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "3",
+                "code": "1021101082",
+                "children": [
+                  {
+                    "id": "976929ea-1eb1-463e-a6cf-89f475af9584",
+                    "boundaryNum": 3,
+                    "name": "PULLOOR",
+                    "localname": "പുല്ലൂര്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "3",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57a8bbc4-659e-4692-acee-0232ff0dddf3",
+                "boundaryNum": 4,
+                "name": "CHETTIYANGADI",
+                "localname": "ചെട്ടിയങ്ങാടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "4",
+                "code": "1021101083",
+                "children": [
+                  {
+                    "id": "3085d4f0-229d-4200-8e15-63b89ebf9902",
+                    "boundaryNum": 4,
+                    "name": "CHETTIYANGADI",
+                    "localname": "ചെട്ടിയങ്ങാടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "4",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a50901f6-677a-40bb-b2f7-7bc5052dc1ab",
+                "boundaryNum": 5,
+                "name": "CHERANI",
+                "localname": "ചെരണി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "5",
+                "code": "1021101084",
+                "children": [
+                  {
+                    "id": "e59832e1-f832-4257-b6c6-0d36911a906d",
+                    "boundaryNum": 5,
+                    "name": "CHERANI",
+                    "localname": "ചെരണി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "5",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d46ab0a7-895f-4a43-a6b1-cd2ffcbdae0e",
+                "boundaryNum": 6,
+                "name": "NELLIPARAMBA",
+                "localname": "നെല്ലിപറമ്പ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "6",
+                "code": "1021101085",
+                "children": [
+                  {
+                    "id": "b54b5325-819f-4533-bf14-2f2f20c42b49",
+                    "boundaryNum": 6,
+                    "name": "NELLIPARAMBA",
+                    "localname": "നെല്ലിപറമ്പ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "6",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e3d051b-d088-44ec-a74e-1b2b5c3315fc",
+                "boundaryNum": 7,
+                "name": "MELAKKAM",
+                "localname": "മേലാക്കം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "7",
+                "code": "1021101086",
+                "children": [
+                  {
+                    "id": "4409f189-2d12-45e2-a2ac-d670bfcadef7",
+                    "boundaryNum": 7,
+                    "name": "MELAKKAM",
+                    "localname": "മേലാക്കം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "7",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73403040-376f-42fa-b23c-635a36a9a4f4",
+                "boundaryNum": 8,
+                "name": "CHULLAKKAD",
+                "localname": "ചുള്ളക്കാട്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "8",
+                "code": "1021101087",
+                "children": [
+                  {
+                    "id": "08e287ed-087b-4a07-aa16-1f3d6137dc7d",
+                    "boundaryNum": 8,
+                    "name": "CHULLAKKAD",
+                    "localname": "ചുള്ളക്കാട്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "8",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31457384-5f86-4280-8d92-9640f887890b",
+                "boundaryNum": 9,
+                "name": "THADATHIKUZHI",
+                "localname": "തടത്തിക്കുഴി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "9",
+                "code": "1021101088",
+                "children": [
+                  {
+                    "id": "ec6ed092-9161-407e-9005-703a24982f8e",
+                    "boundaryNum": 9,
+                    "name": "THADATHIKUZHI",
+                    "localname": "തടത്തിക്കുഴി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "9",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5888c5b3-24ca-4c6b-837a-bb3d0324afbf",
+                "boundaryNum": 10,
+                "name": "KOZHIKATTUKUNNU",
+                "localname": "കോഴിക്കാട്ട്കുന്ന്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "10",
+                "code": "1021101089",
+                "children": [
+                  {
+                    "id": "ef7c671b-b459-45f2-b05a-1717712ff255",
+                    "boundaryNum": 10,
+                    "name": "KOZHIKATTUKUNNU",
+                    "localname": "കോഴിക്കാട്ട്കുന്ന്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "10",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d8bf987c-df33-4f3c-8ad7-506cdbf8ce8b",
+                "boundaryNum": 11,
+                "name": "PUNNAKKUZHI",
+                "localname": "പുന്നക്കുഴി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "11",
+                "code": "1021101106",
+                "children": [
+                  {
+                    "id": "11712082-2f3d-4d1f-a36f-16a88506b524",
+                    "boundaryNum": 11,
+                    "name": "PUNNAKKUZHI",
+                    "localname": "പുന്നക്കുഴി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "11",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa486e0a-e6cd-4fbd-954e-90ad03d64825",
+                "boundaryNum": 12,
+                "name": "MANGALASSERI",
+                "localname": "മംഗലശേരി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "12",
+                "code": "1021101090",
+                "children": [
+                  {
+                    "id": "0250fe6b-1922-4264-9838-8cc9e0100ba5",
+                    "boundaryNum": 12,
+                    "name": "MANGALASSERI",
+                    "localname": "മംഗലശേരി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "12",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc1e937f-5794-4763-9378-bd7b24c41803",
+                "boundaryNum": 13,
+                "name": "PALAKULAM",
+                "localname": "പാലക്കുളം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "13",
+                "code": "1021101091",
+                "children": [
+                  {
+                    "id": "0f035c03-31ce-429d-b6a8-8e0ed74cd124",
+                    "boundaryNum": 13,
+                    "name": "PALAKULAM",
+                    "localname": "പാലക്കുളം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "13",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5e54f596-c4df-4385-b901-0748f36ce5c9",
+                "boundaryNum": 14,
+                "name": "THANIPPARA",
+                "localname": "താണിപാറ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "14",
+                "code": "1021101092",
+                "children": [
+                  {
+                    "id": "d08901b0-d431-42f5-851d-8c49ec7b18e8",
+                    "boundaryNum": 14,
+                    "name": "THANIPPARA",
+                    "localname": "താണിപാറ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "14",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "464e1ec4-b402-4beb-91bd-dd7053f5aca1",
+                "boundaryNum": 15,
+                "name": "COLLEGEKUNNU",
+                "localname": "കോളേജ്കുന്ന്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "15",
+                "code": "1021101093",
+                "children": [
+                  {
+                    "id": "0deaf185-5f2b-4d4e-a669-f28e60a4b179",
+                    "boundaryNum": 15,
+                    "name": "COLLEGEKUNNU",
+                    "localname": "കോളേജ്കുന്ന്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "15",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7bf17d2c-8706-4ab7-9ca0-d6c5d4f862a3",
+                "boundaryNum": 16,
+                "name": "KIZHAKKETHALA",
+                "localname": "കിഴക്കേതല",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "16",
+                "code": "1021101094",
+                "children": [
+                  {
+                    "id": "8d248c55-cda9-4f0e-a9bc-cc46d0e3c2c8",
+                    "boundaryNum": 16,
+                    "name": "KIZHAKKETHALA",
+                    "localname": "കിഴക്കേതല",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "16",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aaccddba-1ecf-403e-b6be-39f2de4e60f7",
+                "boundaryNum": 17,
+                "name": "VADAKKANGARA",
+                "localname": "വടക്കാങ്ങര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "17",
+                "code": "1021101095",
+                "children": [
+                  {
+                    "id": "ff1b578b-f28c-475b-bd1e-6fbb349e36a6",
+                    "boundaryNum": 17,
+                    "name": "VADAKKANGARA",
+                    "localname": "വടക്കാങ്ങര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "17",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51f13e7e-f329-4ba1-88d6-92e86b01c5de",
+                "boundaryNum": 18,
+                "name": "PAYYANAD",
+                "localname": "പയ്യനാട്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "18",
+                "code": "1021101096",
+                "children": [
+                  {
+                    "id": "a7996c67-15fb-4231-843c-248533f40207",
+                    "boundaryNum": 18,
+                    "name": "PAYYANAD",
+                    "localname": "പയ്യനാട്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "18",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3180f08b-edc8-4995-9fb6-85007d80d5e8",
+                "boundaryNum": 19,
+                "name": "ELAMBRA",
+                "localname": "ഏലമ്പ്ര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "19",
+                "code": "1021101097",
+                "children": [
+                  {
+                    "id": "f435a399-bbeb-45db-b222-1eb13546d8ee",
+                    "boundaryNum": 19,
+                    "name": "ELAMBRA",
+                    "localname": "ഏലമ്പ്ര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "19",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1feac923-8847-4a0c-b5d2-c499330c1b46",
+                "boundaryNum": 20,
+                "name": "ATHANIKKAL",
+                "localname": "അത്താണിക്കല്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "20",
+                "code": "1021101098",
+                "children": [
+                  {
+                    "id": "d3f4b3de-0035-4f7c-b4cd-11cd0315c6bd",
+                    "boundaryNum": 20,
+                    "name": "ATHANIKKAL",
+                    "localname": "അത്താണിക്കല്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "20",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6fa53e3d-7c08-4f9f-beb6-635383067e14",
+                "boundaryNum": 21,
+                "name": "THAMARASSERI",
+                "localname": "താമരശേരി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "21",
+                "code": "1021101099",
+                "children": [
+                  {
+                    "id": "83bef3c4-b9c7-487c-b151-564fbf895e66",
+                    "boundaryNum": 21,
+                    "name": "THAMARASSERI",
+                    "localname": "താമരശേരി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "21",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "301e96a8-d14e-4eb4-b6da-ddfb429e698d",
+                "boundaryNum": 22,
+                "name": "NELLIKUTH LPS",
+                "localname": "നെല്ലിക്കുത്ത് എല്‍.പി.സ്കൂള്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "22",
+                "code": "1021101100",
+                "children": [
+                  {
+                    "id": "a9f81c9d-2635-4d6c-bb52-1fc6d53223b9",
+                    "boundaryNum": 22,
+                    "name": "NELLIKUTH LPS",
+                    "localname": "നെല്ലിക്കുത്ത് എല്‍.പി.സ്കൂള്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "22",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b42510e4-80fa-45c8-99be-2f0f23f84ab6",
+                "boundaryNum": 23,
+                "name": "NELLIKKUTH HIGH SCHOOL",
+                "localname": "നെല്ലിക്കുത്ത് ഹൈസ്കൂള്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "23",
+                "code": "1021101101",
+                "children": [
+                  {
+                    "id": "56e7a951-bc36-4b09-b083-2556eb84c856",
+                    "boundaryNum": 23,
+                    "name": "NELLIKKUTH HIGH SCHOOL",
+                    "localname": "നെല്ലിക്കുത്ത് ഹൈസ്കൂള്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "23",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94467546-1536-4463-848b-d7ebd8e96251",
+                "boundaryNum": 24,
+                "name": "CHALUKULAM",
+                "localname": "ചാലുകുളം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "24",
+                "code": "1021101102",
+                "children": [
+                  {
+                    "id": "8b305f00-be60-4276-b995-35b418e40d5f",
+                    "boundaryNum": 24,
+                    "name": "CHALUKULAM",
+                    "localname": "ചാലുകുളം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "24",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f2831c7b-e944-46ee-ae8a-dfae5d2659c2",
+                "boundaryNum": 25,
+                "name": "KIZHAKKEKUNNU",
+                "localname": "കിഴക്കെക്കുന്ന്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "25",
+                "code": "1021101103",
+                "children": [
+                  {
+                    "id": "4b746181-9fcd-41f5-97c6-1abfef57f0e2",
+                    "boundaryNum": 25,
+                    "name": "KIZHAKKEKUNNU",
+                    "localname": "കിഴക്കെക്കുന്ന്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "25",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aab305be-2929-4dc9-aa28-2e985e3f92c6",
+                "boundaryNum": 26,
+                "name": "PILAKKAL",
+                "localname": "പിലാക്കല്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "26",
+                "code": "1021101104",
+                "children": [
+                  {
+                    "id": "2f10affb-50ae-4c40-8bc0-abc40f941937",
+                    "boundaryNum": 26,
+                    "name": "PILAKKAL",
+                    "localname": "പിലാക്കല്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "26",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bef901fe-1860-4372-a3f8-c6b308ae8744",
+                "boundaryNum": 27,
+                "name": "AMAYAMKODE",
+                "localname": "അമയംകോട്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "27",
+                "code": "1021101105",
+                "children": [
+                  {
+                    "id": "fc9ba250-ee08-490f-ab15-2a9860cc711a",
+                    "boundaryNum": 27,
+                    "name": "AMAYAMKODE",
+                    "localname": "അമയംകോട്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "27",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8419874d-b824-403b-ace2-404a79fbe1d3",
+                "boundaryNum": 28,
+                "name": "PULLANCHERI",
+                "localname": "പുല്ലഞ്ചേരി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "28",
+                "code": "1021101107",
+                "children": [
+                  {
+                    "id": "a1b725e5-af74-49ed-90d8-4961fa5b4e73",
+                    "boundaryNum": 28,
+                    "name": "PULLANCHERI",
+                    "localname": "പുല്ലഞ്ചേരി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "28",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4cac1b50-cf64-4bc4-8fac-92a29ef9503e",
+                "boundaryNum": 29,
+                "name": "VETTEKODE",
+                "localname": "വേട്ടേക്കോട്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "29",
+                "code": "1021101108",
+                "children": [
+                  {
+                    "id": "a023d394-ab95-46d4-af0b-88f67b66fa55",
+                    "boundaryNum": 29,
+                    "name": "VETTEKODE",
+                    "localname": "വേട്ടേക്കോട്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "29",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "763b9a50-9e9a-47ac-869e-57ac41de2449",
+                "boundaryNum": 30,
+                "name": "VELLARANGAL",
+                "localname": "വെള്ളാരങ്ങല്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "30",
+                "code": "1021101109",
+                "children": [
+                  {
+                    "id": "9be238ba-fa66-4ebe-bd5c-79d4c65e0854",
+                    "boundaryNum": 30,
+                    "name": "VELLARANGAL",
+                    "localname": "വെള്ളാരങ്ങല്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "30",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "376f585e-83b0-43f2-9010-a39382155518",
+                "boundaryNum": 31,
+                "name": "VAYAPARAPADI",
+                "localname": "വായപ്പാറപ്പടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "31",
+                "code": "1021101110",
+                "children": [
+                  {
+                    "id": "02a83ee0-e722-4c3d-81d3-06eb12820bb5",
+                    "boundaryNum": 31,
+                    "name": "VAYAPARAPADI",
+                    "localname": "വായപ്പാറപ്പടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "31",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "116d3ae8-894a-436a-9ad9-f54bef5ee3fd",
+                "boundaryNum": 32,
+                "name": "KOVILAKAMKUNDU",
+                "localname": "കോവിലകംകുണ്ട്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "32",
+                "code": "1021101111",
+                "children": [
+                  {
+                    "id": "960325a8-77f3-4e82-9e17-5b2a12aa5b6c",
+                    "boundaryNum": 32,
+                    "name": "KOVILAKAMKUNDU",
+                    "localname": "കോവിലകംകുണ്ട്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "32",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c0aad51-2aec-4864-8410-8b10b277c345",
+                "boundaryNum": 33,
+                "name": "TOWN WARD",
+                "localname": "ടൌണ്‍ വാര്‍ഡ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "33",
+                "code": "1021101112",
+                "children": [
+                  {
+                    "id": "e075c961-5a60-4dda-8886-25cfd3d5fd15",
+                    "boundaryNum": 33,
+                    "name": "TOWN WARD",
+                    "localname": "ടൌണ്‍ വാര്‍ഡ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "33",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6cf69c42-a3da-40e7-93eb-efc6668b5439",
+                "boundaryNum": 34,
+                "name": "SANTHIGRAMAM",
+                "localname": "ശാന്തിഗ്രാമം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "34",
+                "code": "1021101113",
+                "children": [
+                  {
+                    "id": "db6d9af5-164c-4aef-904a-fee0cbdf767e",
+                    "boundaryNum": 34,
+                    "name": "SANTHIGRAMAM",
+                    "localname": "ശാന്തിഗ്രാമം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "34",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "830b4ba2-79ac-4529-94f1-4b28960d97be",
+                "boundaryNum": 35,
+                "name": "ARUKIZHAYA",
+                "localname": "അരുകിഴായ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "35",
+                "code": "1021101114",
+                "children": [
+                  {
+                    "id": "117b777c-c9ea-4692-949f-1c42d00a2c2e",
+                    "boundaryNum": 35,
+                    "name": "ARUKIZHAYA",
+                    "localname": "അരുകിഴായ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "35",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "48ccee77-69fc-40a7-aca6-6b4dfc05834f",
+                "boundaryNum": 36,
+                "name": "ULLADAMKUNNU",
+                "localname": "ഉള്ളാടംകുന്ന്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "36",
+                "code": "1021101115",
+                "children": [
+                  {
+                    "id": "c59aa554-db14-4eb4-b574-c9b68de78ce7",
+                    "boundaryNum": 36,
+                    "name": "ULLADAMKUNNU",
+                    "localname": "ഉള്ളാടംകുന്ന്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "36",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc571545-fe50-4e38-a7dd-10e908463e7b",
+                "boundaryNum": 37,
+                "name": "MULLAMPARA",
+                "localname": "മുള്ളമ്പാറ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "37",
+                "code": "1021101116",
+                "children": [
+                  {
+                    "id": "973a0019-6d6a-4449-962f-983caede2fea",
+                    "boundaryNum": 37,
+                    "name": "MULLAMPARA",
+                    "localname": "മുള്ളമ്പാറ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "37",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65219702-c82d-4d4e-bd54-7803d047f637",
+                "boundaryNum": 38,
+                "name": "VAKKETHODI",
+                "localname": "വാക്കേതൊടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "38",
+                "code": "1021101117",
+                "children": [
+                  {
+                    "id": "c6c7e765-ba7f-4d78-a372-a3185ae13576",
+                    "boundaryNum": 38,
+                    "name": "VAKKETHODI",
+                    "localname": "വാക്കേതൊടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "38",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a5a5678-9b33-4ae9-8565-bb3687cac8fa",
+                "boundaryNum": 39,
+                "name": "THADATHIPARAMBA",
+                "localname": "തടത്തിപറമ്പ്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "39",
+                "code": "1021101118",
+                "children": [
+                  {
+                    "id": "4a3bfe94-b0ce-4a5e-b53a-7e786635eb09",
+                    "boundaryNum": 39,
+                    "name": "THADATHIPARAMBA",
+                    "localname": "തടത്തിപറമ്പ്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "39",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "933f8d67-4e65-4121-a506-d160b4904bfa",
+                "boundaryNum": 40,
+                "name": "VATTAPPARA",
+                "localname": "വട്ടപ്പാറ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "40",
+                "code": "1021101119",
+                "children": [
+                  {
+                    "id": "55c343f9-4309-4a19-968f-959f5534afcf",
+                    "boundaryNum": 40,
+                    "name": "VATTAPPARA",
+                    "localname": "വട്ടപ്പാറ",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "40",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "24a39d01-45bb-493a-9f8e-8d3ed54fa2f5",
+                "boundaryNum": 41,
+                "name": "PULIYANTHODI",
+                "localname": "പുളിയന്‍തൊടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "41",
+                "code": "1021101120",
+                "children": [
+                  {
+                    "id": "548ed450-842a-4d83-81ca-3ec3a9da4c60",
+                    "boundaryNum": 41,
+                    "name": "PULIYANTHODI",
+                    "localname": "പുളിയന്‍തൊടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "41",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e249b436-6168-47ea-9885-376fa35b8d62",
+                "boundaryNum": 42,
+                "name": "THURAKKAL",
+                "localname": "തുറക്കല്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "42",
+                "code": "1021101121",
+                "children": [
+                  {
+                    "id": "0523030f-ffa2-49f9-bf9d-2f5c1221fe42",
+                    "boundaryNum": 42,
+                    "name": "THURAKKAL",
+                    "localname": "തുറക്കല്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "42",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6bab7e40-054e-4652-8076-0f738c6532af",
+                "boundaryNum": 43,
+                "name": "POTTAMMAL",
+                "localname": "പൊറ്റമ്മല്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "43",
+                "code": "1021101122",
+                "children": [
+                  {
+                    "id": "954a8225-8ed3-4b4e-a553-e2ff631a02bc",
+                    "boundaryNum": 43,
+                    "name": "POTTAMMAL",
+                    "localname": "പൊറ്റമ്മല്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "43",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c5b108f8-c593-4224-9202-4595bf1d6c29",
+                "boundaryNum": 44,
+                "name": "PATTERKULAM",
+                "localname": "പട്ടര്‍കുളം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "44",
+                "code": "1021101123",
+                "children": [
+                  {
+                    "id": "4290b640-3ed9-44d0-852e-4a0ce9648e63",
+                    "boundaryNum": 44,
+                    "name": "PATTERKULAM",
+                    "localname": "പട്ടര്‍കുളം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "44",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c31aef45-3ae6-42d8-b72e-0a5ad97689e4",
+                "boundaryNum": 45,
+                "name": "MARIYAD",
+                "localname": "മാര്യാട്",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "45",
+                "code": "1021101124",
+                "children": [
+                  {
+                    "id": "7a06f58c-5f6e-49d7-8f64-a8680b37560b",
+                    "boundaryNum": 45,
+                    "name": "MARIYAD",
+                    "localname": "മാര്യാട്",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "45",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50c8c1cd-72a8-4fd2-ab84-7c8ff44d66e6",
+                "boundaryNum": 46,
+                "name": "VEEMBUR",
+                "localname": "വീമ്പൂര്‍",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "46",
+                "code": "1021101125",
+                "children": [
+                  {
+                    "id": "485b4ab0-62e1-4db0-af11-2d994efb3e8d",
+                    "boundaryNum": 46,
+                    "name": "VEEMBUR",
+                    "localname": "വീമ്പൂര്‍",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "46",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb6bcf3d-3c82-4ab5-ab7e-612460d429fe",
+                "boundaryNum": 47,
+                "name": "NARUKARA",
+                "localname": "നറുകര",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "47",
+                "code": "1021101126",
+                "children": [
+                  {
+                    "id": "ad7aa0a6-2a19-4db9-b472-b86eee5e4d80",
+                    "boundaryNum": 47,
+                    "name": "NARUKARA",
+                    "localname": "നറുകര",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "47",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f005fd2d-6953-4a58-bbb0-ebdc58212c26",
+                "boundaryNum": 48,
+                "name": "AMBALAPPADI",
+                "localname": "അമ്പലപടി",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "48",
+                "code": "1021101127",
+                "children": [
+                  {
+                    "id": "13d691c3-c41f-4a44-b28a-919e995f1fab",
+                    "boundaryNum": 48,
+                    "name": "AMBALAPPADI",
+                    "localname": "അമ്പലപടി",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "48",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "66b600f5-2ed9-498b-b35c-b050be14f89c",
+                "boundaryNum": 49,
+                "name": "KARUVAMBRAM",
+                "localname": "കരുവമ്പ്രം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "49",
+                "code": "1021101128",
+                "children": [
+                  {
+                    "id": "3198dfd4-8d23-4079-8e12-f6b593f79f53",
+                    "boundaryNum": 49,
+                    "name": "KARUVAMBRAM",
+                    "localname": "കരുവമ്പ്രം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "49",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1378fe1d-50df-440f-aa8e-f2856882f4c3",
+                "boundaryNum": 50,
+                "name": "RAMAMKULAM",
+                "localname": "രാമംകുളം",
+                "longitude": null,
+                "latitude": null,
+                "label": "Ward",
+                "zonecode": "3021101",
+                "wardno": "50",
+                "code": "1021101129",
+                "children": [
+                  {
+                    "id": "a674244c-b997-4e69-a306-24aab83ed511",
+                    "boundaryNum": 50,
+                    "name": "RAMAMKULAM",
+                    "localname": "രാമംകുളം",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "zonecode": "3021101",
+                    "code": "50",
+                    "pincode": [
+                      null
+                    ],
+                    "area": "A1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
