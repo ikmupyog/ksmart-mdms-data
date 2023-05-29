@@ -27620,6 +27620,18 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+   {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2510,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	 {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2510,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2511,
@@ -27646,6 +27658,18 @@
     },
    {
       "rolecode": "FM_CEMP",
+      "actionid": 2511,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2511,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_SUB_REGISTRAR",
       "actionid": 2511,
       "actioncode": "",
       "tenantId": "kl"
@@ -27680,6 +27704,18 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2512,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2512,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
    {
       "rolecode": "EMPLOYEE",
       "actionid": 2513,
@@ -27706,6 +27742,18 @@
     },
     {
       "rolecode": "FM_CEMP",
+      "actionid": 2513,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2513,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+   {
+      "rolecode": "BND_SUB_REGISTRAR",
       "actionid": 2513,
       "actioncode": "",
       "tenantId": "kl"
@@ -28740,25 +28788,7 @@
       "actioncode": "",
       "tenantId": "kl"
     },
-   {
-      "rolecode": "JD_OPERATOR",
-      "actionid": 2466,
-      "actioncode": "",
-      "tenantId": "kl"
-    },
-     {
-      "rolecode": "JD_VERIFIER",
-      "actionid": 2466,
-      "actioncode": "",
-      "tenantId": "kl"
-    },
-     {
-      "rolecode": "JD_APPROVER",
-      "actionid": 2466,
-      "actioncode": "",
-      "tenantId": "kl"
-    },
-    {
+	  {
       "rolecode": "BND_CEMP",
       "actionid": 2503,
       "actioncode": "",
