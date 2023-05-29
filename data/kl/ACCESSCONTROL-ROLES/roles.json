@@ -68,6 +68,21 @@
       "description": "Civil Registration - Enquiry Officer"
     },
      {
+      "code": "JD_OPERATOR",
+      "name": "JD Office - Operator",
+      "description": "JD Office - Operator"
+    },
+    {
+      "code": "JD_VERIFIER",
+      "name": "JD Office - Verifier",
+      "description": "JD Office - Verifier"
+    },
+    {
+      "code": "JD_APPROVER",
+      "name": "JD Office - Approver",
+      "description": "JD Office - Approver"
+    },
+     {
       "code": "HOSPITAL_OPERATOR",
       "name": "B&D Hospital Operator ",
       "description": "B&D Hospital Operator"
