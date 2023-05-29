@@ -28740,11 +28740,29 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+	   {
+      "rolecode": "JD_OPERATOR",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "JD_VERIFIER",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
 	  {
+      "rolecode": "JD_APPROVER",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
       "rolecode": "BND_CEMP",
       "actionid": 2503,
       "actioncode": "",
       "tenantId": "kl"
-    }
+    }2466
   ]
 }
