@@ -22,6 +22,21 @@
       "name": "FM Verifier",
       "description": "Filemanagement Verifier"
     },
+     {
+      "code": "JD_OPERATOR",
+      "name": "JD Office - Operator",
+      "description": "JD Office - Operator"
+    },
+    {
+      "code": "JD_VERIFIER",
+      "name": "JD Office - Verifier",
+      "description": "JD Office - Verifier"
+    },
+    {
+      "code": "JD_APPROVER",
+      "name": "JD Office - Approver",
+      "description": "JD Office - Approver"
+    },
     {
       "code": "FM_APPROVER",
       "name": "FM Approver",
