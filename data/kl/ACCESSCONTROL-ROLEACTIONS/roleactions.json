@@ -28794,9 +28794,39 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+  {
+      "rolecode": "BND_CEMP",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+ {
+      "rolecode": "CITIZEN",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "BND_SUB_REGISTRAR",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+    {
+      "rolecode": "BND_LOCAL_REGISTRAR",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	  {
+      "rolecode": "JHI",
+      "actionid": 2543,
       "actioncode": "",
       "tenantId": "kl"
     }
