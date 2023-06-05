@@ -10,7 +10,7 @@
       "WorkflowCode": "WFBIRTH21DAYS",
       "SubType":"LESSTHAN21",
       "startdateperiod": 0,
-      "enddateperiod": 1814400000,
+      "enddateperiod": 1900800000,
       "payment": false,
       "amount": 0,
       "active": true
@@ -23,7 +23,7 @@
       "WorkflowCode": "WFBIRTH21DAYSHOME",
       "SubType":"LESSTHAN21",      
       "startdateperiod": 0,
-      "enddateperiod": 1814400000,
+      "enddateperiod": 1900800000,
       "payment": false,
       "amount": 0,
       "active": true
@@ -36,7 +36,7 @@
       "WorkflowCode": "WFBIRTH21DAYSHOME",      
       "SubType":"LESSTHAN21",
       "startdateperiod": 0,
-      "enddateperiod": 1814400000,
+      "enddateperiod": 1900800000,
       "payment": false,
       "amount": 0,
       "active": true
@@ -49,7 +49,7 @@
       "WorkflowCode": "WFBIRTH21DAYSHOME",      
       "SubType":"LESSTHAN21",
       "startdateperiod": 0,
-      "enddateperiod": 1814400000,
+      "enddateperiod": 1900800000,
       "payment": false,
       "amount": 0,
       "active": true
@@ -62,7 +62,7 @@
       "WorkflowCode": "WFBIRTH21DAYSHOME",      
       "SubType":"LESSTHAN21",
       "startdateperiod": 0,
-      "enddateperiod": 1814400000,
+      "enddateperiod": 1900800000,
       "payment": false,
       "amount": 0,
       "active": true

@@ -1598,7 +1598,7 @@
       "lbid": 169,
       "nationalLgdId": 252220,
       "name": "Kochi Corporation",
-      "description": "Cochin",
+      "description": "Kochi",
       "logoId": "https://ulb-logos.s3.ap-south-1.amazonaws.com/ernakulam/cochin.jpg",
       "imageId": null,
       "domainUrl": "https://kochicorporation.lsgkerala.gov.in/",
@@ -1628,9 +1628,9 @@
         "captcha": null,
         "shapeFileLocation": null,
         "code": "C070100",
-        "ddrName": "Cochin"
+        "ddrName": "Kochi"
       },
-      "address": "Kochi Municipal Corporation\nPB No-1016, Cochin\nErnakulam Dt-Kerala State\nPin - 682011",
+      "address": "Kochi Municipal Corporation\nPB No-1016, Kochi\nErnakulam Dt-Kerala State\nPin - 682011",
       "pincode": [
         682011
       ],
@@ -2424,13 +2424,13 @@
           "code": "VILLAGE_KARUVANTHIRUTHY",
           "name": "Karuvanthiruthy",
           "namelocal": "കരുവന്‍തിരുത്തി",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_FEROKE",
           "name": "Feroke",
           "namelocal": "ഫറോക്ക്",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         }
       ],
       "poList": [
@@ -2467,7 +2467,7 @@
       ],
       "talukList": [
         {
-          "code": "TALUK_KOZHIKKODE",
+          "code": "TALUK_KOZHIKODE",
           "name": "Kozhikkode",
           "namelocal": "കോഴിക്കോട്"
         }
@@ -5800,85 +5800,85 @@
           "code": "VILLAGE_ELATHUR",
           "name": "Elathur",
           "namelocal": "എലത്തൂര്‍",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_KATCHERI",
           "name": "Katcheri",
           "namelocal": "കച്ചേരി",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_KASABA",
           "name": "Kasaba",
           "namelocal": "കസബ",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_KOTTULI",
           "name": "Kottuli",
           "namelocal": "കോട്ടൂളി",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_CHELAVUR",
           "name": "Chelavur",
           "namelocal": "ചെലവൂര്‍",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_CHERUVANNUR",
           "name": "Cheruvannur",
           "namelocal": "ചെറുവണ്ണൂര്‍",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_CHEVAYUR",
           "name": "Chevayur",
           "namelocal": "ചേവായൂര്‍",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_NAGARAM",
           "name": "Nagaram",
           "namelocal": "നഗരം",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_NELLIKODE",
           "name": "Nellikode",
           "namelocal": "നെല്ലിക്കോട്",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_PANNIANKARA",
           "name": "Panniankara",
           "namelocal": "പന്നിയങ്കര",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_PUTHIYANGADI",
           "name": "Puthiyangadi",
           "namelocal": "പുതിയങ്ങാടി",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_BEYPORE",
           "name": "Beypore",
           "namelocal": "ബേപ്പൂര്‍",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_VALAYANAD",
           "name": "Valayanad",
           "namelocal": "വളയനാട്",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_VENGERI",
           "name": "Vengeri",
           "namelocal": "വേങ്ങേരി",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         }
       ],
       "poList": [
@@ -6299,7 +6299,7 @@
       ],
       "talukList": [
         {
-          "code": "TALUK_KOZHIKKODE",
+          "code": "TALUK_KOZHIKODE",
           "name": "Kozhikkode",
           "namelocal": "കോഴിക്കോട്"
         }
@@ -7448,13 +7448,13 @@
           "code": "VILLAGE_THAZHEKODE",
           "name": "Thazhekode",
           "namelocal": "താഴെക്കോട്",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         },
         {
           "code": "VILLAGE_NEELESWARAM",
           "name": "Neeleswaram",
           "namelocal": "നീലേശ്വരം",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         }
       ],
       "poList": [
@@ -7515,7 +7515,7 @@
       ],
       "talukList": [
         {
-          "code": "TALUK_KOZHIKKODE",
+          "code": "TALUK_KOZHIKODE",
           "name": "Kozhikkode",
           "namelocal": "കോഴിക്കോട്"
         }
@@ -10201,7 +10201,7 @@
           "code": "VILLAGE_RAMANATTUKARA",
           "name": "Ramanattukara",
           "namelocal": "രാമനാട്ടുകര",
-          "talukCode": "TALUK_KOZHIKKODE"
+          "talukCode": "TALUK_KOZHIKODE"
         }
       ],
       "poList": [
@@ -10256,7 +10256,7 @@
       ],
       "talukList": [
         {
-          "code": "TALUK_KOZHIKKODE",
+          "code": "TALUK_KOZHIKODE",
           "name": "Kozhikkode",
           "namelocal": "കോഴിക്കോട്"
         }
