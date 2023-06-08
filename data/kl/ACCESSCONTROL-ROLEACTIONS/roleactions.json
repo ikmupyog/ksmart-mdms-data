@@ -25672,6 +25672,30 @@
       "actioncode": "",
       "tenantId": "kl"
     },
+	   {
+      "rolecode": "HOSPITAL_KIOSK",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "HOSPITAL_KIOSK",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "HOSPITAL_KIOSK",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "HOSPITAL_KIOSK",
+      "actionid": 2467,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
 	  {
       "rolecode": "HOSPITAL_KIOSK",
       "actionid": 2494,
@@ -25705,6 +25729,18 @@
     {
       "rolecode": "HOSPITAL_OPERATOR",
       "actionid": 2424,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2466,
+      "actioncode": "",
+      "tenantId": "kl"
+    },
+	   {
+      "rolecode": "HOSPITAL_OPERATOR",
+      "actionid": 2467,
       "actioncode": "",
       "tenantId": "kl"
     },
